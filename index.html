@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A simple personal dashboard for news, weather, home status, projects, and emergency information.">
+  <title>Eric's Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <!-- This link helps keyboard users skip the header and reach the dashboard. -->
+  <a class="skip-link" href="#dashboard">Skip to dashboard</a>
+
+  <header class="site-header">
+    <div>
+      <p class="eyebrow">Personal command center</p>
+      <h1>Good <span id="greeting-time">day</span>, Eric</h1>
+      <p class="header-summary">A calm, at-a-glance view of what matters today.</p>
+    </div>
+
+    <div class="clock" aria-live="polite">
+      <time id="current-time">--:--</time>
+      <span id="current-date">Loading date…</span>
+    </div>
+  </header>
+
+  <!-- Each section is a reusable "card." Later, placeholder content can be
+       replaced with live data from safe services or a home server. -->
+  <main class="dashboard-grid" id="dashboard">
+    <section class="card weather-card" aria-labelledby="weather-title">
+      <div class="card-heading">
+        <div>
+          <p class="card-kicker">Local outlook</p>
+          <h2 id="weather-title">Weather</h2>
+        </div>
+        <span class="card-icon" aria-hidden="true">☀️</span>
+      </div>
+      <div class="weather-now">
+        <strong>72°</strong>
+        <span>Clear skies<br>High 78° · Low 58°</span>
+      </div>
+      <p class="placeholder-note">Sample data — connect a weather service later.</p>
+    </section>
+
+    <section class="card news-card" aria-labelledby="news-title">
+      <div class="card-heading">
+        <div>
+          <p class="card-kicker">Top stories</p>
+          <h2 id="news-title">News</h2>
+        </div>
+        <span class="card-icon" aria-hidden="true">📰</span>
+      </div>
+      <ul class="news-list">
+        <li><a href="https://apnews.com/" target="_blank" rel="noopener noreferrer">Visit AP News for current headlines</a></li>
+        <li><a href="https://www.reuters.com/" target="_blank" rel="noopener noreferrer">Visit Reuters for world updates</a></li>
+        <li><a href="https://www.npr.org/" target="_blank" rel="noopener noreferrer">Visit NPR for news and features</a></li>
+      </ul>
+      <p class="placeholder-note">Safe links for now — no tracking keys or news API required.</p>
+    </section>
+
+    <section class="card home-card" aria-labelledby="home-title">
+      <div class="card-heading">
+        <div>
+          <p class="card-kicker">At a glance</p>
+          <h2 id="home-title">Home status</h2>
+        </div>
+        <span class="card-icon" aria-hidden="true">🏠</span>
+      </div>
+      <ul class="status-list">
+        <li><span>Garage door</span><strong class="status neutral">Not connected</strong></li>
+        <li><span>Lights</span><strong class="status neutral">Not connected</strong></li>
+        <li><span>Energy use</span><strong class="status neutral">Not connected</strong></li>
+        <li><span>Internet</span><strong class="status sample">Sample: Online</strong></li>
+      </ul>
+      <p class="placeholder-note">No private device information is stored on this page.</p>
+    </section>
+
+    <section class="card projects-card" aria-labelledby="projects-title">
+      <div class="card-heading">
+        <div>
+          <p class="card-kicker">Keep moving</p>
+          <h2 id="projects-title">Projects</h2>
+        </div>
+        <span class="card-icon" aria-hidden="true">🛠️</span>
+      </div>
+      <div class="project">
+        <div class="project-line"><strong>Eric Dashboard</strong><span>Version 1</span></div>
+        <div class="progress-track" aria-label="Eric Dashboard progress: 35 percent">
+          <span style="width: 35%"></span>
+        </div>
+      </div>
+      <div class="project">
+        <div class="project-line"><strong>Home Assistant</strong><span>Future idea</span></div>
+        <div class="progress-track" aria-label="Home Assistant progress: 5 percent">
+          <span style="width: 5%"></span>
+        </div>
+      </div>
+    </section>
+
+    <section class="card emergency-card" aria-labelledby="emergency-title">
+      <div class="card-heading">
+        <div>
+          <p class="card-kicker">Quick access</p>
+          <h2 id="emergency-title">Emergency info</h2>
+        </div>
+        <span class="card-icon" aria-hidden="true">🛟</span>
+      </div>
+      <div class="emergency-grid">
+        <a href="tel:911"><strong>Emergency</strong><span>Call 911</span></a>
+        <a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer"><strong>Weather alerts</strong><span>National Weather Service</span></a>
+        <a href="https://www.ready.gov/" target="_blank" rel="noopener noreferrer"><strong>Preparedness</strong><span>Ready.gov guidance</span></a>
+      </div>
+      <p class="privacy-reminder">Keep personal contacts, medical details, and addresses off a public GitHub Pages site.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Built as a first GitHub Pages project · <button id="theme-button" type="button" aria-pressed="false">Use dark theme</button></p>
+  </footer>
+</body>
+</html>
