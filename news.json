@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-05T15:24:27.172285Z",
+  "updatedAt": "2026-08-05T17:06:30.827625Z",
   "stories": [
+    {
+      "category": "Local",
+      "source": "YubaNet",
+      "title": "Happening Now – August 2026 - YubaNet",
+      "summary": "Happening Now – August 2026 YubaNet",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oc2pzcm0xTzFQM2FwTlpqMFNxN0J6M1VlejljMnQxaFVJT3g1ZXRRenpodE1hYnJMOXRtTXZtNzBka0g2dWJiSg?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-01T07:10:31Z"
+    },
     {
       "category": "Local",
       "source": "Nevada County (.gov)",
@@ -9,15 +18,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zZDJEMXJWVnRTMF9XZmVnV1ltZVA2eGkwbXdlTHpVdXNvWG5OcERmb2x1Z3lfYWJfZUpyQU1Oa3ZVLUlSWFJiMnNFRk1RZ0dnVWd3MUxKYTJPWXF4VEhpRlBySXM4QQ?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-07-04T04:11:30Z"
-    },
-    {
-      "category": "Local",
-      "source": "CBS News",
-      "title": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave - CBS News",
-      "summary": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS3FQU0k0Q25ubEl6WENleHJsSWJrdE5qMjVIQWhiRDJrQTluRGFGT1JCdV9qUUZXQVlJaDZ4TW14MEtRYzI1OW9OdEE4c25aQ3BHMEtpR3RlbGxyMDNhbDBoVlR0RW1SMU9Sa2tIenJBbGk3ZGlxUmZJRVZmb01nTllxWl9GdGVxbU4xVVI5WngwZF80dzVjcnJfT3NIY0FQbm5ka1A4ZXY?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-04T16:27:31Z"
     },
     {
       "category": "Local",
@@ -39,6 +39,15 @@
     },
     {
       "category": "Local",
+      "source": "CBS News",
+      "title": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave - CBS News",
+      "summary": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS3FQU0k0Q25ubEl6WENleHJsSWJrdE5qMjVIQWhiRDJrQTluRGFGT1JCdV9qUUZXQVlJaDZ4TW14MEtRYzI1OW9OdEE4c25aQ3BHMEtpR3RlbGxyMDNhbDBoVlR0RW1SMU9Sa2tIenJBbGk3ZGlxUmZJRVZmb01nTllxWl9GdGVxbU4xVVI5WngwZF80dzVjcnJfT3NIY0FQbm5ka1A4ZXY?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-04T16:27:31Z"
+    },
+    {
+      "category": "Local",
       "source": "ABC10",
       "title": "Grass Valley police seek public help to identify Plaza Drive armed robbery suspects - ABC10",
       "summary": "Grass Valley police seek public help to identify Plaza Drive armed robbery suspects ABC10",
@@ -47,22 +56,13 @@
       "publishedAt": "2026-05-07T07:00:00Z"
     },
     {
-      "category": "Local",
-      "source": "KOLO | 8 News Now",
-      "title": "Solo-vehicle major injury crash blocks roadway in Grass Valley - KOLO | 8 News Now",
-      "summary": "Solo-vehicle major injury crash blocks roadway in Grass Valley KOLO | 8 News Now",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPckpEOU5UR3RxZ0diUURWR3Fyc0U0NnVGcXFFZDJoc3d0WlVpdzY3SmwzR1hsRkU1UlBqbDZEYm9wUnMtVGxJVnhUVmFoS1R4LW8zaE5sX2FRdkhUQTgtc0h2ZnJFM05RWmI4U2lvWWdBSHM2ajNYZkt4OEhjUDlhaWh1dHRJQWdiZkdXTWdlWjZDVXhYSjZ6X25n0gGuAUFVX3lxTE1tS1hoN2pINVRaZVRvUUE4bjY5b2JPOFl5WkdrZEVOa2dZSkZiRmsycFd5bDZGQVFhX0RXY1lsZ0FhNVBPbnJINDRBSEhKTm13aVNHTHNUQlZlcXNIay1FbHpJaDhuRnhQcXpfTkNHcWVUd2ZjVVYxSHZ2aDdBTUVqYWR1Y21Eb1c5a3pTcTY4UjBvalpJcE8teWNZbl9vLWFMa0ZISl9aOE14Rk5ydw?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-07-16T07:00:00Z"
-    },
-    {
       "category": "World",
       "source": "BBC News",
       "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
       "summary": "Abdul El-Sayed, the son of Egyptian immigrants, would be the first Muslim US senator if elected in November.",
       "url": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffa0/live/6343d230-90dc-11f1-b8ee-9b3c26ad07bb.jpg",
-      "publishedAt": "2026-08-05T15:05:30Z"
+      "publishedAt": "2026-08-05T16:20:14Z"
     },
     {
       "category": "World",
@@ -71,7 +71,7 @@
       "summary": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
       "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/394f/live/f2659590-90da-11f1-9bd2-e326e95c9722.jpg",
-      "publishedAt": "2026-08-05T14:32:27Z"
+      "publishedAt": "2026-08-05T16:06:30Z"
     },
     {
       "category": "World",
@@ -85,7 +85,7 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
+      "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
       "summary": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
       "url": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dee7/live/863dc740-9038-11f1-a691-e5bd21941ac1.jpg",
