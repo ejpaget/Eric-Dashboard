@@ -1,0 +1,207 @@
+/*
+  Permanent dark theme, tuned for a portrait Galaxy Tab S9 FE viewed from
+  roughly two feet away. The page uses the full screen and only the news moves.
+*/
+:root {
+  color-scheme: dark;
+  --background: #080d16;
+  --panel: #111a28;
+  --panel-raised: #172335;
+  --line: #29384d;
+  --text: #f4f7fb;
+  --muted: #9eb0c7;
+  --accent: #62d4ed;
+  --accent-soft: #173a48;
+  --warm: #ffc56f;
+}
+
+* { box-sizing: border-box; }
+
+html,
+body { height: 100%; }
+
+body {
+  min-height: 100vh;
+  min-height: 100dvh;
+  margin: 0;
+  overflow: hidden;
+  color: var(--text);
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: var(--background);
+}
+
+button { font: inherit; }
+
+.skip-link {
+  position: fixed;
+  top: -5rem;
+  left: 1rem;
+  z-index: 20;
+  padding: 0.75rem 1rem;
+  color: var(--background);
+  background: var(--accent);
+  border-radius: 0.6rem;
+}
+
+.skip-link:focus { top: 1rem; }
+
+.app-shell {
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr) auto;
+  width: min(100%, 960px);
+  height: 100vh;
+  height: 100dvh;
+  margin-inline: auto;
+  background:
+    radial-gradient(circle at 85% 0%, rgba(45, 151, 180, 0.16), transparent 28rem),
+    var(--background);
+}
+
+.weather-panel {
+  z-index: 2;
+  padding: clamp(1rem, 2.2vw, 1.6rem) clamp(1rem, 3vw, 2rem) 0.8rem;
+  background: rgba(17, 26, 40, 0.96);
+  border-bottom: 1px solid var(--line);
+  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.25);
+}
+
+.weather-topline,
+.forecast-strip,
+.current-weather,
+.news-heading-row,
+.story-meta {
+  display: flex;
+  align-items: center;
+}
+
+.weather-topline { justify-content: space-between; gap: 2rem; }
+.location,
+.section-label {
+  margin: 0 0 0.2rem;
+  color: var(--accent);
+  font-size: clamp(0.72rem, 1.7vw, 0.9rem);
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+h1 { margin: 0; font-size: clamp(1.35rem, 3.2vw, 2rem); }
+.clock { text-align: right; }
+.clock time { display: block; font-size: clamp(1.7rem, 4.5vw, 2.7rem); font-weight: 800; line-height: 1; }
+.clock span { color: var(--muted); font-size: clamp(0.75rem, 1.8vw, 0.95rem); }
+
+.forecast-strip {
+  display: grid;
+  grid-template-columns: 1.45fr repeat(3, 1fr);
+  margin-top: clamp(0.8rem, 2vw, 1.25rem);
+  overflow: hidden;
+  background: var(--panel-raised);
+  border: 1px solid var(--line);
+  border-radius: 1rem;
+}
+
+.current-weather,
+.forecast-day { min-width: 0; padding: clamp(0.7rem, 2vw, 1.15rem); }
+.current-weather { gap: clamp(0.6rem, 1.6vw, 1rem); }
+.weather-symbol { flex: 0 0 auto; color: var(--warm); font-size: clamp(2.2rem, 7vw, 4.5rem); line-height: 1; }
+.current-weather strong { display: block; font-size: clamp(2rem, 6vw, 3.8rem); line-height: 0.95; }
+.current-weather p,
+.forecast-day p { margin: 0.35rem 0 0; color: var(--muted); line-height: 1.25; }
+
+.forecast-day { text-align: center; border-left: 1px solid var(--line); }
+.forecast-day h2 { margin: 0; color: var(--muted); font-size: clamp(0.72rem, 1.8vw, 0.95rem); text-transform: uppercase; }
+.forecast-day .day-symbol { display: block; margin: 0.2rem 0; color: var(--warm); font-size: clamp(1.35rem, 4vw, 2.25rem); }
+.forecast-day strong { font-size: clamp(1.25rem, 3.5vw, 2rem); }
+.forecast-day p { overflow: hidden; font-size: clamp(0.68rem, 1.6vw, 0.85rem); text-overflow: ellipsis; white-space: nowrap; }
+.weather-status { margin: 0.5rem 0 0; color: var(--muted); font-size: 0.72rem; text-align: right; }
+.weather-status.error { color: var(--warm); }
+
+.news-panel {
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr);
+  min-height: 0;
+  padding: clamp(1rem, 2.8vw, 1.75rem) clamp(1rem, 3vw, 2rem) 0;
+}
+
+.news-heading-row { justify-content: space-between; gap: 1rem; padding-bottom: 0.85rem; }
+.news-heading-row h2 { margin: 0; font-size: clamp(1.8rem, 5vw, 3rem); }
+
+#scroll-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-height: 48px;
+  padding: 0.65rem 0.9rem;
+  color: var(--accent);
+  background: var(--accent-soft);
+  border: 1px solid #24566a;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.control-icon { font-weight: 900; }
+
+.news-feed {
+  min-height: 0;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scrollbar-width: thin;
+  scrollbar-color: var(--line) transparent;
+  scroll-behavior: auto;
+  border-top: 1px solid var(--line);
+  outline: none;
+}
+
+.news-feed:focus-visible { box-shadow: inset 0 0 0 2px var(--accent); }
+
+.story {
+  padding: clamp(1.4rem, 4vw, 2.4rem) 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.story-meta { justify-content: space-between; gap: 1rem; color: var(--accent); font-size: clamp(0.78rem, 1.8vw, 0.95rem); font-weight: 750; }
+.story-meta span:last-child { color: var(--muted); font-weight: 600; }
+.story h3 { max-width: 25ch; margin: 0.65rem 0; font-size: clamp(1.75rem, 4.7vw, 2.8rem); line-height: 1.13; letter-spacing: -0.02em; }
+.story > p:last-child { max-width: 58ch; margin: 0; color: #c5d1df; font-size: clamp(1.12rem, 2.8vw, 1.55rem); line-height: 1.55; }
+.final-story { min-height: 60vh; }
+
+.bottom-navigation {
+  z-index: 3;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding: 0.45rem max(0.7rem, env(safe-area-inset-right)) max(0.45rem, env(safe-area-inset-bottom)) max(0.7rem, env(safe-area-inset-left));
+  background: #0c1420;
+  border-top: 1px solid var(--line);
+  box-shadow: 0 -10px 30px rgba(0, 0, 0, 0.28);
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.55rem;
+  min-height: 56px;
+  color: var(--muted);
+  background: transparent;
+  border: 0;
+  border-radius: 0.7rem;
+}
+
+.nav-item span { font-size: 1.35rem; }
+.nav-item.active { color: var(--accent); background: var(--accent-soft); }
+.nav-item:disabled { opacity: 0.45; }
+
+/* On narrower phones, retain the layout but trim supporting weather text. */
+@media (max-width: 540px) {
+  .forecast-strip { grid-template-columns: 1.25fr repeat(3, 1fr); }
+  .weather-symbol { display: none; }
+  .current-weather p { font-size: 0.72rem; }
+  .weather-status { text-align: left; }
+  #scroll-toggle-text { display: none; }
+}
+
+/* The user wants automatic movement, but an operating-system accessibility
+   preference still takes priority. JavaScript also checks this preference. */
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
+}

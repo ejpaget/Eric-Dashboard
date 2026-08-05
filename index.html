@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#080d16">
+  <meta name="description" content="A hands-free kitchen dashboard with local weather and a slowly scrolling news feed.">
+  <title>Eric's Kitchen Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#news-feed">Skip to news</a>
+
+  <!-- The app shell fills the tablet screen. Keeping the weather and navigation
+       outside the scrolling area means they stay visible at all times. -->
+  <div class="app-shell">
+    <header class="weather-panel" aria-labelledby="weather-heading">
+      <div class="weather-topline">
+        <div>
+          <p class="location">Grass Valley · 95945</p>
+          <h1 id="weather-heading">Weather</h1>
+        </div>
+        <div class="clock" aria-live="polite">
+          <time id="current-time">--:--</time>
+          <span id="current-date">Loading date...</span>
+        </div>
+      </div>
+
+      <div class="forecast-strip" aria-live="polite">
+        <section class="current-weather" aria-label="Current conditions">
+          <span class="weather-symbol" id="current-symbol" aria-hidden="true">&#9729;</span>
+          <div>
+            <strong id="current-temperature">--°</strong>
+            <p id="current-condition">Loading local weather...</p>
+          </div>
+        </section>
+
+        <!-- JavaScript replaces these loading cards with the next three days. -->
+        <section class="forecast-day">
+          <h2>Day 1</h2><span class="day-symbol" aria-hidden="true">&#9729;</span>
+          <strong>--°</strong><p>Loading...</p>
+        </section>
+        <section class="forecast-day">
+          <h2>Day 2</h2><span class="day-symbol" aria-hidden="true">&#9729;</span>
+          <strong>--°</strong><p>Loading...</p>
+        </section>
+        <section class="forecast-day">
+          <h2>Day 3</h2><span class="day-symbol" aria-hidden="true">&#9729;</span>
+          <strong>--°</strong><p>Loading...</p>
+        </section>
+      </div>
+
+      <p class="weather-status" id="weather-status">Forecast provided by the National Weather Service</p>
+    </header>
+
+    <main class="news-panel" aria-labelledby="news-heading">
+      <div class="news-heading-row">
+        <div>
+          <p class="section-label">Hands-free reading</p>
+          <h2 id="news-heading">Top stories</h2>
+        </div>
+        <button id="scroll-toggle" type="button" aria-pressed="false">
+          <span class="control-icon" aria-hidden="true">Ⅱ</span>
+          <span id="scroll-toggle-text">Tap to pause</span>
+        </button>
+      </div>
+
+      <!-- These are intentionally sample stories. We will replace them with a
+           live, chosen news source after the reading experience feels right. -->
+      <div class="news-feed" id="news-feed" tabindex="0" aria-label="Automatically scrolling sample news stories">
+        <article class="story">
+          <p class="story-meta"><span>Dashboard preview</span><span>Sample story</span></p>
+          <h3>Welcome to the new hands-free kitchen news layout</h3>
+          <p>This version is designed for your Galaxy tablet in portrait mode. Large type and generous spacing should make each story comfortable to read from the counter while you keep working.</p>
+        </article>
+
+        <article class="story">
+          <p class="story-meta"><span>Local</span><span>Sample story</span></p>
+          <h3>Local headlines will have room for a clear summary</h3>
+          <p>A future live feed can place regional stories here with the source and publication time. The summary will stay short enough to read before the next item moves into view.</p>
+        </article>
+
+        <article class="story">
+          <p class="story-meta"><span>United States</span><span>Sample story</span></p>
+          <h3>National news can appear without crowding the screen</h3>
+          <p>Each card uses a large headline followed by a few sentences of context. This should be more useful at a glance than a fast-moving television-style ticker.</p>
+        </article>
+
+        <article class="story">
+          <p class="story-meta"><span>World</span><span>Sample story</span></p>
+          <h3>World updates will join the same calm reading flow</h3>
+          <p>The eventual news service can mix local, national, and international coverage. We can also add category controls after deciding which kinds of stories matter most to you.</p>
+        </article>
+
+        <article class="story">
+          <p class="story-meta"><span>Science & technology</span><span>Sample story</span></p>
+          <h3>Technology stories can be included as their own category</h3>
+          <p>The dashboard can later prioritize topics such as technology, space, energy, or home automation instead of showing every story in the same order.</p>
+        </article>
+
+        <article class="story">
+          <p class="story-meta"><span>How it works</span><span>Sample story</span></p>
+          <h3>Tap the news area whenever you want the movement to stop</h3>
+          <p>Tapping once pauses the feed so you can finish reading. Tap again to continue. After the final story, the page waits briefly and returns to the beginning.</p>
+        </article>
+
+        <article class="story final-story">
+          <p class="story-meta"><span>Coming next</span><span>Sample story</span></p>
+          <h3>Home devices and other information will live on separate pages</h3>
+          <p>The navigation bar already reserves space for future Home and More pages. They are visible as part of the design but will remain inactive until we build their content.</p>
+        </article>
+      </div>
+    </main>
+
+    <nav class="bottom-navigation" aria-label="Dashboard pages">
+      <button class="nav-item active" type="button" aria-current="page">
+        <span aria-hidden="true">&#9638;</span><strong>News</strong>
+      </button>
+      <button class="nav-item" type="button" disabled title="Home page coming later">
+        <span aria-hidden="true">&#8962;</span><strong>Home</strong>
+      </button>
+      <button class="nav-item" type="button" disabled title="More pages coming later">
+        <span aria-hidden="true">•••</span><strong>More</strong>
+      </button>
+    </nav>
+  </div>
+</body>
+</html>
