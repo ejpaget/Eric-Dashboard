@@ -3,120 +3,127 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="A simple personal dashboard for news, weather, home status, projects, and emergency information.">
-  <title>Eric's Dashboard</title>
+  <meta name="theme-color" content="#080d16">
+  <meta name="description" content="A hands-free kitchen dashboard with local weather and a slowly scrolling news feed.">
+  <title>Eric's Kitchen Dashboard</title>
   <link rel="stylesheet" href="styles.css">
   <script src="script.js" defer></script>
 </head>
 <body>
-  <!-- This link helps keyboard users skip the header and reach the dashboard. -->
-  <a class="skip-link" href="#dashboard">Skip to dashboard</a>
+  <a class="skip-link" href="#news-feed">Skip to news</a>
 
-  <header class="site-header">
-    <div>
-      <p class="eyebrow">Personal command center</p>
-      <h1>Good <span id="greeting-time">day</span>, Eric</h1>
-      <p class="header-summary">A calm, at-a-glance view of what matters today.</p>
-    </div>
-
-    <div class="clock" aria-live="polite">
-      <time id="current-time">--:--</time>
-      <span id="current-date">Loading date…</span>
-    </div>
-  </header>
-
-  <!-- Each section is a reusable "card." Later, placeholder content can be
-       replaced with live data from safe services or a home server. -->
-  <main class="dashboard-grid" id="dashboard">
-    <section class="card weather-card" aria-labelledby="weather-title">
-      <div class="card-heading">
+  <!-- The app shell fills the tablet screen. Keeping the weather and navigation
+       outside the scrolling area means they stay visible at all times. -->
+  <div class="app-shell">
+    <header class="weather-panel" aria-labelledby="weather-heading">
+      <div class="weather-topline">
         <div>
-          <p class="card-kicker">Local outlook</p>
-          <h2 id="weather-title">Weather</h2>
+          <p class="location">Grass Valley · 95945</p>
+          <h1 id="weather-heading">Weather</h1>
         </div>
-        <span class="card-icon" aria-hidden="true">☀️</span>
+        <div class="clock" aria-live="polite">
+          <time id="current-time">--:--</time>
+          <span id="current-date">Loading date...</span>
+        </div>
       </div>
-      <div class="weather-now">
-        <strong>72°</strong>
-        <span>Clear skies<br>High 78° · Low 58°</span>
-      </div>
-      <p class="placeholder-note">Sample data — connect a weather service later.</p>
-    </section>
 
-    <section class="card news-card" aria-labelledby="news-title">
-      <div class="card-heading">
+      <div class="forecast-strip" aria-live="polite">
+        <section class="current-weather" aria-label="Current conditions">
+          <span class="weather-symbol" id="current-symbol" aria-hidden="true">&#9729;</span>
+          <div>
+            <strong id="current-temperature">--°</strong>
+            <p id="current-condition">Loading local weather...</p>
+          </div>
+        </section>
+
+        <!-- JavaScript replaces these loading cards with the next three days. -->
+        <section class="forecast-day">
+          <h2>Day 1</h2><span class="day-symbol" aria-hidden="true">&#9729;</span>
+          <strong>--°</strong><p>Loading...</p>
+        </section>
+        <section class="forecast-day">
+          <h2>Day 2</h2><span class="day-symbol" aria-hidden="true">&#9729;</span>
+          <strong>--°</strong><p>Loading...</p>
+        </section>
+        <section class="forecast-day">
+          <h2>Day 3</h2><span class="day-symbol" aria-hidden="true">&#9729;</span>
+          <strong>--°</strong><p>Loading...</p>
+        </section>
+      </div>
+
+      <p class="weather-status" id="weather-status">Forecast provided by the National Weather Service</p>
+    </header>
+
+    <main class="news-panel" aria-labelledby="news-heading">
+      <div class="news-heading-row">
         <div>
-          <p class="card-kicker">Top stories</p>
-          <h2 id="news-title">News</h2>
+          <p class="section-label">Hands-free reading</p>
+          <h2 id="news-heading">Top stories</h2>
         </div>
-        <span class="card-icon" aria-hidden="true">📰</span>
+        <button id="scroll-toggle" type="button" aria-pressed="false">
+          <span class="control-icon" aria-hidden="true">Ⅱ</span>
+          <span id="scroll-toggle-text">Tap to pause</span>
+        </button>
       </div>
-      <ul class="news-list">
-        <li><a href="https://apnews.com/" target="_blank" rel="noopener noreferrer">Visit AP News for current headlines</a></li>
-        <li><a href="https://www.reuters.com/" target="_blank" rel="noopener noreferrer">Visit Reuters for world updates</a></li>
-        <li><a href="https://www.npr.org/" target="_blank" rel="noopener noreferrer">Visit NPR for news and features</a></li>
-      </ul>
-      <p class="placeholder-note">Safe links for now — no tracking keys or news API required.</p>
-    </section>
 
-    <section class="card home-card" aria-labelledby="home-title">
-      <div class="card-heading">
-        <div>
-          <p class="card-kicker">At a glance</p>
-          <h2 id="home-title">Home status</h2>
-        </div>
-        <span class="card-icon" aria-hidden="true">🏠</span>
-      </div>
-      <ul class="status-list">
-        <li><span>Garage door</span><strong class="status neutral">Not connected</strong></li>
-        <li><span>Lights</span><strong class="status neutral">Not connected</strong></li>
-        <li><span>Energy use</span><strong class="status neutral">Not connected</strong></li>
-        <li><span>Internet</span><strong class="status sample">Sample: Online</strong></li>
-      </ul>
-      <p class="placeholder-note">No private device information is stored on this page.</p>
-    </section>
+      <!-- These are intentionally sample stories. We will replace them with a
+           live, chosen news source after the reading experience feels right. -->
+      <div class="news-feed" id="news-feed" tabindex="0" aria-label="Automatically scrolling sample news stories">
+        <article class="story">
+          <p class="story-meta"><span>Dashboard preview</span><span>Sample story</span></p>
+          <h3>Welcome to the new hands-free kitchen news layout</h3>
+          <p>This version is designed for your Galaxy tablet in portrait mode. Large type and generous spacing should make each story comfortable to read from the counter while you keep working.</p>
+        </article>
 
-    <section class="card projects-card" aria-labelledby="projects-title">
-      <div class="card-heading">
-        <div>
-          <p class="card-kicker">Keep moving</p>
-          <h2 id="projects-title">Projects</h2>
-        </div>
-        <span class="card-icon" aria-hidden="true">🛠️</span>
-      </div>
-      <div class="project">
-        <div class="project-line"><strong>Eric Dashboard</strong><span>Version 1</span></div>
-        <div class="progress-track" aria-label="Eric Dashboard progress: 35 percent">
-          <span style="width: 35%"></span>
-        </div>
-      </div>
-      <div class="project">
-        <div class="project-line"><strong>Home Assistant</strong><span>Future idea</span></div>
-        <div class="progress-track" aria-label="Home Assistant progress: 5 percent">
-          <span style="width: 5%"></span>
-        </div>
-      </div>
-    </section>
+        <article class="story">
+          <p class="story-meta"><span>Local</span><span>Sample story</span></p>
+          <h3>Local headlines will have room for a clear summary</h3>
+          <p>A future live feed can place regional stories here with the source and publication time. The summary will stay short enough to read before the next item moves into view.</p>
+        </article>
 
-    <section class="card emergency-card" aria-labelledby="emergency-title">
-      <div class="card-heading">
-        <div>
-          <p class="card-kicker">Quick access</p>
-          <h2 id="emergency-title">Emergency info</h2>
-        </div>
-        <span class="card-icon" aria-hidden="true">🛟</span>
-      </div>
-      <div class="emergency-grid">
-        <a href="tel:911"><strong>Emergency</strong><span>Call 911</span></a>
-        <a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer"><strong>Weather alerts</strong><span>National Weather Service</span></a>
-        <a href="https://www.ready.gov/" target="_blank" rel="noopener noreferrer"><strong>Preparedness</strong><span>Ready.gov guidance</span></a>
-      </div>
-      <p class="privacy-reminder">Keep personal contacts, medical details, and addresses off a public GitHub Pages site.</p>
-    </section>
-  </main>
+        <article class="story">
+          <p class="story-meta"><span>United States</span><span>Sample story</span></p>
+          <h3>National news can appear without crowding the screen</h3>
+          <p>Each card uses a large headline followed by a few sentences of context. This should be more useful at a glance than a fast-moving television-style ticker.</p>
+        </article>
 
-  <footer>
-    <p>Built as a first GitHub Pages project · <button id="theme-button" type="button" aria-pressed="false">Use dark theme</button></p>
-  </footer>
+        <article class="story">
+          <p class="story-meta"><span>World</span><span>Sample story</span></p>
+          <h3>World updates will join the same calm reading flow</h3>
+          <p>The eventual news service can mix local, national, and international coverage. We can also add category controls after deciding which kinds of stories matter most to you.</p>
+        </article>
+
+        <article class="story">
+          <p class="story-meta"><span>Science & technology</span><span>Sample story</span></p>
+          <h3>Technology stories can be included as their own category</h3>
+          <p>The dashboard can later prioritize topics such as technology, space, energy, or home automation instead of showing every story in the same order.</p>
+        </article>
+
+        <article class="story">
+          <p class="story-meta"><span>How it works</span><span>Sample story</span></p>
+          <h3>Tap the news area whenever you want the movement to stop</h3>
+          <p>Tapping once pauses the feed so you can finish reading. Tap again to continue. After the final story, the page waits briefly and returns to the beginning.</p>
+        </article>
+
+        <article class="story final-story">
+          <p class="story-meta"><span>Coming next</span><span>Sample story</span></p>
+          <h3>Home devices and other information will live on separate pages</h3>
+          <p>The navigation bar already reserves space for future Home and More pages. They are visible as part of the design but will remain inactive until we build their content.</p>
+        </article>
+      </div>
+    </main>
+
+    <nav class="bottom-navigation" aria-label="Dashboard pages">
+      <button class="nav-item active" type="button" aria-current="page">
+        <span aria-hidden="true">&#9638;</span><strong>News</strong>
+      </button>
+      <button class="nav-item" type="button" disabled title="Home page coming later">
+        <span aria-hidden="true">&#8962;</span><strong>Home</strong>
+      </button>
+      <button class="nav-item" type="button" disabled title="More pages coming later">
+        <span aria-hidden="true">•••</span><strong>More</strong>
+      </button>
+    </nav>
+  </div>
 </body>
 </html>

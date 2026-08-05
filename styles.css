@@ -1,185 +1,207 @@
 /*
-  styles.css controls how the dashboard looks.
-  Colors are stored as variables so the whole theme is easy to change later.
+  Permanent dark theme, tuned for a portrait Galaxy Tab S9 FE viewed from
+  roughly two feet away. The page uses the full screen and only the news moves.
 */
 :root {
-  color-scheme: light;
-  --background: #eef3f7;
-  --surface: rgba(255, 255, 255, 0.92);
-  --surface-strong: #ffffff;
-  --text: #172033;
-  --muted: #667085;
-  --line: #dce3ea;
-  --accent: #176b87;
-  --accent-soft: #dff3f7;
-  --warning-soft: #fff4d6;
-  --shadow: 0 14px 40px rgba(31, 42, 68, 0.09);
-}
-
-/* JavaScript adds this class when the visitor chooses the dark theme. */
-body.dark-theme {
   color-scheme: dark;
-  --background: #0e1624;
-  --surface: rgba(24, 35, 53, 0.94);
-  --surface-strong: #182335;
-  --text: #edf3f8;
-  --muted: #aebbd0;
-  --line: #2d3b51;
-  --accent: #72d1e7;
-  --accent-soft: #173b49;
-  --warning-soft: #493b19;
-  --shadow: 0 14px 40px rgba(0, 0, 0, 0.25);
+  --background: #080d16;
+  --panel: #111a28;
+  --panel-raised: #172335;
+  --line: #29384d;
+  --text: #f4f7fb;
+  --muted: #9eb0c7;
+  --accent: #62d4ed;
+  --accent-soft: #173a48;
+  --warm: #ffc56f;
 }
 
 * { box-sizing: border-box; }
 
+html,
+body { height: 100%; }
+
 body {
   min-height: 100vh;
+  min-height: 100dvh;
   margin: 0;
-  padding: clamp(1rem, 3vw, 2.5rem);
+  overflow: hidden;
   color: var(--text);
   font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  background:
-    radial-gradient(circle at top right, rgba(80, 180, 205, 0.17), transparent 34rem),
-    var(--background);
-  transition: color 180ms ease, background-color 180ms ease;
+  background: var(--background);
 }
 
-a { color: var(--accent); }
+button { font: inherit; }
 
 .skip-link {
-  position: absolute;
+  position: fixed;
   top: -5rem;
   left: 1rem;
-  z-index: 10;
-  padding: 0.7rem 1rem;
-  color: var(--surface-strong);
-  background: var(--text);
-  border-radius: 0.5rem;
+  z-index: 20;
+  padding: 0.75rem 1rem;
+  color: var(--background);
+  background: var(--accent);
+  border-radius: 0.6rem;
 }
 
 .skip-link:focus { top: 1rem; }
 
-.site-header,
-.dashboard-grid,
-footer {
-  width: min(1180px, 100%);
+.app-shell {
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr) auto;
+  width: min(100%, 960px);
+  height: 100vh;
+  height: 100dvh;
   margin-inline: auto;
+  background:
+    radial-gradient(circle at 85% 0%, rgba(45, 151, 180, 0.16), transparent 28rem),
+    var(--background);
 }
 
-.site-header {
+.weather-panel {
+  z-index: 2;
+  padding: clamp(1rem, 2.2vw, 1.6rem) clamp(1rem, 3vw, 2rem) 0.8rem;
+  background: rgba(17, 26, 40, 0.96);
+  border-bottom: 1px solid var(--line);
+  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.25);
+}
+
+.weather-topline,
+.forecast-strip,
+.current-weather,
+.news-heading-row,
+.story-meta {
   display: flex;
-  align-items: end;
-  justify-content: space-between;
-  gap: 2rem;
-  padding: 1rem 0 2rem;
+  align-items: center;
 }
 
-.eyebrow,
-.card-kicker {
-  margin: 0 0 0.35rem;
+.weather-topline { justify-content: space-between; gap: 2rem; }
+.location,
+.section-label {
+  margin: 0 0 0.2rem;
   color: var(--accent);
-  font-size: 0.75rem;
+  font-size: clamp(0.72rem, 1.7vw, 0.9rem);
   font-weight: 800;
-  letter-spacing: 0.11em;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
 }
 
-h1 { margin: 0; font-size: clamp(2rem, 5vw, 4rem); line-height: 1; }
-h2 { margin: 0; font-size: 1.35rem; }
-.header-summary { margin: 0.75rem 0 0; color: var(--muted); }
-
+h1 { margin: 0; font-size: clamp(1.35rem, 3.2vw, 2rem); }
 .clock { text-align: right; }
-.clock time { display: block; font-size: clamp(1.7rem, 4vw, 3rem); font-weight: 750; }
-.clock span { color: var(--muted); }
+.clock time { display: block; font-size: clamp(1.7rem, 4.5vw, 2.7rem); font-weight: 800; line-height: 1; }
+.clock span { color: var(--muted); font-size: clamp(0.75rem, 1.8vw, 0.95rem); }
 
-.dashboard-grid {
+.forecast-strip {
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  gap: 1rem;
-}
-
-.card {
-  grid-column: span 4;
-  padding: clamp(1.15rem, 2vw, 1.6rem);
-  background: var(--surface);
+  grid-template-columns: 1.45fr repeat(3, 1fr);
+  margin-top: clamp(0.8rem, 2vw, 1.25rem);
+  overflow: hidden;
+  background: var(--panel-raised);
   border: 1px solid var(--line);
-  border-radius: 1.25rem;
-  box-shadow: var(--shadow);
-  backdrop-filter: blur(8px);
+  border-radius: 1rem;
 }
 
-.news-card,
-.emergency-card { grid-column: span 8; }
-.emergency-card { grid-column: 1 / -1; }
+.current-weather,
+.forecast-day { min-width: 0; padding: clamp(0.7rem, 2vw, 1.15rem); }
+.current-weather { gap: clamp(0.6rem, 1.6vw, 1rem); }
+.weather-symbol { flex: 0 0 auto; color: var(--warm); font-size: clamp(2.2rem, 7vw, 4.5rem); line-height: 1; }
+.current-weather strong { display: block; font-size: clamp(2rem, 6vw, 3.8rem); line-height: 0.95; }
+.current-weather p,
+.forecast-day p { margin: 0.35rem 0 0; color: var(--muted); line-height: 1.25; }
 
-.card-heading,
-.project-line,
-.status-list li {
+.forecast-day { text-align: center; border-left: 1px solid var(--line); }
+.forecast-day h2 { margin: 0; color: var(--muted); font-size: clamp(0.72rem, 1.8vw, 0.95rem); text-transform: uppercase; }
+.forecast-day .day-symbol { display: block; margin: 0.2rem 0; color: var(--warm); font-size: clamp(1.35rem, 4vw, 2.25rem); }
+.forecast-day strong { font-size: clamp(1.25rem, 3.5vw, 2rem); }
+.forecast-day p { overflow: hidden; font-size: clamp(0.68rem, 1.6vw, 0.85rem); text-overflow: ellipsis; white-space: nowrap; }
+.weather-status { margin: 0.5rem 0 0; color: var(--muted); font-size: 0.72rem; text-align: right; }
+.weather-status.error { color: var(--warm); }
+
+.news-panel {
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr);
+  min-height: 0;
+  padding: clamp(1rem, 2.8vw, 1.75rem) clamp(1rem, 3vw, 2rem) 0;
+}
+
+.news-heading-row { justify-content: space-between; gap: 1rem; padding-bottom: 0.85rem; }
+.news-heading-row h2 { margin: 0; font-size: clamp(1.8rem, 5vw, 3rem); }
+
+#scroll-toggle {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 1rem;
+  gap: 0.5rem;
+  min-height: 48px;
+  padding: 0.65rem 0.9rem;
+  color: var(--accent);
+  background: var(--accent-soft);
+  border: 1px solid #24566a;
+  border-radius: 999px;
+  cursor: pointer;
 }
 
-.card-icon { font-size: 1.6rem; }
-.weather-now { display: flex; align-items: center; gap: 1.25rem; margin-top: 1.4rem; }
-.weather-now strong { font-size: 3.5rem; line-height: 1; }
-.weather-now span { color: var(--muted); line-height: 1.5; }
+.control-icon { font-weight: 900; }
 
-.news-list,
-.status-list { margin: 1rem 0 0; padding: 0; list-style: none; }
-.news-list li + li,
-.status-list li + li { border-top: 1px solid var(--line); }
-.news-list a { display: block; padding: 0.85rem 0; font-weight: 650; text-decoration: none; }
-.news-list a:hover,
-.news-list a:focus-visible { text-decoration: underline; }
-.status-list li { padding: 0.85rem 0; }
-
-.status { padding: 0.3rem 0.55rem; border-radius: 999px; font-size: 0.75rem; }
-.status.neutral { color: var(--muted); background: var(--background); }
-.status.sample { color: var(--accent); background: var(--accent-soft); }
-
-.project { margin-top: 1.25rem; }
-.project-line span { color: var(--muted); font-size: 0.85rem; }
-.progress-track { height: 0.55rem; margin-top: 0.6rem; overflow: hidden; background: var(--background); border-radius: 999px; }
-.progress-track span { display: block; height: 100%; background: var(--accent); border-radius: inherit; }
-
-.emergency-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.8rem; margin-top: 1.25rem; }
-.emergency-grid a { padding: 1rem; color: var(--text); text-decoration: none; background: var(--surface-strong); border: 1px solid var(--line); border-radius: 0.8rem; }
-.emergency-grid a:hover,
-.emergency-grid a:focus-visible { border-color: var(--accent); transform: translateY(-2px); }
-.emergency-grid strong,
-.emergency-grid span { display: block; }
-.emergency-grid span { margin-top: 0.25rem; color: var(--muted); font-size: 0.85rem; }
-
-.placeholder-note,
-.privacy-reminder { margin: 1rem 0 0; color: var(--muted); font-size: 0.8rem; }
-.privacy-reminder { padding: 0.8rem; color: var(--text); background: var(--warning-soft); border-radius: 0.7rem; }
-
-footer { padding: 1.5rem 0 0; color: var(--muted); text-align: center; font-size: 0.85rem; }
-button { color: var(--accent); font: inherit; font-weight: 700; background: none; border: 0; cursor: pointer; text-decoration: underline; }
-
-/* Tablet layout: use two cards per row where space allows. */
-@media (max-width: 850px) {
-  .card,
-  .news-card { grid-column: span 6; }
-  .emergency-card { grid-column: 1 / -1; }
-  .emergency-grid { grid-template-columns: 1fr; }
+.news-feed {
+  min-height: 0;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scrollbar-width: thin;
+  scrollbar-color: var(--line) transparent;
+  scroll-behavior: auto;
+  border-top: 1px solid var(--line);
+  outline: none;
 }
 
-/* Phone layout: stack every section and make the header easier to scan. */
-@media (max-width: 600px) {
-  body { padding: 1rem; }
-  .site-header { align-items: start; flex-direction: column; gap: 1.25rem; }
-  .clock { text-align: left; }
-  .card,
-  .news-card,
-  .emergency-card { grid-column: 1 / -1; }
-  .status-list li { align-items: start; flex-direction: column; gap: 0.35rem; }
+.news-feed:focus-visible { box-shadow: inset 0 0 0 2px var(--accent); }
+
+.story {
+  padding: clamp(1.4rem, 4vw, 2.4rem) 0;
+  border-bottom: 1px solid var(--line);
 }
 
-/* Respect visitors who prefer less animation. */
+.story-meta { justify-content: space-between; gap: 1rem; color: var(--accent); font-size: clamp(0.78rem, 1.8vw, 0.95rem); font-weight: 750; }
+.story-meta span:last-child { color: var(--muted); font-weight: 600; }
+.story h3 { max-width: 25ch; margin: 0.65rem 0; font-size: clamp(1.75rem, 4.7vw, 2.8rem); line-height: 1.13; letter-spacing: -0.02em; }
+.story > p:last-child { max-width: 58ch; margin: 0; color: #c5d1df; font-size: clamp(1.12rem, 2.8vw, 1.55rem); line-height: 1.55; }
+.final-story { min-height: 60vh; }
+
+.bottom-navigation {
+  z-index: 3;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding: 0.45rem max(0.7rem, env(safe-area-inset-right)) max(0.45rem, env(safe-area-inset-bottom)) max(0.7rem, env(safe-area-inset-left));
+  background: #0c1420;
+  border-top: 1px solid var(--line);
+  box-shadow: 0 -10px 30px rgba(0, 0, 0, 0.28);
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.55rem;
+  min-height: 56px;
+  color: var(--muted);
+  background: transparent;
+  border: 0;
+  border-radius: 0.7rem;
+}
+
+.nav-item span { font-size: 1.35rem; }
+.nav-item.active { color: var(--accent); background: var(--accent-soft); }
+.nav-item:disabled { opacity: 0.45; }
+
+/* On narrower phones, retain the layout but trim supporting weather text. */
+@media (max-width: 540px) {
+  .forecast-strip { grid-template-columns: 1.25fr repeat(3, 1fr); }
+  .weather-symbol { display: none; }
+  .current-weather p { font-size: 0.72rem; }
+  .weather-status { text-align: left; }
+  #scroll-toggle-text { display: none; }
+}
+
+/* The user wants automatic movement, but an operating-system accessibility
+   preference still takes priority. JavaScript also checks this preference. */
 @media (prefers-reduced-motion: reduce) {
-  *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; }
+  * { transition: none !important; }
 }
