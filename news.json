@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-05T10:44:56.268185Z",
+  "updatedAt": "2026-08-05T13:00:34.642712Z",
   "stories": [
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "Nevada City’s Bodhi Hive redefines typical workspaces for innovators to thrive",
+      "summary": "The Bodhi Hive in Nevada City is a workspace community that is home to studios, workshops, a commissary kitchen, offices, wellness gatherings, and both small and large scale businesses.",
+      "url": "https://www.theunion.com/news/nevada-city-s-bodhi-hive-redefines-typical-workspaces-for-innovators-to-thrive/article_b7c148cc-7fea-4ddd-9bb6-b661f57548ed.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/e/2b/e2b256d5-c7b0-4f1d-8f08-5d67ad718b8d/6a7123ec5035d.image.jpg?resize=300%2C225",
+      "publishedAt": "2026-08-05T10:45:00Z"
+    },
     {
       "category": "Local",
       "source": "The Union",
@@ -47,67 +56,67 @@
       "publishedAt": "2026-08-05T09:30:00Z"
     },
     {
-      "category": "Local",
-      "source": "The Union",
-      "title": "Nevada County Connects offers free fares to the Nevada County Fair",
-      "summary": "Nevada County Transit Services is pleased to announce an upcoming Free Fare Days event, which will be held from Wednesday, Aug. 12 through Sunday, Aug. 16 in conjunction with the Nevada County Fair. Nevada County Connects services will be free…",
-      "url": "https://www.theunion.com/news/nevada-county-connects-offers-free-fares-to-the-nevada-county-fair/article_bec2ce07-1550-46ba-b30e-4832fe5cbbe1.html",
-      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/4/03/4034cdf9-e7d7-4479-8188-5b5516918a70/6a712ae40022b.image.jpg?resize=300%2C225",
-      "publishedAt": "2026-08-05T09:15:00Z"
-    },
-    {
       "category": "World",
       "source": "BBC News",
-      "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+      "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
       "summary": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
       "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cab/live/189914e0-90b2-11f1-b2ab-0dd01740f9f6.jpg",
-      "publishedAt": "2026-08-05T09:54:20Z"
+      "publishedAt": "2026-08-05T12:26:26Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
-      "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1518/live/b0431a30-907f-11f1-a7ab-8b30adf0800a.jpg",
-      "publishedAt": "2026-08-05T03:44:30Z"
+      "title": "Drone carrying explosives found at German airport, police say",
+      "summary": "The drone was found in the cargo area near a Ukrainian aircraft before another suspected object collided with a cargo aircraft in mid-air.",
+      "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19d6/live/57517090-90c8-11f1-b8ee-9b3c26ad07bb.jpg",
+      "publishedAt": "2026-08-05T12:48:37Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Perez Hilton recovering in hospital after reports he self-harmed during livestream",
-      "summary": "Miami police told US media outlets the celebrity blogger had been \"safely recovered\" from his home.",
-      "url": "https://www.bbc.co.uk/news/articles/cly5kvdkyjro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa9a/live/839f4170-90a2-11f1-b8ee-9b3c26ad07bb.jpg",
-      "publishedAt": "2026-08-05T08:29:30Z"
+      "title": "Pakistan restricts international media reporting",
+      "summary": "Anyone working for foreign media, including Pakistanis, will now need permission to report from anywhere outside three major cities.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n9w95n70o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a75/live/a8f42cc0-901a-11f1-b783-f784376ffc11.jpg",
+      "publishedAt": "2026-08-05T11:19:42Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
-      "summary": "People have filed complaints against Starbucks for allegedly making light of the deadly Gwangju Uprising.",
-      "url": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a943/live/bf3016d0-9096-11f1-b45c-fde20a4c7ffe.jpg",
-      "publishedAt": "2026-08-05T07:04:45Z"
+      "title": "Waste workers help winner find binned €1m lottery ticket in Italy",
+      "summary": "The player only realised he binned the life-changing ticket after family told him the numbers he played for years had been drawn.",
+      "url": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7515/live/4f103dd0-90b9-11f1-b8f3-bf6a2c059a9b.jpg",
+      "publishedAt": "2026-08-05T12:33:43Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Armed man arrested near Trump's golf course ahead of president's visit",
-      "summary": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
-      "url": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9a2/live/214cc2e0-909d-11f1-b8ee-9b3c26ad07bb.jpg",
-      "publishedAt": "2026-08-05T00:19:04Z"
+      "title": "Mexican influencer shot dead during livestream",
+      "summary": "César Gastélum, who was known for comedy and lifestyle posts, was killed at close range by a man on a motorbike.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kg709qd9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c98/live/57e54d20-90bd-11f1-b8f3-bf6a2c059a9b.jpg",
+      "publishedAt": "2026-08-05T11:00:47Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Afghan boxer appears in court in connection with death of Scottish woman",
-      "summary": "Sharif Ahmadzai, 26, is being held in connection with the death of Elisabeth Jane Ross from Edinburgh.",
-      "url": "https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4808/live/e6b89d00-90a8-11f1-b35a-3be58eca94a8.jpg",
-      "publishedAt": "2026-08-05T09:22:52Z"
+      "title": "Record heatwave in South Korea as temperatures soar to 42.5C",
+      "summary": "There have been at least 19 deaths related to the heatwave which has brought the country's hottest day since records began.",
+      "url": "https://www.bbc.co.uk/news/videos/c935ng9n2klo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3c4/live/a542eee0-90ba-11f1-b2ab-0dd01740f9f6.jpg",
+      "publishedAt": "2026-08-05T11:30:39Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
+      "summary": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
+      "url": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dee7/live/863dc740-9038-11f1-a691-e5bd21941ac1.jpg",
+      "publishedAt": "2026-08-05T11:19:24Z"
     },
     {
       "category": "Science & Tech",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cjrvn0wez48o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0040/live/ba1ceac0-8b5e-11f1-b422-3b36120ef864.jpg",
       "publishedAt": "2026-08-04T12:19:55Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "What will happen when a SpaceX rocket collides with the Moon?",
-      "summary": "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident.",
-      "url": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9686/live/e990a160-9096-11f1-b2ab-0dd01740f9f6.jpg",
-      "publishedAt": "2026-08-04T09:13:37Z"
     },
     {
       "category": "Science & Tech",
