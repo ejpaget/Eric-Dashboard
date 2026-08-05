@@ -11,6 +11,7 @@ The site uses plain HTML, CSS, and JavaScript, so GitHub Pages can host it witho
 - Current conditions and a three-day forecast for the general 95945 area
 - Live forecast data from the free National Weather Service API
 - Live local, world, sports, and science/technology headlines
+- Publisher-provided story photographs when available in the RSS feed
 - A slow vertical news feed that pauses or resumes when tapped
 - Offline sample stories if the live news file is unavailable
 - A bottom navigation design ready for future Home and More pages
@@ -54,7 +55,7 @@ Each headline links to the publisher's complete story. The dashboard does not co
 
 ## How the news scrolling works
 
-The news container moves downward at 18 pixels per second. It pauses for five seconds at the end and then returns to the beginning.
+The news container moves downward at 12 pixels per second. It pauses for five seconds at the end and then returns to the beginning.
 
 - Tap the news area or the pause button to stop it.
 - Tap again to resume.

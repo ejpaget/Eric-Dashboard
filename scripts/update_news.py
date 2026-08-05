@@ -57,6 +57,7 @@ FEEDS = [
 
 TAG_RE = re.compile(r"<[^>]+>")
 SPACE_RE = re.compile(r"\s+")
+MEDIA_NAMESPACE = "{http://search.yahoo.com/mrss/}"
 
 
 def clean_text(value: str | None) -> str:
@@ -76,6 +77,25 @@ def iso_date(value: str | None) -> str:
         return parsed.astimezone(timezone.utc).isoformat().replace("+00:00", "Z")
     except (TypeError, ValueError):
         return value
+
+
+def story_image(item: ET.Element) -> str:
+    """Use an image explicitly supplied by the publisher's RSS feed."""
+    candidates = []
+
+    enclosure = item.find("enclosure")
+    if enclosure is not None and enclosure.get("type", "").startswith("image/"):
+        candidates.append(enclosure.get("url", ""))
+
+    for tag_name in ("thumbnail", "content"):
+        media = item.find(f"{MEDIA_NAMESPACE}{tag_name}")
+        if media is not None:
+            candidates.append(media.get("url", ""))
+
+    for candidate in candidates:
+        if candidate.startswith(("https://", "http://")):
+            return candidate
+    return ""
 
 
 def read_feed(feed: dict[str, object]) -> list[dict[str, str]]:
@@ -99,6 +119,7 @@ def read_feed(feed: dict[str, object]) -> list[dict[str, str]]:
                 "title": title,
                 "summary": clean_text(item.findtext("description")),
                 "url": link,
+                "imageUrl": story_image(item),
                 "publishedAt": iso_date(item.findtext("pubDate")),
             }
         )

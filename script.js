@@ -135,10 +135,25 @@ function buildStory(story, isFinalStory) {
   link.textContent = story.title;
   heading.append(link);
 
+  let image = null;
+  if (story.imageUrl) {
+    image = document.createElement("img");
+    image.className = "story-image";
+    image.src = story.imageUrl;
+    image.alt = "";
+    image.loading = "lazy";
+    image.decoding = "async";
+    image.referrerPolicy = "no-referrer";
+    // Hide an image cleanly if a publisher removes it later.
+    image.addEventListener("error", () => image.remove(), { once: true });
+  }
+
   const summary = document.createElement("p");
   summary.textContent = story.summary || "Tap the headline to read the complete story from the publisher.";
 
-  article.append(metadata, heading, summary);
+  article.append(metadata);
+  if (image) article.append(image);
+  article.append(heading, summary);
   return article;
 }
 
@@ -171,7 +186,7 @@ async function loadNews() {
 let isScrollPaused = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 let previousFrameTime = 0;
 let restartAt = 0;
-const SCROLL_SPEED = 18; // Pixels per second: deliberately slow for reading.
+const SCROLL_SPEED = 12; // One-third slower than the original 18 pixels per second.
 const END_PAUSE = 5000;
 
 function showScrollState() {

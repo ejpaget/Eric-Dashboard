@@ -169,6 +169,16 @@ h1 {
 
 .story-meta { justify-content: space-between; gap: 1rem; color: var(--accent); font-size: clamp(0.78rem, 1.8vw, 0.95rem); font-weight: 750; }
 .story-meta span:last-child { color: var(--muted); font-weight: 600; }
+.story-image {
+  display: block;
+  width: 100%;
+  height: clamp(160px, 25vh, 260px);
+  margin-top: 0.85rem;
+  object-fit: cover;
+  background: var(--panel-raised);
+  border: 1px solid var(--line);
+  border-radius: 0.9rem;
+}
 .story h3 { max-width: 25ch; margin: 0.65rem 0; font-size: clamp(1.75rem, 4.7vw, 2.8rem); line-height: 1.13; letter-spacing: -0.02em; }
 .story h3 a { color: var(--text); text-decoration: none; }
 .story h3 a:hover,
