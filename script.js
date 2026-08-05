@@ -13,6 +13,7 @@ const currentSymbol = document.querySelector("#current-symbol");
 const weatherStatus = document.querySelector("#weather-status");
 const forecastCards = [...document.querySelectorAll(".forecast-day")];
 const newsFeed = document.querySelector("#news-feed");
+const newsStatus = document.querySelector("#news-status");
 const scrollToggle = document.querySelector("#scroll-toggle");
 const scrollToggleText = document.querySelector("#scroll-toggle-text");
 const controlIcon = document.querySelector(".control-icon");
@@ -100,6 +101,73 @@ async function loadWeather() {
   }
 }
 
+function publishedLabel(value) {
+  if (!value) return "Recently published";
+  const published = new Date(value);
+  if (Number.isNaN(published.getTime())) return "Recently published";
+
+  return new Intl.DateTimeFormat(undefined, {
+    month: "short",
+    day: "numeric",
+    hour: "numeric",
+    minute: "2-digit"
+  }).format(published);
+}
+
+function buildStory(story, isFinalStory) {
+  const article = document.createElement("article");
+  article.className = isFinalStory ? "story final-story" : "story";
+
+  const metadata = document.createElement("p");
+  metadata.className = "story-meta";
+
+  const category = document.createElement("span");
+  category.textContent = story.category;
+  const sourceAndTime = document.createElement("span");
+  sourceAndTime.textContent = `${story.source} · ${publishedLabel(story.publishedAt)}`;
+  metadata.append(category, sourceAndTime);
+
+  const heading = document.createElement("h3");
+  const link = document.createElement("a");
+  link.href = story.url;
+  link.target = "_blank";
+  link.rel = "noopener noreferrer";
+  link.textContent = story.title;
+  heading.append(link);
+
+  const summary = document.createElement("p");
+  summary.textContent = story.summary || "Tap the headline to read the complete story from the publisher.";
+
+  article.append(metadata, heading, summary);
+  return article;
+}
+
+async function loadNews() {
+  try {
+    // The timestamp prevents the tablet from holding onto an older cached file.
+    const response = await fetch(`news.json?time=${Date.now()}`);
+    if (!response.ok) throw new Error(`News request failed: ${response.status}`);
+    const data = await response.json();
+    if (!Array.isArray(data.stories) || !data.stories.length) throw new Error("No news stories found");
+
+    const storyElements = data.stories.map((story, index) =>
+      buildStory(story, index === data.stories.length - 1)
+    );
+    newsFeed.replaceChildren(...storyElements);
+    newsFeed.scrollTop = 0;
+
+    const updated = new Date(data.updatedAt);
+    const updateText = Number.isNaN(updated.getTime())
+      ? "Live headlines"
+      : `Updated ${new Intl.DateTimeFormat(undefined, { hour: "numeric", minute: "2-digit" }).format(updated)}`;
+    newsStatus.textContent = `${updateText} · Local · World · Sports · Science & Tech`;
+  } catch (error) {
+    // The sample HTML remains visible if news.json cannot be loaded.
+    newsStatus.textContent = "Offline preview stories · live headlines unavailable";
+    console.warn(error.message);
+  }
+}
+
 let isScrollPaused = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 let previousFrameTime = 0;
 let restartAt = 0;
@@ -147,6 +215,7 @@ newsFeed.addEventListener("click", (event) => {
 
 updateClock();
 loadWeather();
+loadNews();
 showScrollState();
 setInterval(updateClock, 30_000);
 requestAnimationFrame(animateNews);

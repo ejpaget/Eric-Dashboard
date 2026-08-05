@@ -10,8 +10,9 @@ The site uses plain HTML, CSS, and JavaScript, so GitHub Pages can host it witho
 - Large type intended to be read from roughly two feet away
 - Current conditions and a three-day forecast for the general 95945 area
 - Live forecast data from the free National Weather Service API
+- Live local, world, sports, and science/technology headlines
 - A slow vertical news feed that pauses or resumes when tapped
-- Sample news content for evaluating the layout and scrolling speed
+- Offline sample stories if the live news file is unavailable
 - A bottom navigation design ready for future Home and More pages
 
 No API keys, passwords, exact street address, or private device information are stored in the project. ZIP code 95945 is represented only by general coordinates used for the weather forecast.
@@ -38,6 +39,19 @@ The dashboard first asks the National Weather Service which forecast grid covers
 
 This service is free and does not require an API key. If weather.gov or the tablet's internet connection is unavailable, the dashboard displays a short message while the clock and news continue working.
 
+## How live news works
+
+GitHub Actions runs `.github/workflows/update-news.yml` twice an hour. It calls `scripts/update_news.py`, which collects public RSS stories and saves them in `news.json`. GitHub Pages then serves that small file alongside the website.
+
+Current sources:
+
+- **Local:** The Union, with a Grass Valley Google News search as a fallback
+- **World:** BBC News
+- **Sports:** ESPN
+- **Science & Tech:** BBC Science and BBC Technology
+
+Each headline links to the publisher's complete story. The dashboard does not copy full articles and does not need news API keys. If one source is temporarily unavailable, the other sources can still update. If the live file cannot load on the tablet, the sample stories built into `index.html` remain visible.
+
 ## How the news scrolling works
 
 The news container moves downward at 18 pixels per second. It pauses for five seconds at the end and then returns to the beginning.
@@ -46,7 +60,7 @@ The news container moves downward at 18 pixels per second. It pauses for five se
 - Tap again to resume.
 - Visitors who enable **Reduce motion** in their operating system start with scrolling paused.
 
-The stories are samples, not current headlines. This lets us adjust the design and reading speed before selecting and connecting live news sources.
+The dashboard loads the newest saved headlines whenever the page opens. Reload the page to immediately check for a newer `news.json` file.
 
 ## View it locally
 
@@ -73,7 +87,7 @@ After the pull request is merged:
 ## Good next steps
 
 - Adjust headline size and scrolling speed after trying it on the tablet.
-- Choose trusted sources for live local, national, world, and technology news.
+- Adjust the mix or number of stories from each news category.
 - Build the Home page for device and network information.
 - Add swipe gestures or larger page controls if needed.
 

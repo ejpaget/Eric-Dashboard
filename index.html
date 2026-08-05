@@ -59,6 +59,7 @@
         <div>
           <p class="section-label">Hands-free reading</p>
           <h2 id="news-heading">Top stories</h2>
+          <p class="news-status" id="news-status">Loading current headlines...</p>
         </div>
         <button id="scroll-toggle" type="button" aria-pressed="false">
           <span class="control-icon" aria-hidden="true">Ⅱ</span>
@@ -66,9 +67,9 @@
         </button>
       </div>
 
-      <!-- These are intentionally sample stories. We will replace them with a
-           live, chosen news source after the reading experience feels right. -->
-      <div class="news-feed" id="news-feed" tabindex="0" aria-label="Automatically scrolling sample news stories">
+      <!-- These stories are an offline fallback. JavaScript replaces them with
+           the latest saved RSS stories when news.json is available. -->
+      <div class="news-feed" id="news-feed" tabindex="0" aria-label="Automatically scrolling news stories">
         <article class="story">
           <p class="story-meta"><span>Dashboard preview</span><span>Sample story</span></p>
           <h3>Welcome to the new hands-free kitchen news layout</h3>
