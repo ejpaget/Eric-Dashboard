@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T12:29:04.213492Z",
+  "updatedAt": "2026-08-06T14:58:09.124420Z",
   "stories": [
     {
       "category": "Local",
@@ -39,9 +39,9 @@
     },
     {
       "category": "Local",
-      "source": "Nevada County (.gov)",
-      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - Nevada County (.gov)",
-      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations Nevada County (.gov)",
+      "source": "nevadacountyca.gov",
+      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - nevadacountyca.gov",
+      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations nevadacountyca.gov",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zZDJEMXJWVnRTMF9XZmVnV1ltZVA2eGkwbXdlTHpVdXNvWG5OcERmb2x1Z3lfYWJfZUpyQU1Oa3ZVLUlSWFJiMnNFRk1RZ0dnVWd3MUxKYTJPWXF4VEhpRlBySXM4QQ?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-07-04T04:11:30Z"
@@ -58,11 +58,47 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
-      "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8759/live/683a1f90-9002-11f1-9dfb-fd4408d16f2f.jpg",
-      "publishedAt": "2026-08-06T05:00:54Z"
+      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+      "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/845f/live/c0766280-9193-11f1-9e9c-c71e84be4584.jpg",
+      "publishedAt": "2026-08-06T14:30:43Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Ukraine hits two oil refineries deep in Russian territory",
+      "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
+      "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e4c/live/d37c5f10-9184-11f1-9587-294e25c71c14.png",
+      "publishedAt": "2026-08-06T12:18:48Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
+      "summary": "The committee will now refer him for possible prosecution for refusing to answer questions about his handling of the Covid-19 pandemic.",
+      "url": "https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e7a/live/d958d7c0-919c-11f1-9c53-0382b914b78c.jpg",
+      "publishedAt": "2026-08-06T14:47:45Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "DR Congo river boat under quarantine for Ebola after five deaths",
+      "summary": "The health minister says all the passengers are being screened as a precautionary measure.",
+      "url": "https://www.bbc.co.uk/news/articles/ce971plr2nvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae81/live/19ae9c50-919e-11f1-b2ab-0dd01740f9f6.jpg",
+      "publishedAt": "2026-08-06T14:04:27Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "EasyJet agrees to £5.7bn takeover by US firm",
+      "summary": "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out.",
+      "url": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e13/live/dcb0ea20-91a1-11f1-964d-6f76397ea067.jpg",
+      "publishedAt": "2026-08-06T14:39:21Z"
     },
     {
       "category": "World",
@@ -74,40 +110,13 @@
       "publishedAt": "2026-08-06T01:19:59Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
-      "summary": "Tejpal, who has denied the accusations, can appeal against the verdict in India's Supreme Court.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daee/live/cd5712d0-9146-11f1-a25e-953fc20be644.jpg",
-      "publishedAt": "2026-08-06T09:49:24Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Iranian footballers who defied Tehran become Australian citizens",
-      "summary": "There were among seven to be granted humanitarian visas while playing in Australia - but the other five changed their minds and returned to Iran.",
-      "url": "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b431/live/ca2e07d0-39ee-11f1-879d-1b2f5c3919b8.jpg",
-      "publishedAt": "2026-08-06T09:04:17Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
-      "summary": "The singer, who last released a full album in 2016, is in the studio and \"cooking\", her partner said.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7061/live/e58771f0-9156-11f1-9c66-83c8d74d9669.jpg",
-      "publishedAt": "2026-08-06T04:44:22Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Outrage as Ugandan football captain beaten to death in street gang attack",
-      "summary": "The 27-year-old was killed by suspected robbers after resisting an attempt to rob him, police say.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbf5/live/ace34820-9155-11f1-a649-9747aa0331f7.jpg",
-      "publishedAt": "2026-08-06T06:04:28Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Employees make plans for a windfall as SpaceX shares are unlocked",
+      "summary": "SpaceX's shares are unlocked Thursday, and some early employees could see a massive windfall. The BBC's Samira Hussain explains.",
+      "url": "https://www.bbc.co.uk/news/videos/c1e145p5xw5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2134/live/d42dd1c0-91a5-11f1-b2ab-0dd01740f9f6.jpg",
+      "publishedAt": "2026-08-06T14:51:37Z"
     },
     {
       "category": "Science & Tech",
@@ -129,21 +138,12 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "See the Sun like never before with most detailed images yet",
-      "summary": "New images and footage of the Sun show \"whirlpools\" of activity that it has not been possible to see before.",
-      "url": "https://www.bbc.co.uk/news/articles/c36d4376nd2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8582/live/7244d890-90de-11f1-9bd2-e326e95c9722.jpg",
-      "publishedAt": "2026-08-05T15:01:33Z"
-    },
-    {
-      "category": "Science & Tech",
       "source": "BBC Technology",
       "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
       "summary": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
       "url": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59e8/live/c0b97ce0-910d-11f1-b61e-4f9456542bbf.png",
-      "publishedAt": "2026-08-06T09:40:18Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1c4/live/1885b310-91a6-11f1-b8ee-9b3c26ad07bb.png",
+      "publishedAt": "2026-08-06T14:50:54Z"
     },
     {
       "category": "Science & Tech",
