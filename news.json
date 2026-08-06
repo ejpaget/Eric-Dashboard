@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T07:21:48.200089Z",
+  "updatedAt": "2026-08-06T10:15:48.677730Z",
   "stories": [
     {
       "category": "Local",
@@ -67,38 +67,29 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Infantino sorry for errors but stays Fifa president",
-      "summary": "Gianni Infantino will remain Fifa president after receiving backing from senior executives, but \"sincerely apologises\" for errors in his controversial private investment plans.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff53/live/5bb2a070-90cb-11f1-822b-5340fee140e1.jpg",
-      "publishedAt": "2026-08-05T21:37:08Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
       "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
       "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b45d/live/e272ff40-9104-11f1-a7ab-8b30adf0800a.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d689/live/d1fc7070-9171-11f1-b2ab-0dd01740f9f6.jpg",
       "publishedAt": "2026-08-06T01:19:59Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Indian journalist Tarun Tejpal convicted in rape case",
-      "summary": "The Goa bench of the Bombay High Court overturned a 2021 trial court verdict clearing Tejpal of all charges.",
+      "title": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
+      "summary": "Tejpal, who has denied the accusations, can appeal against the verdict in India's Supreme Court.",
       "url": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daee/live/cd5712d0-9146-11f1-a25e-953fc20be644.jpg",
-      "publishedAt": "2026-08-06T06:00:27Z"
+      "publishedAt": "2026-08-06T09:49:24Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Outrage as Ugandan football captain murdered in street gang attack",
-      "summary": "The 27-year-old was beaten to death by suspected robbers after resisting an attempt to steal his belongings, police say.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbf5/live/ace34820-9155-11f1-a649-9747aa0331f7.jpg",
-      "publishedAt": "2026-08-06T06:04:28Z"
+      "title": "Iranian footballers who defied Tehran become Australian citizens",
+      "summary": "There were among seven to be granted humanitarian visas while playing in Australia - but the other five changed their minds and returned to Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b431/live/ca2e07d0-39ee-11f1-879d-1b2f5c3919b8.jpg",
+      "publishedAt": "2026-08-06T09:04:17Z"
     },
     {
       "category": "World",
@@ -108,6 +99,24 @@
       "url": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7061/live/e58771f0-9156-11f1-9c66-83c8d74d9669.jpg",
       "publishedAt": "2026-08-06T04:44:22Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Outrage as Ugandan football captain beaten to death in street gang attack",
+      "summary": "The 27-year-old was killed by suspected robbers after resisting an attempt to rob him, police say.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbf5/live/ace34820-9155-11f1-a649-9747aa0331f7.jpg",
+      "publishedAt": "2026-08-06T06:04:28Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Majority of England's rivers and lakes fail new environmental review",
+      "summary": "A comprehensive assessment of England's waterways is the first in six years and shows little improvement.",
+      "url": "https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69cc/live/1b3fd170-90df-11f1-bad1-37f8e0c246e3.jpg",
+      "publishedAt": "2026-08-06T10:00:06Z"
     },
     {
       "category": "Science & Tech",
@@ -129,30 +138,12 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
-      "summary": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
-      "url": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edcc/live/2b242690-911b-11f1-80bc-ffa85082409b.jpg",
-      "publishedAt": "2026-08-05T11:19:24Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "AI or real? BBC analyses viral China disaster videos",
-      "summary": "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.",
-      "url": "https://www.bbc.co.uk/news/videos/c4g3505memlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dd0/live/a8283870-9152-11f1-a7ab-8b30adf0800a.jpg",
-      "publishedAt": "2026-08-06T05:29:27Z"
-    },
-    {
-      "category": "Science & Tech",
       "source": "BBC Technology",
       "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
       "summary": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
       "url": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59e8/live/c0b97ce0-910d-11f1-b61e-4f9456542bbf.png",
-      "publishedAt": "2026-08-06T05:00:54Z"
+      "publishedAt": "2026-08-06T09:40:18Z"
     },
     {
       "category": "Science & Tech",
@@ -162,6 +153,15 @@
       "url": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1a6/live/e4442b50-908c-11f1-b2ab-0dd01740f9f6.jpg",
       "publishedAt": "2026-08-05T22:00:32Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
+      "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
+      "summary": "Elon Musk told investors that people were \"underestimating\" his company.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a14/live/a0d16bc0-903d-11f1-a691-e5bd21941ac1.jpg",
+      "publishedAt": "2026-08-05T14:04:43Z"
     }
   ],
   "feedErrors": [
