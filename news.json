@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T13:54:35.852944Z",
+  "updatedAt": "2026-08-07T15:05:29.699158Z",
   "stories": [
     {
       "category": "Local",
@@ -58,6 +58,15 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Seven killed after teen shooter opens fire at home and school in Thailand",
+      "summary": "Authorities say the teen killed his grandparents at home before gunning down five teachers at his school.",
+      "url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4823/live/c54bf9d0-926c-11f1-9f0c-8d4ddef91df6.jpg",
+      "publishedAt": "2026-08-07T14:44:35Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
       "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
       "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
@@ -71,7 +80,7 @@
       "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
       "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa68/live/d3a158e0-9258-11f1-b9ff-37ae3aba3894.png",
-      "publishedAt": "2026-08-07T13:18:33Z"
+      "publishedAt": "2026-08-07T14:41:15Z"
     },
     {
       "category": "World",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5720/live/f30947f0-9240-11f1-8a95-af174e9f8ab7.jpg",
       "publishedAt": "2026-08-07T13:32:41Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-      "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7895/live/b9cd13f0-922b-11f1-a7ab-8b30adf0800a.jpg",
-      "publishedAt": "2026-08-06T18:53:51Z"
     },
     {
       "category": "Science & Tech",
