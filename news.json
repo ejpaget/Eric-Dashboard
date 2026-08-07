@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T11:27:08.971866Z",
+  "updatedAt": "2026-08-07T12:25:46.002392Z",
   "stories": [
     {
       "category": "Local",
@@ -39,9 +39,9 @@
     },
     {
       "category": "Local",
-      "source": "Nevada Appeal",
-      "title": "Move to Grass Valley ‘saves’ High Sierra Music Festival - Nevada Appeal",
-      "summary": "Move to Grass Valley ‘saves’ High Sierra Music Festival Nevada Appeal",
+      "source": "nevadaappeal.com",
+      "title": "Move to Grass Valley ‘saves’ High Sierra Music Festival - nevadaappeal.com",
+      "summary": "Move to Grass Valley ‘saves’ High Sierra Music Festival nevadaappeal.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaWdiSHNmeUVqdUVEdW9EY1otX3NQM2J0UDMtaTFETThkM2tILXlKNEZ5TkYxWHhlVUcyelBoTDdYYWxxQVYtRHp3R1NuN3h2dXpNMVh5elc4Z296ZUNxTUdYU3A5RTBCSEw4M25lQXcwTlpiZnd5eGtHX2VHRkQzRkZpVjdVSk1SblhvM0Q2LUY4Ql8xcTRaYVlQQkpjUEYwYnc?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-07-19T07:00:00Z"
@@ -67,20 +67,20 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa68/live/d3a158e0-9258-11f1-b9ff-37ae3aba3894.png",
+      "publishedAt": "2026-08-07T12:02:28Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Trump again tries to limit US birthright citizenship with new executive orders",
       "summary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
       "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be34/live/a73aa440-923b-11f1-af4d-5164294a85c7.jpg",
       "publishedAt": "2026-08-07T00:34:14Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-      "summary": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fcc/live/22b41d60-9195-11f1-9e9c-c71e84be4584.jpg",
-      "publishedAt": "2026-08-07T01:57:02Z"
     },
     {
       "category": "World",
@@ -94,20 +94,20 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
+      "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+      "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5720/live/f30947f0-9240-11f1-8a95-af174e9f8ab7.jpg",
+      "publishedAt": "2026-08-07T09:50:54Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
       "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
       "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7895/live/b9cd13f0-922b-11f1-a7ab-8b30adf0800a.jpg",
       "publishedAt": "2026-08-06T18:53:51Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
-      "summary": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5095/live/720754b0-922e-11f1-b2ab-0dd01740f9f6.jpg",
-      "publishedAt": "2026-08-07T08:32:57Z"
     },
     {
       "category": "Science & Tech",
