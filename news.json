@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T17:03:43.150147Z",
+  "updatedAt": "2026-08-07T17:57:21.502977Z",
   "stories": [
     {
       "category": "Local",
@@ -80,7 +80,7 @@
       "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
       "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa68/live/d3a158e0-9258-11f1-b9ff-37ae3aba3894.png",
-      "publishedAt": "2026-08-07T15:48:49Z"
+      "publishedAt": "2026-08-07T17:42:54Z"
     },
     {
       "category": "World",
@@ -112,6 +112,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "Hosepipe bans in force as drought declared - is your area affected?",
+      "summary": "More than 20 million households have been placed under hosepipe bans due to higher demand and low rainfall.",
+      "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c74b/live/69a57380-7fa8-11f1-a5f4-433bb9aa2e5a.jpg",
+      "publishedAt": "2026-08-07T17:50:13Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "Is this the best day of the year for stargazing?",
       "summary": "Put 12 August in the diary for some of the best astronomical events of the year.",
       "url": "https://www.bbc.co.uk/news/videos/cd7l49xn14go?at_medium=RSS&at_campaign=rss",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5720/live/f30947f0-9240-11f1-8a95-af174e9f8ab7.jpg",
       "publishedAt": "2026-08-07T13:32:41Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Wildfire damage could take hundreds of years to recover from, experts say",
-      "summary": "Habitats belonging to snakes and rare moths have been destroyed after the wildfires this summer.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvp00x707o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fc2/live/3bad1480-9225-11f1-af4d-5164294a85c7.jpg",
-      "publishedAt": "2026-08-07T05:15:56Z"
     },
     {
       "category": "Science & Tech",
