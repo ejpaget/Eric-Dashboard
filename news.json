@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T05:19:25.200157Z",
+  "updatedAt": "2026-08-07T06:51:13.963729Z",
   "stories": [
     {
       "category": "Local",
@@ -30,21 +30,12 @@
     },
     {
       "category": "Local",
-      "source": "CBS News",
-      "title": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave - CBS News",
-      "summary": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS3FQU0k0Q25ubEl6WENleHJsSWJrdE5qMjVIQWhiRDJrQTluRGFGT1JCdV9qUUZXQVlJaDZ4TW14MEtRYzI1OW9OdEE4c25aQ3BHMEtpR3RlbGxyMDNhbDBoVlR0RW1SMU9Sa2tIenJBbGk3ZGlxUmZJRVZmb01nTllxWl9GdGVxbU4xVVI5WngwZF80dzVjcnJfT3NIY0FQbm5ka1A4ZXY?oc=5",
+      "source": "Nevada County (.gov)",
+      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - Nevada County (.gov)",
+      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations Nevada County (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zZDJEMXJWVnRTMF9XZmVnV1ltZVA2eGkwbXdlTHpVdXNvWG5OcERmb2x1Z3lfYWJfZUpyQU1Oa3ZVLUlSWFJiMnNFRk1RZ0dnVWd3MUxKYTJPWXF4VEhpRlBySXM4QQ?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-08-04T16:27:31Z"
-    },
-    {
-      "category": "Local",
-      "source": "FOX40",
-      "title": "65-year-old airlifted after serious Grass Valley motorcycle crash - FOX40",
-      "summary": "65-year-old airlifted after serious Grass Valley motorcycle crash FOX40",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaTV3WUo2bW1LWW5LQkVhTFRxUGw0OUt4MlJTdGFMMVZ3ZXgyZzdOQy1lSTRiVFg0anRJdFNleVJRRFRlNTE1TmlBSU9mN0Z2YV9yekJyeXZoYjFUMHAwczdwSjRjUlBRUDRpTFU5WDZoN2Z5TlR1cEI1LVpGb1dHXzZXSDB2M3VxeHZHV05RSdIBlAFBVV95cUxOaFFidm5FbTdUWXo1bkJoTEtTU3NxM1BnLUdvYUIwemJjMFJyQWxtSXl1MlJKN1BjYjk0R2ZING0xWW82elZ6SzgtNUw4MFY4S3VtUDZBQjVEcTBYRXJpaTZqeHFuMTllLTRELXVWdWZTQ0lBdHZGc254UVZ2Q0RwcG5Pa25UbjBpS3dRMjJJWEs0c0k3?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-07-27T07:00:00Z"
+      "publishedAt": "2026-07-04T04:11:30Z"
     },
     {
       "category": "Local",
@@ -54,6 +45,15 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaWdiSHNmeUVqdUVEdW9EY1otX3NQM2J0UDMtaTFETThkM2tILXlKNEZ5TkYxWHhlVUcyelBoTDdYYWxxQVYtRHp3R1NuN3h2dXpNMVh5elc4Z296ZUNxTUdYU3A5RTBCSEw4M25lQXcwTlpiZnd5eGtHX2VHRkQzRkZpVjdVSk1SblhvM0Q2LUY4Ql8xcTRaYVlQQkpjUEYwYnc?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-07-19T07:00:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "cbsnews.com",
+      "title": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave - cbsnews.com",
+      "summary": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS3FQU0k0Q25ubEl6WENleHJsSWJrdE5qMjVIQWhiRDJrQTluRGFGT1JCdV9qUUZXQVlJaDZ4TW14MEtRYzI1OW9OdEE4c25aQ3BHMEtpR3RlbGxyMDNhbDBoVlR0RW1SMU9Sa2tIenJBbGk3ZGlxUmZJRVZmb01nTllxWl9GdGVxbU4xVVI5WngwZF80dzVjcnJfT3NIY0FQbm5ka1A4ZXY?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-04T16:27:31Z"
     },
     {
       "category": "World",
@@ -67,11 +67,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-      "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/845f/live/c0766280-9193-11f1-9e9c-c71e84be4584.jpg",
-      "publishedAt": "2026-08-06T18:53:51Z"
+      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+      "summary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
+      "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c27/live/ed75acd0-91e0-11f1-9bc8-c9e5b4077192.jpg",
+      "publishedAt": "2026-08-07T00:34:14Z"
     },
     {
       "category": "World",
@@ -89,16 +89,16 @@
       "summary": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
       "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eebf/live/20d98930-9212-11f1-a7ab-8b30adf0800a.jpg",
-      "publishedAt": "2026-08-07T04:02:18Z"
+      "publishedAt": "2026-08-07T05:44:29Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-      "summary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
-      "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c27/live/ed75acd0-91e0-11f1-9bc8-c9e5b4077192.jpg",
-      "publishedAt": "2026-08-07T00:34:14Z"
+      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+      "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7895/live/b9cd13f0-922b-11f1-a7ab-8b30adf0800a.jpg",
+      "publishedAt": "2026-08-06T18:53:51Z"
     },
     {
       "category": "World",
@@ -112,10 +112,10 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "Wildfire-ravaged habitats could take centuries to recover, environmentalists say",
+      "title": "Wildfire damage could take hundreds of years to recover from, experts say",
       "summary": "Habitats belonging to snakes and rare moths have been destroyed after the wildfires this summer.",
       "url": "https://www.bbc.co.uk/news/articles/c0qvp00x707o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e9e/live/ccafe250-90c2-11f1-b8f3-bf6a2c059a9b.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fc2/live/3bad1480-9225-11f1-af4d-5164294a85c7.jpg",
       "publishedAt": "2026-08-07T05:15:56Z"
     },
     {
