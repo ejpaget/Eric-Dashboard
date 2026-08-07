@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T21:19:21.706034Z",
+  "updatedAt": "2026-08-07T22:09:06.793921Z",
   "stories": [
     {
       "category": "Local",
@@ -58,20 +58,29 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Seven killed after Thai student opens fire at home and school",
-      "summary": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school.",
-      "url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfea/live/f48efef0-927f-11f1-870d-5d08c49babb2.jpg",
-      "publishedAt": "2026-08-07T15:51:16Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
       "summary": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
       "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be73/live/f8fae290-9024-11f1-a7ab-8b30adf0800a.jpg",
       "publishedAt": "2026-08-07T20:33:23Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+      "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
+      "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3955/live/79cf1aa0-929e-11f1-b6aa-e1ff997f01b8.jpg",
+      "publishedAt": "2026-08-07T21:19:27Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
+      "summary": "The student says she feared never seeing her mother again after the attack killed five teachers.",
+      "url": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a75/live/25959060-926f-11f1-be40-e93959facbbc.jpg",
+      "publishedAt": "2026-08-07T14:20:27Z"
     },
     {
       "category": "World",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb78/live/0772b130-9297-11f1-b14c-9f5a94481d56.jpg",
       "publishedAt": "2026-08-07T20:40:56Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Mexico and Peru restore diplomatic relations after asylum row",
-      "summary": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfe5/live/40d88be0-926d-11f1-9f0c-8d4ddef91df6.png",
-      "publishedAt": "2026-08-07T15:38:28Z"
     },
     {
       "category": "Science & Tech",
