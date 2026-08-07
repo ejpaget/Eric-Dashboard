@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T20:17:17.697154Z",
+  "updatedAt": "2026-08-07T21:19:21.706034Z",
   "stories": [
     {
       "category": "Local",
@@ -39,18 +39,18 @@
     },
     {
       "category": "Local",
-      "source": "cbsnews.com",
-      "title": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave - cbsnews.com",
-      "summary": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave cbsnews.com",
+      "source": "CBS News",
+      "title": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave - CBS News",
+      "summary": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave CBS News",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS3FQU0k0Q25ubEl6WENleHJsSWJrdE5qMjVIQWhiRDJrQTluRGFGT1JCdV9qUUZXQVlJaDZ4TW14MEtRYzI1OW9OdEE4c25aQ3BHMEtpR3RlbGxyMDNhbDBoVlR0RW1SMU9Sa2tIenJBbGk3ZGlxUmZJRVZmb01nTllxWl9GdGVxbU4xVVI5WngwZF80dzVjcnJfT3NIY0FQbm5ka1A4ZXY?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-04T16:27:31Z"
     },
     {
       "category": "Local",
-      "source": "legacy.com",
-      "title": "Phyllis Day Obituary (1957 - 2026) - Grass Valley, CA - The Union - legacy.com",
-      "summary": "Phyllis Day Obituary (1957 - 2026) - Grass Valley, CA - The Union legacy.com",
+      "source": "Legacy obituary",
+      "title": "Phyllis Day Obituary (1957 - 2026) - Grass Valley, CA - The Union - Legacy obituary",
+      "summary": "Phyllis Day Obituary (1957 - 2026) - Grass Valley, CA - The Union Legacy obituary",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdk1SYmFDQk9xODZPXzYwLU54TVF2b3QxdzZEdFN1NktHd28wWjhfaUplMzJfRU1GclRfa2l5RXpiY1QwOWZnMTcwMDdSRE1NdTFHUTVaV1M0Ykd1aFVuV2NIZTBfQnh4aXd3dHRHT1RWOEVZeUxCVkVtaHhtdUpLVC0xTkpPY2h2dGVj?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-05T12:11:26Z"
@@ -71,7 +71,7 @@
       "summary": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
       "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be73/live/f8fae290-9024-11f1-a7ab-8b30adf0800a.jpg",
-      "publishedAt": "2026-08-07T19:51:16Z"
+      "publishedAt": "2026-08-07T20:33:23Z"
     },
     {
       "category": "World",
@@ -85,20 +85,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1611/live/29966380-9240-11f1-b2ab-0dd01740f9f6.jpg",
-      "publishedAt": "2026-08-07T09:22:03Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
       "summary": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
       "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc5f/live/1bb4b890-927a-11f1-b7a2-c7c91f255a18.png",
       "publishedAt": "2026-08-07T16:13:45Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
+      "summary": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
+      "url": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb78/live/0772b130-9297-11f1-b14c-9f5a94481d56.jpg",
+      "publishedAt": "2026-08-07T20:40:56Z"
     },
     {
       "category": "World",
