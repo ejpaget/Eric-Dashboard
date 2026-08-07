@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T03:34:31.889352Z",
+  "updatedAt": "2026-08-07T05:19:25.200157Z",
   "stories": [
     {
       "category": "Local",
@@ -30,12 +30,21 @@
     },
     {
       "category": "Local",
-      "source": "Nevada County (.gov)",
-      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - Nevada County (.gov)",
-      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations Nevada County (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zZDJEMXJWVnRTMF9XZmVnV1ltZVA2eGkwbXdlTHpVdXNvWG5OcERmb2x1Z3lfYWJfZUpyQU1Oa3ZVLUlSWFJiMnNFRk1RZ0dnVWd3MUxKYTJPWXF4VEhpRlBySXM4QQ?oc=5",
+      "source": "CBS News",
+      "title": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave - CBS News",
+      "summary": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS3FQU0k0Q25ubEl6WENleHJsSWJrdE5qMjVIQWhiRDJrQTluRGFGT1JCdV9qUUZXQVlJaDZ4TW14MEtRYzI1OW9OdEE4c25aQ3BHMEtpR3RlbGxyMDNhbDBoVlR0RW1SMU9Sa2tIenJBbGk3ZGlxUmZJRVZmb01nTllxWl9GdGVxbU4xVVI5WngwZF80dzVjcnJfT3NIY0FQbm5ka1A4ZXY?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-07-04T04:11:30Z"
+      "publishedAt": "2026-08-04T16:27:31Z"
+    },
+    {
+      "category": "Local",
+      "source": "FOX40",
+      "title": "65-year-old airlifted after serious Grass Valley motorcycle crash - FOX40",
+      "summary": "65-year-old airlifted after serious Grass Valley motorcycle crash FOX40",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaTV3WUo2bW1LWW5LQkVhTFRxUGw0OUt4MlJTdGFMMVZ3ZXgyZzdOQy1lSTRiVFg0anRJdFNleVJRRFRlNTE1TmlBSU9mN0Z2YV9yekJyeXZoYjFUMHAwczdwSjRjUlBRUDRpTFU5WDZoN2Z5TlR1cEI1LVpGb1dHXzZXSDB2M3VxeHZHV05RSdIBlAFBVV95cUxOaFFidm5FbTdUWXo1bkJoTEtTU3NxM1BnLUdvYUIwemJjMFJyQWxtSXl1MlJKN1BjYjk0R2ZING0xWW82elZ6SzgtNUw4MFY4S3VtUDZBQjVEcTBYRXJpaTZqeHFuMTllLTRELXVWdWZTQ0lBdHZGc254UVZ2Q0RwcG5Pa25UbjBpS3dRMjJJWEs0c0k3?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-07-27T07:00:00Z"
     },
     {
       "category": "Local",
@@ -47,19 +56,10 @@
       "publishedAt": "2026-07-19T07:00:00Z"
     },
     {
-      "category": "Local",
-      "source": "CBS News",
-      "title": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave - CBS News",
-      "summary": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS3FQU0k0Q25ubEl6WENleHJsSWJrdE5qMjVIQWhiRDJrQTluRGFGT1JCdV9qUUZXQVlJaDZ4TW14MEtRYzI1OW9OdEE4c25aQ3BHMEtpR3RlbGxyMDNhbDBoVlR0RW1SMU9Sa2tIenJBbGk3ZGlxUmZJRVZmb01nTllxWl9GdGVxbU4xVVI5WngwZF80dzVjcnJfT3NIY0FQbm5ka1A4ZXY?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-04T16:27:31Z"
-    },
-    {
       "category": "World",
       "source": "BBC News",
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "summary": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+      "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
       "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/635f/live/b98233a0-91fc-11f1-a7ab-8b30adf0800a.jpg",
       "publishedAt": "2026-08-07T00:54:03Z"
@@ -88,8 +88,8 @@
       "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
       "summary": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
       "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7090/live/f29bd430-9200-11f1-8bb2-b1dba9ee6a3c.jpg",
-      "publishedAt": "2026-08-07T02:07:46Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eebf/live/20d98930-9212-11f1-a7ab-8b30adf0800a.jpg",
+      "publishedAt": "2026-08-07T04:02:18Z"
     },
     {
       "category": "World",
@@ -112,6 +112,24 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "Wildfire-ravaged habitats could take centuries to recover, environmentalists say",
+      "summary": "Habitats belonging to snakes and rare moths have been destroyed after the wildfires this summer.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvp00x707o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e9e/live/ccafe250-90c2-11f1-b8f3-bf6a2c059a9b.jpg",
+      "publishedAt": "2026-08-07T05:15:56Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
+      "summary": "The president has called the extreme heat a \"national disaster\" and ordered agencies to mobilise all resources.",
+      "url": "https://www.bbc.co.uk/news/articles/cr597m1vm96o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75a2/live/79a5d0e0-9213-11f1-bf8c-0bf413e80e7b.jpg",
+      "publishedAt": "2026-08-07T04:49:18Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "Where is Jackie? Beloved live cam eagle in critical condition",
       "summary": "The bald eagle, who has gained worldwide fame as the protagonist of a nest live-stream in California, has been diagnosed with anemia.",
       "url": "https://www.bbc.co.uk/news/videos/c2el1dz7ge9o?at_medium=RSS&at_campaign=rss",
@@ -120,27 +138,9 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Watch: Nasa astronauts conduct 6.5-hour spacewalk outside ISS",
-      "summary": "Astronauts Anil Menon and Jessica Meir ventured out to install a mounting hardware for the future addition of solar arrays to the space station.",
-      "url": "https://www.bbc.co.uk/news/videos/c89n8940vq8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36a7/live/ae7b8b30-91e0-11f1-9bc8-c9e5b4077192.jpg",
-      "publishedAt": "2026-08-06T21:49:48Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Wildfire-ravaged habitats could take centuries to recover, environmentalists say",
-      "summary": "Habitats belonging to snakes and rare moths have been destroyed after the wildfires this summer.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvp00x707o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e9e/live/ccafe250-90c2-11f1-b8f3-bf6a2c059a9b.jpg",
-      "publishedAt": "2026-08-06T21:11:52Z"
-    },
-    {
-      "category": "Science & Tech",
       "source": "BBC Technology",
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "summary": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+      "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
       "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/635f/live/b98233a0-91fc-11f1-a7ab-8b30adf0800a.jpg",
       "publishedAt": "2026-08-07T00:54:03Z"
