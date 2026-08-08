@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T11:59:18.891957Z",
+  "updatedAt": "2026-08-08T13:08:07.488045Z",
   "stories": [
     {
       "category": "Local",
@@ -67,7 +67,7 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
+      "title": "US Senate narrowly confirms Todd Blanche as attorney general",
       "summary": "Republican Senator Bill Cassidy was the deciding vote after a lengthy stand-off.",
       "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136a/live/52b81650-930d-11f1-a52f-31e1c3a4e20b.jpg",
@@ -94,20 +94,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-      "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
-      "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3955/live/79cf1aa0-929e-11f1-b6aa-e1ff997f01b8.jpg",
-      "publishedAt": "2026-08-07T21:19:27Z"
+      "title": "US pledges $1bn support to Colombia as Trump-backed president sworn in",
+      "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab46/live/d545e110-931c-11f1-870d-5d08c49babb2.jpg",
+      "publishedAt": "2026-08-08T12:01:42Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
-      "summary": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
-      "url": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db46/live/2ce17130-927f-11f1-b2ab-0dd01740f9f6.jpg",
-      "publishedAt": "2026-08-08T00:02:49Z"
+      "title": "NBA forward Clarke's death due to effects of drugs",
+      "summary": "Memphis Grizzlies forward Brandon Clarke's death was due to the effects of heroin and cocaine, the Los Angeles medical authority reveals.",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55a4/live/9faa1ba0-9323-11f1-be7f-7379a19ef5b2.jpg",
+      "publishedAt": "2026-08-08T12:05:04Z"
     },
     {
       "category": "Science & Tech",
@@ -139,6 +139,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
+      "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+      "summary": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
+      "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2700/live/b51ae4b0-91b6-11f1-bab9-173de0e7d358.jpg",
+      "publishedAt": "2026-08-08T12:36:29Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
       "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
       "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bf5/live/f3675220-90ae-11f1-b2ab-0dd01740f9f6.jpg",
       "publishedAt": "2026-08-06T23:04:40Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
-      "summary": "A flood of companies are revealing AI models gained access to the internet - with real consequences.",
-      "url": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19c4/live/1e741d30-91aa-11f1-9c12-47c0acd34ba6.jpg",
-      "publishedAt": "2026-08-06T15:59:34Z"
     }
   ],
   "feedErrors": [
