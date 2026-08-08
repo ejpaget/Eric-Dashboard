@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T13:54:23.165075Z",
+  "updatedAt": "2026-08-08T14:44:03.791409Z",
   "stories": [
     {
       "category": "Local",
@@ -30,9 +30,9 @@
     },
     {
       "category": "Local",
-      "source": "CBS News",
-      "title": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave - CBS News",
-      "summary": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave CBS News",
+      "source": "cbsnews.com",
+      "title": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave - cbsnews.com",
+      "summary": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave cbsnews.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS3FQU0k0Q25ubEl6WENleHJsSWJrdE5qMjVIQWhiRDJrQTluRGFGT1JCdV9qUUZXQVlJaDZ4TW14MEtRYzI1OW9OdEE4c25aQ3BHMEtpR3RlbGxyMDNhbDBoVlR0RW1SMU9Sa2tIenJBbGk3ZGlxUmZJRVZmb01nTllxWl9GdGVxbU4xVVI5WngwZF80dzVjcnJfT3NIY0FQbm5ka1A4ZXY?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-04T16:27:31Z"
@@ -76,6 +76,15 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
+      "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab46/live/d545e110-931c-11f1-870d-5d08c49babb2.jpg",
+      "publishedAt": "2026-08-08T13:49:09Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "The phone book that led us to Assad's spy chief in hiding",
       "summary": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
       "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
@@ -88,17 +97,8 @@
       "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
       "summary": "Italy introduced border controls following an influx of about 78,000 migrants from Morocco into the neighbouring Spanish exclave of Ceuta.",
       "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be73/live/f8fae290-9024-11f1-a7ab-8b30adf0800a.jpg",
-      "publishedAt": "2026-08-07T22:13:55Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
-      "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab46/live/d545e110-931c-11f1-870d-5d08c49babb2.jpg",
-      "publishedAt": "2026-08-08T13:49:09Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/918c/live/9be54310-9331-11f1-8c55-af7610e137d7.jpg",
+      "publishedAt": "2026-08-08T14:25:19Z"
     },
     {
       "category": "World",
