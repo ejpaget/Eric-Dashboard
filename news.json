@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T20:44:06.607923Z",
+  "updatedAt": "2026-08-08T21:41:03.416445Z",
   "stories": [
     {
       "category": "Local",
@@ -112,6 +112,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "Rare turtle to be sent back home in 5,000-mile 'incredibly emotional' trip",
+      "summary": "A rare turtle is being flown home to the Caribbean Sea after being found washed up in Wales.",
+      "url": "https://www.bbc.co.uk/news/articles/c62vd6j5llgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e81/live/4851bbe0-9249-11f1-a7ab-8b30adf0800a.png",
+      "publishedAt": "2026-08-08T20:52:22Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
       "summary": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
       "url": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb41/live/9cac3330-934a-11f1-a35f-039358cea467.jpg",
       "publishedAt": "2026-08-08T15:15:17Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Hosepipe bans in force as drought declared - is your area affected?",
-      "summary": "More than 20 million households have been placed under hosepipe bans due to higher demand and low rainfall.",
-      "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c74b/live/69a57380-7fa8-11f1-a5f4-433bb9aa2e5a.jpg",
-      "publishedAt": "2026-08-07T17:50:13Z"
     },
     {
       "category": "Science & Tech",
