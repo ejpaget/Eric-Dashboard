@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T15:39:36.369610Z",
+  "updatedAt": "2026-08-08T16:01:19.779189Z",
   "stories": [
     {
       "category": "Local",
@@ -58,20 +58,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Child among three killed in Russian missile attacks near Kyiv",
-      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f243/live/91487a70-92dd-11f1-87f4-4f87722fb492.jpg",
-      "publishedAt": "2026-08-08T13:29:38Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
       "summary": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
       "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136a/live/52b81650-930d-11f1-a52f-31e1c3a4e20b.jpg",
-      "publishedAt": "2026-08-08T13:23:16Z"
+      "publishedAt": "2026-08-08T15:56:39Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f243/live/91487a70-92dd-11f1-87f4-4f87722fb492.jpg",
+      "publishedAt": "2026-08-08T15:49:41Z"
     },
     {
       "category": "World",
