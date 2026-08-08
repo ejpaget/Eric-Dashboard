@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T14:44:03.791409Z",
+  "updatedAt": "2026-08-08T15:39:36.369610Z",
   "stories": [
     {
       "category": "Local",
@@ -21,6 +21,15 @@
     },
     {
       "category": "Local",
+      "source": "YubaNet",
+      "title": "Happening Now – August 2026 - YubaNet",
+      "summary": "Happening Now – August 2026 YubaNet",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oc2pzcm0xTzFQM2FwTlpqMFNxN0J6M1VlejljMnQxaFVJT3g1ZXRRenpodE1hYnJMOXRtTXZtNzBka0g2dWJiSg?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-01T07:10:31Z"
+    },
+    {
+      "category": "Local",
       "source": "Nevada Appeal",
       "title": "Move to Grass Valley ‘saves’ High Sierra Music Festival - Nevada Appeal",
       "summary": "Move to Grass Valley ‘saves’ High Sierra Music Festival Nevada Appeal",
@@ -30,9 +39,9 @@
     },
     {
       "category": "Local",
-      "source": "cbsnews.com",
-      "title": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave - cbsnews.com",
-      "summary": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave cbsnews.com",
+      "source": "CBS News",
+      "title": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave - CBS News",
+      "summary": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave CBS News",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS3FQU0k0Q25ubEl6WENleHJsSWJrdE5qMjVIQWhiRDJrQTluRGFGT1JCdV9qUUZXQVlJaDZ4TW14MEtRYzI1OW9OdEE4c25aQ3BHMEtpR3RlbGxyMDNhbDBoVlR0RW1SMU9Sa2tIenJBbGk3ZGlxUmZJRVZmb01nTllxWl9GdGVxbU4xVVI5WngwZF80dzVjcnJfT3NIY0FQbm5ka1A4ZXY?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-04T16:27:31Z"
@@ -45,15 +54,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeTZucTZfOEFrVDJCYk43QWZJZk1tUGFlS1FNTDBGakNaRlZRTDBaZDJUMUdlR1RSOXR2Y3dNWG9WS1BZOXc2dGUyQU9pSXJWQ1JyeXFIRlhjNmJVQUN5WTN0S3ZiZGl4dVFkQnZ2SXhvT0VyV2YzSTRRMDFZWTVEZ1dySG85N2dmUFFnd1h3?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-06T12:47:12Z"
-    },
-    {
-      "category": "Local",
-      "source": "Nevada County (.gov)",
-      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - Nevada County (.gov)",
-      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations Nevada County (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-06-18T05:24:55Z"
     },
     {
       "category": "World",
@@ -103,11 +103,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "NBA forward Clarke's death due to effects of drugs",
-      "summary": "Memphis Grizzlies forward Brandon Clarke's death was due to the effects of heroin and cocaine, the Los Angeles medical authority reveals.",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55a4/live/9faa1ba0-9323-11f1-be7f-7379a19ef5b2.jpg",
-      "publishedAt": "2026-08-08T12:05:04Z"
+      "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+      "summary": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
+      "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e0d/live/cc337040-933c-11f1-a35f-039358cea467.jpg",
+      "publishedAt": "2026-08-08T15:15:17Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+      "summary": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
+      "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e0d/live/cc337040-933c-11f1-a35f-039358cea467.jpg",
+      "publishedAt": "2026-08-08T15:15:17Z"
     },
     {
       "category": "Science & Tech",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cd7l49xn14go?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b300/live/3397be10-91a5-11f1-b2ab-0dd01740f9f6.jpg",
       "publishedAt": "2026-08-07T15:30:46Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-      "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
-      "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5720/live/f30947f0-9240-11f1-8a95-af174e9f8ab7.jpg",
-      "publishedAt": "2026-08-07T13:32:41Z"
     },
     {
       "category": "Science & Tech",
