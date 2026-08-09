@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T10:49:35.103422Z",
+  "updatedAt": "2026-08-09T11:38:50.761761Z",
   "stories": [
     {
       "category": "Local",
@@ -58,20 +58,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
-      "summary": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
-      "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b5/live/810aa740-917b-11f1-b8ee-9b3c26ad07bb.jpg",
-      "publishedAt": "2026-08-08T23:43:44Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Fifa criticises campaign to oust president Infantino",
       "summary": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
       "url": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de50/live/00229450-937c-11f1-9df5-0122184ff6d7.jpg",
       "publishedAt": "2026-08-08T22:06:44Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+      "summary": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+      "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b5/live/810aa740-917b-11f1-b8ee-9b3c26ad07bb.jpg",
+      "publishedAt": "2026-08-08T23:43:44Z"
     },
     {
       "category": "World",
