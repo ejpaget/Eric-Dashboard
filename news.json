@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T20:47:36.899293Z",
+  "updatedAt": "2026-08-09T21:43:54.141099Z",
   "stories": [
     {
       "category": "Local",
@@ -18,6 +18,15 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-06-18T05:24:55Z"
+    },
+    {
+      "category": "Local",
+      "source": "FOX40",
+      "title": "65-year-old airlifted after serious Grass Valley motorcycle crash - FOX40",
+      "summary": "65-year-old airlifted after serious Grass Valley motorcycle crash FOX40",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaTV3WUo2bW1LWW5LQkVhTFRxUGw0OUt4MlJTdGFMMVZ3ZXgyZzdOQy1lSTRiVFg0anRJdFNleVJRRFRlNTE1TmlBSU9mN0Z2YV9yekJyeXZoYjFUMHAwczdwSjRjUlBRUDRpTFU5WDZoN2Z5TlR1cEI1LVpGb1dHXzZXSDB2M3VxeHZHV05RSdIBlAFBVV95cUxOaFFidm5FbTdUWXo1bkJoTEtTU3NxM1BnLUdvYUIwemJjMFJyQWxtSXl1MlJKN1BjYjk0R2ZING0xWW82elZ6SzgtNUw4MFY4S3VtUDZBQjVEcTBYRXJpaTZqeHFuMTllLTRELXVWdWZTQ0lBdHZGc254UVZ2Q0RwcG5Pa25UbjBpS3dRMjJJWEs0c0k3?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-07-27T07:00:00Z"
     },
     {
       "category": "Local",
@@ -47,22 +56,22 @@
       "publishedAt": "2026-07-14T07:00:00Z"
     },
     {
-      "category": "Local",
-      "source": "KOLO | 8 News Now",
-      "title": "Solo-vehicle major injury crash blocks roadway in Grass Valley - KOLO | 8 News Now",
-      "summary": "Solo-vehicle major injury crash blocks roadway in Grass Valley KOLO | 8 News Now",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPckpEOU5UR3RxZ0diUURWR3Fyc0U0NnVGcXFFZDJoc3d0WlVpdzY3SmwzR1hsRkU1UlBqbDZEYm9wUnMtVGxJVnhUVmFoS1R4LW8zaE5sX2FRdkhUQTgtc0h2ZnJFM05RWmI4U2lvWWdBSHM2ajNYZkt4OEhjUDlhaWh1dHRJQWdiZkdXTWdlWjZDVXhYSjZ6X25n0gGuAUFVX3lxTE1tS1hoN2pINVRaZVRvUUE4bjY5b2JPOFl5WkdrZEVOa2dZSkZiRmsycFd5bDZGQVFhX0RXY1lsZ0FhNVBPbnJINDRBSEhKTm13aVNHTHNUQlZlcXNIay1FbHpJaDhuRnhQcXpfTkNHcWVUd2ZjVVYxSHZ2aDdBTUVqYWR1Y21Eb1c5a3pTcTY4UjBvalpJcE8teWNZbl9vLWFMa0ZISl9aOE14Rk5ydw?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-07-16T07:00:00Z"
-    },
-    {
       "category": "World",
       "source": "BBC News",
       "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
       "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
       "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/449b/live/1de67870-93f5-11f1-a10f-45ed743c6e4b.jpg",
-      "publishedAt": "2026-08-09T14:18:10Z"
+      "publishedAt": "2026-08-09T21:25:04Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c84/live/2e385c70-9431-11f1-b2ab-0dd01740f9f6.jpg",
+      "publishedAt": "2026-08-09T20:58:18Z"
     },
     {
       "category": "World",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e19/live/9f71d840-940d-11f1-870d-5d08c49babb2.png",
       "publishedAt": "2026-08-09T16:18:10Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
-      "summary": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
-      "url": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8796/live/272fe5e0-9424-11f1-aa3c-4fd5547f7539.jpg",
-      "publishedAt": "2026-08-09T19:57:28Z"
     },
     {
       "category": "Science & Tech",
