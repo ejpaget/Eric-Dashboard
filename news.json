@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T09:20:43.757242Z",
+  "updatedAt": "2026-08-09T10:07:41.005476Z",
   "stories": [
     {
       "category": "Local",
@@ -67,11 +67,29 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Hundreds arrested over French wildfires, but who is to blame?",
-      "summary": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/009e/live/2a0eb510-9272-11f1-a7ab-8b30adf0800a.jpg",
-      "publishedAt": "2026-08-08T23:59:23Z"
+      "title": "Fifa criticises campaign to oust president Infantino",
+      "summary": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de50/live/00229450-937c-11f1-9df5-0122184ff6d7.jpg",
+      "publishedAt": "2026-08-08T22:06:44Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+      "summary": "The Irish Prison Service bought a bulletproof and bomb-proof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6578/live/9e6e94f0-8bfd-11f1-a52a-dba993a97936.jpg",
+      "publishedAt": "2026-08-09T10:02:52Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
+      "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 36 sq miles (95 sq km).",
+      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/8ee7ee90-9374-11f1-b2ab-0dd01740f9f6.jpg",
+      "publishedAt": "2026-08-09T06:46:40Z"
     },
     {
       "category": "World",
@@ -90,24 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f1e/live/c8723c60-93a6-11f1-a1bc-cf78445a8520.jpg",
       "publishedAt": "2026-08-09T04:32:06Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-      "summary": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
-      "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136a/live/52b81650-930d-11f1-a52f-31e1c3a4e20b.jpg",
-      "publishedAt": "2026-08-08T15:56:39Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
-      "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab46/live/d545e110-931c-11f1-870d-5d08c49babb2.jpg",
-      "publishedAt": "2026-08-08T17:58:42Z"
     },
     {
       "category": "Science & Tech",
