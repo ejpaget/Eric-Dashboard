@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T21:23:10.303722Z",
+  "updatedAt": "2026-08-10T22:17:04.003205Z",
   "stories": [
     {
       "category": "Local",
@@ -48,12 +48,12 @@
     },
     {
       "category": "Local",
-      "source": "cbsnews.com",
-      "title": "All evacuations lifted for Kearney Fire forces in rural Nevada County near Penn Valley - cbsnews.com",
-      "summary": "All evacuations lifted for Kearney Fire forces in rural Nevada County near Penn Valley cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2NXQzFLR0M4MWVjNmM3U0VpdFZLM2llSUh3R3FTZDNOeDJSME5MTTFJSEtSdExmY1FMVVByNkNfQW1pa1M5WGNKelNmcmFlRmFHTF92TjZwMFppX3hMLVFtOGxRNDJVSFZ3QUlEVjhZd2o2cGVZVjk5UTgzZHEyaEQ2WnN5eDhocXhsRmR4aDFLeTRmZU1kWA?oc=5",
+      "source": "YubaNet",
+      "title": "Happening Now – August 2026 - YubaNet",
+      "summary": "Happening Now – August 2026 YubaNet",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oc2pzcm0xTzFQM2FwTlpqMFNxN0J6M1VlejljMnQxaFVJT3g1ZXRRenpodE1hYnJMOXRtTXZtNzBka0g2dWJiSg?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-07-14T07:00:00Z"
+      "publishedAt": "2026-08-01T07:00:00Z"
     },
     {
       "category": "World",
@@ -63,15 +63,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc11/live/b8002050-9495-11f1-9ade-bb7c8a2b6bc0.jpg",
       "publishedAt": "2026-08-10T14:34:25Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "World's oceans hit record-high July temperatures",
-      "summary": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
-      "url": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c200/live/ff20a010-94ac-11f1-b2ab-0dd01740f9f6.jpg",
-      "publishedAt": "2026-08-10T10:24:46Z"
     },
     {
       "category": "World",
@@ -90,6 +81,15 @@
       "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/561f/live/ef6387f0-94f2-11f1-b2ab-0dd01740f9f6.jpg",
       "publishedAt": "2026-08-10T19:17:11Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Canada flight cancelled after child refuses to wear seat belt",
+      "summary": "The incident has sparked a debate over child safety and discipline on commercial planes.",
+      "url": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca08/live/f3ccb1a0-94f6-11f1-9181-85140b8ce01b.jpg",
+      "publishedAt": "2026-08-10T21:06:27Z"
     },
     {
       "category": "World",
