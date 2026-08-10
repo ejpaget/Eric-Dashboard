@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T18:29:02.820606Z",
+  "updatedAt": "2026-08-10T19:36:52.858128Z",
   "stories": [
     {
       "category": "Local",
@@ -85,11 +85,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
-      "summary": "More than 12,000 people have been forced to evacuate over the weekend after a wildfire quickly tore through Canada's picturesque Okanagan region.",
+      "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+      "summary": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
       "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e29/live/23508ac0-94d2-11f1-8a9a-13c674e4e5fe.jpg",
-      "publishedAt": "2026-08-10T16:10:56Z"
+      "publishedAt": "2026-08-10T19:17:11Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "30 years later, a former gang member will stand trial for Tupac's murder",
+      "summary": "It’s been three decades since Tupac was killed, and since then, his reputation has only grown.",
+      "url": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2203/live/75fccdd0-94cb-11f1-8dc4-8907761852f3.jpg",
+      "publishedAt": "2026-08-10T16:52:47Z"
     },
     {
       "category": "World",
@@ -101,13 +110,13 @@
       "publishedAt": "2026-08-10T17:50:29Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Russian court bars only anti-war party from standing in parliamentary elections",
-      "summary": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow court rules.",
-      "url": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3520/live/5abf3640-94dd-11f1-b2ab-0dd01740f9f6.jpg",
-      "publishedAt": "2026-08-10T18:19:41Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+      "summary": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e29/live/23508ac0-94d2-11f1-8a9a-13c674e4e5fe.jpg",
+      "publishedAt": "2026-08-10T19:17:11Z"
     },
     {
       "category": "Science & Tech",
@@ -117,15 +126,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cx2d4gg57eqo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc1e/live/87eb0e70-94e0-11f1-b2ab-0dd01740f9f6.jpg",
       "publishedAt": "2026-08-10T17:29:05Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
-      "summary": "More than 12,000 people have been forced to evacuate over the weekend after a wildfire quickly tore through Canada's picturesque Okanagan region.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e29/live/23508ac0-94d2-11f1-8a9a-13c674e4e5fe.jpg",
-      "publishedAt": "2026-08-10T16:10:56Z"
     },
     {
       "category": "Science & Tech",
