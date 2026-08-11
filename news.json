@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T12:26:48.622792Z",
+  "updatedAt": "2026-08-11T14:02:45.188454Z",
   "stories": [
     {
       "category": "Local",
@@ -85,11 +85,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "At least 132 killed in Colombia's largest earthquake in years",
+      "title": "At least 169 killed in Colombia's largest earthquake in years",
       "summary": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
       "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f2f/live/f1603a50-954a-11f1-a7ab-8b30adf0800a.jpg",
-      "publishedAt": "2026-08-11T04:06:07Z"
+      "publishedAt": "2026-08-11T13:21:32Z"
     },
     {
       "category": "World",
@@ -116,7 +116,16 @@
       "summary": "Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.",
       "url": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/432b/live/d0752bb0-9578-11f1-bfbd-3fe7d55dcf7b.jpg",
-      "publishedAt": "2026-08-11T11:49:20Z"
+      "publishedAt": "2026-08-11T14:00:48Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Best places to see partial solar eclipse across England",
+      "summary": "Some parts of England could see up to 96 per cent of the moon covering the sun on 12 August.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7kzv5e3qo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/285c/live/352e1ed0-94c1-11f1-adb5-bd19050a74a5.jpg",
+      "publishedAt": "2026-08-11T12:35:04Z"
     },
     {
       "category": "Science & Tech",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cwyrk522pxro?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5175/live/e90a9c00-94c9-11f1-8dc4-8907761852f3.jpg",
       "publishedAt": "2026-08-11T11:17:16Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "What he told me made my blood run cold - Michael Sheen investigates Wales' toxic legacy",
-      "summary": "The Hollywood actor investigates claims cancer-causing chemicals were dumped across Wales.",
-      "url": "https://www.bbc.co.uk/news/articles/czekx5g39elo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/369f/live/f699a4f0-9551-11f1-a7ab-8b30adf0800a.jpg",
-      "publishedAt": "2026-08-11T05:21:53Z"
     },
     {
       "category": "Science & Tech",
