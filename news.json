@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T05:18:23.572796Z",
+  "updatedAt": "2026-08-11T06:30:59.395244Z",
   "stories": [
     {
       "category": "Local",
@@ -48,9 +48,9 @@
     },
     {
       "category": "Local",
-      "source": "yubanet.com",
-      "title": "Meet Spencer: The Four-Legged Ambassador of Joy Bringing Big Smiles to Grass Valley Seniors - yubanet.com",
-      "summary": "Meet Spencer: The Four-Legged Ambassador of Joy Bringing Big Smiles to Grass Valley Seniors yubanet.com",
+      "source": "YubaNet",
+      "title": "Meet Spencer: The Four-Legged Ambassador of Joy Bringing Big Smiles to Grass Valley Seniors - YubaNet",
+      "summary": "Meet Spencer: The Four-Legged Ambassador of Joy Bringing Big Smiles to Grass Valley Seniors YubaNet",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOWpySkdpRkZwaUUzWTVZVXo4TnpDQVNsSG5tUFFlTUdtaEdjamVXZDBhcW41LWt5VWtDRl9BaTJJY1FhSTZmdVh0OF9nRHZfcm55aWVDakF1UzJJV190NjVocEJJWklmZGFYa0lHZkYxMDZwZGsxLUhLS0N3aEdwZ0NUeW5hQ1ZidUxNc3JSUlJTdURiYmt1SllHYmFubVRUVnJxZjhja3dDcDFTcVBHMmlsMDFyNXdsbEtGMw?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-07-24T07:00:00Z"
@@ -61,7 +61,7 @@
       "title": "At least 132 killed in Colombia's largest earthquake in years",
       "summary": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
       "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b4c/live/491511d0-953c-11f1-a0b1-8d38ae2a7560.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f2f/live/f1603a50-954a-11f1-a7ab-8b30adf0800a.jpg",
       "publishedAt": "2026-08-11T04:06:07Z"
     },
     {
@@ -112,6 +112,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "What he told me made my blood run cold - Michael Sheen investigates Wales' toxic legacy",
+      "summary": "The Hollywood actor investigates claims cancer-causing chemicals were dumped across Wales.",
+      "url": "https://www.bbc.co.uk/news/articles/czekx5g39elo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c618/live/f5a7a1a0-9542-11f1-bfbd-932e148affb5.jpg",
+      "publishedAt": "2026-08-11T05:21:53Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "Perseid meteor shower reaches peak: When and where to catch a glimpse",
       "summary": "On Wednesday night the Perseids will peak offering the best chance of seeing a 'shooting star'.",
       "url": "https://www.bbc.co.uk/news/articles/c4g3kn216yzo?at_medium=RSS&at_campaign=rss",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cd6923j2wnpo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9edc/live/9e63a0f0-8a67-11f1-b8ee-9b3c26ad07bb.jpg",
       "publishedAt": "2026-08-11T00:18:49Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "What he told me made my blood run cold - Michael Sheen investigates Wales' toxic legacy",
-      "summary": "Michael Sheen investigates claims cancer-causing chemicals were dumped across Wales.",
-      "url": "https://www.bbc.co.uk/news/articles/czekx5g39elo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a8/live/b54457b0-94c1-11f1-9a90-77b2d426fac3.jpg",
-      "publishedAt": "2026-08-10T23:25:12Z"
     },
     {
       "category": "Science & Tech",
