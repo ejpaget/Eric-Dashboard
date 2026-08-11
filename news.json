@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T04:04:11.377655Z",
+  "updatedAt": "2026-08-11T05:18:23.572796Z",
   "stories": [
     {
       "category": "Local",
@@ -21,6 +21,15 @@
     },
     {
       "category": "Local",
+      "source": "FOX40",
+      "title": "65-year-old airlifted after serious Grass Valley motorcycle crash - FOX40",
+      "summary": "65-year-old airlifted after serious Grass Valley motorcycle crash FOX40",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaTV3WUo2bW1LWW5LQkVhTFRxUGw0OUt4MlJTdGFMMVZ3ZXgyZzdOQy1lSTRiVFg0anRJdFNleVJRRFRlNTE1TmlBSU9mN0Z2YV9yekJyeXZoYjFUMHAwczdwSjRjUlBRUDRpTFU5WDZoN2Z5TlR1cEI1LVpGb1dHXzZXSDB2M3VxeHZHV05RSdIBlAFBVV95cUxOaFFidm5FbTdUWXo1bkJoTEtTU3NxM1BnLUdvYUIwemJjMFJyQWxtSXl1MlJKN1BjYjk0R2ZING0xWW82elZ6SzgtNUw4MFY4S3VtUDZBQjVEcTBYRXJpaTZqeHFuMTllLTRELXVWdWZTQ0lBdHZGc254UVZ2Q0RwcG5Pa25UbjBpS3dRMjJJWEs0c0k3?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-07-27T07:00:00Z"
+    },
+    {
+      "category": "Local",
       "source": "Nevada Appeal",
       "title": "Move to Grass Valley ‘saves’ High Sierra Music Festival - Nevada Appeal",
       "summary": "Move to Grass Valley ‘saves’ High Sierra Music Festival Nevada Appeal",
@@ -39,30 +48,21 @@
     },
     {
       "category": "Local",
-      "source": "YubaNet",
-      "title": "Meet Spencer: The Four-Legged Ambassador of Joy Bringing Big Smiles to Grass Valley Seniors - YubaNet",
-      "summary": "Meet Spencer: The Four-Legged Ambassador of Joy Bringing Big Smiles to Grass Valley Seniors YubaNet",
+      "source": "yubanet.com",
+      "title": "Meet Spencer: The Four-Legged Ambassador of Joy Bringing Big Smiles to Grass Valley Seniors - yubanet.com",
+      "summary": "Meet Spencer: The Four-Legged Ambassador of Joy Bringing Big Smiles to Grass Valley Seniors yubanet.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOWpySkdpRkZwaUUzWTVZVXo4TnpDQVNsSG5tUFFlTUdtaEdjamVXZDBhcW41LWt5VWtDRl9BaTJJY1FhSTZmdVh0OF9nRHZfcm55aWVDakF1UzJJV190NjVocEJJWklmZGFYa0lHZkYxMDZwZGsxLUhLS0N3aEdwZ0NUeW5hQ1ZidUxNc3JSUlJTdURiYmt1SllHYmFubVRUVnJxZjhja3dDcDFTcVBHMmlsMDFyNXdsbEtGMw?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-07-24T07:00:00Z"
     },
     {
-      "category": "Local",
-      "source": "dot.ca.gov",
-      "title": "State Route 49 Corridor Improvement Project Will Improve Safety and Mobility in Nevada County - dot.ca.gov",
-      "summary": "State Route 49 Corridor Improvement Project Will Improve Safety and Mobility in Nevada County dot.ca.gov",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbmtOaTd3NDl6RjJmYlNJc1hjelBBVVZlVHhmSTAteFJLS2F0enh5aW5JeGowU1UyTVJLMktkcE8zeGF4azRBT29oa2VPSU9Xd3JkS0p2dFZ2X3ozRGRSMWFvUGV5SUo4d1hmQVF2TEdqN0tYV2NkcmxGSl84dDVzNGlHQQ?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-01-29T08:00:00Z"
-    },
-    {
       "category": "World",
       "source": "BBC News",
       "title": "At least 132 killed in Colombia's largest earthquake in years",
-      "summary": "The magnitude 7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away.",
+      "summary": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
       "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2041/live/b92c7aa0-94fe-11f1-870d-5d08c49babb2.jpg",
-      "publishedAt": "2026-08-11T01:59:40Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b4c/live/491511d0-953c-11f1-a0b1-8d38ae2a7560.jpg",
+      "publishedAt": "2026-08-11T04:06:07Z"
     },
     {
       "category": "World",
