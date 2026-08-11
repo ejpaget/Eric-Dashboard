@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-11T10:28:14.954371Z",
+  "updatedAt": "2026-08-11T11:25:21.721974Z",
   "stories": [
+    {
+      "category": "Local",
+      "source": "Legacy obituary",
+      "title": "Eleonore Lundmark Obituary (1926 - 2026) - Grass Valley, CA - The Union - Legacy obituary",
+      "summary": "Eleonore Lundmark Obituary (1926 - 2026) - Grass Valley, CA - The Union Legacy obituary",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQemxMVXIxYzlONlg4UWhTRzIzenExTHhnaEtHWEFwWkNGaWtCRmpPMVN1ZExwVTlLRmRYZWdhV29xbXhUdkhqV2NoN2JORkdPeVBwQ3R4U1JRekZBc21ydmRTZjVWcy1PdTZuLU9RLXJrdUIyOVpkRkZMbFBqTXZZT1hrUHRJZ09BLWlBVXcwbXNGRTA?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-11T11:15:06Z"
+    },
     {
       "category": "Local",
       "source": "Nevada County (.gov)",
@@ -39,27 +48,18 @@
     },
     {
       "category": "Local",
-      "source": "YubaNet",
-      "title": "Meet Spencer: The Four-Legged Ambassador of Joy Bringing Big Smiles to Grass Valley Seniors - YubaNet",
-      "summary": "Meet Spencer: The Four-Legged Ambassador of Joy Bringing Big Smiles to Grass Valley Seniors YubaNet",
+      "source": "yubanet.com",
+      "title": "Meet Spencer: The Four-Legged Ambassador of Joy Bringing Big Smiles to Grass Valley Seniors - yubanet.com",
+      "summary": "Meet Spencer: The Four-Legged Ambassador of Joy Bringing Big Smiles to Grass Valley Seniors yubanet.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOWpySkdpRkZwaUUzWTVZVXo4TnpDQVNsSG5tUFFlTUdtaEdjamVXZDBhcW41LWt5VWtDRl9BaTJJY1FhSTZmdVh0OF9nRHZfcm55aWVDakF1UzJJV190NjVocEJJWklmZGFYa0lHZkYxMDZwZGsxLUhLS0N3aEdwZ0NUeW5hQ1ZidUxNc3JSUlJTdURiYmt1SllHYmFubVRUVnJxZjhja3dDcDFTcVBHMmlsMDFyNXdsbEtGMw?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-07-24T07:00:00Z"
     },
     {
-      "category": "Local",
-      "source": "California Department of Transportation | Caltrans (.gov)",
-      "title": "State Route 49 Corridor Improvement Project Will Improve Safety and Mobility in Nevada County - California Department of Transportation | Caltrans (.gov)",
-      "summary": "State Route 49 Corridor Improvement Project Will Improve Safety and Mobility in Nevada County California Department of Transportation | Caltrans (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbmtOaTd3NDl6RjJmYlNJc1hjelBBVVZlVHhmSTAteFJLS2F0enh5aW5JeGowU1UyTVJLMktkcE8zeGF4azRBT29oa2VPSU9Xd3JkS0p2dFZ2X3ozRGRSMWFvUGV5SUo4d1hmQVF2TEdqN0tYV2NkcmxGSl84dDVzNGlHQQ?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-01-29T08:00:00Z"
-    },
-    {
       "category": "World",
       "source": "BBC News",
       "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-      "summary": "The US president was moved from the old Air Force One to a military plane as he left a Nato summit in Turkey last month, US media say.",
+      "summary": "The US president was part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
       "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f69/live/2dd49110-956f-11f1-b2ab-0dd01740f9f6.jpg",
       "publishedAt": "2026-08-11T09:58:45Z"
@@ -79,8 +79,8 @@
       "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
       "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
       "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16ee/live/c9a1fa20-9564-11f1-bfc0-f9e1bae5b9d9.jpg",
-      "publishedAt": "2026-08-11T09:42:48Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edd9/live/d8ac8750-956f-11f1-98c3-1da4f20b80e4.jpg",
+      "publishedAt": "2026-08-11T10:43:07Z"
     },
     {
       "category": "World",
@@ -112,6 +112,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "When and where to see the solar eclipse in Scotland",
+      "summary": "Up to 95% of the Sun will slowly disappear behind the Moon in the most dramatic eclipse visible from the UK since August 1999.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyrk522pxro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5175/live/e90a9c00-94c9-11f1-8dc4-8907761852f3.jpg",
+      "publishedAt": "2026-08-11T11:17:16Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "What he told me made my blood run cold - Michael Sheen investigates Wales' toxic legacy",
       "summary": "The Hollywood actor investigates claims cancer-causing chemicals were dumped across Wales.",
       "url": "https://www.bbc.co.uk/news/articles/czekx5g39elo?at_medium=RSS&at_campaign=rss",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c4g3kn216yzo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ef1/live/10392c10-94c0-11f1-adb5-bd19050a74a5.jpg",
       "publishedAt": "2026-08-11T01:59:24Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Disabled in a heatwave: 'We're talking about survival'",
-      "summary": "Disabled campaigners say the official advice for staying safe in a heatwave can put them in more danger.",
-      "url": "https://www.bbc.co.uk/news/articles/cd6923j2wnpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9edc/live/9e63a0f0-8a67-11f1-b8ee-9b3c26ad07bb.jpg",
-      "publishedAt": "2026-08-11T00:18:49Z"
     },
     {
       "category": "Science & Tech",
