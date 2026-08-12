@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T07:46:40.489330Z",
+  "updatedAt": "2026-08-12T09:20:36.248825Z",
   "stories": [
     {
       "category": "Local",
@@ -48,12 +48,12 @@
     },
     {
       "category": "Local",
-      "source": "FOX40",
-      "title": "65-year-old airlifted after serious Grass Valley motorcycle crash - FOX40",
-      "summary": "65-year-old airlifted after serious Grass Valley motorcycle crash FOX40",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaTV3WUo2bW1LWW5LQkVhTFRxUGw0OUt4MlJTdGFMMVZ3ZXgyZzdOQy1lSTRiVFg0anRJdFNleVJRRFRlNTE1TmlBSU9mN0Z2YV9yekJyeXZoYjFUMHAwczdwSjRjUlBRUDRpTFU5WDZoN2Z5TlR1cEI1LVpGb1dHXzZXSDB2M3VxeHZHV05RSdIBlAFBVV95cUxOaFFidm5FbTdUWXo1bkJoTEtTU3NxM1BnLUdvYUIwemJjMFJyQWxtSXl1MlJKN1BjYjk0R2ZING0xWW82elZ6SzgtNUw4MFY4S3VtUDZBQjVEcTBYRXJpaTZqeHFuMTllLTRELXVWdWZTQ0lBdHZGc254UVZ2Q0RwcG5Pa25UbjBpS3dRMjJJWEs0c0k3?oc=5",
+      "source": "YubaNet",
+      "title": "Meet Spencer: The Four-Legged Ambassador of Joy Bringing Big Smiles to Grass Valley Seniors - YubaNet",
+      "summary": "Meet Spencer: The Four-Legged Ambassador of Joy Bringing Big Smiles to Grass Valley Seniors YubaNet",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOWpySkdpRkZwaUUzWTVZVXo4TnpDQVNsSG5tUFFlTUdtaEdjamVXZDBhcW41LWt5VWtDRl9BaTJJY1FhSTZmdVh0OF9nRHZfcm55aWVDakF1UzJJV190NjVocEJJWklmZGFYa0lHZkYxMDZwZGsxLUhLS0N3aEdwZ0NUeW5hQ1ZidUxNc3JSUlJTdURiYmt1SllHYmFubVRUVnJxZjhja3dDcDFTcVBHMmlsMDFyNXdsbEtGMw?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-07-27T07:00:00Z"
+      "publishedAt": "2026-07-24T07:00:00Z"
     },
     {
       "category": "World",
@@ -85,20 +85,20 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
+      "summary": "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries.",
+      "url": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d93/live/417bbe50-961e-11f1-adec-3f90c109009f.jpg",
+      "publishedAt": "2026-08-12T07:44:44Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
       "summary": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
       "url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2554/live/747b0460-95be-11f1-a556-013790f38050.png",
       "publishedAt": "2026-08-11T21:14:56Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Baby Shark boy set to make K-pop debut",
-      "summary": "The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star.",
-      "url": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8101/live/a7391c20-95f5-11f1-870d-5d08c49babb2.jpg",
-      "publishedAt": "2026-08-12T03:26:32Z"
     },
     {
       "category": "World",
@@ -112,6 +112,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "Best places to see partial solar eclipse across England",
+      "summary": "Some parts of England could see up to 96 per cent of the moon covering the sun on 12 August.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7kzv5e3qo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/285c/live/352e1ed0-94c1-11f1-adb5-bd19050a74a5.jpg",
+      "publishedAt": "2026-08-12T08:28:13Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "Solar eclipse and the island of Ireland: The weather forecast and all you need to know",
       "summary": "Skywatchers are set to witness two major celestial events next week, with a deep partial solar eclipse followed by the peak of the Perseid meteor shower.",
       "url": "https://www.bbc.co.uk/news/articles/c39epmz7ex4o?at_medium=RSS&at_campaign=rss",
@@ -121,20 +130,11 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "When and where to see the solar eclipse in Scotland",
+      "title": "What time and where to see the solar eclipse in Scotland",
       "summary": "Up to 95% of the Sun will slowly disappear behind the Moon in the most dramatic eclipse visible from the UK since August 1999.",
       "url": "https://www.bbc.co.uk/news/articles/cwyrk522pxro?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5175/live/e90a9c00-94c9-11f1-8dc4-8907761852f3.jpg",
       "publishedAt": "2026-08-12T07:09:42Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "British driver who broke sound barrier sets new speed record",
-      "summary": "Andy Green set the fastest time ever recorded in a hydrogen-powered car, reaching 406mph (654km/h).",
-      "url": "https://www.bbc.co.uk/news/articles/czjl2yzx8epo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1d/live/08dff490-95ff-11f1-a7ab-8b30adf0800a.jpg",
-      "publishedAt": "2026-08-12T05:24:53Z"
     },
     {
       "category": "Science & Tech",
