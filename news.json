@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T06:02:45.651189Z",
+  "updatedAt": "2026-08-12T07:46:40.489330Z",
   "stories": [
     {
       "category": "Local",
@@ -94,7 +94,7 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Baby Shark Boy set to make K-pop debut",
+      "title": "Baby Shark boy set to make K-pop debut",
       "summary": "The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star.",
       "url": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8101/live/a7391c20-95f5-11f1-870d-5d08c49babb2.jpg",
@@ -104,10 +104,28 @@
       "category": "World",
       "source": "BBC News",
       "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
-      "summary": "The Portuguese superstar has posted an image of two hands - presumed to be his on top of his wife's - both wearing wedding rings.",
+      "summary": "The couple have tied the knot after the Portuguese captain played his last ever World Cup this summer.",
       "url": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5de/live/f44c8130-95c0-11f1-8ccf-29f879cbf253.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bbb/live/73523b30-9613-11f1-870d-5d08c49babb2.jpg",
       "publishedAt": "2026-08-12T04:29:02Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Solar eclipse and the island of Ireland: The weather forecast and all you need to know",
+      "summary": "Skywatchers are set to witness two major celestial events next week, with a deep partial solar eclipse followed by the peak of the Perseid meteor shower.",
+      "url": "https://www.bbc.co.uk/news/articles/c39epmz7ex4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925f/live/5f6e90c0-91ac-11f1-9c12-47c0acd34ba6.png",
+      "publishedAt": "2026-08-12T07:35:18Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "When and where to see the solar eclipse in Scotland",
+      "summary": "Up to 95% of the Sun will slowly disappear behind the Moon in the most dramatic eclipse visible from the UK since August 1999.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyrk522pxro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5175/live/e90a9c00-94c9-11f1-8dc4-8907761852f3.jpg",
+      "publishedAt": "2026-08-12T07:09:42Z"
     },
     {
       "category": "Science & Tech",
@@ -117,24 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/czjl2yzx8epo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1d/live/08dff490-95ff-11f1-a7ab-8b30adf0800a.jpg",
       "publishedAt": "2026-08-12T05:24:53Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "UK to get best eclipse since 1999 as Moon blocks out Sun across Europe",
-      "summary": "Up to 96% of the Sun will be covered by the Moon in the UK, while parts of Spain, Greenland, Iceland, Portugal and Russia will see a total eclipse.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ca0/live/fa935510-9583-11f1-8636-978a48bd79b6.jpg",
-      "publishedAt": "2026-08-11T23:17:15Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Watch: Severe storms overturn vehicle and trigger flooding in Ohio",
-      "summary": "Residents are being urged to prepare for additional severe storms in the coming days, as officials also report at least one fatality.",
-      "url": "https://www.bbc.co.uk/news/videos/cy451xqkdz5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/324c/live/a69aebb0-95c6-11f1-b2ab-0dd01740f9f6.jpg",
-      "publishedAt": "2026-08-11T20:56:08Z"
     },
     {
       "category": "Science & Tech",
