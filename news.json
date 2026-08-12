@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T09:20:36.248825Z",
+  "updatedAt": "2026-08-12T10:39:29.437798Z",
   "stories": [
     {
       "category": "Local",
@@ -39,9 +39,9 @@
     },
     {
       "category": "Local",
-      "source": "nevadaappeal.com",
-      "title": "Move to Grass Valley ‘saves’ High Sierra Music Festival - nevadaappeal.com",
-      "summary": "Move to Grass Valley ‘saves’ High Sierra Music Festival nevadaappeal.com",
+      "source": "Nevada Appeal",
+      "title": "Move to Grass Valley ‘saves’ High Sierra Music Festival - Nevada Appeal",
+      "summary": "Move to Grass Valley ‘saves’ High Sierra Music Festival Nevada Appeal",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaWdiSHNmeUVqdUVEdW9EY1otX3NQM2J0UDMtaTFETThkM2tILXlKNEZ5TkYxWHhlVUcyelBoTDdYYWxxQVYtRHp3R1NuN3h2dXpNMVh5elc4Z296ZUNxTUdYU3A5RTBCSEw4M25lQXcwTlpiZnd5eGtHX2VHRkQzRkZpVjdVSk1SblhvM0Q2LUY4Ql8xcTRaYVlQQkpjUEYwYnc?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-07-19T07:00:00Z"
@@ -70,7 +70,7 @@
       "title": "Trump confirms he switched planes after Nato summit because of possible threat",
       "summary": "Journalists and White House staff who were on board the jet were unaware the president had left.",
       "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a2f/live/9fe59830-95fb-11f1-870d-5d08c49babb2.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e32/live/76fded00-9632-11f1-b2ab-0dd01740f9f6.jpg",
       "publishedAt": "2026-08-12T03:44:55Z"
     },
     {
@@ -94,6 +94,15 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Wisconsin result halts winning streak for Democratic Party's left wing",
+      "summary": "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend.",
+      "url": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c016/live/64934810-962b-11f1-acde-358da1a6646b.jpg",
+      "publishedAt": "2026-08-12T09:55:40Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
       "summary": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
       "url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
@@ -101,13 +110,13 @@
       "publishedAt": "2026-08-11T21:14:56Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
-      "summary": "The couple have tied the knot after the Portuguese captain played his last ever World Cup this summer.",
-      "url": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bbb/live/73523b30-9613-11f1-870d-5d08c49babb2.jpg",
-      "publishedAt": "2026-08-12T04:29:02Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "What time and where to see the solar eclipse in Scotland",
+      "summary": "Up to 95% of the Sun will slowly disappear behind the Moon in the most dramatic eclipse visible from the UK since August 1999.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyrk522pxro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5175/live/e90a9c00-94c9-11f1-8dc4-8907761852f3.jpg",
+      "publishedAt": "2026-08-12T10:01:43Z"
     },
     {
       "category": "Science & Tech",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c39epmz7ex4o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925f/live/5f6e90c0-91ac-11f1-9c12-47c0acd34ba6.png",
       "publishedAt": "2026-08-12T07:35:18Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "What time and where to see the solar eclipse in Scotland",
-      "summary": "Up to 95% of the Sun will slowly disappear behind the Moon in the most dramatic eclipse visible from the UK since August 1999.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyrk522pxro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5175/live/e90a9c00-94c9-11f1-8dc4-8907761852f3.jpg",
-      "publishedAt": "2026-08-12T07:09:42Z"
     },
     {
       "category": "Science & Tech",
