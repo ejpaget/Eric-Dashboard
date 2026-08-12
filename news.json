@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T14:03:21.045601Z",
+  "updatedAt": "2026-08-12T15:09:49.078846Z",
   "stories": [
     {
       "category": "Local",
@@ -58,20 +58,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Trump confirms he switched planes after Nato summit because of possible threat",
-      "summary": "Journalists and White House staff who were on board the jet were unaware the president had left.",
-      "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e32/live/76fded00-9632-11f1-b2ab-0dd01740f9f6.jpg",
-      "publishedAt": "2026-08-12T03:44:55Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-      "summary": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
-      "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca5a/live/b1c8cd30-95cc-11f1-a7ab-8b30adf0800a.jpg",
-      "publishedAt": "2026-08-12T00:14:42Z"
+      "title": "Members of Trump's cabinet remained on decoy plane, after Trump's quiet exit",
+      "summary": "The president boarded a different plane in Turkey during a Nato summit to evade an Iranian threat.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ce/live/3ac23d60-9659-11f1-b2ab-0dd01740f9f6.jpg",
+      "publishedAt": "2026-08-12T14:44:48Z"
     },
     {
       "category": "World",
@@ -89,16 +80,16 @@
       "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
       "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22b5/live/2509dcc0-9641-11f1-8414-97750c5a4202.jpg",
-      "publishedAt": "2026-08-12T12:16:22Z"
+      "publishedAt": "2026-08-12T14:03:48Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "US inflation eases as food costs cool",
+      "title": "US inflation eases as food and fuel costs cool",
       "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
       "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a864/live/f178bef0-9648-11f1-9d8e-b1efdebf2f99.jpg",
-      "publishedAt": "2026-08-12T13:40:51Z"
+      "publishedAt": "2026-08-12T14:09:48Z"
     },
     {
       "category": "World",
@@ -108,6 +99,24 @@
       "url": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde6/live/0ce8a9c0-963a-11f1-b809-7db91972344e.png",
       "publishedAt": "2026-08-12T11:28:05Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
+      "summary": "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries.",
+      "url": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d93/live/417bbe50-961e-11f1-adec-3f90c109009f.jpg",
+      "publishedAt": "2026-08-12T07:44:44Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "What time and where might you see the solar eclipse in Scotland",
+      "summary": "Hopes of catching the best view are fading in parts of Scotland as clouds threaten to hide the celestial event.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyrk522pxro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5175/live/e90a9c00-94c9-11f1-8dc4-8907761852f3.jpg",
+      "publishedAt": "2026-08-12T15:01:46Z"
     },
     {
       "category": "Science & Tech",
@@ -121,20 +130,11 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "When and where in the West Country to see the solar eclipse",
-      "summary": "The UK's biggest solar eclipse since 1999 arrives today. Here's where to see it safely in the West Country.",
-      "url": "https://www.bbc.co.uk/news/articles/cjrvn0wez48o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0040/live/ba1ceac0-8b5e-11f1-b422-3b36120ef864.jpg",
-      "publishedAt": "2026-08-12T12:44:15Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Generations of fish 'wiped out' after pollution incident",
-      "summary": "The Department of Environment said 5km of the Kilkeel River in the Mournes area was impacted.",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxp5lp9ndo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8511/live/99b84950-9644-11f1-8414-97750c5a4202.jpg",
-      "publishedAt": "2026-08-12T11:50:02Z"
+      "title": "Astronomy superfan, 11, shares tips for watching solar eclipse",
+      "summary": "Efan Dafydd's love of the cosmos continued to grow after meeting his hero, astronaut Tim Peake.",
+      "url": "https://www.bbc.co.uk/news/articles/cn9npgez25lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07c6/live/5e469180-964c-11f1-a4de-8772188b26f6.jpg",
+      "publishedAt": "2026-08-12T12:47:57Z"
     },
     {
       "category": "Science & Tech",
