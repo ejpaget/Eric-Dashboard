@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T15:09:49.078846Z",
+  "updatedAt": "2026-08-12T16:07:35.260360Z",
   "stories": [
     {
       "category": "Local",
@@ -39,18 +39,18 @@
     },
     {
       "category": "Local",
-      "source": "Nevada Appeal",
-      "title": "Move to Grass Valley ‘saves’ High Sierra Music Festival - Nevada Appeal",
-      "summary": "Move to Grass Valley ‘saves’ High Sierra Music Festival Nevada Appeal",
+      "source": "nevadaappeal.com",
+      "title": "Move to Grass Valley ‘saves’ High Sierra Music Festival - nevadaappeal.com",
+      "summary": "Move to Grass Valley ‘saves’ High Sierra Music Festival nevadaappeal.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaWdiSHNmeUVqdUVEdW9EY1otX3NQM2J0UDMtaTFETThkM2tILXlKNEZ5TkYxWHhlVUcyelBoTDdYYWxxQVYtRHp3R1NuN3h2dXpNMVh5elc4Z296ZUNxTUdYU3A5RTBCSEw4M25lQXcwTlpiZnd5eGtHX2VHRkQzRkZpVjdVSk1SblhvM0Q2LUY4Ql8xcTRaYVlQQkpjUEYwYnc?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-07-19T07:00:00Z"
     },
     {
       "category": "Local",
-      "source": "YubaNet",
-      "title": "Meet Spencer: The Four-Legged Ambassador of Joy Bringing Big Smiles to Grass Valley Seniors - YubaNet",
-      "summary": "Meet Spencer: The Four-Legged Ambassador of Joy Bringing Big Smiles to Grass Valley Seniors YubaNet",
+      "source": "yubanet.com",
+      "title": "Meet Spencer: The Four-Legged Ambassador of Joy Bringing Big Smiles to Grass Valley Seniors - yubanet.com",
+      "summary": "Meet Spencer: The Four-Legged Ambassador of Joy Bringing Big Smiles to Grass Valley Seniors yubanet.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOWpySkdpRkZwaUUzWTVZVXo4TnpDQVNsSG5tUFFlTUdtaEdjamVXZDBhcW41LWt5VWtDRl9BaTJJY1FhSTZmdVh0OF9nRHZfcm55aWVDakF1UzJJV190NjVocEJJWklmZGFYa0lHZkYxMDZwZGsxLUhLS0N3aEdwZ0NUeW5hQ1ZidUxNc3JSUlJTdURiYmt1SllHYmFubVRUVnJxZjhja3dDcDFTcVBHMmlsMDFyNXdsbEtGMw?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-07-24T07:00:00Z"
@@ -58,11 +58,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Members of Trump's cabinet remained on decoy plane, after Trump's quiet exit",
-      "summary": "The president boarded a different plane in Turkey during a Nato summit to evade an Iranian threat.",
+      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
       "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ce/live/3ac23d60-9659-11f1-b2ab-0dd01740f9f6.jpg",
-      "publishedAt": "2026-08-12T14:44:48Z"
+      "publishedAt": "2026-08-12T15:57:18Z"
     },
     {
       "category": "World",
@@ -112,6 +112,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "Generations of fish 'wiped out' after pollution incident",
+      "summary": "The Department of Environment said 5km of the Kilkeel River in the Mournes area was impacted.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxp5lp9ndo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8511/live/99b84950-9644-11f1-8414-97750c5a4202.jpg",
+      "publishedAt": "2026-08-12T15:21:34Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "What time and where might you see the solar eclipse in Scotland",
       "summary": "Hopes of catching the best view are fading in parts of Scotland as clouds threaten to hide the celestial event.",
       "url": "https://www.bbc.co.uk/news/articles/cwyrk522pxro?at_medium=RSS&at_campaign=rss",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/videos/czxq245k1neo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0db4/live/bd7f10c0-964f-11f1-b2ab-0dd01740f9f6.jpg",
       "publishedAt": "2026-08-12T13:32:41Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Astronomy superfan, 11, shares tips for watching solar eclipse",
-      "summary": "Efan Dafydd's love of the cosmos continued to grow after meeting his hero, astronaut Tim Peake.",
-      "url": "https://www.bbc.co.uk/news/articles/cn9npgez25lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07c6/live/5e469180-964c-11f1-a4de-8772188b26f6.jpg",
-      "publishedAt": "2026-08-12T12:47:57Z"
     },
     {
       "category": "Science & Tech",
