@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-13T05:20:38.000501Z",
+  "updatedAt": "2026-08-13T07:00:53.719773Z",
   "stories": [
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "Auburn State Theatre, Auburn Arts Commission to present 'The Biggest Little Farm' August 15",
+      "summary": "Sponsored by the Arts Council of Placer County.",
+      "url": "https://www.theunion.com/entertainment/auburn-state-theatre-auburn-arts-commission-to-present-the-biggest-little-farm-august-15/article_53af387d-ca86-43e0-87a6-b3574be413fb.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/3/ee/3ee2f060-7ab7-4528-9335-2007e1d9d8ee/6a7a5414ef2f5.image.png?resize=300%2C469",
+      "publishedAt": "2026-08-13T07:00:00Z"
+    },
     {
       "category": "Local",
       "source": "The Union",
@@ -47,19 +56,10 @@
       "publishedAt": "2026-08-12T09:30:00Z"
     },
     {
-      "category": "Local",
-      "source": "The Union",
-      "title": "Al Stahler: Upcoming shower",
-      "summary": "Billions of years ago, there was no sun, no Earth ... just a humongous cloud of gas and dust, drifting through the galaxy. The cloud would drift close to a star, drift away, drift close to another star.",
-      "url": "https://www.theunion.com/lifestyles/al-stahler-upcoming-shower/article_8ad21c33-e5dd-4925-924a-cc6ecee8a50a.html",
-      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/9/f4/9f41a668-71d1-457f-8a4d-b6cb498ad56e/6a7a4daee0d05.image.jpg?resize=300%2C365",
-      "publishedAt": "2026-08-12T09:30:00Z"
-    },
-    {
       "category": "World",
       "source": "BBC News",
       "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-      "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only “destroy Ukraine, not conquer it,” with the war now in its fifth year.",
+      "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
       "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d25/live/1d504a60-964f-11f1-b2ab-0dd01740f9f6.jpg",
       "publishedAt": "2026-08-13T04:55:58Z"
@@ -112,6 +112,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "Cloudy skies lead to mixed fortunes for Scotland's eclipse hunters",
+      "summary": "Scotland's best chance of seeing a solar eclipse in 27 years left some disappointed, though there were moments of magic.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y49e2z8yno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9be/live/904f3af0-968e-11f1-9854-73d5e7b83e3b.jpg",
+      "publishedAt": "2026-08-13T05:40:24Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
       "summary": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
       "url": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/548e/live/e3a91030-9694-11f1-870d-5d08c49babb2.jpg",
       "publishedAt": "2026-08-12T21:53:45Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Cloudy skies lead to mixed fortunes for Scotland's eclipse hunters",
-      "summary": "Scotland's best chance of seeing a solar eclipse in 27 years left some disappointed, though there were moments of magic.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y49e2z8yno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9be/live/904f3af0-968e-11f1-9854-73d5e7b83e3b.jpg",
-      "publishedAt": "2026-08-12T21:55:17Z"
     },
     {
       "category": "Science & Tech",
