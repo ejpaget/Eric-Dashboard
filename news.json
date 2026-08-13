@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T18:05:48.400090Z",
+  "updatedAt": "2026-08-13T19:16:39.158219Z",
   "stories": [
     {
       "category": "Local",
@@ -67,6 +67,15 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73db/live/5d4d0250-9728-11f1-808c-532494fd22c7.jpg",
+      "publishedAt": "2026-08-13T16:05:35Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
       "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
       "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
@@ -76,20 +85,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
-      "summary": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
-      "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45e0/live/2fd6c2d0-96a5-11f1-b2ab-0dd01740f9f6.jpg",
-      "publishedAt": "2026-08-13T01:31:21Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "summary": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been deployed since November.",
+      "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
       "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ef/live/60e60690-9733-11f1-bdbf-1b7b2a4a87a1.jpg",
-      "publishedAt": "2026-08-13T17:21:00Z"
+      "publishedAt": "2026-08-13T19:07:55Z"
     },
     {
       "category": "World",
