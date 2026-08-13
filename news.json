@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T22:56:55.305525Z",
+  "updatedAt": "2026-08-13T23:53:00.562544Z",
   "stories": [
     {
       "category": "Local",
@@ -98,7 +98,7 @@
       "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
       "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ef/live/60e60690-9733-11f1-bdbf-1b7b2a4a87a1.jpg",
-      "publishedAt": "2026-08-13T22:02:54Z"
+      "publishedAt": "2026-08-13T23:06:23Z"
     },
     {
       "category": "World",
@@ -139,15 +139,6 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
-      "summary": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11e4/live/79e44fc0-94a0-11f1-870d-5d08c49babb2.jpg",
-      "publishedAt": "2026-08-13T22:00:10Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
       "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
       "summary": "The dating app's boss says the move is in response to a successful trial and a change in what users want.",
       "url": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o?at_medium=RSS&at_campaign=rss",
@@ -162,6 +153,15 @@
       "url": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/041d/live/7f342ef0-9720-11f1-bb91-6bb44c42ed47.jpg",
       "publishedAt": "2026-08-13T13:02:24Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
+      "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
+      "summary": "Users of the popular streaming platform criticised allowing Amazon to use their data by dafault.",
+      "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6839/live/60b85d20-9702-11f1-b2ab-0dd01740f9f6.jpg",
+      "publishedAt": "2026-08-13T10:39:02Z"
     }
   ],
   "feedErrors": [
