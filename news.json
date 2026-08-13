@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T10:19:00.138533Z",
+  "updatedAt": "2026-08-13T11:24:38.162961Z",
   "stories": [
     {
       "category": "Local",
@@ -39,9 +39,9 @@
     },
     {
       "category": "Local",
-      "source": "jambase.com",
-      "title": "Little Feat Keeps Special Guest Streak Going With Jeff Pevar In Grass Valley - jambase.com",
-      "summary": "Little Feat Keeps Special Guest Streak Going With Jeff Pevar In Grass Valley jambase.com",
+      "source": "JamBase",
+      "title": "Little Feat Keeps Special Guest Streak Going With Jeff Pevar In Grass Valley - JamBase",
+      "summary": "Little Feat Keeps Special Guest Streak Going With Jeff Pevar In Grass Valley JamBase",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaF9FUTNTbUlsQ2NEZmdQcUl5OG9MbUVtZmVneE82ekhLNW5iR3ZEV2tJNHllLVhiQkwxTUU0RXJUMnFVcU1MUXQwYWdfUENIeTRHT0ZPVkp6NmFuR2gteU5UYUZsTVljY0FCNHh4Q1ZsenZBQ3FCbEFZYjZveWp4SWs0aTBvbFNia2c?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-12T16:14:00Z"
@@ -71,7 +71,7 @@
       "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
       "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1476/live/59a2ade0-96fa-11f1-bb0e-6d40312a1485.png",
-      "publishedAt": "2026-08-13T09:52:30Z"
+      "publishedAt": "2026-08-13T11:05:03Z"
     },
     {
       "category": "World",
@@ -94,20 +94,29 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Indian actor's video with endangered gibbon sparks investigation",
-      "summary": "A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India.",
-      "url": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3069/live/d93ce580-96e5-11f1-9b96-77d3dc534330.png",
-      "publishedAt": "2026-08-13T07:05:35Z"
+      "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
+      "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a017/live/b5f275d0-96e1-11f1-870d-5d08c49babb2.jpg",
+      "publishedAt": "2026-08-13T01:19:23Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "BTS star V reveals hearing loss battle during livestream",
-      "summary": "The K-pop star says he has suffered hearing issues for over two years before revealing it publicly this week.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0298/live/61c58c60-96cb-11f1-9bc6-975e8edc7c6e.jpg",
-      "publishedAt": "2026-08-13T04:09:12Z"
+      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
+      "summary": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
+      "url": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09b3/live/6cb77580-9701-11f1-b72c-211ea4e0afc4.jpg",
+      "publishedAt": "2026-08-13T11:10:31Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Temperatures to soar to 38C as amber extreme heat warning in effect",
+      "summary": "Heat will spike again on Thursday with a rare warning in place and more records set to tumble.",
+      "url": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f41d/live/5386c300-9665-11f1-a6eb-474cf36e6c34.png",
+      "publishedAt": "2026-08-13T08:01:32Z"
     },
     {
       "category": "Science & Tech",
@@ -129,12 +138,12 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
-      "summary": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/548e/live/e3a91030-9694-11f1-870d-5d08c49babb2.jpg",
-      "publishedAt": "2026-08-12T21:53:45Z"
+      "source": "BBC Technology",
+      "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
+      "summary": "Users of the popular streaming platform criticised allowing Amazon to use their data by dafault.",
+      "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6839/live/60b85d20-9702-11f1-b2ab-0dd01740f9f6.jpg",
+      "publishedAt": "2026-08-13T10:39:02Z"
     },
     {
       "category": "Science & Tech",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ede/live/9f7531a0-8f41-11f1-8c3d-6f698d2b4d1e.jpg",
       "publishedAt": "2026-08-12T23:00:47Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Discord ordered to suspend livestreams in Brazil",
-      "summary": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
-      "url": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da43/live/d62cadd0-966d-11f1-a6eb-474cf36e6c34.jpg",
-      "publishedAt": "2026-08-12T17:10:31Z"
     }
   ],
   "feedErrors": [
