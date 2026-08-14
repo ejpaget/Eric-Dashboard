@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T19:08:39.259164Z",
+  "updatedAt": "2026-08-14T19:53:47.005879Z",
   "stories": [
     {
       "category": "Local",
@@ -58,6 +58,15 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+      "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+      "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f272/live/7fe520d0-980f-11f1-a7ea-19f04b81e9a0.jpg",
+      "publishedAt": "2026-08-14T18:25:38Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
       "summary": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
       "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2853/live/24aa5020-97cc-11f1-b2ab-0dd01740f9f6.jpg",
       "publishedAt": "2026-08-14T10:55:39Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "France's top court blocks social media ban for under-15s",
-      "summary": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f52/live/af679960-97f5-11f1-9577-b1309b6ea3af.jpg",
-      "publishedAt": "2026-08-14T16:35:06Z"
     },
     {
       "category": "Science & Tech",
