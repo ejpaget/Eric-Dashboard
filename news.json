@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T04:41:57.584737Z",
+  "updatedAt": "2026-08-15T05:35:02.905181Z",
   "stories": [
     {
       "category": "Local",
@@ -30,9 +30,9 @@
     },
     {
       "category": "Local",
-      "source": "Nevada County (.gov)",
-      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - Nevada County (.gov)",
-      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations Nevada County (.gov)",
+      "source": "nevadacountyca.gov",
+      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - nevadacountyca.gov",
+      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations nevadacountyca.gov",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-06-18T05:24:55Z"
@@ -67,6 +67,24 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+      "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
+      "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb9/live/bd08d920-982d-11f1-8cf9-eb47c9176e95.jpg",
+      "publishedAt": "2026-08-15T00:01:53Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Five dead after 7.7 magnitude earthquake strikes Indonesia",
+      "summary": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae3/live/73539fc0-984d-11f1-92c4-9d3840de4561.jpg",
+      "publishedAt": "2026-08-15T04:12:55Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
       "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
       "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
@@ -90,24 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10f1/live/0bf3a4d0-97ce-11f1-a927-0dfab640b8c9.jpg",
       "publishedAt": "2026-08-14T12:19:21Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-      "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
-      "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f4a/live/021031f0-97fa-11f1-870d-5d08c49babb2.jpg",
-      "publishedAt": "2026-08-14T17:03:17Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "'Unprecedented' rain in Japan kills eight people",
-      "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
-      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6687/live/c392f100-97c3-11f1-a7ab-8b30adf0800a.jpg",
-      "publishedAt": "2026-08-14T10:36:14Z"
     },
     {
       "category": "Science & Tech",
