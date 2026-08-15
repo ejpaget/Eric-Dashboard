@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T10:53:32.099929Z",
+  "updatedAt": "2026-08-15T11:30:18.945621Z",
   "stories": [
     {
       "category": "Local",
@@ -67,15 +67,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
-      "summary": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9de/live/0576f3e0-980b-11f1-a7ab-8b30adf0800a.jpg",
-      "publishedAt": "2026-08-14T18:54:58Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
       "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
       "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
@@ -94,6 +85,15 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
+      "summary": "Among those killed in the strike on Ansar included three children and two women, state media reports.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
+      "publishedAt": "2026-08-15T11:24:24Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "South Korea proposes talks to officially end war with North",
       "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
       "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
@@ -103,11 +103,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "France's top court blocks social media ban for under-15s",
-      "summary": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f52/live/af679960-97f5-11f1-9577-b1309b6ea3af.jpg",
-      "publishedAt": "2026-08-14T16:35:06Z"
+      "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+      "summary": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
+      "url": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6316/live/fb096c00-988f-11f1-870d-5d08c49babb2.jpg",
+      "publishedAt": "2026-08-15T10:56:22Z"
     },
     {
       "category": "Science & Tech",
@@ -139,6 +139,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "summary": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feb2/live/91ecfb30-97e8-11f1-a76b-f1c27c51f3da.jpg",
+      "publishedAt": "2026-08-15T11:25:32Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
       "title": "Why tech bosses keep sharing their manifestos about AI",
       "summary": "Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.",
       "url": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c67/live/6a1b9720-7c35-11f1-b976-0b9c15b0ccfc.jpg",
       "publishedAt": "2026-08-14T21:20:19Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
-      "summary": "The dating app's boss says the move is in response to a successful trial and a change in what users want.",
-      "url": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2c2/live/34e5f670-972b-11f1-808c-532494fd22c7.jpg",
-      "publishedAt": "2026-08-13T14:09:05Z"
     }
   ],
   "feedErrors": [
