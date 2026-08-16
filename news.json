@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T14:54:45.571803Z",
+  "updatedAt": "2026-08-16T15:31:53.322712Z",
   "stories": [
     {
       "category": "Local",
@@ -9,6 +9,15 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVJrQWRxZWxNS3dDTGJOWXJ5UGdsbFBJNnpnT0hsWjlyZEoyRk9ST2pHOUtxNEEtVXM2b2xLZUpDRGJpNWxOYUJiMVExdDBkX283Y291NHRWQ1lkTVVieTRsOFNrTHBFYzVVVl9pWkNnNHY0RFpnMXlvYVZ4eV85QzVJS0txN0pkNlFFM1Y3cnVhc1BmakxHXzhCZkpoU0NxVGNvUmZ3ZjN2aVU?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-12T16:23:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "NFHS Network",
+      "title": "Basketball On Demand Games - Bear River High School - Grass Valley, CA - NFHS Network",
+      "summary": "Basketball On Demand Games - Bear River High School - Grass Valley, CA NFHS Network",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ1VGbW95VnRmdnBGMjAzVkpZS3VPbDQtd0MtZFNtX3cyYVpwbXBFSjdhY2dZX0ppZkhVcTJILTJxTElpUGdYMHNxb2d5MWtBLVl6alpKcVB6a0N5c21aZDhIUHRQTXU3LVJwYWZBak40UTV0QWFrMkNJaGxraTFkSTk1dlBUQmN5Tk1nX3BXeE41bFE5X3Jzc1YzTFV1VGpWQzFhd3RpeUZYYnpVY0VXbXNZUklDUHliYkp3YzNPSjFqNk9venc?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-15T17:51:43Z"
     },
     {
       "category": "Local",
@@ -47,22 +56,13 @@
       "publishedAt": "2026-08-13T18:00:00Z"
     },
     {
-      "category": "Local",
-      "source": "KCRA",
-      "title": "Yuba Fire: Evacuations lifted for fire in Nevada County - KCRA",
-      "summary": "Yuba Fire: Evacuations lifted for fire in Nevada County KCRA",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3TXBfdjh1b0plN3NLTUJUTko4Wm9BSFVpcjFUQ3ltZmdKbVhKaDlEU1ZHc1pPM2s3S2JVcURReUNDajgwNkdwVThZTWp3SFJGd3ZTZVZ6VXpySk5CamlWeFhDeEJhcUZLSWg3VERnNkpJM3di?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-13T15:49:00Z"
-    },
-    {
       "category": "World",
       "source": "BBC News",
-      "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-      "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+      "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
       "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c54/live/e957d010-9947-11f1-b2ab-0dd01740f9f6.jpg",
-      "publishedAt": "2026-08-16T10:52:08Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f78/live/bd896330-997f-11f1-a7ab-8b30adf0800a.jpg",
+      "publishedAt": "2026-08-16T15:14:01Z"
     },
     {
       "category": "World",
@@ -103,11 +103,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2823/live/147ab810-997b-11f1-a992-3780b3f27758.jpg",
-      "publishedAt": "2026-08-16T09:27:58Z"
+      "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+      "summary": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
+      "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/690e/live/238fb440-9980-11f1-a4eb-59b79ff5ff4f.jpg",
+      "publishedAt": "2026-08-16T15:25:38Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+      "summary": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
+      "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/690e/live/238fb440-9980-11f1-a4eb-59b79ff5ff4f.jpg",
+      "publishedAt": "2026-08-16T15:25:38Z"
     },
     {
       "category": "Science & Tech",
@@ -117,15 +126,6 @@
       "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/995d/live/6816b320-9944-11f1-a7ab-8b30adf0800a.jpg",
       "publishedAt": "2026-08-16T12:53:43Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
-      "summary": "The fire burning through the major park was described as the country's worst in recent years.",
-      "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f13/live/01221bd0-98d3-11f1-9687-fb984065014d.jpg",
-      "publishedAt": "2026-08-15T17:47:42Z"
     },
     {
       "category": "Science & Tech",
