@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T22:52:46.287192Z",
+  "updatedAt": "2026-08-16T23:30:14.860585Z",
   "stories": [
     {
       "category": "Local",
@@ -39,15 +39,6 @@
     },
     {
       "category": "Local",
-      "source": "Nevada County (.gov)",
-      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - Nevada County (.gov)",
-      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations Nevada County (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-06-18T05:24:55Z"
-    },
-    {
-      "category": "Local",
       "source": "ABC10",
       "title": "Grass Valley Police suspends fixed-point license plate readers, cancels Flock Safety contract - ABC10",
       "summary": "Grass Valley Police suspends fixed-point license plate readers, cancels Flock Safety contract ABC10",
@@ -56,13 +47,22 @@
       "publishedAt": "2026-08-12T02:39:00Z"
     },
     {
+      "category": "Local",
+      "source": "Nevada County (.gov)",
+      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - Nevada County (.gov)",
+      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations Nevada County (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-06-18T05:24:55Z"
+    },
+    {
       "category": "World",
       "source": "BBC News",
       "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
-      "summary": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
+      "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
       "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43fc/live/4a1c1570-99b9-11f1-870d-5d08c49babb2.jpg",
-      "publishedAt": "2026-08-16T22:41:34Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg",
+      "publishedAt": "2026-08-16T23:28:14Z"
     },
     {
       "category": "World",
@@ -139,6 +139,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
+      "title": "If Meta loses this trial, Instagram and Facebook could change forever",
+      "summary": "Thirty US states have sued Meta to force an overhaul of its platforms for young users.",
+      "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/078d/live/f51173c0-97c1-11f1-9963-d1f200dff659.jpg",
+      "publishedAt": "2026-08-16T23:27:36Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
       "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
       "summary": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
       "url": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feb2/live/91ecfb30-97e8-11f1-a76b-f1c27c51f3da.jpg",
       "publishedAt": "2026-08-15T11:25:32Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Why tech bosses keep sharing their manifestos about AI",
-      "summary": "Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.",
-      "url": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41d4/live/d7830930-97e5-11f1-a76b-f1c27c51f3da.jpg",
-      "publishedAt": "2026-08-14T23:06:27Z"
     }
   ],
   "feedErrors": [
