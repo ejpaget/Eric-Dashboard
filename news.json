@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T06:55:02.409227Z",
+  "updatedAt": "2026-08-16T07:39:18.012684Z",
   "stories": [
     {
       "category": "Local",
@@ -9,15 +9,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVJrQWRxZWxNS3dDTGJOWXJ5UGdsbFBJNnpnT0hsWjlyZEoyRk9ST2pHOUtxNEEtVXM2b2xLZUpDRGJpNWxOYUJiMVExdDBkX283Y291NHRWQ1lkTVVieTRsOFNrTHBFYzVVVl9pWkNnNHY0RFpnMXlvYVZ4eV85QzVJS0txN0pkNlFFM1Y3cnVhc1BmakxHXzhCZkpoU0NxVGNvUmZ3ZjN2aVU?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-12T16:23:00Z"
-    },
-    {
-      "category": "Local",
-      "source": "nfhsnetwork.com",
-      "title": "Basketball On Demand Games - Bear River High School - Grass Valley, CA - nfhsnetwork.com",
-      "summary": "Basketball On Demand Games - Bear River High School - Grass Valley, CA nfhsnetwork.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ1VGbW95VnRmdnBGMjAzVkpZS3VPbDQtd0MtZFNtX3cyYVpwbXBFSjdhY2dZX0ppZkhVcTJILTJxTElpUGdYMHNxb2d5MWtBLVl6alpKcVB6a0N5c21aZDhIUHRQTXU3LVJwYWZBak40UTV0QWFrMkNJaGxraTFkSTk1dlBUQmN5Tk1nX3BXeE41bFE5X3Jzc1YzTFV1VGpWQzFhd3RpeUZYYnpVY0VXbXNZUklDUHliYkp3YzNPSjFqNk9venc?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-15T17:51:43Z"
     },
     {
       "category": "Local",
@@ -56,6 +47,15 @@
       "publishedAt": "2026-06-18T05:24:55Z"
     },
     {
+      "category": "Local",
+      "source": "WorldAtlas",
+      "title": "10 Best Places To Retire In California's Sierra Nevada - WorldAtlas",
+      "summary": "10 Best Places To Retire In California's Sierra Nevada WorldAtlas",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTXUwYmRkQ3NDc3NtTkZRTEV2LWJqNTJYbHBzaDBmTXRYX243TGVKNzJ0Z1hzbmRZSEIyZ3lqUXJlM2U3U2kxczJ0cmNlZ3QwMkFEMmoybFIzWWNTWUFwNjlKdlNxNjlCTGZfZ2JxNElpYTB0YWR5T1o5MEZkbnNQT19lWEx3Ml9iV2tmbDktVmdYeUF4WFBTejkxeDVGVGNPYVE?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-13T18:00:00Z"
+    },
+    {
       "category": "World",
       "source": "BBC News",
       "title": "Rescuers search for survivors of powerful Indonesia earthquake",
@@ -67,20 +67,29 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
+      "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd3/live/455f2ee0-98e3-11f1-b2ab-0dd01740f9f6.jpg",
+      "publishedAt": "2026-08-16T06:53:22Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+      "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/972b/live/dabb8db0-993f-11f1-9d32-93c6539c1530.jpg",
+      "publishedAt": "2026-08-16T07:04:17Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
       "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
       "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b64/live/5894c3c0-98d0-11f1-9687-fb984065014d.jpg",
       "publishedAt": "2026-08-15T20:58:31Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
-      "publishedAt": "2026-08-15T20:21:14Z"
     },
     {
       "category": "World",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0329/live/074a0750-98e9-11f1-a7ab-8b30adf0800a.jpg",
       "publishedAt": "2026-08-15T21:03:57Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Multiple suspects at large after five shot at Virginia State University, police say",
-      "summary": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
-      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae25/live/6493d6c0-98bc-11f1-a7ab-8b30adf0800a.jpg",
-      "publishedAt": "2026-08-15T19:34:22Z"
     },
     {
       "category": "Science & Tech",
