@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T09:21:52.298083Z",
+  "updatedAt": "2026-08-17T10:07:17.465880Z",
   "stories": [
     {
       "category": "Local",
@@ -85,20 +85,20 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+      "summary": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
+      "url": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68e6/live/4086a540-9a16-11f1-b0ec-399275ee28cb.jpg",
+      "publishedAt": "2026-08-17T08:38:41Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
       "summary": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo.",
       "url": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6968/live/176af9c0-99f5-11f1-8ffd-896dfa12c5fd.jpg",
       "publishedAt": "2026-08-17T04:41:31Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Record rains drench South Korean city as landslide kills one",
-      "summary": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b96/live/e2371780-99f3-11f1-8ffd-896dfa12c5fd.jpg",
-      "publishedAt": "2026-08-17T04:34:09Z"
     },
     {
       "category": "World",
