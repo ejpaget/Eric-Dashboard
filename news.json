@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T18:01:30.798934Z",
+  "updatedAt": "2026-08-17T18:53:54.870626Z",
   "stories": [
     {
       "category": "Local",
@@ -48,9 +48,9 @@
     },
     {
       "category": "Local",
-      "source": "JamBase",
-      "title": "Little Feat Keeps Special Guest Streak Going With Jeff Pevar In Grass Valley - JamBase",
-      "summary": "Little Feat Keeps Special Guest Streak Going With Jeff Pevar In Grass Valley JamBase",
+      "source": "jambase.com",
+      "title": "Little Feat Keeps Special Guest Streak Going With Jeff Pevar In Grass Valley - jambase.com",
+      "summary": "Little Feat Keeps Special Guest Streak Going With Jeff Pevar In Grass Valley jambase.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaF9FUTNTbUlsQ2NEZmdQcUl5OG9MbUVtZmVneE82ekhLNW5iR3ZEV2tJNHllLVhiQkwxTUU0RXJUMnFVcU1MUXQwYWdfUENIeTRHT0ZPVkp6NmFuR2gteU5UYUZsTVljY0FCNHh4Q1ZsenZBQ3FCbEFZYjZveWp4SWs0aTBvbFNia2c?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-12T16:14:00Z"
@@ -76,15 +76,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-      "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg",
-      "publishedAt": "2026-08-17T06:24:31Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Russia's prominent anti-war politician jailed for 11 years",
       "summary": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
       "url": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
@@ -94,19 +85,28 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "US hiker dies after being struck by lightning on Mount Etna",
-      "summary": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report.",
-      "url": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e58/live/50b3c630-9a31-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-17T12:23:26Z"
+      "title": "French PM heckled over wildfire response as blazes continue across Europe",
+      "summary": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eda/live/2bab6b50-9a58-11f1-ba0a-a16da249d30e.jpg",
+      "publishedAt": "2026-08-17T18:00:55Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Tributes paid to Hayden Panettiere's 'amazing talent' after actress dies at 36",
-      "summary": "Police say there were no signs of foul play or suspicious circumstances in the Heroes and Nashville star's death.",
+      "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
+      "summary": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.",
+      "url": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/30fa3180-9a45-11f1-a86b-519b4d19bbee.jpg",
+      "publishedAt": "2026-08-17T18:03:23Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
+      "summary": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
       "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d23a/live/d8efa640-9a0e-11f1-a05c-fdd5e0ed226e.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/14ea8240-9a6a-11f1-b792-a710e56a11dc.jpg",
       "publishedAt": "2026-08-17T17:31:36Z"
     },
     {
