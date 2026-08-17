@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T17:01:25.478831Z",
+  "updatedAt": "2026-08-17T17:39:07.655182Z",
   "stories": [
     {
       "category": "Local",
@@ -30,9 +30,9 @@
     },
     {
       "category": "Local",
-      "source": "gratefulweb.com",
-      "title": "Barrelhouse Bluesin’ and Cajun Funk Rockin’ with Little Feat in Northern California - gratefulweb.com",
-      "summary": "Barrelhouse Bluesin’ and Cajun Funk Rockin’ with Little Feat in Northern California gratefulweb.com",
+      "source": "Grateful Web",
+      "title": "Barrelhouse Bluesin’ and Cajun Funk Rockin’ with Little Feat in Northern California - Grateful Web",
+      "summary": "Barrelhouse Bluesin’ and Cajun Funk Rockin’ with Little Feat in Northern California Grateful Web",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMlp0U25SVE14NmIwczQyanNiNmtGSkkwQU5iSjJMZzlWREdEd215clAwUXB2ZElDMkJ0VllyR1NkMXB1UVNiV3hfdzhkY0VTY0xGazdsUTNrWnQtekhQaWw0WjFYU2kxSDhrUk5MaVcxVXdVTV93anpXZlY0bjA3anozbmxuNENmR1BPZUNtU092bjVjSGN6aW5rOGw1U2pMVkZiVnd6YW5sSHRJenhwVVJZY09ibWw2Nkdn?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-15T14:02:47Z"
@@ -59,19 +59,10 @@
       "category": "World",
       "source": "BBC News",
       "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-      "summary": "The US and Oman have been working separately to reopen the Strait of Hormuz, one of the world's busiest oil shipping routes.",
+      "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
       "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0845/live/0d9a0730-9a52-11f1-aed2-8d6da8d75094.jpg",
       "publishedAt": "2026-08-17T16:26:34Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-      "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg",
-      "publishedAt": "2026-08-17T06:24:31Z"
     },
     {
       "category": "World",
@@ -85,11 +76,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
-      "summary": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
-      "url": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68e6/live/4086a540-9a16-11f1-b0ec-399275ee28cb.jpg",
-      "publishedAt": "2026-08-17T10:39:24Z"
+      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+      "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg",
+      "publishedAt": "2026-08-17T06:24:31Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Russia's prominent anti-war politician jailed for 11 years",
+      "summary": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6484/live/398ad2e0-9a4b-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-08-17T16:17:34Z"
     },
     {
       "category": "World",
