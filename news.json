@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-16T23:51:58.097709Z",
+  "updatedAt": "2026-08-17T01:51:31.649029Z",
   "stories": [
     {
       "category": "Local",
-      "source": "kcra.com",
-      "title": "Grass Valley cancels Flock contract for license plate reading cameras - kcra.com",
-      "summary": "Grass Valley cancels Flock contract for license plate reading cameras kcra.com",
+      "source": "KCRA",
+      "title": "Grass Valley cancels Flock contract for license plate reading cameras - KCRA",
+      "summary": "Grass Valley cancels Flock contract for license plate reading cameras KCRA",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVJrQWRxZWxNS3dDTGJOWXJ5UGdsbFBJNnpnT0hsWjlyZEoyRk9ST2pHOUtxNEEtVXM2b2xLZUpDRGJpNWxOYUJiMVExdDBkX283Y291NHRWQ1lkTVVieTRsOFNrTHBFYzVVVl9pWkNnNHY0RFpnMXlvYVZ4eV85QzVJS0txN0pkNlFFM1Y3cnVhc1BmakxHXzhCZkpoU0NxVGNvUmZ3ZjN2aVU?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-12T16:23:00Z"
@@ -39,15 +39,6 @@
     },
     {
       "category": "Local",
-      "source": "Nevada County (.gov)",
-      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - Nevada County (.gov)",
-      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations Nevada County (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-06-18T05:24:55Z"
-    },
-    {
-      "category": "Local",
       "source": "ABC10",
       "title": "Grass Valley Police suspends fixed-point license plate readers, cancels Flock Safety contract - ABC10",
       "summary": "Grass Valley Police suspends fixed-point license plate readers, cancels Flock Safety contract ABC10",
@@ -56,13 +47,22 @@
       "publishedAt": "2026-08-12T02:39:00Z"
     },
     {
+      "category": "Local",
+      "source": "WorldAtlas",
+      "title": "10 Best Places To Retire In California's Sierra Nevada - WorldAtlas",
+      "summary": "10 Best Places To Retire In California's Sierra Nevada WorldAtlas",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTXUwYmRkQ3NDc3NtTkZRTEV2LWJqNTJYbHBzaDBmTXRYX243TGVKNzJ0Z1hzbmRZSEIyZ3lqUXJlM2U3U2kxczJ0cmNlZ3QwMkFEMmoybFIzWWNTWUFwNjlKdlNxNjlCTGZfZ2JxNElpYTB0YWR5T1o5MEZkbnNQT19lWEx3Ml9iV2tmbDktVmdYeUF4WFBTejkxeDVGVGNPYVE?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-13T18:00:00Z"
+    },
+    {
       "category": "World",
       "source": "BBC News",
       "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
       "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
       "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg",
-      "publishedAt": "2026-08-16T23:28:14Z"
+      "publishedAt": "2026-08-17T00:06:05Z"
     },
     {
       "category": "World",
@@ -112,20 +112,20 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
+      "summary": "The state's governor says there \"amazingly\" does not seem to have been any loss of life besides a car crash.",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/995d/live/6816b320-9944-11f1-a7ab-8b30adf0800a.jpg",
+      "publishedAt": "2026-08-17T00:20:51Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
       "summary": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
       "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8457/live/7c724440-999b-11f1-b2ab-0dd01740f9f6.jpg",
       "publishedAt": "2026-08-16T20:01:51Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
-      "summary": "A search-and-rescue operation is under way after properties were uprooted from their foundations.",
-      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/995d/live/6816b320-9944-11f1-a7ab-8b30adf0800a.jpg",
-      "publishedAt": "2026-08-16T18:46:12Z"
     },
     {
       "category": "Science & Tech",
