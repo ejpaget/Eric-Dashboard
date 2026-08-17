@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T14:38:28.198837Z",
+  "updatedAt": "2026-08-17T14:57:59.163310Z",
   "stories": [
     {
       "category": "Local",
@@ -48,12 +48,21 @@
     },
     {
       "category": "Local",
-      "source": "KCRA",
-      "title": "Yuba Fire: Evacuations lifted for fire in Nevada County - KCRA",
-      "summary": "Yuba Fire: Evacuations lifted for fire in Nevada County KCRA",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3TXBfdjh1b0plN3NLTUJUTko4Wm9BSFVpcjFUQ3ltZmdKbVhKaDlEU1ZHc1pPM2s3S2JVcURReUNDajgwNkdwVThZTWp3SFJGd3ZTZVZ6VXpySk5CamlWeFhDeEJhcUZLSWg3VERnNkpJM3di?oc=5",
+      "source": "YubaNet",
+      "title": "Happening Now – August 2026 - YubaNet",
+      "summary": "Happening Now – August 2026 YubaNet",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oc2pzcm0xTzFQM2FwTlpqMFNxN0J6M1VlejljMnQxaFVJT3g1ZXRRenpodE1hYnJMOXRtTXZtNzBka0g2dWJiSg?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-08-13T15:49:00Z"
+      "publishedAt": "2026-08-01T07:00:00Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+      "summary": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies.",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cbd/live/ce084930-9a40-11f1-a86b-519b4d19bbee.jpg",
+      "publishedAt": "2026-08-17T14:36:44Z"
     },
     {
       "category": "World",
@@ -67,19 +76,10 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-      "summary": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1476/live/b59ea940-9a3e-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-17T13:58:38Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Russia and Ukraine trade more deadly strikes",
       "summary": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
       "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47a8/live/067cc130-9a26-11f1-aed2-8d6da8d75094.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff99/live/3f3c3600-9a39-11f1-a86b-519b4d19bbee.png",
       "publishedAt": "2026-08-17T13:16:50Z"
     },
     {
@@ -94,20 +94,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
-      "summary": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6968/live/176af9c0-99f5-11f1-8ffd-896dfa12c5fd.jpg",
-      "publishedAt": "2026-08-17T04:41:31Z"
+      "title": "US hiker dies after being struck by lightning on Mount Etna",
+      "summary": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report.",
+      "url": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e58/live/50b3c630-9a31-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-08-17T12:23:26Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Top Zambian opposition figures arrested days after presidential vote",
-      "summary": "The leading opposition candidate calls allegations of a planned insurrection \"total fabrications\".",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4885/live/b3a7d990-9a02-11f1-ad4f-c7824f9e4997.jpg",
-      "publishedAt": "2026-08-17T14:23:04Z"
+      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+      "summary": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1476/live/b59ea940-9a3e-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-08-17T13:58:38Z"
     },
     {
       "category": "Science & Tech",
