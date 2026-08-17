@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T14:57:59.163310Z",
+  "updatedAt": "2026-08-17T15:35:06.185558Z",
   "stories": [
     {
       "category": "Local",
@@ -62,7 +62,7 @@
       "summary": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies.",
       "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cbd/live/ce084930-9a40-11f1-a86b-519b4d19bbee.jpg",
-      "publishedAt": "2026-08-17T14:36:44Z"
+      "publishedAt": "2026-08-17T14:59:02Z"
     },
     {
       "category": "World",
@@ -112,6 +112,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "More hosepipe bans in force as drought declared - is your area affected?",
+      "summary": "Nearly 30 million people have been placed under hosepipe bans due to higher demand and low rainfall.",
+      "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c74b/live/69a57380-7fa8-11f1-a5f4-433bb9aa2e5a.jpg",
+      "publishedAt": "2026-08-17T15:27:01Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "Consultation ending on controversial Rosebank oil field",
       "summary": "Supporters and opponents of the controversial plans have been making their cases on the £8.7bn project.",
       "url": "https://www.bbc.co.uk/news/articles/cm2gm8je1kgo?at_medium=RSS&at_campaign=rss",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c5yvdglz962o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc59/live/6fbd4990-9750-11f1-a7ab-8b30adf0800a.jpg",
       "publishedAt": "2026-08-17T11:06:39Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
-      "summary": "The state's governor says there \"amazingly\" does not seem to have been any loss of life besides a car crash.",
-      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/995d/live/6816b320-9944-11f1-a7ab-8b30adf0800a.jpg",
-      "publishedAt": "2026-08-17T00:20:51Z"
     },
     {
       "category": "Science & Tech",
