@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-18T10:40:37.385183Z",
+  "updatedAt": "2026-08-18T11:35:11.166494Z",
   "stories": [
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "Until next year: Last look at the 2026 Nevada County Fair (PHOTO GALLERY)",
+      "summary": "",
+      "url": "https://www.theunion.com/news/until-next-year-last-look-at-the-2026-nevada-county-fair-photo-gallery/article_6b99a29d-92c3-4018-8269-682768e7dc76.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/7/cd/7cde93fb-1aea-4f72-bd29-7dcd6f1157d6/6a83927d662d8.image.jpg?resize=300%2C191",
+      "publishedAt": "2026-08-18T10:45:00Z"
+    },
     {
       "category": "Local",
       "source": "The Union",
@@ -45,15 +54,6 @@
       "url": "https://www.theunion.com/news/marc-cuniberti-some-really-bad-calls/article_27cd4d13-acac-41d5-90e5-d088cd454a57.html",
       "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/7/36/73681324-a63e-11ed-a597-1b4330c8835d/63e1301b96d32.image.png?resize=300%2C288",
       "publishedAt": "2026-08-18T09:15:00Z"
-    },
-    {
-      "category": "Local",
-      "source": "The Union",
-      "title": "Nevada County Police Blotter: Juvenile stealing golf cart at fairgrounds reported",
-      "summary": "Friday",
-      "url": "https://www.theunion.com/news/nevada-county-police-blotter-juvenile-stealing-golf-cart-at-fairgrounds-reported/article_81c8fac9-1a51-4ee6-8925-94f055f8d5ee.html",
-      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/4/a3/4a305518-8666-11ed-9178-e76d559c302f/63abc349d95d6.image.jpg?resize=300%2C198",
-      "publishedAt": "2026-08-18T09:00:00Z"
     },
     {
       "category": "World",
@@ -139,6 +139,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
+      "title": "ChatGPT to stop responding to teens in human voice",
+      "summary": "OpenAI insisted this was not in response to a particular issue with children believing ChatGPT to be alive.",
+      "url": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a091/live/d1a80e80-9aeb-11f1-930b-57cfba7235f9.jpg",
+      "publishedAt": "2026-08-18T11:26:26Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
       "title": "AI to help planes avoid climate-warming 'sky graffiti'",
       "summary": "A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.",
       "url": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c4d/live/36a87330-9aea-11f1-a291-b542ee92de7c.jpg",
       "publishedAt": "2026-08-18T09:00:33Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
-      "summary": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
-      "url": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a22/live/86235450-9731-11f1-870d-5d08c49babb2.jpg",
-      "publishedAt": "2026-08-15T23:45:44Z"
     }
   ],
   "feedErrors": [
