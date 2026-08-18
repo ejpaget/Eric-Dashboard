@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-08-18T09:43:57.707706Z",
+  "updatedAt": "2026-08-18T10:40:37.385183Z",
   "stories": [
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "Pleasant conditions to continue: Mostly clear to partly cloudy skies expected through week",
+      "summary": "Many were probably relieved that during the Nevada County Fair, temperatures were relatively mild and didn’t present the blazing temps we’ve seen in years past.",
+      "url": "https://www.theunion.com/news/pleasant-conditions-to-continue-mostly-clear-to-partly-cloudy-skies-expected-through-week/article_ba8e69dd-3e41-4024-8622-8baa29d58d62.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/9/97/9972d0f8-0ce5-4af1-b060-f16c42ca467e/6a3c522f8c813.image.jpg?resize=300%2C198",
+      "publishedAt": "2026-08-18T10:30:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "A half century of smiles: Foothill Mercantile celebrates 50 years in Grass Valley",
+      "summary": "Whether you are one of Susan Amick’s relatives—a number of whom are employed in Foothill Mercantile—or one who has entered her store, enjoyed the extensive toy selection, eaten a fresh batch of fudge, or found your favorite collectible, there’s one…",
+      "url": "https://www.theunion.com/news/a-half-century-of-smiles-foothill-mercantile-celebrates-50-years-in-grass-valley/article_d77caed5-3f27-4b6b-a1cc-8412e41bf4d7.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/1/23/123fc08d-84cc-4cd7-b24e-0e6c6c883acc/6a8376ceb88b4.image.jpg?resize=300%2C225",
+      "publishedAt": "2026-08-18T10:00:00Z"
+    },
     {
       "category": "Local",
       "source": "The Union",
@@ -38,22 +56,13 @@
       "publishedAt": "2026-08-18T09:00:00Z"
     },
     {
-      "category": "Local",
-      "source": "The Union",
-      "title": "Nevada County to host oil filter exchange and battery recycling event on August 29",
-      "summary": "Nevada County residents are invited to tune up their recycling habits and save a little money at the upcoming Oil Filter Exchange event.",
-      "url": "https://www.theunion.com/news/nevada-county-to-host-oil-filter-exchange-and-battery-recycling-event-on-august-29/article_c9fb1ace-a9cc-4035-8db4-3d2e14004c6d.html",
-      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/d/d7/dd7a7637-e302-4ac8-be76-862df8c57243/6a7fb4d4269dc.image.png?resize=300%2C191",
-      "publishedAt": "2026-08-18T08:45:00Z"
-    },
-    {
-      "category": "Local",
-      "source": "The Union",
-      "title": "Nevada County Captures: Opening ceremonies at the Fair",
-      "summary": "SUBMIT A PHOTO",
-      "url": "https://www.theunion.com/multimedia/nevada-county-captures-opening-ceremonies-at-the-fair/article_7d4a0c0d-b5cb-484e-8603-b8923f1639fc.html",
-      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/1/15/11523d52-d434-41a7-8e16-27d13161e871/6a834ceb82998.image.jpg?resize=300%2C200",
-      "publishedAt": "2026-08-18T08:30:00Z"
+      "category": "World",
+      "source": "BBC News",
+      "title": "Russia warns UK will pay for supplying drones to Ukraine",
+      "summary": "Russia accuses the UK of escalating the Ukraine war after British-made drones were used, but the MoD says it stands against Russian aggression.",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg",
+      "publishedAt": "2026-08-18T09:55:00Z"
     },
     {
       "category": "World",
@@ -63,15 +72,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/603b/live/6eb43020-9180-11f1-b8ee-9b3c26ad07bb.jpg",
       "publishedAt": "2026-08-18T08:07:37Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Russia warns UK will pay for supplying drones to Ukraine",
-      "summary": "Russia accuses the UK after British-made drones were used in Ukrainian strikes, but the MoD says it stands against Russian aggression.",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg",
-      "publishedAt": "2026-08-18T09:33:49Z"
     },
     {
       "category": "World",
@@ -151,7 +151,7 @@
       "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
       "summary": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
       "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8335/live/a0b1d6f0-9adf-11f1-b2f7-5d1639b20e22.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c4d/live/36a87330-9aea-11f1-a291-b542ee92de7c.jpg",
       "publishedAt": "2026-08-18T09:00:33Z"
     },
     {
