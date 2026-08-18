@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-08-17T23:53:38.096664Z",
+  "updatedAt": "2026-08-18T01:46:40.418169Z",
   "stories": [
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "Cinderella Project to host August 22 'pop up' event in downtown Grass Valley, just in time for fall homecomings",
+      "summary": "The Cinderella Project provides free dresses, gowns, suits and tuxedos for proms and other special events — including the upcoming high school fall homecomings.",
+      "url": "https://www.theunion.com/news/cinderella-project-to-host-august-22-pop-up-event-in-downtown-grass-valley-just-in/article_cfba0969-4170-40ce-8823-ba0e7ad55126.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/9/c3/9c3bd63f-e8dd-449f-9db1-f3967e9f6892/6a838d2c18b89.image.jpg?resize=300%2C228",
+      "publishedAt": "2026-08-17T22:35:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "Nevada County hosting community information session on North San Juan cannabis dispensary selection process August 27",
+      "summary": "Nevada County is inviting community members to an information session on Thursday, Aug. 27 in North San Juan to learn about the application review and permitting process for a potential cannabis dispensary in North San Juan. Anyone interested is encouraged…",
+      "url": "https://www.theunion.com/news/nevada-county-hosting-community-information-session-on-north-san-juan-cannabis-dispensary-selection-process-august/article_c52e2321-c1de-407e-8110-60ff3c83a57a.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/9/43/943812ab-f6a8-4790-b72d-e4936b57348c/6a8385f373de2.image.jpg?resize=300%2C400",
+      "publishedAt": "2026-08-17T22:15:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "Qué buscar al considerar un préstamo personal con garantía de auto",
+      "summary": "",
+      "url": "https://www.theunion.com/online_features/espanol/qu-buscar-al-considerar-un-pr-stamo-personal-con-garant-a-de-auto/article_0cee206b-54ca-5230-8cff-bfbefd2bc062.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/3/f3/3f3784c1-1dae-542a-bd44-62754d329990/6a82d58d9875e.image.jpg?resize=300%2C180",
+      "publishedAt": "2026-08-17T05:00:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "4 hábitos diarios para mantener un cerebro sano y mejorar la función cognitive",
+      "summary": "",
+      "url": "https://www.theunion.com/online_features/espanol/4-h-bitos-diarios-para-mantener-un-cerebro-sano-y-mejorar-la-funci-n-cognitive/article_ffa72400-8aeb-5667-82d5-eaa4f99de2ca.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/a/87/a87a1c05-9837-5bf5-93a6-46737bc32070/6a82d58daa751.image.jpg?resize=300%2C180",
+      "publishedAt": "2026-08-17T05:00:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "More Than Hair: How the Back-to-School Haircut Impacts Confidence",
+      "summary": "",
+      "url": "https://www.theunion.com/online_features/family_living/more-than-hair-how-the-back-to-school-haircut-impacts-confidence/article_833027c8-1187-5d20-a3b3-128670f6d39f.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/f/88/f88eb60e-d95a-5d24-a0fa-68290e649abf/6a82d58dd72f8.image.jpg?resize=300%2C180",
+      "publishedAt": "2026-08-17T05:00:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "3 Must-Dos Before Your Next Road Trip",
+      "summary": "",
+      "url": "https://www.theunion.com/online_features/family_living/3-must-dos-before-your-next-road-trip/article_364e9a66-2daf-5cde-9c00-960756d74bd6.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/1/c6/1c6600de-4c11-5656-ba4e-fbd4a06bc711/6a82d58de7fe9.image.jpg?resize=300%2C180",
+      "publishedAt": "2026-08-17T05:00:00Z"
+    },
     {
       "category": "World",
       "source": "BBC News",
@@ -13,11 +67,29 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Russia and Ukraine trade more deadly strikes",
-      "summary": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
-      "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff99/live/3f3c3600-9a39-11f1-a86b-519b4d19bbee.png",
-      "publishedAt": "2026-08-17T13:16:50Z"
+      "title": "Russia warns UK over supplying drones to Ukraine",
+      "summary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg",
+      "publishedAt": "2026-08-18T01:16:41Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "BBC breaks down Trump's latest shift on North and South Korea",
+      "summary": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
+      "url": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb7/live/b807c3f0-9a94-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-08-17T23:42:38Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Norway's king admitted to hospital and put on sick leave",
+      "summary": "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd62/live/e5a7dd60-9a79-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-08-17T21:34:26Z"
     },
     {
       "category": "World",
@@ -27,24 +99,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6484/live/398ad2e0-9a4b-11f1-aed2-8d6da8d75094.jpg",
       "publishedAt": "2026-08-17T16:17:34Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "French PM heckled over wildfire response as blazes continue across Europe",
-      "summary": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eda/live/2bab6b50-9a58-11f1-ba0a-a16da249d30e.jpg",
-      "publishedAt": "2026-08-17T18:00:55Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
-      "summary": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.",
-      "url": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/30fa3180-9a45-11f1-a86b-519b4d19bbee.jpg",
-      "publishedAt": "2026-08-17T18:03:23Z"
     },
     {
       "category": "World",
@@ -111,8 +165,6 @@
     }
   ],
   "feedErrors": [
-    "The Union: HTTP Error 429: Too Many Requests",
-    "Google News local results: HTTP Error 503: Service Unavailable",
     "ESPN: no element found: line 1, column 0"
   ]
 }
