@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T22:36:19.379564Z",
+  "updatedAt": "2026-08-18T22:56:26.070930Z",
   "stories": [
     {
       "category": "Local",
@@ -139,6 +139,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
+      "title": "Meta hooked children on Facebook and Instagram, court hears",
+      "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
+      "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4029/live/737ae0f0-9b39-11f1-adfc-97cecc6f1ad1.jpg",
+      "publishedAt": "2026-08-18T22:11:07Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
       "title": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
       "summary": "OpenAI insisted this was not in response to a particular issue with children believing ChatGPT to be alive.",
       "url": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/975e/live/208c6990-9ae4-11f1-b2f7-5d1639b20e22.jpg",
       "publishedAt": "2026-08-18T09:26:41Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
-      "summary": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
-      "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c4d/live/36a87330-9aea-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-18T09:00:33Z"
     }
   ],
   "feedErrors": [
