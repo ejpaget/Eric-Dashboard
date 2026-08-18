@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T05:39:12.904813Z",
+  "updatedAt": "2026-08-18T06:00:06.901063Z",
   "stories": [
     {
       "category": "Local",
@@ -21,21 +21,12 @@
     },
     {
       "category": "Local",
-      "source": "NFHS Network",
-      "title": "Basketball On Demand Games - Bear River High School - Grass Valley, CA - NFHS Network",
-      "summary": "Basketball On Demand Games - Bear River High School - Grass Valley, CA NFHS Network",
+      "source": "nfhsnetwork.com",
+      "title": "Basketball On Demand Games - Bear River High School - Grass Valley, CA - nfhsnetwork.com",
+      "summary": "Basketball On Demand Games - Bear River High School - Grass Valley, CA nfhsnetwork.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ1VGbW95VnRmdnBGMjAzVkpZS3VPbDQtd0MtZFNtX3cyYVpwbXBFSjdhY2dZX0ppZkhVcTJILTJxTElpUGdYMHNxb2d5MWtBLVl6alpKcVB6a0N5c21aZDhIUHRQTXU3LVJwYWZBak40UTV0QWFrMkNJaGxraTFkSTk1dlBUQmN5Tk1nX3BXeE41bFE5X3Jzc1YzTFV1VGpWQzFhd3RpeUZYYnpVY0VXbXNZUklDUHliYkp3YzNPSjFqNk9venc?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-15T17:51:43Z"
-    },
-    {
-      "category": "Local",
-      "source": "Nevada County (.gov)",
-      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - Nevada County (.gov)",
-      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations Nevada County (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-06-18T05:24:55Z"
     },
     {
       "category": "Local",
@@ -56,6 +47,15 @@
       "publishedAt": "2026-08-12T02:39:00Z"
     },
     {
+      "category": "Local",
+      "source": "YubaNet",
+      "title": "Happening Now – August 2026 - YubaNet",
+      "summary": "Happening Now – August 2026 YubaNet",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oc2pzcm0xTzFQM2FwTlpqMFNxN0J6M1VlejljMnQxaFVJT3g1ZXRRenpodE1hYnJMOXRtTXZtNzBka0g2dWJiSg?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-01T07:00:00Z"
+    },
+    {
       "category": "World",
       "source": "BBC News",
       "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
@@ -68,7 +68,7 @@
       "category": "World",
       "source": "BBC News",
       "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
-      "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer, \"We'll take care of it,\" an officer testified.",
+      "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified.",
       "url": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b73/live/79965b50-9a89-11f1-b792-a710e56a11dc.jpg",
       "publishedAt": "2026-08-18T05:24:15Z"
