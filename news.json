@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T04:46:30.332176Z",
+  "updatedAt": "2026-08-18T05:39:12.904813Z",
   "stories": [
     {
       "category": "Local",
@@ -30,6 +30,15 @@
     },
     {
       "category": "Local",
+      "source": "Nevada County (.gov)",
+      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - Nevada County (.gov)",
+      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations Nevada County (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-06-18T05:24:55Z"
+    },
+    {
+      "category": "Local",
       "source": "Grateful Web",
       "title": "Barrelhouse Bluesin’ and Cajun Funk Rockin’ with Little Feat in Northern California - Grateful Web",
       "summary": "Barrelhouse Bluesin’ and Cajun Funk Rockin’ with Little Feat in Northern California Grateful Web",
@@ -47,22 +56,13 @@
       "publishedAt": "2026-08-12T02:39:00Z"
     },
     {
-      "category": "Local",
-      "source": "JamBase",
-      "title": "Little Feat Keeps Special Guest Streak Going With Jeff Pevar In Grass Valley - JamBase",
-      "summary": "Little Feat Keeps Special Guest Streak Going With Jeff Pevar In Grass Valley JamBase",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaF9FUTNTbUlsQ2NEZmdQcUl5OG9MbUVtZmVneE82ekhLNW5iR3ZEV2tJNHllLVhiQkwxTUU0RXJUMnFVcU1MUXQwYWdfUENIeTRHT0ZPVkp6NmFuR2gteU5UYUZsTVljY0FCNHh4Q1ZsenZBQ3FCbEFZYjZveWp4SWs0aTBvbFNia2c?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-12T16:14:00Z"
-    },
-    {
       "category": "World",
       "source": "BBC News",
-      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-      "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0845/live/0d9a0730-9a52-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-08-17T19:25:05Z"
+      "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+      "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+      "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/603b/live/6eb43020-9180-11f1-b8ee-9b3c26ad07bb.jpg",
+      "publishedAt": "2026-08-18T05:00:04Z"
     },
     {
       "category": "World",
@@ -71,7 +71,16 @@
       "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer, \"We'll take care of it,\" an officer testified.",
       "url": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b73/live/79965b50-9a89-11f1-b792-a710e56a11dc.jpg",
-      "publishedAt": "2026-08-18T02:06:04Z"
+      "publishedAt": "2026-08-18T05:24:15Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Inside secret police warehouse as Germany targets small boats gangs",
+      "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
+      "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3113/live/6ce86220-9815-11f1-a7ea-19f04b81e9a0.png",
+      "publishedAt": "2026-08-18T05:02:58Z"
     },
     {
       "category": "World",
@@ -80,7 +89,7 @@
       "summary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
       "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg",
-      "publishedAt": "2026-08-18T01:16:41Z"
+      "publishedAt": "2026-08-18T04:59:25Z"
     },
     {
       "category": "World",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd62/live/e5a7dd60-9a79-11f1-a291-b542ee92de7c.jpg",
       "publishedAt": "2026-08-17T21:34:26Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Russia's prominent anti-war politician jailed for 11 years",
-      "summary": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6484/live/398ad2e0-9a4b-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-08-17T16:17:34Z"
     },
     {
       "category": "Science & Tech",
