@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T06:00:06.901063Z",
+  "updatedAt": "2026-08-18T06:59:47.091857Z",
   "stories": [
     {
       "category": "Local",
@@ -30,6 +30,15 @@
     },
     {
       "category": "Local",
+      "source": "Nevada County (.gov)",
+      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - Nevada County (.gov)",
+      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations Nevada County (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-06-18T05:24:55Z"
+    },
+    {
+      "category": "Local",
       "source": "Grateful Web",
       "title": "Barrelhouse Bluesin’ and Cajun Funk Rockin’ with Little Feat in Northern California - Grateful Web",
       "summary": "Barrelhouse Bluesin’ and Cajun Funk Rockin’ with Little Feat in Northern California Grateful Web",
@@ -47,15 +56,6 @@
       "publishedAt": "2026-08-12T02:39:00Z"
     },
     {
-      "category": "Local",
-      "source": "YubaNet",
-      "title": "Happening Now – August 2026 - YubaNet",
-      "summary": "Happening Now – August 2026 YubaNet",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oc2pzcm0xTzFQM2FwTlpqMFNxN0J6M1VlejljMnQxaFVJT3g1ZXRRenpodE1hYnJMOXRtTXZtNzBka0g2dWJiSg?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-01T07:00:00Z"
-    },
-    {
       "category": "World",
       "source": "BBC News",
       "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
@@ -63,6 +63,15 @@
       "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/603b/live/6eb43020-9180-11f1-b8ee-9b3c26ad07bb.jpg",
       "publishedAt": "2026-08-18T05:00:04Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
+      "summary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg",
+      "publishedAt": "2026-08-18T06:40:00Z"
     },
     {
       "category": "World",
@@ -85,16 +94,7 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Russia warns UK over supplying drones to Ukraine",
-      "summary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg",
-      "publishedAt": "2026-08-18T04:59:25Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "BBC breaks down Trump's latest shift on North and South Korea",
+      "title": "Watch: Why has Trump shifted on North Korea?",
       "summary": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
       "url": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb7/live/b807c3f0-9a94-11f1-a291-b542ee92de7c.jpg",
