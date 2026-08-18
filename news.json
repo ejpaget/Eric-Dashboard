@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T14:47:13.018011Z",
+  "updatedAt": "2026-08-18T15:41:16.572581Z",
   "stories": [
     {
       "category": "Local",
@@ -30,18 +30,18 @@
     },
     {
       "category": "Local",
-      "source": "nfhsnetwork.com",
-      "title": "Basketball On Demand Games - Bear River High School - Grass Valley, CA - nfhsnetwork.com",
-      "summary": "Basketball On Demand Games - Bear River High School - Grass Valley, CA nfhsnetwork.com",
+      "source": "NFHS Network",
+      "title": "Basketball On Demand Games - Bear River High School - Grass Valley, CA - NFHS Network",
+      "summary": "Basketball On Demand Games - Bear River High School - Grass Valley, CA NFHS Network",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ1VGbW95VnRmdnBGMjAzVkpZS3VPbDQtd0MtZFNtX3cyYVpwbXBFSjdhY2dZX0ppZkhVcTJILTJxTElpUGdYMHNxb2d5MWtBLVl6alpKcVB6a0N5c21aZDhIUHRQTXU3LVJwYWZBak40UTV0QWFrMkNJaGxraTFkSTk1dlBUQmN5Tk1nX3BXeE41bFE5X3Jzc1YzTFV1VGpWQzFhd3RpeUZYYnpVY0VXbXNZUklDUHliYkp3YzNPSjFqNk9venc?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-15T17:51:43Z"
     },
     {
       "category": "Local",
-      "source": "Nevada County (.gov)",
-      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - Nevada County (.gov)",
-      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations Nevada County (.gov)",
+      "source": "nevadacountyca.gov",
+      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - nevadacountyca.gov",
+      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations nevadacountyca.gov",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-06-18T05:24:55Z"
@@ -67,29 +67,29 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-      "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
-      "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/603b/live/6eb43020-9180-11f1-b8ee-9b3c26ad07bb.jpg",
-      "publishedAt": "2026-08-18T08:07:37Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
-      "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified.",
-      "url": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9c2/live/383684b0-9ad3-11f1-b2f7-5d1639b20e22.jpg",
-      "publishedAt": "2026-08-18T05:24:15Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Inside secret police warehouse as Germany targets small boats gangs",
       "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
       "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3113/live/6ce86220-9815-11f1-a7ea-19f04b81e9a0.png",
       "publishedAt": "2026-08-18T05:02:58Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Brazil's President Lula hails oil discovery near Amazon river",
+      "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5240/live/17e6ceb0-9ae0-11f1-b2f7-5d1639b20e22.jpg",
+      "publishedAt": "2026-08-18T13:13:54Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+      "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+      "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/603b/live/6eb43020-9180-11f1-b8ee-9b3c26ad07bb.jpg",
+      "publishedAt": "2026-08-18T08:07:37Z"
     },
     {
       "category": "World",
