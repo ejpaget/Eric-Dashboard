@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T13:04:35.981592Z",
+  "updatedAt": "2026-08-19T13:52:53.301648Z",
   "stories": [
     {
       "category": "Local",
@@ -48,9 +48,9 @@
     },
     {
       "category": "Local",
-      "source": "Nevada County (.gov)",
-      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - Nevada County (.gov)",
-      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations Nevada County (.gov)",
+      "source": "nevadacountyca.gov",
+      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - nevadacountyca.gov",
+      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations nevadacountyca.gov",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-06-18T05:24:55Z"
@@ -103,11 +103,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Apparent human remains found in US reservoir as water levels hit record low",
-      "summary": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
-      "url": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64cf/live/3828ee10-9bad-11f1-92e6-b1dfcecd4308.png",
-      "publishedAt": "2026-08-19T10:10:09Z"
+      "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+      "summary": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
+      "url": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b940/live/10ce9110-9bcd-11f1-bb4d-1147ef2e78e5.jpg",
+      "publishedAt": "2026-08-19T12:47:53Z"
     },
     {
       "category": "Science & Tech",
