@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T05:40:31.533898Z",
+  "updatedAt": "2026-08-19T07:00:53.921510Z",
   "stories": [
     {
       "category": "Local",
@@ -89,7 +89,16 @@
       "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
       "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ad/live/375f2780-9b83-11f1-bdab-bd265066e1df.jpg",
-      "publishedAt": "2026-08-19T03:39:41Z"
+      "publishedAt": "2026-08-19T05:53:53Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
+      "summary": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
+      "url": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d295/live/233416b0-9af4-11f1-930b-57cfba7235f9.jpg",
+      "publishedAt": "2026-08-19T05:00:39Z"
     },
     {
       "category": "World",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36b9/live/47feec00-9ad0-11f1-a291-b542ee92de7c.jpg",
       "publishedAt": "2026-08-19T03:04:07Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Brazil's President Lula hails oil discovery near Amazon river",
-      "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5240/live/17e6ceb0-9ae0-11f1-b2f7-5d1639b20e22.jpg",
-      "publishedAt": "2026-08-18T13:13:54Z"
     },
     {
       "category": "Science & Tech",
