@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-18T23:53:34.272912Z",
+  "updatedAt": "2026-08-19T01:49:04.293959Z",
   "stories": [
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "Sierra College NCC to host 'Fire Evacuations: Know & Go' community forum on August 28",
+      "summary": "“Fire Evacuations: Know & Go” is the topic of this month’s free Community Forum to be held from 10 to 11 a.m. on Friday, August 28. The live, one-hour panel discussion will be held at the Sierra College-Nevada County Campus…",
+      "url": "https://www.theunion.com/news/sierra-college-ncc-to-host-fire-evacuations-know-go-community-forum-on-august-28/article_bd6474f3-88a7-4488-8019-bf9eee94b077.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/c/e2/ce273af6-a78c-4669-9616-f8a2f18955c0/6a84fcd2176b1.image.png?resize=300%2C376",
+      "publishedAt": "2026-08-19T00:44:00Z"
+    },
     {
       "category": "Local",
       "source": "The Union",
@@ -45,15 +54,6 @@
       "url": "https://www.theunion.com/news/brian-hamilton-sales-slow-since-summer-surge/article_c7f9487e-f2a2-499d-a502-f1b818b9f92e.html",
       "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/c/74/c746b35e-469f-470c-a580-f4d19bd63b42/6a81ca66b30ac.image.jpg?resize=300%2C210",
       "publishedAt": "2026-08-18T09:45:00Z"
-    },
-    {
-      "category": "Local",
-      "source": "The Union",
-      "title": "Celebrate the mining life at Miner’s Picnic",
-      "summary": "On Saturday, August 29, from 11 a.m. to 4 p.m., participate in a treasured local tradition at Empire Mine State Historic Park!",
-      "url": "https://www.theunion.com/news/celebrate-the-mining-life-at-miner-s-picnic/article_34c14ff1-c385-41ba-9f80-d62f13e7f4ba.html",
-      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/8/5c/85ce20ce-a61f-4b15-85b9-2a681ec1de4f/6a7fc2d29ca3e.image.jpg?resize=300%2C200",
-      "publishedAt": "2026-08-18T09:30:00Z"
     },
     {
       "category": "World",
@@ -103,11 +103,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
-      "summary": "Recovery efforts continue in what is the country's deadliest transport disaster.",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/625e/live/bc428900-9af8-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-18T12:04:11Z"
+      "title": "ZZ Top drummer Frank Beard dies aged 77",
+      "summary": "A statement on the blues-rock band's website said he died on Monday in hospice",
+      "url": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6780/live/cc50cbf0-9b42-11f1-bd52-f9704e8e5c82.jpg",
+      "publishedAt": "2026-08-18T22:25:46Z"
     },
     {
       "category": "Science & Tech",
