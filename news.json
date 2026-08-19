@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T19:34:22.129161Z",
+  "updatedAt": "2026-08-19T19:54:49.364095Z",
   "stories": [
     {
       "category": "Local",
@@ -31,6 +31,15 @@
     {
       "category": "Local",
       "source": "The Union",
+      "title": "Ericsson battles to victory at Markham; Rossi notches DNF after gearbox failure",
+      "summary": "Race 14 of 18 in the NTT INDYCAR SERIES got off to a bumpy start over the weekend.",
+      "url": "https://www.theunion.com/sports/ericsson-battles-to-victory-at-markham-rossi-notches-dnf-after-gearbox-failure/article_2ec84ede-105f-4ece-ba83-8b24d288ddf4.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/f/38/f38be15f-65c9-4e14-926f-24dc7d81db91/683dcbf0550fe.image.jpg?resize=300%2C212",
+      "publishedAt": "2026-08-19T09:45:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "The Union",
       "title": "BriarPatch Food Co-op: Rice, rice baby",
       "summary": "Alright stop, collaborate and listen, cuz today we're getting granular with rice talk, a food that has been bringing people together around the table for more than 9,000 years.",
       "url": "https://www.theunion.com/lifestyles/briarpatch-food-co-op-rice-rice-baby/article_4a85a87e-ae04-48c8-85c2-28c60815cb76.html",
@@ -45,15 +54,6 @@
       "url": "https://www.theunion.com/news/know-your-zone-a-guide-to-nevada-county-evacuation-zones-and-emergency-preparedness/article_ea4569f9-9952-41d2-901e-42c191b8eaa4.html",
       "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/8/51/85161025-82c3-4a6a-97c3-d55871805601/6a7d005d349b1.image.jpg?resize=300%2C455",
       "publishedAt": "2026-08-19T09:30:00Z"
-    },
-    {
-      "category": "Local",
-      "source": "The Union",
-      "title": "Interstate 80 construction update for Sierra Corridor: Multiple projects underway with various lane and ramp closures",
-      "summary": "PLACER/NEVADA COUNTIES – Caltrans is reminding motorists of various lane and ramp closures in multiple locations along Interstate 80 (I-80) as several projects continue in Placer and Nevada counties.",
-      "url": "https://www.theunion.com/news/interstate-80-construction-update-for-sierra-corridor-multiple-projects-underway-with-various-lane-and-ramp/article_74fda834-5ceb-4993-b2e7-7f9950bdf080.html",
-      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/8/e6/8e62fd36-b8c8-4772-9855-909c9f6819e7/6a84c765df8a8.image.jpg?resize=300%2C225",
-      "publishedAt": "2026-08-19T09:15:00Z"
     },
     {
       "category": "World",
@@ -106,8 +106,8 @@
       "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
       "summary": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
       "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac7e/live/bbf43cb0-9bce-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-19T18:43:11Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a600/live/64fb2200-9c07-11f1-b0bd-839fb1d8b591.jpg",
+      "publishedAt": "2026-08-19T19:53:05Z"
     },
     {
       "category": "Science & Tech",
