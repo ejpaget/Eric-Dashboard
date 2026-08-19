@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T07:49:12.447851Z",
+  "updatedAt": "2026-08-19T08:50:29.414341Z",
   "stories": [
     {
       "category": "Local",
@@ -21,9 +21,9 @@
     },
     {
       "category": "Local",
-      "source": "sacbee.com",
-      "title": "Grass Valley police halt use of Flock license plate cameras amid privacy concerns - sacbee.com",
-      "summary": "Grass Valley police halt use of Flock license plate cameras amid privacy concerns sacbee.com",
+      "source": "Sacramento Bee",
+      "title": "Grass Valley police halt use of Flock license plate cameras amid privacy concerns - Sacramento Bee",
+      "summary": "Grass Valley police halt use of Flock license plate cameras amid privacy concerns Sacramento Bee",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MWEpkU281WmxPMUZPSG1aYUhlZ002OGZISFZBcWlITkRPdHpWalh3ZWdPRUNnakwtNUVFY2xaUUZ2VVZPeUVEYTkxcVRMNTgxa3ViZm8xTnkyT2NtQTNENlRDRlV2QdIBZkFVX3lxTE9kY000MjEyMGE4TFhmWERmMWpVUnVkMGpwRm5vckdmZWFPMzFoeFpoNGNocElUYU5zUXA1dHZkTXBIcF9OT3pFWjd1TEhud2lvaWpLMF8wNHFmT3lyMUZfczU4eWhRQQ?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-12T18:15:45Z"
@@ -67,6 +67,15 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, court told",
+      "summary": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
+      "url": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b9/live/222707b0-9b9d-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-08-19T08:25:03Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
       "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
       "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d295/live/233416b0-9af4-11f1-930b-57cfba7235f9.jpg",
       "publishedAt": "2026-08-19T05:00:39Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Thai teen found in suitcase died from suffocation, police reveal",
-      "summary": "New evidence sheds more light on the death of Tunchanok Donholma, who was allegedly murdered in June.",
-      "url": "https://www.bbc.co.uk/news/articles/c141605846jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6796/live/113a11d0-9b85-11f1-bdab-bd265066e1df.jpg",
-      "publishedAt": "2026-08-19T05:04:27Z"
     },
     {
       "category": "Science & Tech",
