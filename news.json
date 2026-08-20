@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-08-20T16:47:22.261908Z",
+  "updatedAt": "2026-08-20T17:39:25.191863Z",
   "stories": [
-    {
-      "category": "Local",
-      "source": "KCRA",
-      "title": "Grass Valley cancels Flock contract for license plate reading cameras - KCRA",
-      "summary": "Grass Valley cancels Flock contract for license plate reading cameras KCRA",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVJrQWRxZWxNS3dDTGJOWXJ5UGdsbFBJNnpnT0hsWjlyZEoyRk9ST2pHOUtxNEEtVXM2b2xLZUpDRGJpNWxOYUJiMVExdDBkX283Y291NHRWQ1lkTVVieTRsOFNrTHBFYzVVVl9pWkNnNHY0RFpnMXlvYVZ4eV85QzVJS0txN0pkNlFFM1Y3cnVhc1BmakxHXzhCZkpoU0NxVGNvUmZ3ZjN2aVU?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-12T16:23:00Z"
-    },
     {
       "category": "Local",
       "source": "WorldAtlas",
@@ -18,6 +9,24 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcmFYdFBpYUU3YnNJc0FkN0dfYm5zXzlFdTBWZlNwZ0hzMEhPZzdIOEN6MVA3RS1nUFBkNW9fVHQ1dUNYTVBGaWNUYlVkRjVWb2Vsa05vbGR0ZVZJM0JWQzduX2hBSzdJajNjbC14cm1yMzkyYUZYMWhTanhXWTQwRGtScmRvREczUGQ4b3JJYlY1anlqWHpSRlhvOVhRQzhFTER3S21pazM?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-18T21:30:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "Weather Underground",
+      "title": "Grass Valley, CA Air Quality & Pollen - Weather Underground",
+      "summary": "Grass Valley, CA Air Quality & Pollen Weather Underground",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWUtXdWg1MXRBTWpYVFM2UnUydjF6NERuWFp1QTQ4TXZjNWlQMTlvRFNZTjBUZ3hPVFo0ZEJmSUNqWU5JOTg3MTVVbUcxcDJjRlRPM0x2WEozX0U3a1poQ2htVUJRWkJhSXFvWkhSdmJPMnFjV1BfeEhGbjJ5S2gwbjBtbXFEdTBCNmIzWHRwZl8?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T03:52:20Z"
+    },
+    {
+      "category": "Local",
+      "source": "KCRA",
+      "title": "Grass Valley cancels Flock contract for license plate reading cameras - KCRA",
+      "summary": "Grass Valley cancels Flock contract for license plate reading cameras KCRA",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVJrQWRxZWxNS3dDTGJOWXJ5UGdsbFBJNnpnT0hsWjlyZEoyRk9ST2pHOUtxNEEtVXM2b2xLZUpDRGJpNWxOYUJiMVExdDBkX283Y291NHRWQ1lkTVVieTRsOFNrTHBFYzVVVl9pWkNnNHY0RFpnMXlvYVZ4eV85QzVJS0txN0pkNlFFM1Y3cnVhc1BmakxHXzhCZkpoU0NxVGNvUmZ3ZjN2aVU?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-12T16:23:00Z"
     },
     {
       "category": "Local",
@@ -39,15 +48,6 @@
     },
     {
       "category": "Local",
-      "source": "Sacramento Bee",
-      "title": "Grass Valley police halt use of Flock license plate cameras amid privacy concerns - Sacramento Bee",
-      "summary": "Grass Valley police halt use of Flock license plate cameras amid privacy concerns Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MWEpkU281WmxPMUZPSG1aYUhlZ002OGZISFZBcWlITkRPdHpWalh3ZWdPRUNnakwtNUVFY2xaUUZ2VVZPeUVEYTkxcVRMNTgxa3ViZm8xTnkyT2NtQTNENlRDRlV2QdIBZkFVX3lxTE9kY000MjEyMGE4TFhmWERmMWpVUnVkMGpwRm5vckdmZWFPMzFoeFpoNGNocElUYU5zUXA1dHZkTXBIcF9OT3pFWjd1TEhud2lvaWpLMF8wNHFmT3lyMUZfczU4eWhRQQ?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-12T07:00:00Z"
-    },
-    {
-      "category": "Local",
       "source": "ABC10",
       "title": "Grass Valley police seek public help to identify Plaza Drive armed robbery suspects - ABC10",
       "summary": "Grass Valley police seek public help to identify Plaza Drive armed robbery suspects ABC10",
@@ -58,11 +58,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "summary": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say.",
+      "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+      "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
       "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-20T13:56:25Z"
+      "publishedAt": "2026-08-20T17:14:55Z"
     },
     {
       "category": "World",
@@ -85,11 +85,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Belgian car salesman becomes prince after royal parentage confirmed",
-      "summary": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc1c/live/a8086e60-9c69-11f1-827b-69a6492daae1.jpg",
-      "publishedAt": "2026-08-20T10:14:47Z"
+      "title": "Como mayor bans 'beasts' in city centre after being hit by bike",
+      "summary": "Alessandro Rapinese issues the prohibition for the historic city centre after an encounter with a cyclist last month.",
+      "url": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc9/live/f3b6f660-9caf-11f1-84cf-fd4cfd9d6c84.jpg",
+      "publishedAt": "2026-08-20T16:53:20Z"
     },
     {
       "category": "World",
@@ -112,6 +112,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "Glass deposit operator confirmed after months of wrangling",
+      "summary": "Exchange for Change is running the new recycling programmes across the UK and will also run Wales's.",
+      "url": "https://www.bbc.co.uk/news/articles/crk5yk1rynro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea29/live/56eb4800-73b9-11f1-a8ee-df4f88a2912f.jpg",
+      "publishedAt": "2026-08-20T17:31:04Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "Thunderstorm warnings expire but rain continues to bring risk of floods for UK",
       "summary": "The prolonged dry spell has come to an end with heavy, thundery showers continuing to sweep across the UK, as Ben Rich explains.",
       "url": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&at_campaign=rss",
@@ -129,12 +138,12 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Northern Ireland farm profits topped £1bn in 2025",
-      "summary": "The overall performance in 2025 was heavily influenced by developments in the beef sector which saw prices rise to record levels.",
-      "url": "https://www.bbc.co.uk/news/articles/c0l5ddjyl5xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c70/live/5c1855a0-9c88-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-20T11:25:04Z"
+      "source": "BBC Technology",
+      "title": "Is Vine back? Short-form video-sharing app Divine opens to public",
+      "summary": "The app lets users create six-second looping videos and hosts more than two million classic videos.",
+      "url": "https://www.bbc.co.uk/news/articles/c3r05g378w4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6212/live/4bc22910-9c92-11f1-bd28-a9dd56c45ed7.png",
+      "publishedAt": "2026-08-20T16:58:37Z"
     },
     {
       "category": "Science & Tech",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c0ej09nywdno?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26e1/live/9fc83430-9be5-11f1-ba30-ddd78081057f.jpg",
       "publishedAt": "2026-08-19T16:14:46Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Monzo says issue with card payments and transfers now resolved",
-      "summary": "The digital bank said all of its services were now \"back up and running\"",
-      "url": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d7/live/94b09ad0-9bd4-11f1-bb4d-1147ef2e78e5.jpg",
-      "publishedAt": "2026-08-19T16:04:16Z"
     }
   ],
   "feedErrors": [
