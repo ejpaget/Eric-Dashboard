@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T18:54:55.400249Z",
+  "updatedAt": "2026-08-20T19:39:16.990336Z",
   "stories": [
     {
       "category": "Local",
@@ -12,12 +12,12 @@
     },
     {
       "category": "Local",
-      "source": "Weather Underground",
-      "title": "Grass Valley, CA Air Quality & Pollen - Weather Underground",
-      "summary": "Grass Valley, CA Air Quality & Pollen Weather Underground",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWUtXdWg1MXRBTWpYVFM2UnUydjF6NERuWFp1QTQ4TXZjNWlQMTlvRFNZTjBUZ3hPVFo0ZEJmSUNqWU5JOTg3MTVVbUcxcDJjRlRPM0x2WEozX0U3a1poQ2htVUJRWkJhSXFvWkhSdmJPMnFjV1BfeEhGbjJ5S2gwbjBtbXFEdTBCNmIzWHRwZl8?oc=5",
+      "source": "KCRA",
+      "title": "Grass Valley cancels Flock contract for license plate reading cameras - KCRA",
+      "summary": "Grass Valley cancels Flock contract for license plate reading cameras KCRA",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVJrQWRxZWxNS3dDTGJOWXJ5UGdsbFBJNnpnT0hsWjlyZEoyRk9ST2pHOUtxNEEtVXM2b2xLZUpDRGJpNWxOYUJiMVExdDBkX283Y291NHRWQ1lkTVVieTRsOFNrTHBFYzVVVl9pWkNnNHY0RFpnMXlvYVZ4eV85QzVJS0txN0pkNlFFM1Y3cnVhc1BmakxHXzhCZkpoU0NxVGNvUmZ3ZjN2aVU?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T03:52:20Z"
+      "publishedAt": "2026-08-12T16:23:00Z"
     },
     {
       "category": "Local",
@@ -27,15 +27,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-06-18T05:24:55Z"
-    },
-    {
-      "category": "Local",
-      "source": "KCRA",
-      "title": "Grass Valley cancels Flock contract for license plate reading cameras - KCRA",
-      "summary": "Grass Valley cancels Flock contract for license plate reading cameras KCRA",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVJrQWRxZWxNS3dDTGJOWXJ5UGdsbFBJNnpnT0hsWjlyZEoyRk9ST2pHOUtxNEEtVXM2b2xLZUpDRGJpNWxOYUJiMVExdDBkX283Y291NHRWQ1lkTVVieTRsOFNrTHBFYzVVVl9pWkNnNHY0RFpnMXlvYVZ4eV85QzVJS0txN0pkNlFFM1Y3cnVhc1BmakxHXzhCZkpoU0NxVGNvUmZ3ZjN2aVU?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-12T16:23:00Z"
     },
     {
       "category": "Local",
@@ -56,6 +47,33 @@
       "publishedAt": "2026-05-07T07:00:00Z"
     },
     {
+      "category": "Local",
+      "source": "California Department of Transportation | Caltrans (.gov)",
+      "title": "State Route 49 Corridor Improvement Project Will Improve Safety and Mobility in Nevada County - California Department of Transportation | Caltrans (.gov)",
+      "summary": "State Route 49 Corridor Improvement Project Will Improve Safety and Mobility in Nevada County California Department of Transportation | Caltrans (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbmtOaTd3NDl6RjJmYlNJc1hjelBBVVZlVHhmSTAteFJLS2F0enh5aW5JeGowU1UyTVJLMktkcE8zeGF4azRBT29oa2VPSU9Xd3JkS0p2dFZ2X3ozRGRSMWFvUGV5SUo4d1hmQVF2TEdqN0tYV2NkcmxGSl84dDVzNGlHQQ?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-01-29T08:00:00Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+      "summary": "The US treasury secretary says allies will need to decide whether they \"are with us or against us\".",
+      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f685/live/690551d0-9cc6-11f1-a5cd-a14170183a2c.png",
+      "publishedAt": "2026-08-20T19:19:20Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+      "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+      "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg",
+      "publishedAt": "2026-08-20T18:55:14Z"
+    },
+    {
       "category": "World",
       "source": "BBC News",
       "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
@@ -63,15 +81,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
       "publishedAt": "2026-08-20T17:14:55Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Bessent urges US partners to back plans to 'squash' Iran economy",
-      "summary": "The US Treasury secretary says allies will need to decide whether they \"are with us or against us\".",
-      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f685/live/690551d0-9cc6-11f1-a5cd-a14170183a2c.png",
-      "publishedAt": "2026-08-20T18:40:46Z"
     },
     {
       "category": "World",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e30c/live/97ccfe50-9c8a-11f1-aed2-8d6da8d75094.jpg",
       "publishedAt": "2026-08-20T12:38:35Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
-      "summary": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ba2/live/bbb890d0-9c5e-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-20T07:08:35Z"
     },
     {
       "category": "Science & Tech",
