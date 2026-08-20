@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T14:49:01.271032Z",
+  "updatedAt": "2026-08-20T15:44:44.816648Z",
   "stories": [
     {
       "category": "Local",
@@ -48,12 +48,12 @@
     },
     {
       "category": "Local",
-      "source": "Legacy obituary",
-      "title": "Robert Boyle Obituary (1920 - 2026) - Grass Valley, CA - The Union - Legacy obituary",
-      "summary": "Robert Boyle Obituary (1920 - 2026) - Grass Valley, CA - The Union Legacy obituary",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd2s5UFZ3T1hKdUp2YnZ5NVNENkZLWjdSQ3g1WnN6ajF3c3R3ZkRJWmhGOUF0T0ZWTFBpNUdxQmpwOGJTVnFQX2pOdnBESzdVVmFUT1ZwZW16eThrUWhUNmhnOW13VjhxVmhucXRsX0Z3UUd6QnQtMkJZRFBoTXdJRGZXWmFlbkgyRUxrSg?oc=5",
+      "source": "CBS News",
+      "title": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave - CBS News",
+      "summary": "Spokane wildfire smoke drifts into Northern California amid triple-digit heat wave CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS3FQU0k0Q25ubEl6WENleHJsSWJrdE5qMjVIQWhiRDJrQTluRGFGT1JCdV9qUUZXQVlJaDZ4TW14MEtRYzI1OW9OdEE4c25aQ3BHMEtpR3RlbGxyMDNhbDBoVlR0RW1SMU9Sa2tIenJBbGk3ZGlxUmZJRVZmb01nTllxWl9GdGVxbU4xVVI5WngwZF80dzVjcnJfT3NIY0FQbm5ka1A4ZXY?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-08-18T10:49:10Z"
+      "publishedAt": "2026-08-04T07:00:00Z"
     },
     {
       "category": "World",
@@ -116,7 +116,16 @@
       "summary": "The prolonged dry spell has come to an end with heavy, thundery showers continuing to sweep across the UK, as Ben Rich explains.",
       "url": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df4d/live/e46664b0-9c92-11f1-a38b-8bb91d2ef80e.jpg",
-      "publishedAt": "2026-08-20T12:23:52Z"
+      "publishedAt": "2026-08-20T15:02:16Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Flash flooding risk as heavy rain hits UK",
+      "summary": "Heavy showers and thunderstorms will continue to affect large parts of the UK.",
+      "url": "https://www.bbc.co.uk/news/videos/c2lq4lwy0z0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a550/live/0ac757a0-9ca1-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-08-20T14:54:55Z"
     },
     {
       "category": "Science & Tech",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c0l5ddjyl5xo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c70/live/5c1855a0-9c88-11f1-a291-b542ee92de7c.jpg",
       "publishedAt": "2026-08-20T11:25:04Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Giant whales move into Greenland waters as ice disappears",
-      "summary": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
-      "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1da/live/98b70b10-9bd8-11f1-bb4d-1147ef2e78e5.jpg",
-      "publishedAt": "2026-08-20T02:05:20Z"
     },
     {
       "category": "Science & Tech",
