@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T23:35:22.608206Z",
+  "updatedAt": "2026-08-20T23:55:29.491171Z",
   "stories": [
     {
       "category": "Local",
@@ -58,15 +58,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-      "summary": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
-      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f685/live/690551d0-9cc6-11f1-a5cd-a14170183a2c.png",
-      "publishedAt": "2026-08-20T19:52:48Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
       "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
       "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
@@ -76,11 +67,29 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+      "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+      "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ffc/live/12640900-9cdc-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-08-20T23:16:45Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
       "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
       "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
       "publishedAt": "2026-08-20T17:14:55Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
+      "summary": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f73b/live/1c118420-9c76-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-08-20T22:01:26Z"
     },
     {
       "category": "World",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc9/live/f3b6f660-9caf-11f1-84cf-fd4cfd9d6c84.jpg",
       "publishedAt": "2026-08-20T20:08:29Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Assad officer extradited to Syria on war crimes charges for first time",
-      "summary": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e30c/live/97ccfe50-9c8a-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-08-20T12:38:35Z"
     },
     {
       "category": "Science & Tech",
