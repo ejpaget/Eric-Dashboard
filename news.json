@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-08-20T20:40:15.088013Z",
+  "updatedAt": "2026-08-20T21:38:05.628700Z",
   "stories": [
-    {
-      "category": "Local",
-      "source": "Weather Underground",
-      "title": "Grass Valley, CA Air Quality & Pollen - Weather Underground",
-      "summary": "Grass Valley, CA Air Quality & Pollen Weather Underground",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ1RFWmlJbkQ3QjdpOEFhXzdiTGxFcVAteFo4QmVoVGJVOFFQNmJzY2pqN3ZTVG01d0h5eURnaFh5QjA3NFZFYnk2VUtxY1FSSWlkQ2dxcktPUkg4VFJ3VmtKZ1RaREhZYjdObGtUWEVSY2VZSmRta20zZXAtaG5ZT3JyRDE2U200ZVBsOHJfdjRLNEJTVWc?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-20T01:16:34Z"
-    },
     {
       "category": "Local",
       "source": "WorldAtlas",
@@ -18,6 +9,15 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcmFYdFBpYUU3YnNJc0FkN0dfYm5zXzlFdTBWZlNwZ0hzMEhPZzdIOEN6MVA3RS1nUFBkNW9fVHQ1dUNYTVBGaWNUYlVkRjVWb2Vsa05vbGR0ZVZJM0JWQzduX2hBSzdJajNjbC14cm1yMzkyYUZYMWhTanhXWTQwRGtScmRvREczUGQ4b3JJYlY1anlqWHpSRlhvOVhRQzhFTER3S21pazM?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-18T21:30:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "Weather Underground",
+      "title": "Grass Valley, CA Air Quality & Pollen - Weather Underground",
+      "summary": "Grass Valley, CA Air Quality & Pollen Weather Underground",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWUtXdWg1MXRBTWpYVFM2UnUydjF6NERuWFp1QTQ4TXZjNWlQMTlvRFNZTjBUZ3hPVFo0ZEJmSUNqWU5JOTg3MTVVbUcxcDJjRlRPM0x2WEozX0U3a1poQ2htVUJRWkJhSXFvWkhSdmJPMnFjV1BfeEhGbjJ5S2gwbjBtbXFEdTBCNmIzWHRwZl8?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T03:52:20Z"
     },
     {
       "category": "Local",
@@ -85,11 +85,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-      "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
-      "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/576f/live/42ba6840-9c52-11f1-b275-a98fc45a1940.jpg",
-      "publishedAt": "2026-08-20T06:08:02Z"
+      "title": "Dozens dead after boat capsizes in north-western Nigeria",
+      "summary": "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children.",
+      "url": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a98/live/09ab3ba0-9cd5-11f1-8a94-1b7813744e0b.jpg",
+      "publishedAt": "2026-08-20T20:27:36Z"
     },
     {
       "category": "World",
@@ -112,6 +112,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "My family have fished this river for 300 years - now pollution has killed all the fish",
+      "summary": "A tradition on a river once fished by US President Jimmy Carter could be coming to an end.",
+      "url": "https://www.bbc.co.uk/news/articles/cewr9evwdwko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/785d/live/b7b0e340-9cb6-11f1-84cf-fd4cfd9d6c84.jpg",
+      "publishedAt": "2026-08-20T20:47:39Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "Glass deposit operator confirmed after months of wrangling",
       "summary": "Exchange for Change is running the new recycling programmes across the UK and will also run Wales's.",
       "url": "https://www.bbc.co.uk/news/articles/crk5yk1rynro?at_medium=RSS&at_campaign=rss",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df4d/live/e46664b0-9c92-11f1-a38b-8bb91d2ef80e.jpg",
       "publishedAt": "2026-08-20T15:02:16Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Flash flooding risk as heavy rain hits UK",
-      "summary": "Heavy showers and thunderstorms will continue to affect large parts of the UK.",
-      "url": "https://www.bbc.co.uk/news/videos/c2lq4lwy0z0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a550/live/0ac757a0-9ca1-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-20T14:54:55Z"
     },
     {
       "category": "Science & Tech",
