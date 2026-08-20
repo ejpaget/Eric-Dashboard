@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T23:00:36.886486Z",
+  "updatedAt": "2026-08-20T23:35:22.608206Z",
   "stories": [
     {
       "category": "Local",
@@ -12,21 +12,21 @@
     },
     {
       "category": "Local",
-      "source": "WorldAtlas",
-      "title": "8 of the Friendliest Towns To Retire In California's Sierra Nevada - WorldAtlas",
-      "summary": "8 of the Friendliest Towns To Retire In California's Sierra Nevada WorldAtlas",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcmFYdFBpYUU3YnNJc0FkN0dfYm5zXzlFdTBWZlNwZ0hzMEhPZzdIOEN6MVA3RS1nUFBkNW9fVHQ1dUNYTVBGaWNUYlVkRjVWb2Vsa05vbGR0ZVZJM0JWQzduX2hBSzdJajNjbC14cm1yMzkyYUZYMWhTanhXWTQwRGtScmRvREczUGQ4b3JJYlY1anlqWHpSRlhvOVhRQzhFTER3S21pazM?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T21:30:00Z"
-    },
-    {
-      "category": "Local",
       "source": "Weather Underground",
       "title": "Grass Valley, CA Air Quality & Pollen - Weather Underground",
       "summary": "Grass Valley, CA Air Quality & Pollen Weather Underground",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWUtXdWg1MXRBTWpYVFM2UnUydjF6NERuWFp1QTQ4TXZjNWlQMTlvRFNZTjBUZ3hPVFo0ZEJmSUNqWU5JOTg3MTVVbUcxcDJjRlRPM0x2WEozX0U3a1poQ2htVUJRWkJhSXFvWkhSdmJPMnFjV1BfeEhGbjJ5S2gwbjBtbXFEdTBCNmIzWHRwZl8?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-18T03:52:20Z"
+    },
+    {
+      "category": "Local",
+      "source": "WorldAtlas",
+      "title": "8 of the Friendliest Towns To Retire In California's Sierra Nevada - WorldAtlas",
+      "summary": "8 of the Friendliest Towns To Retire In California's Sierra Nevada WorldAtlas",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcmFYdFBpYUU3YnNJc0FkN0dfYm5zXzlFdTBWZlNwZ0hzMEhPZzdIOEN6MVA3RS1nUFBkNW9fVHQ1dUNYTVBGaWNUYlVkRjVWb2Vsa05vbGR0ZVZJM0JWQzduX2hBSzdJajNjbC14cm1yMzkyYUZYMWhTanhXWTQwRGtScmRvREczUGQ4b3JJYlY1anlqWHpSRlhvOVhRQzhFTER3S21pazM?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-18T21:30:00Z"
     },
     {
       "category": "Local",
@@ -139,6 +139,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
+      "title": "How landscape gardening is being electrified",
+      "summary": "The switch to quieter electric equipment is not going as fast as some would like.",
+      "url": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a26/live/a80a27a0-754f-11f1-a627-714adb4eed6e.jpg",
+      "publishedAt": "2026-08-20T23:12:38Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
       "title": "Is Vine back? Short-form video-sharing app Divine opens to public",
       "summary": "The app lets users create six-second looping videos and hosts more than two million classic videos.",
       "url": "https://www.bbc.co.uk/news/articles/c3r05g378w4o?at_medium=RSS&at_campaign=rss",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/clyq011414eo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b9f/live/adebd4a0-9c70-11f1-8efc-bf1ca073197a.jpg",
       "publishedAt": "2026-08-20T09:44:04Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
-      "summary": "According to a Freedom of Information (FOI) request the number of letters sent has almost tripled since 2024.",
-      "url": "https://www.bbc.co.uk/news/articles/c0ej09nywdno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26e1/live/9fc83430-9be5-11f1-ba30-ddd78081057f.jpg",
-      "publishedAt": "2026-08-19T16:14:46Z"
     }
   ],
   "feedErrors": [
