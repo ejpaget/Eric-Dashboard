@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T11:57:55.549496Z",
+  "updatedAt": "2026-08-20T13:06:54.710922Z",
   "stories": [
     {
       "category": "Local",
@@ -59,7 +59,7 @@
       "category": "World",
       "source": "BBC News",
       "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+      "summary": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say.",
       "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
       "publishedAt": "2026-08-20T11:06:54Z"
@@ -112,20 +112,20 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "Thunderstorm warnings expire but rain continues to bring risk of floods for UK",
+      "summary": "The prolonged dry spell has come to an end with heavy, thundery showers continuing to sweep across the UK, as Ben Rich explains.",
+      "url": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df4d/live/e46664b0-9c92-11f1-a38b-8bb91d2ef80e.jpg",
+      "publishedAt": "2026-08-20T12:23:52Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "Northern Ireland farm profits topped £1bn in 2025",
       "summary": "The overall performance in 2025 was heavily influenced by developments in the beef sector which saw prices rise to record levels.",
       "url": "https://www.bbc.co.uk/news/articles/c0l5ddjyl5xo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c70/live/5c1855a0-9c88-11f1-a291-b542ee92de7c.jpg",
       "publishedAt": "2026-08-20T11:25:04Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Rain to continue for UK with risk of flash flooding",
-      "summary": "The prolonged dry spell has come to an end with heavy, thundery showers continuing to sweep across the UK, as Ben Rich explains.",
-      "url": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e51/live/94a7a670-9c5e-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-20T08:41:57Z"
     },
     {
       "category": "Science & Tech",
