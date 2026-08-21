@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T21:34:59.831511Z",
+  "updatedAt": "2026-08-21T21:55:51.426862Z",
   "stories": [
     {
       "category": "Local",
@@ -9,6 +9,15 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNc2N1aWtObEF6N2dlaU9Ccl9rZGoyRXktZWNHMHNxdEo0dDkxSE8zQzVHbVVOaVF0VmVMSXdWY1NkQlRUOEtLYnZia2hCa1NwaUV0cTY3R3l5VmRfMjduYnpUaEdJaDRqbFJBNFlMckVsZzF5cWZ3MlB2cWdKUFYxcXgyRC1QbVV4STJpczY3UUtBVkk5YldueUtGb1lMa3hOZWs2U25jejExdl9jeGtmYXJlQ3FheVI1UTRkRTdKaTJTcmNDOGZJd0RkbnZSOGxVVTNjOEs1SWV0bjZHM0dnY1NtdDY5S0ZLNXpR?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-21T20:45:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "Hindustan Times",
+      "title": "Grass Valley Clover Fire: Evacuation map, updates as blaze burns in Nevada County near Alta Sierra | Hindustan Times - Hindustan Times",
+      "summary": "Grass Valley Clover Fire: Evacuation map, updates as blaze burns in Nevada County near Alta Sierra | Hindustan Times Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbExYc1RBTEpJY3dDN25SNl9Ob0x5cU9SZHlSZXdqMWtLOWV3RTBZbWU1TmFOc2xBUDI3cWl0U0pOV0FDZm52dDBYc2pwbno2Z1FkZlJOdjdoeXRGUkFzQUpwU0t3MDVZYi1GazFjM3pqNnEwOFJRMEppVlEwUEVtUWhtbWh5aTlsZVVlQ1pva3ZUeGh2dEoxbGQ1RlkxUTNIMVF0Y2NKMmx3dFkxZnQ1TUxORlFXalJWWjBBanNKYlJmNS1LS3pIQk9KcXpNS0xMRU5vWVgzRk55SlpQcXlNdkdwZ01PSkY1OGh2Z1Y0NkZsRS1HQlBVam96b9IBgAJBVV95cUxNLXpIUmtZWllGZ1J5UjlVcGtNQU1HY2YzT1VUYXp1OEYtYVJZVFBESm1HenhBOENYUFNkamdPT0U1SnczSnl3VGtpY0FvR3BqT1VyeTFSOUwySzM5RkFSTnI1X1pkNjg4cmotM0NDNV84SGJ5eTkzNHVVdFlyTVZhbFZKLTNhelc5MF9SZWd1bG9TM2lHOWctTGNuRzVndDNrdHRuSDRkNWVwam54YVdTQ3haSE9XWktTYVYyQkdOdmJweU5ycWNWdWNRMWNkLXJMNnM1WE53MGhGYnpFT282SjJGQzNFQlNzR2x4bnFES1UzRVR2ekRrbUFzVU5oNmlU?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-21T21:29:16Z"
     },
     {
       "category": "Local",
@@ -45,15 +54,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd2s5UFZ3T1hKdUp2YnZ5NVNENkZLWjdSQ3g1WnN6ajF3c3R3ZkRJWmhGOUF0T0ZWTFBpNUdxQmpwOGJTVnFQX2pOdnBESzdVVmFUT1ZwZW16eThrUWhUNmhnOW13VjhxVmhucXRsX0Z3UUd6QnQtMkJZRFBoTXdJRGZXWmFlbkgyRUxrSg?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-18T10:49:10Z"
-    },
-    {
-      "category": "Local",
-      "source": "WorldAtlas",
-      "title": "8 of the Friendliest Towns To Retire In California's Sierra Nevada - WorldAtlas",
-      "summary": "8 of the Friendliest Towns To Retire In California's Sierra Nevada WorldAtlas",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcmFYdFBpYUU3YnNJc0FkN0dfYm5zXzlFdTBWZlNwZ0hzMEhPZzdIOEN6MVA3RS1nUFBkNW9fVHQ1dUNYTVBGaWNUYlVkRjVWb2Vsa05vbGR0ZVZJM0JWQzduX2hBSzdJajNjbC14cm1yMzkyYUZYMWhTanhXWTQwRGtScmRvREczUGQ4b3JJYlY1anlqWHpSRlhvOVhRQzhFTER3S21pazM?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T21:30:00Z"
     },
     {
       "category": "World",
@@ -139,6 +139,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
+      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebfc/live/7de297d0-9da6-11f1-95ab-d3b679e2384a.jpg",
+      "publishedAt": "2026-08-21T21:40:47Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
       "title": "How landscape gardening is being electrified",
       "summary": "The switch to quieter electric equipment is not going as fast as some would like.",
       "url": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c3r05g378w4o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6212/live/4bc22910-9c92-11f1-bd28-a9dd56c45ed7.png",
       "publishedAt": "2026-08-20T16:58:37Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "UK business hit by 'daylight robbery' 1500% price hike for invoicing software",
-      "summary": "Richard Haldenby says his average monthly bill for Harvest had risen from $130 (£95.50) to $2,110.",
-      "url": "https://www.bbc.co.uk/news/articles/clyq011414eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b9f/live/adebd4a0-9c70-11f1-8efc-bf1ca073197a.jpg",
-      "publishedAt": "2026-08-20T09:44:04Z"
     }
   ],
   "feedErrors": [
