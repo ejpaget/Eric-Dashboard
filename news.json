@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T13:54:17.911482Z",
+  "updatedAt": "2026-08-21T14:48:13.143363Z",
   "stories": [
     {
       "category": "Local",
@@ -85,29 +85,38 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
-      "summary": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast.",
-      "url": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c1/live/024497b0-9d45-11f1-a137-179a8d1c790b.jpg",
-      "publishedAt": "2026-08-21T09:53:47Z"
+      "title": "Several injured after sword attack at Swedish school",
+      "summary": "Police say one man has been arrested, while several other local schools have been locked down.",
+      "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7891/live/e2465b10-9d67-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-08-21T14:32:18Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Panama Canal to cut number of ships passing through due to El Niño",
-      "summary": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db42/live/677fca00-9d18-11f1-bd22-47519fb87a16.jpg",
-      "publishedAt": "2026-08-21T06:46:08Z"
+      "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
+      "summary": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says.",
+      "url": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00e4/live/66300b20-9d5d-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-08-21T13:44:43Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Bodies of two hikers missing for decades found after Swiss glacier melts",
-      "summary": "Officials say the bodies of the two Belgians, who went missing in 1992, were discovered after the Trift Glacier receded.",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d2a/live/6dea4cb0-9d42-11f1-801c-1fffda40756a.jpg",
-      "publishedAt": "2026-08-21T10:03:17Z"
+      "title": "Five missing after fire in Swiss Alpine town",
+      "summary": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2795/live/227f1c60-9d56-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-08-21T13:10:39Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Tornadoes touch down in New York and Delaware",
+      "summary": "Tornadoes swept through New York and Delaware as severe storms brought torrential rain to the Mid-Atlantic.",
+      "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/905b/live/e3cfe470-9d6b-11f1-a2d1-59489fee904d.jpg",
+      "publishedAt": "2026-08-21T14:35:50Z"
     },
     {
       "category": "Science & Tech",
@@ -116,7 +125,7 @@
       "summary": "This year's El Niño is expected to be the strongest in living memory and could lead to a range of impacts of the UK - including a stormy autumn.",
       "url": "https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38f5/live/f8c01c40-9d45-11f1-a137-179a8d1c790b.jpg",
-      "publishedAt": "2026-08-21T13:02:13Z"
+      "publishedAt": "2026-08-21T14:17:03Z"
     },
     {
       "category": "Science & Tech",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ae0/live/b2d7de50-9d42-11f1-801c-1fffda40756a.jpg",
       "publishedAt": "2026-08-21T10:37:15Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Wildfire-hit residents remove Greenpeace mural of Burnham from scorched mountain",
-      "summary": "After wildfires the group painted an image bearing the words \"Our house is on fire, Andy\".",
-      "url": "https://www.bbc.co.uk/news/articles/cn7n0yvpm7vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cda/live/64a02280-9d40-11f1-bc05-aff3aa1f91c7.jpg",
-      "publishedAt": "2026-08-21T09:02:24Z"
     },
     {
       "category": "Science & Tech",
