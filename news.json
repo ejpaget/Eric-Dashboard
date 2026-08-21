@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T22:56:04.106055Z",
+  "updatedAt": "2026-08-21T23:34:15.384768Z",
   "stories": [
     {
       "category": "Local",
@@ -30,6 +30,15 @@
     },
     {
       "category": "Local",
+      "source": "ABC10",
+      "title": "Clover Fire in Nevada County | Latest - ABC10",
+      "summary": "Clover Fire in Nevada County | Latest ABC10",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNGdOX3BQNnlJeXVGMUpXLS1SQjEycVRpM0I1b0VmSzhScHUzTkpuc1dvY0dGUExvakU5TnJZYm5OUTBqSW5vMnZXcGlXNkJId2FyX2ExeU1mTzVudjJjM09RRDJ1MDFMSmx3SWs1RHpVSG56Y0pDNHRld1VEbU9SendlQlhOZk41RE9tSWJGTVdNNGNhOHlqcFdjbk5YOXRWNHl3N1pxRFJsODJmT2hlNmpKTURLZGJtZUpOYUFRWFZZdw?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-21T23:02:00Z"
+    },
+    {
+      "category": "Local",
       "source": "San Francisco Chronicle",
       "title": "Fast-moving wildfire near Grass Valley sparks after structure blaze, prompting evacuations - San Francisco Chronicle",
       "summary": "Fast-moving wildfire near Grass Valley sparks after structure blaze, prompting evacuations San Francisco Chronicle",
@@ -45,15 +54,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVJrQWRxZWxNS3dDTGJOWXJ5UGdsbFBJNnpnT0hsWjlyZEoyRk9ST2pHOUtxNEEtVXM2b2xLZUpDRGJpNWxOYUJiMVExdDBkX283Y291NHRWQ1lkTVVieTRsOFNrTHBFYzVVVl9pWkNnNHY0RFpnMXlvYVZ4eV85QzVJS0txN0pkNlFFM1Y3cnVhc1BmakxHXzhCZkpoU0NxVGNvUmZ3ZjN2aVU?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-12T07:00:00Z"
-    },
-    {
-      "category": "Local",
-      "source": "TheUnion.com",
-      "title": "UPDATE: Clover Fire near Alta Sierra holding at 12 acres - TheUnion.com",
-      "summary": "UPDATE: Clover Fire near Alta Sierra holding at 12 acres TheUnion.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS2VpbjhqWFRGNlVDVzNqSWNEbWpEMTNNZTFsYUtubjVkUTZKLTJYTk9UdVVILUlRMWlvZlc3NFhRZXc4RUY4aWJ5T0tuR0swc2s2dVZ1QTF5NUdLVkJEbWNRN2ZtNDJKVWh5OXVzcTY0SkY2RDRUZ0pvOFdjUlZMUTE3V0g1NkJKTE9ncFFVRXkwYmZESmZkRkt1amJWdmhRdXJRdEw4TVZjTjRjNTdZd29LOWxWWWV3TnB2Zkdkb0VleUFWbm9LU2xrVVF4NGxa?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-21T22:11:43Z"
     },
     {
       "category": "World",
