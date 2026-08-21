@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T08:53:55.857898Z",
+  "updatedAt": "2026-08-21T09:48:37.058306Z",
   "stories": [
     {
       "category": "Local",
@@ -30,21 +30,21 @@
     },
     {
       "category": "Local",
-      "source": "SFGATE",
-      "title": "Massive Central Valley grass fire balloons to 3,600 acres - SFGATE",
-      "summary": "Massive Central Valley grass fire balloons to 3,600 acres SFGATE",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT0lDc0tfbjB6Njl5eThNbUZZNktyVDdqbmdxZ0x6LVBoT1JoeDVCWlU5M1Ywd3pIbk9hV2RCYXRpR19yYTdNclNrMHEtd3VWclNvWkZIQW1rRUhSazM0dzlNdWphSnYwR1p6LTNkRkY5TTBuRmhmTU8wU3pyY0dnTWY3cE81cG9sVUpaUGEyeGhhUQ?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-20T16:56:37Z"
-    },
-    {
-      "category": "Local",
       "source": "Nevada County (.gov)",
       "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - Nevada County (.gov)",
       "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations Nevada County (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-06-18T05:24:55Z"
+    },
+    {
+      "category": "Local",
+      "source": "SFGATE",
+      "title": "Massive Central Valley grass fire balloons to 3,600 acres - SFGATE",
+      "summary": "Massive Central Valley grass fire balloons to 3,600 acres SFGATE",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT0lDc0tfbjB6Njl5eThNbUZZNktyVDdqbmdxZ0x6LVBoT1JoeDVCWlU5M1Ywd3pIbk9hV2RCYXRpR19yYTdNclNrMHEtd3VWclNvWkZIQW1rRUhSazM0dzlNdWphSnYwR1p6LTNkRkY5TTBuRmhmTU8wU3pyY0dnTWY3cE81cG9sVUpaUGEyeGhhUQ?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-20T16:56:37Z"
     },
     {
       "category": "Local",
@@ -63,15 +63,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5acd/live/49a65740-9d3d-11f1-aed2-8d6da8d75094.jpg",
       "publishedAt": "2026-08-21T05:00:57Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-      "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
-      "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg",
-      "publishedAt": "2026-08-20T18:55:14Z"
     },
     {
       "category": "World",
@@ -103,11 +94,29 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
-      "summary": "The 26-year-old was jailed for a year after he sparked anger with an expletive-laden post about the sacred holiday.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e38/live/fdd312c0-9d02-11f1-8390-abef47452aa0.jpg",
-      "publishedAt": "2026-08-21T02:33:27Z"
+      "title": "Meghan could return to acting once back in UK",
+      "summary": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.",
+      "url": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b37d/live/a753e0d0-9d2c-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-08-21T09:48:00Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+      "summary": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f281/live/3dc58f60-9d09-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-08-21T04:27:13Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Wildfire-hit residents remove Greenpeace mural of Burnham from scorched mountain",
+      "summary": "After wildfires the group painted an image bearing the words \"Our house is on fire, Andy\".",
+      "url": "https://www.bbc.co.uk/news/articles/cn7n0yvpm7vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cda/live/64a02280-9d40-11f1-bc05-aff3aa1f91c7.jpg",
+      "publishedAt": "2026-08-21T09:02:24Z"
     },
     {
       "category": "Science & Tech",
@@ -115,7 +124,7 @@
       "title": "El Niño set to be 'strongest in living memory', says Met Office",
       "summary": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
       "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e42a/live/e1f0da90-9cc3-11f1-9182-d13e1a2797dc.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ae0/live/b2d7de50-9d42-11f1-801c-1fffda40756a.jpg",
       "publishedAt": "2026-08-21T07:43:30Z"
     },
     {
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cewr9evwdwko?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e83e/live/6cf98890-9bd8-11f1-bb4d-1147ef2e78e5.jpg",
       "publishedAt": "2026-08-21T05:06:39Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Rain to stop in time for weekend as sun returns",
-      "summary": "The heavy downpours that have caused flash flooding will ease during Friday with sunshine returning for the weekend. But there are some chilly nights in store, as Ben Rich explains.",
-      "url": "https://www.bbc.co.uk/weather/articles/c2el98pkd3po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b373/live/5f8e3620-9cc2-11f1-a9cd-fd8bcb95d396.jpg",
-      "publishedAt": "2026-08-21T00:14:00Z"
     },
     {
       "category": "Science & Tech",
