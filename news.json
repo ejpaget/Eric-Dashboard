@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-21T20:56:12.525390Z",
+  "updatedAt": "2026-08-21T21:34:59.831511Z",
   "stories": [
+    {
+      "category": "Local",
+      "source": "TheUnion.com",
+      "title": "UPDATE: Units responding to Clover Fire between Grass Valley and Alta Sierra - TheUnion.com",
+      "summary": "UPDATE: Units responding to Clover Fire between Grass Valley and Alta Sierra TheUnion.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNc2N1aWtObEF6N2dlaU9Ccl9rZGoyRXktZWNHMHNxdEo0dDkxSE8zQzVHbVVOaVF0VmVMSXdWY1NkQlRUOEtLYnZia2hCa1NwaUV0cTY3R3l5VmRfMjduYnpUaEdJaDRqbFJBNFlMckVsZzF5cWZ3MlB2cWdKUFYxcXgyRC1QbVV4STJpczY3UUtBVkk5YldueUtGb1lMa3hOZWs2U25jejExdl9jeGtmYXJlQ3FheVI1UTRkRTdKaTJTcmNDOGZJd0RkbnZSOGxVVTNjOEs1SWV0bjZHM0dnY1NtdDY5S0ZLNXpR?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-21T20:45:00Z"
+    },
     {
       "category": "Local",
       "source": "KCRA",
@@ -47,15 +56,6 @@
       "publishedAt": "2026-08-18T21:30:00Z"
     },
     {
-      "category": "Local",
-      "source": "SFGATE",
-      "title": "Massive Central Valley grass fire balloons to 3,600 acres - SFGATE",
-      "summary": "Massive Central Valley grass fire balloons to 3,600 acres SFGATE",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT0lDc0tfbjB6Njl5eThNbUZZNktyVDdqbmdxZ0x6LVBoT1JoeDVCWlU5M1Ywd3pIbk9hV2RCYXRpR19yYTdNclNrMHEtd3VWclNvWkZIQW1rRUhSazM0dzlNdWphSnYwR1p6LTNkRkY5TTBuRmhmTU8wU3pyY0dnTWY3cE81cG9sVUpaUGEyeGhhUQ?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-20T16:56:37Z"
-    },
-    {
       "category": "World",
       "source": "BBC News",
       "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
@@ -77,10 +77,10 @@
       "category": "World",
       "source": "BBC News",
       "title": "One killed in sword attack at Swedish school",
-      "summary": "One person remains in a critical condition, while another suffered minor injuries in the attack.",
+      "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
       "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef32/live/454712a0-9d7b-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-21T19:22:05Z"
+      "publishedAt": "2026-08-21T21:03:24Z"
     },
     {
       "category": "World",
