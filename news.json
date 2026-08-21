@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T14:48:13.143363Z",
+  "updatedAt": "2026-08-21T15:43:59.902711Z",
   "stories": [
     {
       "category": "Local",
@@ -89,7 +89,7 @@
       "summary": "Police say one man has been arrested, while several other local schools have been locked down.",
       "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7891/live/e2465b10-9d67-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-21T14:32:18Z"
+      "publishedAt": "2026-08-21T15:42:47Z"
     },
     {
       "category": "World",
@@ -112,20 +112,11 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "Tornadoes touch down in New York and Delaware",
-      "summary": "Tornadoes swept through New York and Delaware as severe storms brought torrential rain to the Mid-Atlantic.",
-      "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/905b/live/e3cfe470-9d6b-11f1-a2d1-59489fee904d.jpg",
-      "publishedAt": "2026-08-21T14:35:50Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Stormy autumn, cold winter - how might El Niño affect the UK weather?",
-      "summary": "This year's El Niño is expected to be the strongest in living memory and could lead to a range of impacts of the UK - including a stormy autumn.",
-      "url": "https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38f5/live/f8c01c40-9d45-11f1-a137-179a8d1c790b.jpg",
-      "publishedAt": "2026-08-21T14:17:03Z"
+      "title": "Should school holidays change to cope with extreme heat?",
+      "summary": "Could changing the school holidays give pupils and teachers a break in largely unconditioned buildings?",
+      "url": "https://www.bbc.co.uk/news/videos/clyqd9x07q0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ef7/live/24ef52e0-9d73-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-08-21T15:23:17Z"
     },
     {
       "category": "Science & Tech",
@@ -133,8 +124,17 @@
       "title": "El Niño set to be 'strongest in living memory', says Met Office",
       "summary": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
       "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ae0/live/b2d7de50-9d42-11f1-801c-1fffda40756a.jpg",
-      "publishedAt": "2026-08-21T10:37:15Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b8e/live/ad2810c0-9d73-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-08-21T15:07:37Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Tornadoes touch down in New York and Delaware",
+      "summary": "Tornadoes swept through New York and Delaware as severe storms brought torrential rain to the Mid-Atlantic.",
+      "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/905b/live/e3cfe470-9d6b-11f1-a2d1-59489fee904d.jpg",
+      "publishedAt": "2026-08-21T14:35:50Z"
     },
     {
       "category": "Science & Tech",
