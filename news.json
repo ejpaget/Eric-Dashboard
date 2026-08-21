@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T21:55:51.426862Z",
+  "updatedAt": "2026-08-21T22:36:10.613305Z",
   "stories": [
     {
       "category": "Local",
@@ -9,6 +9,15 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNc2N1aWtObEF6N2dlaU9Ccl9rZGoyRXktZWNHMHNxdEo0dDkxSE8zQzVHbVVOaVF0VmVMSXdWY1NkQlRUOEtLYnZia2hCa1NwaUV0cTY3R3l5VmRfMjduYnpUaEdJaDRqbFJBNFlMckVsZzF5cWZ3MlB2cWdKUFYxcXgyRC1QbVV4STJpczY3UUtBVkk5YldueUtGb1lMa3hOZWs2U25jejExdl9jeGtmYXJlQ3FheVI1UTRkRTdKaTJTcmNDOGZJd0RkbnZSOGxVVTNjOEs1SWV0bjZHM0dnY1NtdDY5S0ZLNXpR?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-21T20:45:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "Sacramento Bee",
+      "title": "Clover Fire burns near Grass Valley, prompts evacuation order in Nevada County - Sacramento Bee",
+      "summary": "Clover Fire burns near Grass Valley, prompts evacuation order in Nevada County Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UmprRjFJLTZZWFJucmhtZFE4QWxlXzc4WHpUOU1xeXJpZDJDWTFFRjFUc01tM0hXLW9may1CR09KcF9raHo5Z3ota2pSblNzVnI3UXNUTEVCYzVKVXFMMS05Z2pLd9IBZkFVX3lxTE9kVGVrMDFUQURsSkFZaE9IYVp4WWIyQzdOYWRzMHg0LUxfcnU0OWdlYUFJOWtmU19GblRXWk1vWExkd09IcG9QU1FyTVQxUnhKU1VSUE5TR05YS3F4ZXVLRFNySlROZw?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-21T21:19:00Z"
     },
     {
       "category": "Local",
@@ -45,15 +54,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ1RFWmlJbkQ3QjdpOEFhXzdiTGxFcVAteFo4QmVoVGJVOFFQNmJzY2pqN3ZTVG01d0h5eURnaFh5QjA3NFZFYnk2VUtxY1FSSWlkQ2dxcktPUkg4VFJ3VmtKZ1RaREhZYjdObGtUWEVSY2VZSmRta20zZXAtaG5ZT3JyRDE2U200ZVBsOHJfdjRLNEJTVWc?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-20T01:16:34Z"
-    },
-    {
-      "category": "Local",
-      "source": "Legacy obituary",
-      "title": "Robert Boyle Obituary (1920 - 2026) - Grass Valley, CA - The Union - Legacy obituary",
-      "summary": "Robert Boyle Obituary (1920 - 2026) - Grass Valley, CA - The Union Legacy obituary",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd2s5UFZ3T1hKdUp2YnZ5NVNENkZLWjdSQ3g1WnN6ajF3c3R3ZkRJWmhGOUF0T0ZWTFBpNUdxQmpwOGJTVnFQX2pOdnBESzdVVmFUT1ZwZW16eThrUWhUNmhnOW13VjhxVmhucXRsX0Z3UUd6QnQtMkJZRFBoTXdJRGZXWmFlbkgyRUxrSg?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-18T10:49:10Z"
     },
     {
       "category": "World",
@@ -143,7 +143,7 @@
       "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
       "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebfc/live/7de297d0-9da6-11f1-95ab-d3b679e2384a.jpg",
-      "publishedAt": "2026-08-21T21:40:47Z"
+      "publishedAt": "2026-08-21T22:00:23Z"
     },
     {
       "category": "Science & Tech",
