@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T07:02:54.190770Z",
+  "updatedAt": "2026-08-21T07:52:34.365820Z",
   "stories": [
     {
       "category": "Local",
@@ -58,6 +58,15 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+      "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+      "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4659/live/0c7bbc90-9cdc-11f1-8c2c-67800657f112.jpg",
+      "publishedAt": "2026-08-21T05:00:57Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
       "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
       "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
@@ -76,38 +85,38 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "El Niño set to be 'strongest in living memory', says Met Office",
-      "summary": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
-      "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e42a/live/e1f0da90-9cc3-11f1-9182-d13e1a2797dc.jpg",
-      "publishedAt": "2026-08-21T00:33:21Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
-      "summary": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,",
-      "url": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/663b/live/8f14ea70-9d16-11f1-acd5-9b942218313f.jpg",
-      "publishedAt": "2026-08-21T05:30:18Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Why the US economy is ringing alarm bells",
-      "summary": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d5b/live/f6865980-9cf0-11f1-a0c7-a733f826760a.jpg",
-      "publishedAt": "2026-08-20T23:15:15Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Hong Kong's Tiananmen activists guilty in national security trial",
       "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
       "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d436/live/0a8eae40-9d0b-11f1-8a23-b9fc4847a391.jpg",
       "publishedAt": "2026-08-21T05:47:32Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Five missing after fire in Swiss Alpine town",
+      "summary": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b130/live/8dbc0170-9d27-11f1-889e-c901b814ac6c.jpg",
+      "publishedAt": "2026-08-21T07:06:16Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
+      "summary": "The 26-year-old was jailed for a year after he sparked anger with an expletive-laden post about the sacred holiday.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e38/live/fdd312c0-9d02-11f1-8390-abef47452aa0.jpg",
+      "publishedAt": "2026-08-21T02:33:27Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "El Niño set to be 'strongest in living memory', says Met Office",
+      "summary": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+      "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e42a/live/e1f0da90-9cc3-11f1-9182-d13e1a2797dc.jpg",
+      "publishedAt": "2026-08-21T07:43:30Z"
     },
     {
       "category": "Science & Tech",
@@ -117,15 +126,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cewr9evwdwko?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e83e/live/6cf98890-9bd8-11f1-bb4d-1147ef2e78e5.jpg",
       "publishedAt": "2026-08-21T05:06:39Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "El Niño set to be 'strongest in living memory', says Met Office",
-      "summary": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
-      "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e42a/live/e1f0da90-9cc3-11f1-9182-d13e1a2797dc.jpg",
-      "publishedAt": "2026-08-21T00:33:21Z"
     },
     {
       "category": "Science & Tech",
