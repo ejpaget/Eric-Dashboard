@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T20:36:02.785791Z",
+  "updatedAt": "2026-08-21T20:56:12.525390Z",
   "stories": [
     {
       "category": "Local",
@@ -76,6 +76,15 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "One killed in sword attack at Swedish school",
+      "summary": "One person remains in a critical condition, while another suffered minor injuries in the attack.",
+      "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef32/live/454712a0-9d7b-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-08-21T19:22:05Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Hong Kong's Tiananmen activists guilty in national security trial",
       "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
       "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b22/live/a7b4a760-9d8d-11f1-adf5-2dc21c9cc109.jpg",
       "publishedAt": "2026-08-21T18:27:15Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
-      "summary": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says.",
-      "url": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00e4/live/66300b20-9d5d-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-21T13:44:43Z"
     },
     {
       "category": "Science & Tech",
