@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T18:01:06.967298Z",
+  "updatedAt": "2026-08-21T18:51:32.462982Z",
   "stories": [
     {
       "category": "Local",
@@ -9,6 +9,15 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVJrQWRxZWxNS3dDTGJOWXJ5UGdsbFBJNnpnT0hsWjlyZEoyRk9ST2pHOUtxNEEtVXM2b2xLZUpDRGJpNWxOYUJiMVExdDBkX283Y291NHRWQ1lkTVVieTRsOFNrTHBFYzVVVl9pWkNnNHY0RFpnMXlvYVZ4eV85QzVJS0txN0pkNlFFM1Y3cnVhc1BmakxHXzhCZkpoU0NxVGNvUmZ3ZjN2aVU?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-12T07:00:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "ABC10",
+      "title": "Nevada City officials warn of high E. coli levels in Little Deer Creek - ABC10",
+      "summary": "Nevada City officials warn of high E. coli levels in Little Deer Creek ABC10",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOeUdJbmZXYVRpQU1TUkg0eEd4RkVQTXVVSE5IYWlkNnVlNjN3U3ZhcFdNR1Ztb09fY1N3eURRM25iektPZC1PbkdLNlV6a3Z2cXZmTHEyOGI5elBmUmZELU0wLWJ2RWVaME5fNnNYRXlZdHpBX0FPVldaYjdsN2dqVkUzTmVXNm43NmJmNEpwdkVORmdSUUkwalRJUmd5OHNhNDdhYVBfTXF5MGNnYnZuNkdVWnNwbkFZZHJtWjJiWnVLRTRjNkF4Wkp4Ul93Z0RUMEJrYmMzcjNJNzU1dm9WVFM5RVBqYmVFalJvamk5R3AzZzQ2Z1lVT3k2VDB2S0ZYUFBVMTltUQ?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-21T13:00:00Z"
     },
     {
       "category": "Local",
@@ -39,21 +48,12 @@
     },
     {
       "category": "Local",
-      "source": "SFGATE",
-      "title": "Massive Central Valley grass fire balloons to 3,600 acres - SFGATE",
-      "summary": "Massive Central Valley grass fire balloons to 3,600 acres SFGATE",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT0lDc0tfbjB6Njl5eThNbUZZNktyVDdqbmdxZ0x6LVBoT1JoeDVCWlU5M1Ywd3pIbk9hV2RCYXRpR19yYTdNclNrMHEtd3VWclNvWkZIQW1rRUhSazM0dzlNdWphSnYwR1p6LTNkRkY5TTBuRmhmTU8wU3pyY0dnTWY3cE81cG9sVUpaUGEyeGhhUQ?oc=5",
+      "source": "YubaNet",
+      "title": "Happening Now – August 2026 - YubaNet",
+      "summary": "Happening Now – August 2026 YubaNet",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oc2pzcm0xTzFQM2FwTlpqMFNxN0J6M1VlejljMnQxaFVJT3g1ZXRRenpodE1hYnJMOXRtTXZtNzBka0g2dWJiSg?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-08-20T16:56:37Z"
-    },
-    {
-      "category": "Local",
-      "source": "Nevada County (.gov)",
-      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - Nevada County (.gov)",
-      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations Nevada County (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-06-18T05:24:55Z"
+      "publishedAt": "2026-08-01T07:00:00Z"
     },
     {
       "category": "World",
@@ -67,11 +67,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c3/live/c7b37380-9d5a-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-21T13:07:00Z"
+      "title": "Russian double-tap drone strike kills 14 in Ukrainian mall, officials say",
+      "summary": "Another 121 people, including 22 children, were injured when the shopping centre was hit, according to the regional head.",
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png",
+      "publishedAt": "2026-08-21T18:23:11Z"
     },
     {
       "category": "World",
@@ -85,11 +85,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Two teenagers seriously injured after sword attack at Swedish school",
-      "summary": "Police say one man has been arrested, while several other local schools were locked down.",
-      "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef32/live/454712a0-9d7b-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-21T16:32:37Z"
+      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+      "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44aa/live/1a046dd0-9d6d-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-08-21T15:58:57Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Two injured in stabbing attack at Canada Sikh temple",
+      "summary": "One suspect is in custody, but police have not disclosed a possible motive.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b22/live/a7b4a760-9d8d-11f1-adf5-2dc21c9cc109.jpg",
+      "publishedAt": "2026-08-21T18:27:15Z"
     },
     {
       "category": "World",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00e4/live/66300b20-9d5d-11f1-a291-b542ee92de7c.jpg",
       "publishedAt": "2026-08-21T13:44:43Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-      "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44aa/live/1a046dd0-9d6d-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-21T15:58:57Z"
     },
     {
       "category": "Science & Tech",
