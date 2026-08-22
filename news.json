@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T19:51:57.145746Z",
+  "updatedAt": "2026-08-22T20:35:05.371899Z",
   "stories": [
     {
       "category": "Local",
@@ -62,7 +62,7 @@
       "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
       "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/336c/live/7ee35600-9e56-11f1-92d9-fda6ee78d386.jpg",
-      "publishedAt": "2026-08-22T19:41:18Z"
+      "publishedAt": "2026-08-22T20:10:00Z"
     },
     {
       "category": "World",
@@ -71,7 +71,7 @@
       "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
       "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa28/live/becb6d00-9e49-11f1-8871-ff7211da55c9.jpg",
-      "publishedAt": "2026-08-22T16:20:51Z"
+      "publishedAt": "2026-08-22T20:02:46Z"
     },
     {
       "category": "World",
@@ -165,6 +165,7 @@
     }
   ],
   "feedErrors": [
+    "Google News local results: HTTP Error 503: Service Unavailable",
     "ESPN: no element found: line 1, column 0"
   ]
 }
