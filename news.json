@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T13:39:54.161997Z",
+  "updatedAt": "2026-08-22T13:57:24.107787Z",
   "stories": [
     {
       "category": "Local",
@@ -76,6 +76,15 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Fourteen killed in strike on Myanmar monastery",
+      "summary": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5bc/live/b7226f80-9e22-11f1-ac9e-fff6c50f95cd.jpg",
+      "publishedAt": "2026-08-22T13:48:06Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
       "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
       "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef32/live/454712a0-9d7b-11f1-b109-879e35c24276.jpg",
       "publishedAt": "2026-08-21T21:03:24Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
-      "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
-      "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92b/live/3baa1370-9dfb-11f1-898b-91bf436c749f.jpg",
-      "publishedAt": "2026-08-22T08:40:49Z"
     },
     {
       "category": "Science & Tech",
