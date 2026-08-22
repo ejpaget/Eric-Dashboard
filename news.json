@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T05:58:46.172695Z",
+  "updatedAt": "2026-08-22T06:55:23.129331Z",
   "stories": [
     {
       "category": "Local",
@@ -59,7 +59,7 @@
       "category": "World",
       "source": "BBC News",
       "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-      "summary": "New 50% levy on $20bn of Canadian imports comes into force after last minute breakdown in trade talks.",
+      "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
       "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef5d/live/88423690-9ddd-11f1-b109-879e35c24276.jpg",
       "publishedAt": "2026-08-22T04:46:33Z"
@@ -85,11 +85,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
-      "summary": "Attacks come a day after at least 16 people were killed in a double-tap strike on a shopping mall.",
+      "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
+      "summary": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
       "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png",
-      "publishedAt": "2026-08-22T05:15:58Z"
+      "publishedAt": "2026-08-22T06:40:30Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
+      "summary": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
+      "url": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ec0/live/e9fd5290-9d9f-11f1-b160-9b29341ab62f.jpg",
+      "publishedAt": "2026-08-22T03:43:26Z"
     },
     {
       "category": "World",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef32/live/454712a0-9d7b-11f1-b109-879e35c24276.jpg",
       "publishedAt": "2026-08-21T21:03:24Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-      "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44aa/live/1a046dd0-9d6d-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-21T15:58:57Z"
     },
     {
       "category": "Science & Tech",
