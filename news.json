@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T11:30:37.385564Z",
+  "updatedAt": "2026-08-22T11:53:12.600314Z",
   "stories": [
     {
       "category": "Local",
@@ -112,6 +112,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "Welsh county becomes global hotspot for carbon emissions after wildfires",
+      "summary": "The smell of burning from the Blaenavon wildfire was reported 30 miles away in Cardiff.",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e9rg255vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93b6/live/b1859b10-9e0e-11f1-95e0-53a570c83624.jpg",
+      "publishedAt": "2026-08-22T11:31:09Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "How this 1960s ex-council house is managing to stay cool without air con",
       "summary": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
       "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/videos/clyqd9x07q0o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ef7/live/24ef52e0-9d73-11f1-a291-b542ee92de7c.jpg",
       "publishedAt": "2026-08-21T15:23:17Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "El Niño set to be 'strongest in living memory', says Met Office",
-      "summary": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
-      "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b8e/live/ad2810c0-9d73-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-21T15:07:37Z"
     },
     {
       "category": "Science & Tech",
