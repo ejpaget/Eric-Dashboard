@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-08-23T21:31:36.670234Z",
+  "updatedAt": "2026-08-23T21:52:36.908120Z",
   "stories": [
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "DSC Web Services Says Website Redesign Is No Longer Just About Looks – It’s About AI",
+      "summary": "",
+      "url": "https://www.theunion.com/online_features/press_releases/dsc-web-services-says-website-redesign-is-no-longer-just-about-looks-it-s-about/article_f4c3ef0e-7a4c-54d6-a6e9-adee38bc4086.html",
+      "imageUrl": "",
+      "publishedAt": "2026-08-22T21:05:02Z"
+    },
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "Glamping With Hot Tubs: Why Britain’s 2026 Wellness Trend Is a Field, Not a Spa",
+      "summary": "",
+      "url": "https://www.theunion.com/online_features/press_releases/glamping-with-hot-tubs-why-britain-s-2026-wellness-trend-is-a-field-not-a/article_ef92f469-02fb-5c61-9300-50af41adde5a.html",
+      "imageUrl": "",
+      "publishedAt": "2026-08-22T21:05:02Z"
+    },
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "Air Today Heating & Cooling Named South Carolina’s Best HVAC Sales and Service Company for the Second Year in a Row",
+      "summary": "",
+      "url": "https://www.theunion.com/online_features/press_releases/air-today-heating-cooling-named-south-carolina-s-best-hvac-sales-and-service-company-for/article_dd0f1397-f323-5fd1-a398-cadb32458627.html",
+      "imageUrl": "",
+      "publishedAt": "2026-08-22T21:00:03Z"
+    },
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "2026’s Top Window Covering Trends, and the Sister-Owned Store Carrying Them All",
+      "summary": "",
+      "url": "https://www.theunion.com/online_features/press_releases/2026-s-top-window-covering-trends-and-the-sister-owned-store-carrying-them-all/article_4ff61e01-dfaf-5c8e-a087-807c2495f054.html",
+      "imageUrl": "",
+      "publishedAt": "2026-08-22T21:00:03Z"
+    },
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "Pete’s Tire Barns Introduces ACTN Commercial Truck Tires – A Quality, Economic Option for Fleet Operators and Owner-Operators",
+      "summary": "",
+      "url": "https://www.theunion.com/online_features/press_releases/pete-s-tire-barns-introduces-actn-commercial-truck-tires-a-quality-economic-option-for-fleet/article_ddd9543b-daf4-5c5e-b213-0d8a39cca816.html",
+      "imageUrl": "",
+      "publishedAt": "2026-08-22T21:00:03Z"
+    },
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "Broadway Broadcasting’s 2026 Telly Award-Winning 5th Row Center …with Roma Torre Returns for Season Two",
+      "summary": "",
+      "url": "https://www.theunion.com/online_features/press_releases/broadway-broadcasting-s-2026-telly-award-winning-5th-row-center-with-roma-torre-returns-for/article_7b357a83-02c5-5eb6-a3c5-062dcb12acac.html",
+      "imageUrl": "",
+      "publishedAt": "2026-08-22T21:00:03Z"
+    },
     {
       "category": "World",
       "source": "BBC News",
@@ -111,8 +165,6 @@
     }
   ],
   "feedErrors": [
-    "The Union: HTTP Error 429: Too Many Requests",
-    "Google News local results: HTTP Error 503: Service Unavailable",
     "ESPN: no element found: line 1, column 0"
   ]
 }
