@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T14:55:23.502880Z",
+  "updatedAt": "2026-08-23T15:32:15.894589Z",
   "stories": [
     {
       "category": "Local",
@@ -94,6 +94,15 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "France links rise in drownings to heatwaves",
+      "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dc9/live/a89a9c70-9eff-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-08-23T15:00:17Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "The hotel booking mix-up that could free mushroom murderer",
       "summary": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
       "url": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
@@ -101,13 +110,13 @@
       "publishedAt": "2026-08-22T19:03:03Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "'New season, new trim' - Haaland reveals buzzcut",
-      "summary": "Manchester City striker Erling Haaland reveals his new buzz cut on social media.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0010/live/8943d720-9ee5-11f1-b109-879e35c24276.png",
-      "publishedAt": "2026-08-23T12:36:54Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "France links rise in drownings to heatwaves",
+      "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dc9/live/a89a9c70-9eff-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-08-23T15:00:17Z"
     },
     {
       "category": "Science & Tech",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cp9e9rg255vo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93b6/live/b1859b10-9e0e-11f1-95e0-53a570c83624.jpg",
       "publishedAt": "2026-08-22T11:31:09Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "How this 1960s ex-council house is managing to stay cool without air con",
-      "summary": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
-      "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14fa/live/18d84ae0-9d62-11f1-a979-27696fc3a013.jpg",
-      "publishedAt": "2026-08-21T23:56:48Z"
     },
     {
       "category": "Science & Tech",
