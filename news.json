@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-23T18:44:41.106556Z",
+  "updatedAt": "2026-08-23T19:30:15.913614Z",
   "stories": [
+    {
+      "category": "Local",
+      "source": "Nevada County (.gov)",
+      "title": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley - Nevada County (.gov)",
+      "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley Nevada County (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTkFsa0k0UzMtWmEzSHFDcVFYWlBueEZrRGV5UWx1dW5Oa3hUWVp2VkZZQ3JLQmNQc0IwYzQyRFdva0UzZk5yUmVVeGVrRXZ0bzZoNzNpRTY3MzU0MjF5YUsxWDVDeHByYkE?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-23T06:08:45Z"
+    },
     {
       "category": "Local",
       "source": "ABC10",
@@ -12,21 +21,21 @@
     },
     {
       "category": "Local",
-      "source": "Sacramento Bee",
-      "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - Sacramento Bee",
-      "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UmprRjFJLTZZWFJucmhtZFE4QWxlXzc4WHpUOU1xeXJpZDJDWTFFRjFUc01tM0hXLW9may1CR09KcF9raHo5Z3ota2pSblNzVnI3UXNUTEVCYzVKVXFMMS05Z2pLd9IBZkFVX3lxTE9kVGVrMDFUQURsSkFZaE9IYVp4WWIyQzdOYWRzMHg0LUxfcnU0OWdlYUFJOWtmU19GblRXWk1vWExkd09IcG9QU1FyTVQxUnhKU1VSUE5TR05YS3F4ZXVLRFNySlROZw?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-21T21:19:00Z"
-    },
-    {
-      "category": "Local",
       "source": "WorldAtlas",
       "title": "These 13 Towns In Northern California Were Ranked Among US Favorites In 2026 - WorldAtlas",
       "summary": "These 13 Towns In Northern California Were Ranked Among US Favorites In 2026 WorldAtlas",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQek5IaFBfTW9SUzNTN1F6Y3Q3WGFXTER5VVdkZTZSeE9tWjBQaXZKM1hDLWFlWWJaeFRqc19hRnNUVGwyUTdZcFVERE5FV19iYkFBUU5ydEhnOUJlelM5VEh2bXFGV0FtWl8tMmZ4TDM0dFFkb3FwNEw4NEZ4N05Td1Iyb2NJVFN1ZWdDRkM4N3E1aGVyd0d3cXFHWTk2N25qLVVqQ0txTFBvQUg2Wkc0TGNxNFdidw?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-23T18:30:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "Sacramento Bee",
+      "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - Sacramento Bee",
+      "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UmprRjFJLTZZWFJucmhtZFE4QWxlXzc4WHpUOU1xeXJpZDJDWTFFRjFUc01tM0hXLW9may1CR09KcF9raHo5Z3ota2pSblNzVnI3UXNUTEVCYzVKVXFMMS05Z2pLd9IBZkFVX3lxTE9kVGVrMDFUQURsSkFZaE9IYVp4WWIyQzdOYWRzMHg0LUxfcnU0OWdlYUFJOWtmU19GblRXWk1vWExkd09IcG9QU1FyTVQxUnhKU1VSUE5TR05YS3F4ZXVLRFNySlROZw?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-21T21:19:00Z"
     },
     {
       "category": "Local",
@@ -47,15 +56,6 @@
       "publishedAt": "2026-08-22T04:10:25Z"
     },
     {
-      "category": "Local",
-      "source": "KCRA",
-      "title": "Clover Fire: Evacuation orders lifted after flames torch structure, spread to Nevada County wildland - KCRA",
-      "summary": "Clover Fire: Evacuation orders lifted after flames torch structure, spread to Nevada County wildland KCRA",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoVl9zVUIyMGR3T2lfWmZMcmxCczljaTZ1dm5OcEQ0QlE0dUg2em1ELTZraVdxOE9PMDctZ2FqVjd5cWZmQmhDZkpkNlNpblJDR1lMSjlpLW5HUU9uem1DcjhrWmFHc01la0tndFc3WGZsOFdZdkV4ckY2Y2k?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-21T23:06:00Z"
-    },
-    {
       "category": "World",
       "source": "BBC News",
       "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
@@ -71,7 +71,7 @@
       "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
       "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b8b/live/0b4b35a0-9eba-11f1-8afa-6d906fcc4949.jpg",
-      "publishedAt": "2026-08-23T05:46:43Z"
+      "publishedAt": "2026-08-23T19:11:30Z"
     },
     {
       "category": "World",
