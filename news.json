@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T13:59:57.204741Z",
+  "updatedAt": "2026-08-24T14:54:24.763031Z",
   "stories": [
     {
       "category": "Local",
@@ -58,6 +58,15 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/500a/live/a3b77c00-9fa4-11f1-bff6-57f1422ebb0b.jpg",
+      "publishedAt": "2026-08-24T13:35:07Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
       "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
       "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
@@ -67,11 +76,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/500a/live/a3b77c00-9fa4-11f1-bff6-57f1422ebb0b.jpg",
-      "publishedAt": "2026-08-24T13:35:07Z"
+      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f647/live/434e2dd0-9fb5-11f1-bff6-57f1422ebb0b.jpg",
+      "publishedAt": "2026-08-24T13:56:22Z"
     },
     {
       "category": "World",
@@ -90,15 +99,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e700/live/5f2e2b70-9f99-11f1-a83c-33ebef033ca4.jpg",
       "publishedAt": "2026-08-24T05:01:17Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Access to Zambian courts prevented as election petition deadline looms",
-      "summary": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
-      "url": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef6d/live/b2d751d0-9fa2-11f1-a83c-33ebef033ca4.jpg",
-      "publishedAt": "2026-08-24T11:17:28Z"
     },
     {
       "category": "World",
