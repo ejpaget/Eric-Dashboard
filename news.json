@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T10:20:04.994570Z",
+  "updatedAt": "2026-08-24T11:04:38.720364Z",
   "stories": [
     {
       "category": "Local",
@@ -39,21 +39,21 @@
     },
     {
       "category": "Local",
-      "source": "KCRA",
-      "title": "Clover Fire: Evacuation orders lifted after flames torch structure, spread to Nevada County wildland - KCRA",
-      "summary": "Clover Fire: Evacuation orders lifted after flames torch structure, spread to Nevada County wildland KCRA",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoVl9zVUIyMGR3T2lfWmZMcmxCczljaTZ1dm5OcEQ0QlE0dUg2em1ELTZraVdxOE9PMDctZ2FqVjd5cWZmQmhDZkpkNlNpblJDR1lMSjlpLW5HUU9uem1DcjhrWmFHc01la0tndFc3WGZsOFdZdkV4ckY2Y2k?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-21T23:06:00Z"
-    },
-    {
-      "category": "Local",
       "source": "San Francisco Chronicle",
       "title": "Arson arrest after Nevada County wildfire prompts evacuations - San Francisco Chronicle",
       "summary": "Arson arrest after Nevada County wildfire prompts evacuations San Francisco Chronicle",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcFRrVklqSTdCcm9FZnNaV0JxS19ic0phNGo2M2czQU1QLTl4RHpwTFhiRWhkTnBhQmtQdU55ZURDUmR4VEpaTFhIakktR3E2cml0UWtRbG12SzZFU1NlekVjbG5RQTA1cFdfUmlUM1VDbFFQS0ZNUHZvYWlyQnBiNVdIOUVIbFpNQVo3SHMwa3o4QmVjUjBxd2FB?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-21T22:55:16Z"
+    },
+    {
+      "category": "Local",
+      "source": "KCRA",
+      "title": "Clover Fire: Evacuation orders lifted after flames torch structure, spread to Nevada County wildland - KCRA",
+      "summary": "Clover Fire: Evacuation orders lifted after flames torch structure, spread to Nevada County wildland KCRA",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoVl9zVUIyMGR3T2lfWmZMcmxCczljaTZ1dm5OcEQ0QlE0dUg2em1ELTZraVdxOE9PMDctZ2FqVjd5cWZmQmhDZkpkNlNpblJDR1lMSjlpLW5HUU9uem1DcjhrWmFHc01la0tndFc3WGZsOFdZdkV4ckY2Y2k?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-21T23:06:00Z"
     },
     {
       "category": "World",
@@ -85,11 +85,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Nearly three million Teslas recalled in China over hidden door handles",
-      "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e700/live/5f2e2b70-9f99-11f1-a83c-33ebef033ca4.jpg",
-      "publishedAt": "2026-08-24T05:01:17Z"
+      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+      "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
+      "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f16b/live/039a8ff0-9fa4-11f1-bff6-57f1422ebb0b.jpg",
+      "publishedAt": "2026-08-24T10:40:22Z"
     },
     {
       "category": "World",
@@ -103,11 +103,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "China probes use of formaldehyde to keep cabbages fresh",
-      "summary": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
-      "url": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fc4/live/3beac070-9f70-11f1-b05d-ad36121ca56d.jpg",
-      "publishedAt": "2026-08-24T05:40:48Z"
+      "title": "Access to Zambian courts prevented as election petition deadline looms",
+      "summary": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
+      "url": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef6d/live/b2d751d0-9fa2-11f1-a83c-33ebef033ca4.jpg",
+      "publishedAt": "2026-08-24T10:22:45Z"
     },
     {
       "category": "Science & Tech",
