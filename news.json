@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T13:08:40.027488Z",
+  "updatedAt": "2026-08-24T13:59:57.204741Z",
   "stories": [
     {
       "category": "Local",
@@ -71,7 +71,7 @@
       "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
       "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/500a/live/a3b77c00-9fa4-11f1-bff6-57f1422ebb0b.jpg",
-      "publishedAt": "2026-08-24T10:39:23Z"
+      "publishedAt": "2026-08-24T13:35:07Z"
     },
     {
       "category": "World",
@@ -103,11 +103,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Four arrested over suspected poisoning of elephants in Kenya",
-      "summary": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops.",
-      "url": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ff1/live/98213ac0-9fa9-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-24T11:08:27Z"
+      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
+      "summary": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
+      "url": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/783f/live/1a9bfa10-9fb6-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-08-24T13:14:10Z"
     },
     {
       "category": "Science & Tech",
@@ -143,7 +143,16 @@
       "summary": "His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.",
       "url": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e91/live/1f2e1410-9fb0-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-24T12:28:16Z"
+      "publishedAt": "2026-08-24T13:47:29Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
+      "title": "Twitch and Amazon face legal action over using livestreams to train AI",
+      "summary": "The lawsuit alleges Twitch used streamers' videos to train AI without their permission or proper compensation.",
+      "url": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54cb/live/a495ae60-9fa1-11f1-a83c-33ebef033ca4.jpg",
+      "publishedAt": "2026-08-24T13:09:44Z"
     },
     {
       "category": "Science & Tech",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8751/live/8f4be4d0-9e1a-11f1-a291-b542ee92de7c.jpg",
       "publishedAt": "2026-08-22T12:47:28Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-      "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f31/live/0a64ce80-9e10-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-21T22:36:12Z"
     }
   ],
   "feedErrors": [
