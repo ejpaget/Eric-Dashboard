@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T23:33:34.968467Z",
+  "updatedAt": "2026-08-25T23:54:46.092815Z",
   "stories": [
     {
       "category": "Local",
@@ -112,6 +112,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "A nosy polar bear and a lucky squirrel: Wildlife Photographer of the Year 2026 shortlist",
+      "summary": "The polar bear image taken by Audun Rikardsen was among the 'highly commended' entries in this year's competition.",
+      "url": "https://www.bbc.co.uk/news/articles/cg7m5e3mylpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db40/live/d4ab0780-9baa-11f1-92e6-b1dfcecd4308.jpg",
+      "publishedAt": "2026-08-25T23:41:13Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "Yellow warnings in force as rain and thunderstorms hit parts of UK",
       "summary": "Torrential downpours will affect parts of England and Wales, delivering some of the wettest weather in several weeks",
       "url": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee02/live/d89808b0-a056-11f1-b109-879e35c24276.jpg",
       "publishedAt": "2026-08-25T23:09:31Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Does 'rewilded' land need better wildfire prevention measures?",
-      "summary": "RSPB is considering measures it can take to improve resilience in the wake of a five week long fire",
-      "url": "https://www.bbc.co.uk/news/articles/cvgye1999n8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c674/live/e75b9450-9fbd-11f1-8648-8d7b77845e6d.jpg",
-      "publishedAt": "2026-08-25T22:07:29Z"
     },
     {
       "category": "Science & Tech",
