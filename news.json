@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T18:02:27.480493Z",
+  "updatedAt": "2026-08-25T18:53:04.025715Z",
   "stories": [
     {
       "category": "Local",
@@ -58,6 +58,15 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e708/live/0a3afb60-a0ad-11f1-a54e-272d756c341e.jpg",
+      "publishedAt": "2026-08-25T17:54:03Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
       "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
       "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a64/live/340bd9d0-a091-11f1-b11c-1bea5fc925f5.jpg",
       "publishedAt": "2026-08-25T16:43:08Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "European rights court orders Turkey to free imprisoned businessman",
-      "summary": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
-      "url": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cce/live/a7101170-a097-11f1-8a1f-314a01485cf4.png",
-      "publishedAt": "2026-08-25T15:58:20Z"
     },
     {
       "category": "Science & Tech",
