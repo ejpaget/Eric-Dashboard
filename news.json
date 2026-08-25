@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-25T22:39:11.524426Z",
+  "updatedAt": "2026-08-25T23:00:49.853804Z",
   "stories": [
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "Nevada County Supervisors approve $500,000 grant to support Penn Valley Community Center",
+      "summary": "The Nevada County Board of Supervisors approved a $500,000 grant to the Penn Valley Community Foundation at its August 25 meeting. The funding will support public infrastructure for the future Penn Valley Community Center.",
+      "url": "https://www.theunion.com/news/nevada-county-supervisors-approve-500-000-grant-to-support-penn-valley-community-center/article_6f6144d7-2e28-498e-a7ce-a78944844960.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/6/f9/6f9be45f-d0c8-41d8-a872-4aa32bd38a40/6a8e19960ee60.image.png?resize=300%2C300",
+      "publishedAt": "2026-08-25T22:35:00Z"
+    },
     {
       "category": "Local",
       "source": "The Union",
@@ -45,15 +54,6 @@
       "url": "https://www.theunion.com/lifestyles/marc-cuniberti-one-ounce-of-preventon/article_edc53923-95af-45fe-a12c-ba74c2b946f4.html",
       "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/b/ce/bce6a0d6-116c-49cd-a857-9113331f18af/6a8b3a56ef2bb.image.jpg?resize=300%2C200",
       "publishedAt": "2026-08-25T09:30:00Z"
-    },
-    {
-      "category": "Local",
-      "source": "The Union",
-      "title": "UC Agriculture and Natural Resources to host free wildfire preparedness walking tour in Grass Valley",
-      "summary": "UC Cooperative Extension and the UC ANR Fire Network invite Nevada County residents to learn about cost-effective actions they can take to protect their homes and properties from wildfire. The Wildfire Preparedness Walking Tour will be held on Monday, September…",
-      "url": "https://www.theunion.com/news/uc-agriculture-and-natural-resources-to-host-free-wildfire-preparedness-walking-tour-in-grass-valley/article_04316a2b-8f51-4311-8e00-919f242aff23.html",
-      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/4/92/49285269-3417-41b6-9ce7-e9e9867210df/6a6a99b7cc6f3.image.jpg?resize=300%2C200",
-      "publishedAt": "2026-08-25T09:15:00Z"
     },
     {
       "category": "World",
