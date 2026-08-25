@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T07:04:06.200051Z",
+  "updatedAt": "2026-08-25T07:53:47.488082Z",
   "stories": [
     {
       "category": "Local",
@@ -61,7 +61,7 @@
       "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
       "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
       "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1b2/live/2001ff40-a047-11f1-a291-b542ee92de7c.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a97/live/68e58ff0-a057-11f1-b109-879e35c24276.jpg",
       "publishedAt": "2026-08-25T06:54:46Z"
     },
     {
@@ -103,11 +103,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart",
-      "summary": "The role marks Harington's third collaboration with HBO, after starring in the tentpole Game of Thrones and financial drama The Industry.",
+      "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
+      "summary": "X-Men star Hoult was only announced as Lockhart two weeks ago but has had to drop out.",
       "url": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dc9/live/90c5d940-a04c-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-24T21:58:49Z"
+      "publishedAt": "2026-08-25T07:39:25Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
+      "summary": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
+      "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/940f/live/15a64300-a00e-11f1-9bf0-5f4ec548648d.jpg",
+      "publishedAt": "2026-08-25T07:49:36Z"
     },
     {
       "category": "Science & Tech",
@@ -117,15 +126,6 @@
       "url": "https://www.bbc.co.uk/weather/articles/c5y4n7y89w7o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4cb/live/47d438f0-9c85-11f1-98a7-0f0ed51e02be.jpg",
       "publishedAt": "2026-08-25T06:27:24Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Tornado tears through French village leaving dozens injured",
-      "summary": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
-      "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/940f/live/15a64300-a00e-11f1-9bf0-5f4ec548648d.jpg",
-      "publishedAt": "2026-08-25T01:27:21Z"
     },
     {
       "category": "Science & Tech",
