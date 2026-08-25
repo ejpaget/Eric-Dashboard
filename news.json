@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T05:41:51.769166Z",
+  "updatedAt": "2026-08-25T07:04:06.200051Z",
   "stories": [
     {
       "category": "Local",
@@ -58,20 +58,29 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
-      "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
+      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+      "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
       "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de12/live/09a94a20-9fe6-11f1-8ed1-41aaf1fca4f2.jpg",
-      "publishedAt": "2026-08-25T03:50:06Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1b2/live/2001ff40-a047-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-08-25T06:54:46Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-      "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/714d/live/73b30ef0-9fce-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-25T01:48:24Z"
+      "title": "Lockerbie bombing trial postponed days before it was due to start",
+      "summary": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+      "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9057/live/3d1ddb50-cf68-11ef-94cb-5f844ceb9e30.jpg",
+      "publishedAt": "2026-08-25T06:59:03Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+      "summary": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a54/live/46b9e240-a049-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-08-25T04:06:34Z"
     },
     {
       "category": "World",
@@ -85,15 +94,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "NZ religious sect leader jailed over death of Chinese follower",
-      "summary": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024.",
-      "url": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb13/live/cb512020-a02d-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-25T03:07:34Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "French tourist dies in Death Valley after car gets stuck in mud",
       "summary": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
       "url": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
@@ -103,11 +103,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Songs created by AI banned from Australia's music charts",
-      "summary": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
-      "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c04d/live/a8f841c0-a03c-11f1-b7fb-bd20bd7c1336.jpg",
-      "publishedAt": "2026-08-25T04:54:01Z"
+      "title": "Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart",
+      "summary": "The role marks Harington's third collaboration with HBO, after starring in the tentpole Game of Thrones and financial drama The Industry.",
+      "url": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dc9/live/90c5d940-a04c-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-08-24T21:58:49Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Moon set to turn red as rare partial lunar eclipse graces UK skies",
+      "summary": "There will be a partial lunar eclipse in the UK on 28 August, and may cause the Moon appear reddish in colour.",
+      "url": "https://www.bbc.co.uk/weather/articles/c5y4n7y89w7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4cb/live/47d438f0-9c85-11f1-98a7-0f0ed51e02be.jpg",
+      "publishedAt": "2026-08-25T06:27:24Z"
     },
     {
       "category": "Science & Tech",
@@ -129,20 +138,11 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "World's oceans hit highest temperature on record as El Niño grows",
-      "summary": "The record \"is another clear signal of an ocean under growing stress\", according to Dr Samantha Burgess from the European Copernicus climate change service.",
-      "url": "https://www.bbc.co.uk/news/articles/c62m4gpnp78o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e1c/live/bc7158a0-9fc3-11f1-8648-8d7b77845e6d.jpg",
-      "publishedAt": "2026-08-24T16:27:28Z"
-    },
-    {
-      "category": "Science & Tech",
       "source": "BBC Technology",
       "title": "Songs created by AI banned from Australia's music charts",
       "summary": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
       "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c04d/live/a8f841c0-a03c-11f1-b7fb-bd20bd7c1336.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/652d/live/261dd340-a051-11f1-89c1-878f3735096b.jpg",
       "publishedAt": "2026-08-25T04:54:01Z"
     },
     {
