@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T01:48:00.883511Z",
+  "updatedAt": "2026-08-25T03:08:45.383654Z",
   "stories": [
     {
       "category": "Local",
@@ -71,7 +71,7 @@
       "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
       "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/714d/live/73b30ef0-9fce-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-24T17:29:59Z"
+      "publishedAt": "2026-08-25T01:48:24Z"
     },
     {
       "category": "World",
@@ -81,6 +81,15 @@
       "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0972/live/c3169dc0-a016-11f1-b109-879e35c24276.jpg",
       "publishedAt": "2026-08-25T00:17:25Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "French tourist dies in Death Valley after car gets stuck in mud",
+      "summary": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
+      "url": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a852/live/7a015a70-a021-11f1-b3eb-5d1755263a69.jpg",
+      "publishedAt": "2026-08-25T02:08:57Z"
     },
     {
       "category": "World",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3908/live/3388cd30-9f8b-11f1-9fae-bbc7231f436d.jpg",
       "publishedAt": "2026-08-24T08:31:55Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-      "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f647/live/434e2dd0-9fb5-11f1-bff6-57f1422ebb0b.jpg",
-      "publishedAt": "2026-08-24T13:56:22Z"
     },
     {
       "category": "Science & Tech",
