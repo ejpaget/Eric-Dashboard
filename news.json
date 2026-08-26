@@ -1,59 +1,14 @@
 {
-  "updatedAt": "2026-08-26T13:11:15.654062Z",
+  "updatedAt": "2026-08-26T14:22:01.072353Z",
   "stories": [
     {
-      "category": "Local",
-      "source": "Nevada County (.gov)",
-      "title": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley - Nevada County (.gov)",
-      "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley Nevada County (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTkFsa0k0UzMtWmEzSHFDcVFYWlBueEZrRGV5UWx1dW5Oa3hUWVp2VkZZQ3JLQmNQc0IwYzQyRFdva0UzZk5yUmVVeGVrRXZ0bzZoNzNpRTY3MzU0MjF5YUsxWDVDeHByYkE?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-23T06:08:45Z"
-    },
-    {
-      "category": "Local",
-      "source": "ABC10",
-      "title": "Clover Fire in Nevada County | Updates, Evacuations, and Maps - ABC10",
-      "summary": "Clover Fire in Nevada County | Updates, Evacuations, and Maps ABC10",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeHNrVXJQQ2RGbldMeW1nQmluOVBLVkNhdUNFdkNabmFaN0l2bGs5UWVacTNWT3oxWXJSMENHWGt5OUNEakdnczVoN1U4VGhXY1BJQ0ltN3B0Q29kNElaeUYxRGs2NGV0VXZGX1dDaUhOa29yQVdaWHJGRE9TU3M0UHZBNTlSQjI0c0luT2ZndDdmRG90ajg3azlNZzVwQV82endFTXR5RHF6MFl6QUxIX2xqbkZ3ZVREdmxCNGFVLWxtMWFBdkpEb0JNTlVwVVh5SWRfWVJTV2VndzZVYlJNZlpR?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-21T21:40:00Z"
-    },
-    {
-      "category": "Local",
-      "source": "Sacramento Bee",
-      "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - Sacramento Bee",
-      "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UmprRjFJLTZZWFJucmhtZFE4QWxlXzc4WHpUOU1xeXJpZDJDWTFFRjFUc01tM0hXLW9may1CR09KcF9raHo5Z3ota2pSblNzVnI3UXNUTEVCYzVKVXFMMS05Z2pLd9IBZkFVX3lxTE9kVGVrMDFUQURsSkFZaE9IYVp4WWIyQzdOYWRzMHg0LUxfcnU0OWdlYUFJOWtmU19GblRXWk1vWExkd09IcG9QU1FyTVQxUnhKU1VSUE5TR05YS3F4ZXVLRFNySlROZw?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-22T18:20:43Z"
-    },
-    {
-      "category": "Local",
-      "source": "Legacy obituary",
-      "title": "Vanessa Lackey Obituary (1977 - 2026) - Grass Valley, CA - The Union - Legacy obituary",
-      "summary": "Vanessa Lackey Obituary (1977 - 2026) - Grass Valley, CA - The Union Legacy obituary",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNlc5dWw3RFVmbTZ0ZUIyNmN0ZDZ6a3g4MnB4UkJJX0FISGJNb3NiYnVlT3NGbVZKbjM0R25KaTAxalg3VTRVTEotMnNSRUJvTlJkVldHUXpSZmxMQmt4Y2VIRkQ5MFhhdHF3Z0FPaUwyZkxpTDdyQXd6dFJkcWNxMGs0d2JZOU5IeUZkM1poSQ?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-26T11:23:47Z"
-    },
-    {
-      "category": "Local",
-      "source": "CBS News",
-      "title": "Suspect arrested on suspicion of starting Clover Fire in Alta Sierra area - CBS News",
-      "summary": "Suspect arrested on suspicion of starting Clover Fire in Alta Sierra area CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUlp4TnhfZ3FfUG80WS1hZjh0WVA3bXJhTzJfOEhuaFljaWcxMURxX0xCZEhMZ1F6U0J6anAtNWRNdnE4MWgtS1BOczR5c2ZQWWpMT2Y4Q0haUTJvb3c0YkZaZkc0YzlieUt4cVk5aW96bkc1RGVNVzZrZTJUTFdGeEtRdmRBWFhsMVc2NTdRek82a3dC?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-21T20:59:00Z"
-    },
-    {
-      "category": "Local",
-      "source": "San Francisco Chronicle",
-      "title": "Arson arrest after Nevada County wildfire prompts evacuations - San Francisco Chronicle",
-      "summary": "Arson arrest after Nevada County wildfire prompts evacuations San Francisco Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcFRrVklqSTdCcm9FZnNaV0JxS19ic0phNGo2M2czQU1QLTl4RHpwTFhiRWhkTnBhQmtQdU55ZURDUmR4VEpaTFhIakktR3E2cml0UWtRbG12SzZFU1NlekVjbG5RQTA1cFdfUmlUM1VDbFFQS0ZNUHZvYWlyQnBiNVdIOUVIbFpNQVo3SHMwa3o4QmVjUjBxd2FB?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-21T22:55:16Z"
+      "category": "World",
+      "source": "BBC News",
+      "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
+      "summary": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
+      "url": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a700/live/226708c0-a141-11f1-9311-09d4e1fc9016.jpg",
+      "publishedAt": "2026-08-26T11:32:11Z"
     },
     {
       "category": "World",
@@ -76,11 +31,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
-      "summary": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport.",
-      "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33b1/live/35fbfab0-a139-11f1-9311-09d4e1fc9016.jpg",
-      "publishedAt": "2026-08-26T11:02:22Z"
+      "title": "Radiation link in flight attendant's breast cancer, French court finds",
+      "summary": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/737e/live/628a85a0-a135-11f1-9311-09d4e1fc9016.jpg",
+      "publishedAt": "2026-08-26T10:29:36Z"
     },
     {
       "category": "World",
@@ -99,15 +54,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ba0/live/fcd691c0-a11d-11f1-92eb-a9b3bbcf6f4a.jpg",
       "publishedAt": "2026-08-26T08:01:56Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
-      "summary": "Eswatini is one of 12 countries, and the only one in Africa, that has diplomatic relations with Taiwan.",
-      "url": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ce4/live/81c5cb20-a138-11f1-9311-09d4e1fc9016.jpg",
-      "publishedAt": "2026-08-26T12:17:12Z"
     },
     {
       "category": "Science & Tech",
@@ -139,6 +85,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
+      "title": "Meta agrees to pay up to $17.1bn to settle social media case",
+      "summary": "The deal has been reached during a California federal court trial over claims brought by 29 states.",
+      "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa89/live/9a0f4c00-a152-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-08-26T14:10:17Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
       "title": "AI gold rush draws crypto firms away from Bitcoin",
       "summary": "The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.",
       "url": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
@@ -153,19 +108,11 @@
       "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/652d/live/261dd340-a051-11f1-89c1-878f3735096b.jpg",
       "publishedAt": "2026-08-25T04:54:01Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
-      "summary": "His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.",
-      "url": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e91/live/1f2e1410-9fb0-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-24T16:03:24Z"
     }
   ],
   "feedErrors": [
     "The Union: HTTP Error 429: Too Many Requests",
+    "Google News local results: HTTP Error 503: Service Unavailable",
     "ESPN: no element found: line 1, column 0"
   ]
 }
