@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T11:39:01.704831Z",
+  "updatedAt": "2026-08-26T12:01:02.594823Z",
   "stories": [
     {
       "category": "Local",
@@ -58,6 +58,15 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "At least 14 babies die in Pakistan hospital fire",
+      "summary": "The fire broke out in an air conditioning unit at the mother and child unit in one of Islamabad's main hospitals.",
+      "url": "https://www.bbc.co.uk/news/articles/crk3dxj6zneo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec91/live/e87eadb0-a114-11f1-92eb-a9b3bbcf6f4a.jpg",
+      "publishedAt": "2026-08-26T10:42:00Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
       "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
       "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/737e/live/628a85a0-a135-11f1-9311-09d4e1fc9016.jpg",
       "publishedAt": "2026-08-26T10:29:36Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Germany's Merz warns attackers will 'pay price' after drone incident",
-      "summary": "A drone attack on Leipzig Airport highlights the \"very real threat\" faced by the country, the German chancellor says.",
-      "url": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d1e/live/99257560-a09b-11f1-8a1f-314a01485cf4.png",
-      "publishedAt": "2026-08-25T17:12:21Z"
     },
     {
       "category": "Science & Tech",
