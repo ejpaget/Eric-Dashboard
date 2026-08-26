@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T01:54:00.370795Z",
+  "updatedAt": "2026-08-26T03:15:02.902425Z",
   "stories": [
     {
       "category": "Local",
@@ -112,15 +112,6 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "Musk's SpaceX to build $100bn launch facility in Louisiana",
-      "summary": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b26b/live/94e32ca0-a0ef-11f1-836e-f5015c2f83bc.jpg",
-      "publishedAt": "2026-08-26T01:32:07Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
       "title": "A nosy polar bear and a lucky squirrel: Wildlife Photographer of the Year 2026 shortlist",
       "summary": "The polar bear image taken by Audun Rikardsen was among the 'highly commended' entries in this year's competition.",
       "url": "https://www.bbc.co.uk/news/articles/cg7m5e3mylpo?at_medium=RSS&at_campaign=rss",
@@ -138,12 +129,12 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Musk's SpaceX to build $100bn launch facility in Louisiana",
-      "summary": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b26b/live/94e32ca0-a0ef-11f1-836e-f5015c2f83bc.jpg",
-      "publishedAt": "2026-08-26T01:32:07Z"
+      "source": "BBC Science",
+      "title": "Firms scramble for battery power in Spain and Portugal",
+      "summary": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
+      "url": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee02/live/d89808b0-a056-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-08-25T23:09:31Z"
     },
     {
       "category": "Science & Tech",
@@ -162,6 +153,15 @@
       "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/652d/live/261dd340-a051-11f1-89c1-878f3735096b.jpg",
       "publishedAt": "2026-08-25T04:54:01Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
+      "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
+      "summary": "His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.",
+      "url": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e91/live/1f2e1410-9fb0-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-08-24T16:03:24Z"
     }
   ],
   "feedErrors": [
