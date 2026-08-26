@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-08-26T14:22:01.072353Z",
+  "updatedAt": "2026-08-26T16:04:53.627662Z",
   "stories": [
+    {
+      "category": "Local",
+      "source": "Nevada County (.gov)",
+      "title": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley - Nevada County (.gov)",
+      "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley Nevada County (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTkFsa0k0UzMtWmEzSHFDcVFYWlBueEZrRGV5UWx1dW5Oa3hUWVp2VkZZQ3JLQmNQc0IwYzQyRFdva0UzZk5yUmVVeGVrRXZ0bzZoNzNpRTY3MzU0MjF5YUsxWDVDeHByYkE?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-23T06:08:45Z"
+    },
+    {
+      "category": "Local",
+      "source": "ABC10",
+      "title": "Clover Fire in Nevada County | Updates, Evacuations, and Maps - ABC10",
+      "summary": "Clover Fire in Nevada County | Updates, Evacuations, and Maps ABC10",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeHNrVXJQQ2RGbldMeW1nQmluOVBLVkNhdUNFdkNabmFaN0l2bGs5UWVacTNWT3oxWXJSMENHWGt5OUNEakdnczVoN1U4VGhXY1BJQ0ltN3B0Q29kNElaeUYxRGs2NGV0VXZGX1dDaUhOa29yQVdaWHJGRE9TU3M0UHZBNTlSQjI0c0luT2ZndDdmRG90ajg3azlNZzVwQV82endFTXR5RHF6MFl6QUxIX2xqbkZ3ZVREdmxCNGFVLWxtMWFBdkpEb0JNTlVwVVh5SWRfWVJTV2VndzZVYlJNZlpR?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-21T21:40:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "Sacramento Bee",
+      "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - Sacramento Bee",
+      "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UmprRjFJLTZZWFJucmhtZFE4QWxlXzc4WHpUOU1xeXJpZDJDWTFFRjFUc01tM0hXLW9may1CR09KcF9raHo5Z3ota2pSblNzVnI3UXNUTEVCYzVKVXFMMS05Z2pLd9IBZkFVX3lxTE9kVGVrMDFUQURsSkFZaE9IYVp4WWIyQzdOYWRzMHg0LUxfcnU0OWdlYUFJOWtmU19GblRXWk1vWExkd09IcG9QU1FyTVQxUnhKU1VSUE5TR05YS3F4ZXVLRFNySlROZw?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-22T18:20:43Z"
+    },
+    {
+      "category": "Local",
+      "source": "Legacy obituary",
+      "title": "Vanessa Lackey Obituary (1977 - 2026) - Grass Valley, CA - The Union - Legacy obituary",
+      "summary": "Vanessa Lackey Obituary (1977 - 2026) - Grass Valley, CA - The Union Legacy obituary",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNlc5dWw3RFVmbTZ0ZUIyNmN0ZDZ6a3g4MnB4UkJJX0FISGJNb3NiYnVlT3NGbVZKbjM0R25KaTAxalg3VTRVTEotMnNSRUJvTlJkVldHUXpSZmxMQmt4Y2VIRkQ5MFhhdHF3Z0FPaUwyZkxpTDdyQXd6dFJkcWNxMGs0d2JZOU5IeUZkM1poSQ?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-26T11:23:47Z"
+    },
+    {
+      "category": "Local",
+      "source": "CBS News",
+      "title": "Suspect arrested on suspicion of starting Clover Fire in Alta Sierra area - CBS News",
+      "summary": "Suspect arrested on suspicion of starting Clover Fire in Alta Sierra area CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUlp4TnhfZ3FfUG80WS1hZjh0WVA3bXJhTzJfOEhuaFljaWcxMURxX0xCZEhMZ1F6U0J6anAtNWRNdnE4MWgtS1BOczR5c2ZQWWpMT2Y4Q0haUTJvb3c0YkZaZkc0YzlieUt4cVk5aW96bkc1RGVNVzZrZTJUTFdGeEtRdmRBWFhsMVc2NTdRek82a3dC?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-21T20:59:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "San Francisco Chronicle",
+      "title": "Arson arrest after Nevada County wildfire prompts evacuations - San Francisco Chronicle",
+      "summary": "Arson arrest after Nevada County wildfire prompts evacuations San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcFRrVklqSTdCcm9FZnNaV0JxS19ic0phNGo2M2czQU1QLTl4RHpwTFhiRWhkTnBhQmtQdU55ZURDUmR4VEpaTFhIakktR3E2cml0UWtRbG12SzZFU1NlekVjbG5RQTA1cFdfUmlUM1VDbFFQS0ZNUHZvYWlyQnBiNVdIOUVIbFpNQVo3SHMwa3o4QmVjUjBxd2FB?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-21T22:55:16Z"
+    },
     {
       "category": "World",
       "source": "BBC News",
@@ -14,10 +68,10 @@
       "category": "World",
       "source": "BBC News",
       "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
-      "summary": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies.",
+      "summary": "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies.",
       "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/226e/live/30231dc0-a11c-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-26T12:32:47Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3829/live/3df24620-a166-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-08-26T14:42:03Z"
     },
     {
       "category": "World",
@@ -58,6 +112,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "How to see the 'Blood Moon' lunar eclipse",
+      "summary": "How to see the 'Blood Moon' lunar eclipse",
+      "url": "https://www.bbc.co.uk/news/videos/cwyzl5x4vv8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/079a/live/d2e74b50-a138-11f1-9311-09d4e1fc9016.jpg",
+      "publishedAt": "2026-08-26T14:54:46Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "Yellow warnings remain in force as rain and thunderstorms hit parts of UK",
       "summary": "Yellow warnings updated as torrential downpours affect parts of England and Wales, delivering some of the wettest weather in several weeks.",
       "url": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
@@ -75,18 +138,18 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Fires still burn in charred landscape as focus turns to wildfire prevention",
-      "summary": "The RSPB is considering measures it can take to improve resilience in the wake of a five-week long fire in the Cairngorms.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgye1999n8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c674/live/e75b9450-9fbd-11f1-8648-8d7b77845e6d.jpg",
-      "publishedAt": "2026-08-26T05:25:20Z"
+      "source": "BBC Technology",
+      "title": "Xbox boss 'thinking about affordability' of next-gen console",
+      "summary": "In an exclusive interview with the BBC, Asha Sharma also discusses giving gamers digital versions of games they own.",
+      "url": "https://www.bbc.co.uk/news/articles/c17jlngexy9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e75/live/80f6b0f0-a15c-11f1-aaf8-119f176ff4ce.jpg",
+      "publishedAt": "2026-08-26T15:38:49Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "Meta agrees to pay up to $17.1bn to settle social media case",
-      "summary": "The deal has been reached during a California federal court trial over claims brought by 29 states.",
+      "title": "Meta agrees to pay up to $18bn to settle social media case",
+      "summary": "The deal has been reached during a California federal court trial over claims brought by US states.",
       "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa89/live/9a0f4c00-a152-11f1-aed2-8d6da8d75094.jpg",
       "publishedAt": "2026-08-26T14:10:17Z"
@@ -99,20 +162,10 @@
       "url": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c2d/live/88718a80-a07b-11f1-bfeb-dfb02ea642ef.png",
       "publishedAt": "2026-08-25T23:11:02Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Songs created by AI banned from Australia's music charts",
-      "summary": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
-      "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/652d/live/261dd340-a051-11f1-89c1-878f3735096b.jpg",
-      "publishedAt": "2026-08-25T04:54:01Z"
     }
   ],
   "feedErrors": [
     "The Union: HTTP Error 429: Too Many Requests",
-    "Google News local results: HTTP Error 503: Service Unavailable",
     "ESPN: no element found: line 1, column 0"
   ]
 }
