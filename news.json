@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T03:31:53.254558Z",
+  "updatedAt": "2026-08-27T14:36:05.132078Z",
   "stories": [
     {
       "category": "Local",
@@ -12,15 +12,6 @@
     },
     {
       "category": "Local",
-      "source": "ABC10",
-      "title": "Clover Fire in Nevada County | Updates, Evacuations, and Maps - ABC10",
-      "summary": "Clover Fire in Nevada County | Updates, Evacuations, and Maps ABC10",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeHNrVXJQQ2RGbldMeW1nQmluOVBLVkNhdUNFdkNabmFaN0l2bGs5UWVacTNWT3oxWXJSMENHWGt5OUNEakdnczVoN1U4VGhXY1BJQ0ltN3B0Q29kNElaeUYxRGs2NGV0VXZGX1dDaUhOa29yQVdaWHJGRE9TU3M0UHZBNTlSQjI0c0luT2ZndDdmRG90ajg3azlNZzVwQV82endFTXR5RHF6MFl6QUxIX2xqbkZ3ZVREdmxCNGFVLWxtMWFBdkpEb0JNTlVwVVh5SWRfWVJTV2VndzZVYlJNZlpR?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-21T21:40:00Z"
-    },
-    {
-      "category": "Local",
       "source": "Sacramento Bee",
       "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - Sacramento Bee",
       "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order Sacramento Bee",
@@ -30,21 +21,30 @@
     },
     {
       "category": "Local",
+      "source": "ABC10",
+      "title": "Clover Fire in Nevada County | Updates, Evacuations, and Maps - ABC10",
+      "summary": "Clover Fire in Nevada County | Updates, Evacuations, and Maps ABC10",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeHNrVXJQQ2RGbldMeW1nQmluOVBLVkNhdUNFdkNabmFaN0l2bGs5UWVacTNWT3oxWXJSMENHWGt5OUNEakdnczVoN1U4VGhXY1BJQ0ltN3B0Q29kNElaeUYxRGs2NGV0VXZGX1dDaUhOa29yQVdaWHJGRE9TU3M0UHZBNTlSQjI0c0luT2ZndDdmRG90ajg3azlNZzVwQV82endFTXR5RHF6MFl6QUxIX2xqbkZ3ZVREdmxCNGFVLWxtMWFBdkpEb0JNTlVwVVh5SWRfWVJTV2VndzZVYlJNZlpR?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-21T21:40:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "Legacy obituary",
+      "title": "Kathleen Ryan Obituary (1937 - 2026) - Grass Valley, CA - The Union - Legacy obituary",
+      "summary": "Kathleen Ryan Obituary (1937 - 2026) - Grass Valley, CA - The Union Legacy obituary",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMWFMdjhFeGlySFR2OUd2em4xSWhWTElnQlVISlllQ0c4NG5PblpvSnF0eXBvcEJ4dVZ6aGNTclo1RE8wbF9vbkg0bmtJaVJpdHB0WHY3eDJVVm5pUHFQMUJGRW1IWk5XLV9oQ3dRMHh6VlhITkQxTmlDX3gtcmtwcFRpb0xRYnZ3MlJEUlBR?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-27T10:57:12Z"
+    },
+    {
+      "category": "Local",
       "source": "San Francisco Chronicle",
       "title": "Arson arrest after Nevada County wildfire prompts evacuations - San Francisco Chronicle",
       "summary": "Arson arrest after Nevada County wildfire prompts evacuations San Francisco Chronicle",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcFRrVklqSTdCcm9FZnNaV0JxS19ic0phNGo2M2czQU1QLTl4RHpwTFhiRWhkTnBhQmtQdU55ZURDUmR4VEpaTFhIakktR3E2cml0UWtRbG12SzZFU1NlekVjbG5RQTA1cFdfUmlUM1VDbFFQS0ZNUHZvYWlyQnBiNVdIOUVIbFpNQVo3SHMwa3o4QmVjUjBxd2FB?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-21T22:55:16Z"
-    },
-    {
-      "category": "Local",
-      "source": "Legacy obituary",
-      "title": "Vanessa Lackey Obituary (1977 - 2026) - Grass Valley, CA - The Union - Legacy obituary",
-      "summary": "Vanessa Lackey Obituary (1977 - 2026) - Grass Valley, CA - The Union Legacy obituary",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNlc5dWw3RFVmbTZ0ZUIyNmN0ZDZ6a3g4MnB4UkJJX0FISGJNb3NiYnVlT3NGbVZKbjM0R25KaTAxalg3VTRVTEotMnNSRUJvTlJkVldHUXpSZmxMQmt4Y2VIRkQ5MFhhdHF3Z0FPaUwyZkxpTDdyQXd6dFJkcWNxMGs0d2JZOU5IeUZkM1poSQ?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-26T11:23:47Z"
     },
     {
       "category": "Local",
@@ -58,56 +58,56 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
-      "summary": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
-      "url": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a700/live/226708c0-a141-11f1-9311-09d4e1fc9016.jpg",
-      "publishedAt": "2026-08-26T11:32:11Z"
+      "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
+      "summary": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.",
+      "url": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/176c/live/1fd6bab0-a222-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-08-27T09:50:10Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
-      "summary": "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies.",
-      "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3829/live/3df24620-a166-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-26T14:42:03Z"
+      "title": "What we know about deadly Nepal-Tibet floods",
+      "summary": "Hundreds have died in flooding and landslides on the border of Nepal and Tibet.",
+      "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aa6/live/67c06430-a1f4-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-08-27T09:55:02Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
-      "summary": "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order.",
-      "url": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/532b/live/81abd680-a164-11f1-81f3-a1eb67c44aaf.jpg",
-      "publishedAt": "2026-08-26T15:42:45Z"
+      "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
+      "summary": "He was jailed for life in 2017 for genocide, war crimes and crimes against humanity during the wars in the ex-Yugoslavia in 1992-95.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfd1/live/703cbea0-a218-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-08-27T14:11:06Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "At least 12 dead as wildfires sweep through northern Algeria",
-      "summary": "Northern Africa has experienced severe heatwaves this summer, leading to hundreds of fires across the region.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgyd4x6nj4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bd9/live/184dd280-a1b2-11f1-a598-9df6ae0dd0cc.jpg",
-      "publishedAt": "2026-08-27T02:10:18Z"
+      "title": "Norway's royal family gathers at King Harald's bedside as his condition worsens",
+      "summary": "The 89-year-old has been in hospital for over a week receiving treatment for a rare blood condition.",
+      "url": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06e5/live/35ac1170-a1f3-11f1-bf30-b9c45f18ad85.png",
+      "publishedAt": "2026-08-27T11:20:49Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
-      "summary": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers.",
-      "url": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6145/live/8dd89c80-a18d-11f1-9e49-ab6cded816f9.jpg",
-      "publishedAt": "2026-08-26T22:02:18Z"
+      "title": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
+      "summary": "Nickolay Mladenov warns that a collapse of last October's ceasefire would be \"a point of no return\" for the region.",
+      "url": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/557f/live/7e6462b0-a21f-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-08-27T14:17:24Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "At least one dead after car crashes into crowd in northern France",
-      "summary": "One suspect was arrested after the incident in Caen, police said, following a reported fight at a nearby bar.",
-      "url": "https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f91/live/de580c50-a1b9-11f1-966a-03e1c6a27aae.jpg",
-      "publishedAt": "2026-08-27T02:42:17Z"
+      "title": "Man who attacked nun on CCTV in Jerusalem acquitted on grounds of mental health",
+      "summary": "A Jerusalem court said the Jewish attacker was having a psychotic episode when he assaulted the nun, in an incident which caused outrage.",
+      "url": "https://www.bbc.co.uk/news/articles/cpwl54kddeko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dd8/live/d2e496e0-455c-11f1-b55d-0f258dce1735.jpg",
+      "publishedAt": "2026-08-27T11:23:28Z"
     },
     {
       "category": "Science & Tech",
@@ -116,25 +116,34 @@
       "summary": "They are among hundreds of people still unaccounted for, with authorities for both countries saying they are closely monitoring the situation.",
       "url": "https://www.bbc.co.uk/news/articles/cn5dzldq1pzo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/737a/live/f2300d70-a17f-11f1-b109-879e35c24276.png",
-      "publishedAt": "2026-08-26T23:14:14Z"
+      "publishedAt": "2026-08-27T12:26:12Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "A nosy polar bear and a lucky squirrel: Wildlife Photographer of the Year 2026 shortlist",
-      "summary": "The polar bear image taken by Audun Rikardsen was among the 'highly commended' entries in this year's competition.",
-      "url": "https://www.bbc.co.uk/news/articles/cg7m5e3mylpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db40/live/d4ab0780-9baa-11f1-92e6-b1dfcecd4308.jpg",
-      "publishedAt": "2026-08-25T23:41:13Z"
+      "title": "Michael Sheen hopes 'extraordinary' reaction to toxic waste documentary spurs action",
+      "summary": "Dozens of people contacted BBC Wales following coverage of Sheen's investigation into chemical giant Monsanto.",
+      "url": "https://www.bbc.co.uk/news/articles/c70dwxr321ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fee/live/da0b2dc0-a174-11f1-87d4-e91caee13898.jpg",
+      "publishedAt": "2026-08-27T09:37:08Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "Parrot eggs hatch after suspected Thai smuggler arrested at South African airport",
-      "summary": "A 50-year-old Thai suspect was arrested with the eggs in a \"homemade incubator\" carried as hand luggage.",
-      "url": "https://www.bbc.co.uk/news/articles/ceq8n04q0gxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05c7/live/d5f8b3c0-a169-11f1-927f-b5d1ad458f34.jpg",
-      "publishedAt": "2026-08-26T19:19:46Z"
+      "title": "Concerns raised over impact of quad bikes on wildlife",
+      "summary": "A resident of Carnamoyle says quad bike riders in Lisnagra Woods have been impacting local wildlife.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy3d0j6pgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fa2/live/cdaefea0-a1e0-11f1-b132-bb16290da3a7.png",
+      "publishedAt": "2026-08-27T08:11:20Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
+      "title": "What does the Meta settlement mean for the UK? Five things we learned",
+      "summary": "Other social media firms are yet to respond, while the debate from campaigners is far from over.",
+      "url": "https://www.bbc.co.uk/news/articles/cg49q4xydq0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3471/live/51e2ea60-a213-11f1-9090-b51af3a01fc2.jpg",
+      "publishedAt": "2026-08-27T13:24:03Z"
     },
     {
       "category": "Science & Tech",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7234/live/2da1a9f0-a193-11f1-aed2-8d6da8d75094.jpg",
       "publishedAt": "2026-08-26T21:49:26Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
-      "summary": "The deal has been reached during a California federal court trial over claims brought by US states.",
-      "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa89/live/9a0f4c00-a152-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-08-26T21:27:23Z"
     }
   ],
   "feedErrors": [
