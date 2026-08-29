@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-08-29T10:24:04.226047Z",
+  "updatedAt": "2026-08-29T15:17:12.163676Z",
   "stories": [
-    {
-      "category": "Local",
-      "source": "YubaNet",
-      "title": "Sierra Foothills Audubon Society and Grass Valley Charter School Present “For the Love of Birds” Featuring Two Live Birds of Prey - YubaNet",
-      "summary": "Sierra Foothills Audubon Society and Grass Valley Charter School Present “For the Love of Birds” Featuring Two Live Birds of Prey YubaNet",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa25XTl9KUS03TkJSbjBqNUF2RHBaUFNyQUFodlUtYlRPUzRkcHJsMkQtU0F1ZmdmRVplZEJ5YmtWRlJzaDB6RHdYLTNjSVhkRkNIY1l5REc1bFFodXlrcGRkMmdZZXl2ZURYRjJUd2pJY2VuVXJOTG55a1NVZWNfR0Ewb2hRMUVZdk1MMXl5cXpTX29KU1ZRcU9idDRvU0JlVkRqWHBmZjF0RTZIQU9PdHIwd1BnTUM1RXJudmYydS1CXzVfRm44cmo3b1NNWW1VX1lvdGxaUERqa0RxQm8wTGJVaHZZWWVDOXB6TmVB?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-28T14:55:10Z"
-    },
     {
       "category": "Local",
       "source": "Nevada County (.gov)",
@@ -22,11 +13,20 @@
     {
       "category": "Local",
       "source": "Legacy obituary",
-      "title": "Vanessa Lackey Obituary (1977 - 2026) - Grass Valley, CA - The Union - Legacy obituary",
-      "summary": "Vanessa Lackey Obituary (1977 - 2026) - Grass Valley, CA - The Union Legacy obituary",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNlc5dWw3RFVmbTZ0ZUIyNmN0ZDZ6a3g4MnB4UkJJX0FISGJNb3NiYnVlT3NGbVZKbjM0R25KaTAxalg3VTRVTEotMnNSRUJvTlJkVldHUXpSZmxMQmt4Y2VIRkQ5MFhhdHF3Z0FPaUwyZkxpTDdyQXd6dFJkcWNxMGs0d2JZOU5IeUZkM1poSQ?oc=5",
+      "title": "Donald Martinez Obituary (1937 - 2026) - Grass Valley, CA - The Union - Legacy obituary",
+      "summary": "Donald Martinez Obituary (1937 - 2026) - Grass Valley, CA - The Union Legacy obituary",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU0hOMl84Z2VZMWhjM0hZY1FjNUdHNDZHUFA5czBBcGpmZkNzd3dNZmpxZjl0M3JUWVhEc05JR2NMSU5XMG9NdGh4N0hWVHltWUhoLXRuU0NNWHZncDg5SUZBd2xnSHJZZU82azBXamEtWUJCNHBVTDlKZUExbnFMRHUtU211UlM0cFBOdno3Vlc?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-08-26T11:23:47Z"
+      "publishedAt": "2026-08-29T10:51:29Z"
+    },
+    {
+      "category": "Local",
+      "source": "YubaNet",
+      "title": "Sierra Foothills Audubon Society and Grass Valley Charter School Present “For the Love of Birds” Featuring Two Live Birds of Prey - YubaNet",
+      "summary": "Sierra Foothills Audubon Society and Grass Valley Charter School Present “For the Love of Birds” Featuring Two Live Birds of Prey YubaNet",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa25XTl9KUS03TkJSbjBqNUF2RHBaUFNyQUFodlUtYlRPUzRkcHJsMkQtU0F1ZmdmRVplZEJ5YmtWRlJzaDB6RHdYLTNjSVhkRkNIY1l5REc1bFFodXlrcGRkMmdZZXl2ZURYRjJUd2pJY2VuVXJOTG55a1NVZWNfR0Ewb2hRMUVZdk1MMXl5cXpTX29KU1ZRcU9idDRvU0JlVkRqWHBmZjF0RTZIQU9PdHIwd1BnTUM1RXJudmYydS1CXzVfRm44cmo3b1NNWW1VX1lvdGxaUERqa0RxQm8wTGJVaHZZWWVDOXB6TmVB?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-28T14:55:10Z"
     },
     {
       "category": "Local",
@@ -67,11 +67,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "At least 27 dead and hundreds evacuated after strikes near Kyiv",
-      "summary": "A 14-year-old girl is among the dead after an attack near the capital overnight, the region's governor said.",
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
       "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b158/live/7c1ad170-a38b-11f1-9e7c-cb942f2e97d9.png",
-      "publishedAt": "2026-08-29T09:38:07Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e283/live/cf42fda0-a3b8-11f1-b13c-0d78069132fa.jpg",
+      "publishedAt": "2026-08-29T14:43:04Z"
     },
     {
       "category": "World",
@@ -80,7 +80,7 @@
       "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
       "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-29T02:42:27Z"
+      "publishedAt": "2026-08-29T15:13:42Z"
     },
     {
       "category": "World",
@@ -112,11 +112,11 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "How the weather in space can affect us on Earth - and the team trying to protect us",
-      "summary": "The weather in space has the potential to impact our lives here on Earth in a fundamental way.",
-      "url": "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e397/live/f7594f20-a2bd-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-08-29T06:05:15Z"
+      "title": "The race to stop England running out of water",
+      "summary": "Who is to blame for the summer drought, and can England future-proof its water supplies?",
+      "url": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ed1/live/17fc92d0-a2f2-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-08-29T14:50:35Z"
     },
     {
       "category": "Science & Tech",
@@ -125,16 +125,16 @@
       "summary": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.",
       "url": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4196/live/2c190870-a2e3-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-29T00:53:13Z"
+      "publishedAt": "2026-08-29T10:51:21Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "The race to stop England running out of water",
-      "summary": "Who is to blame for the summer drought, and can England future-proof its water supplies?",
-      "url": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ed1/live/17fc92d0-a2f2-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-08-29T00:46:00Z"
+      "title": "How the weather in space can affect us on Earth - and the team trying to protect us",
+      "summary": "The weather in space has the potential to impact our lives here on Earth in a fundamental way.",
+      "url": "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e397/live/f7594f20-a2bd-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-08-29T06:05:15Z"
     },
     {
       "category": "Science & Tech",
