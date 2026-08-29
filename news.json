@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T03:21:22.355799Z",
+  "updatedAt": "2026-08-29T10:24:04.226047Z",
   "stories": [
     {
       "category": "Local",
@@ -21,21 +21,21 @@
     },
     {
       "category": "Local",
-      "source": "Sacramento Bee",
-      "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - Sacramento Bee",
-      "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UmprRjFJLTZZWFJucmhtZFE4QWxlXzc4WHpUOU1xeXJpZDJDWTFFRjFUc01tM0hXLW9may1CR09KcF9raHo5Z3ota2pSblNzVnI3UXNUTEVCYzVKVXFMMS05Z2pLd9IBZkFVX3lxTE9kVGVrMDFUQURsSkFZaE9IYVp4WWIyQzdOYWRzMHg0LUxfcnU0OWdlYUFJOWtmU19GblRXWk1vWExkd09IcG9QU1FyTVQxUnhKU1VSUE5TR05YS3F4ZXVLRFNySlROZw?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-22T18:20:43Z"
-    },
-    {
-      "category": "Local",
       "source": "Legacy obituary",
       "title": "Vanessa Lackey Obituary (1977 - 2026) - Grass Valley, CA - The Union - Legacy obituary",
       "summary": "Vanessa Lackey Obituary (1977 - 2026) - Grass Valley, CA - The Union Legacy obituary",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNlc5dWw3RFVmbTZ0ZUIyNmN0ZDZ6a3g4MnB4UkJJX0FISGJNb3NiYnVlT3NGbVZKbjM0R25KaTAxalg3VTRVTEotMnNSRUJvTlJkVldHUXpSZmxMQmt4Y2VIRkQ5MFhhdHF3Z0FPaUwyZkxpTDdyQXd6dFJkcWNxMGs0d2JZOU5IeUZkM1poSQ?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-26T11:23:47Z"
+    },
+    {
+      "category": "Local",
+      "source": "Sacramento Bee",
+      "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - Sacramento Bee",
+      "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UmprRjFJLTZZWFJucmhtZFE4QWxlXzc4WHpUOU1xeXJpZDJDWTFFRjFUc01tM0hXLW9may1CR09KcF9raHo5Z3ota2pSblNzVnI3UXNUTEVCYzVKVXFMMS05Z2pLd9IBZkFVX3lxTE9kVGVrMDFUQURsSkFZaE9IYVp4WWIyQzdOYWRzMHg0LUxfcnU0OWdlYUFJOWtmU19GblRXWk1vWExkd09IcG9QU1FyTVQxUnhKU1VSUE5TR05YS3F4ZXVLRFNySlROZw?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-22T18:20:43Z"
     },
     {
       "category": "Local",
@@ -62,7 +62,16 @@
       "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
       "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d37/live/67a7cd10-a2fa-11f1-8d5b-155abe464768.jpg",
-      "publishedAt": "2026-08-28T22:05:41Z"
+      "publishedAt": "2026-08-29T03:54:11Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "At least 27 dead and hundreds evacuated after strikes near Kyiv",
+      "summary": "A 14-year-old girl is among the dead after an attack near the capital overnight, the region's governor said.",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b158/live/7c1ad170-a38b-11f1-9e7c-cb942f2e97d9.png",
+      "publishedAt": "2026-08-29T09:38:07Z"
     },
     {
       "category": "World",
@@ -101,13 +110,13 @@
       "publishedAt": "2026-08-29T00:46:02Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
-      "summary": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
-      "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad8/live/d86c20a0-a31d-11f1-8937-ebc435db1160.jpg",
-      "publishedAt": "2026-08-29T00:56:19Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "How the weather in space can affect us on Earth - and the team trying to protect us",
+      "summary": "The weather in space has the potential to impact our lives here on Earth in a fundamental way.",
+      "url": "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e397/live/f7594f20-a2bd-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-08-29T06:05:15Z"
     },
     {
       "category": "Science & Tech",
@@ -117,15 +126,6 @@
       "url": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4196/live/2c190870-a2e3-11f1-a291-b542ee92de7c.jpg",
       "publishedAt": "2026-08-29T00:53:13Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Mountain of broken fridges growing across England and Wales",
-      "summary": "This year's multiple heat waves have increased the numbers of fridges and freezers breaking down.",
-      "url": "https://www.bbc.co.uk/news/articles/c23x8k1ry27o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8b/live/c6083ba0-a2d8-11f1-941c-8741c1a72471.jpg",
-      "publishedAt": "2026-08-29T00:51:02Z"
     },
     {
       "category": "Science & Tech",
