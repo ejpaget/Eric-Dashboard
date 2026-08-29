@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-29T15:17:12.163676Z",
+  "updatedAt": "2026-08-29T18:48:57.747268Z",
   "stories": [
+    {
+      "category": "Local",
+      "source": "Legacy obituary",
+      "title": "Vanessa Lackey Obituary (1977 - 2026) - Grass Valley, CA - The Union - Legacy obituary",
+      "summary": "Vanessa Lackey Obituary (1977 - 2026) - Grass Valley, CA - The Union Legacy obituary",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNlc5dWw3RFVmbTZ0ZUIyNmN0ZDZ6a3g4MnB4UkJJX0FISGJNb3NiYnVlT3NGbVZKbjM0R25KaTAxalg3VTRVTEotMnNSRUJvTlJkVldHUXpSZmxMQmt4Y2VIRkQ5MFhhdHF3Z0FPaUwyZkxpTDdyQXd6dFJkcWNxMGs0d2JZOU5IeUZkM1poSQ?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-26T11:23:47Z"
+    },
     {
       "category": "Local",
       "source": "Nevada County (.gov)",
@@ -9,15 +18,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTkFsa0k0UzMtWmEzSHFDcVFYWlBueEZrRGV5UWx1dW5Oa3hUWVp2VkZZQ3JLQmNQc0IwYzQyRFdva0UzZk5yUmVVeGVrRXZ0bzZoNzNpRTY3MzU0MjF5YUsxWDVDeHByYkE?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-23T06:08:45Z"
-    },
-    {
-      "category": "Local",
-      "source": "Legacy obituary",
-      "title": "Donald Martinez Obituary (1937 - 2026) - Grass Valley, CA - The Union - Legacy obituary",
-      "summary": "Donald Martinez Obituary (1937 - 2026) - Grass Valley, CA - The Union Legacy obituary",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU0hOMl84Z2VZMWhjM0hZY1FjNUdHNDZHUFA5czBBcGpmZkNzd3dNZmpxZjl0M3JUWVhEc05JR2NMSU5XMG9NdGh4N0hWVHltWUhoLXRuU0NNWHZncDg5SUZBd2xnSHJZZU82azBXamEtWUJCNHBVTDlKZUExbnFMRHUtU211UlM0cFBOdno3Vlc?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-29T10:51:29Z"
     },
     {
       "category": "Local",
@@ -71,7 +71,16 @@
       "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
       "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e283/live/cf42fda0-a3b8-11f1-b13c-0d78069132fa.jpg",
-      "publishedAt": "2026-08-29T14:43:04Z"
+      "publishedAt": "2026-08-29T15:27:56Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+      "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+      "url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b75/live/1fc52210-a320-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-08-29T17:52:42Z"
     },
     {
       "category": "World",
@@ -80,7 +89,7 @@
       "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
       "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-29T15:13:42Z"
+      "publishedAt": "2026-08-29T16:15:56Z"
     },
     {
       "category": "World",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d541/live/c766ada0-a2ed-11f1-a789-b16da4059b6b.jpg",
       "publishedAt": "2026-08-28T19:40:45Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-      "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
-      "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e120/live/d58e6a30-a31f-11f1-92a5-fbd6f5289e6b.jpg",
-      "publishedAt": "2026-08-29T00:46:02Z"
     },
     {
       "category": "Science & Tech",
