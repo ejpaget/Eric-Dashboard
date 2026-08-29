@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T21:30:34.522051Z",
+  "updatedAt": "2026-08-29T03:21:22.355799Z",
   "stories": [
     {
       "category": "Local",
@@ -58,6 +58,33 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d37/live/67a7cd10-a2fa-11f1-8d5b-155abe464768.jpg",
+      "publishedAt": "2026-08-28T22:05:41Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-08-29T02:42:27Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+      "summary": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
+      "url": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa12/live/55bbb480-a2d3-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-08-29T00:32:17Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Norway mourns King Harald as Haakon VIII ascends throne",
       "summary": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
       "url": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
@@ -67,74 +94,47 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-      "summary": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c75/live/2ad87650-a2dc-11f1-ba94-c782670d1920.jpg",
-      "publishedAt": "2026-08-28T13:50:34Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-      "summary": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
-      "url": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7710/live/8f66bdd0-a312-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-28T19:05:23Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
       "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
       "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e120/live/d58e6a30-a31f-11f1-92a5-fbd6f5289e6b.jpg",
-      "publishedAt": "2026-08-28T21:01:39Z"
+      "publishedAt": "2026-08-29T00:46:02Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
-      "summary": "Police are hunting two suspects they believe bought a ticket for the exhibition to get at the jewellery.",
-      "url": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1df5/live/5d837d40-a2fd-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-08-28T17:29:16Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Greenland says findings on genocide allegation not final",
-      "summary": "Experts examined the use of forced contraception on the Inuit community during the 1960s and 70s.",
-      "url": "https://www.bbc.co.uk/news/articles/czxzv29p12lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d3c/live/3f385690-a31a-11f1-8937-ebc435db1160.jpg",
-      "publishedAt": "2026-08-28T19:57:50Z"
+      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
+      "summary": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
+      "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad8/live/d86c20a0-a31d-11f1-8937-ebc435db1160.jpg",
+      "publishedAt": "2026-08-29T00:56:19Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "How the weather in space can affect us on Earth - and the team trying to protect us",
-      "summary": "The weather in space has the potential to impact our lives here on Earth in a fundamental way.",
-      "url": "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e397/live/f7594f20-a2bd-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-08-28T20:44:07Z"
+      "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
+      "summary": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.",
+      "url": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4196/live/2c190870-a2e3-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-08-29T00:53:13Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "'Our parents were crossing the border an hour before the flood hit'",
-      "summary": "Authorities say nearly 2,000 people are missing, including more than 100 Americans and Canadians, as families await word on loved ones after the Nepal flash floods.",
-      "url": "https://www.bbc.co.uk/news/articles/cn5dzldq1pzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/192a/live/9d95b090-a237-11f1-80a2-67c89a95284e.jpg",
-      "publishedAt": "2026-08-28T17:59:31Z"
+      "title": "Mountain of broken fridges growing across England and Wales",
+      "summary": "This year's multiple heat waves have increased the numbers of fridges and freezers breaking down.",
+      "url": "https://www.bbc.co.uk/news/articles/c23x8k1ry27o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8b/live/c6083ba0-a2d8-11f1-941c-8741c1a72471.jpg",
+      "publishedAt": "2026-08-29T00:51:02Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "Bank holiday weekend to see more thunderstorms and rain",
-      "summary": "The weather will remain unsettled across the next few days with showers, longer spells of rain and thunderstorms all likely at times across the weekend.",
-      "url": "https://www.bbc.co.uk/weather/articles/cpq0zqepnrlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0ae/live/5bf17290-a2b0-11f1-ab20-f9f4f61e8913.jpg",
-      "publishedAt": "2026-08-28T09:42:47Z"
+      "title": "The race to stop England running out of water",
+      "summary": "Who is to blame for the summer drought, and can England future-proof its water supplies?",
+      "url": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ed1/live/17fc92d0-a2f2-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-08-29T00:46:00Z"
     },
     {
       "category": "Science & Tech",
