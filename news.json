@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T05:45:00.608099Z",
+  "updatedAt": "2026-08-30T11:49:28.408213Z",
   "stories": [
     {
       "category": "Local",
@@ -21,21 +21,21 @@
     },
     {
       "category": "Local",
-      "source": "Nevada County (.gov)",
-      "title": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley - Nevada County (.gov)",
-      "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley Nevada County (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTkFsa0k0UzMtWmEzSHFDcVFYWlBueEZrRGV5UWx1dW5Oa3hUWVp2VkZZQ3JLQmNQc0IwYzQyRFdva0UzZk5yUmVVeGVrRXZ0bzZoNzNpRTY3MzU0MjF5YUsxWDVDeHByYkE?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-23T06:08:45Z"
-    },
-    {
-      "category": "Local",
       "source": "KCRA",
       "title": "Grass Valley cancels Flock contract for license plate reading cameras - KCRA",
       "summary": "Grass Valley cancels Flock contract for license plate reading cameras KCRA",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVJrQWRxZWxNS3dDTGJOWXJ5UGdsbFBJNnpnT0hsWjlyZEoyRk9ST2pHOUtxNEEtVXM2b2xLZUpDRGJpNWxOYUJiMVExdDBkX283Y291NHRWQ1lkTVVieTRsOFNrTHBFYzVVVl9pWkNnNHY0RFpnMXlvYVZ4eV85QzVJS0txN0pkNlFFM1Y3cnVhc1BmakxHXzhCZkpoU0NxVGNvUmZ3ZjN2aVU?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-12T07:00:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "Nevada County (.gov)",
+      "title": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley - Nevada County (.gov)",
+      "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley Nevada County (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTkFsa0k0UzMtWmEzSHFDcVFYWlBueEZrRGV5UWx1dW5Oa3hUWVp2VkZZQ3JLQmNQc0IwYzQyRFdva0UzZk5yUmVVeGVrRXZ0bzZoNzNpRTY3MzU0MjF5YUsxWDVDeHByYkE?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-23T06:08:45Z"
     },
     {
       "category": "Local",
@@ -58,29 +58,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d37/live/67a7cd10-a2fa-11f1-8d5b-155abe464768.jpg",
-      "publishedAt": "2026-08-29T03:54:11Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Iceland EU referendum on a knife edge as counting continues",
-      "summary": "A vote on whether to resume membership talks with the European Union is too close to call.",
+      "title": "Iceland votes against restarting talks on joining EU",
+      "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.",
       "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e0f/live/272509c0-a425-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-08-30T03:57:01Z"
+      "publishedAt": "2026-08-30T10:49:11Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "WhatsApp chat used to send cash for crime and extremism",
-      "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
-      "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e7b/live/835e38f0-a2fa-11f1-b109-879e35c24276.png",
-      "publishedAt": "2026-08-30T04:59:56Z"
+      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+      "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
+      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dc4/live/0a7a6950-a466-11f1-b370-b9b7934350c8.jpg",
+      "publishedAt": "2026-08-30T11:25:11Z"
     },
     {
       "category": "World",
@@ -94,20 +85,29 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-      "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
-      "url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b75/live/1fc52210-a320-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-29T17:52:42Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Canada installs large Lake Ontario sign in latest jab at US",
+      "title": "Large Lake Ontario sign installed in Canada in latest jab at US",
       "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
       "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db21/live/575d2470-a410-11f1-a291-b542ee92de7c.jpg",
       "publishedAt": "2026-08-30T00:17:25Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "WhatsApp chat used to send cash for crime and extremism",
+      "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+      "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e7b/live/835e38f0-a2fa-11f1-b109-879e35c24276.png",
+      "publishedAt": "2026-08-30T04:59:56Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d37/live/67a7cd10-a2fa-11f1-8d5b-155abe464768.jpg",
+      "publishedAt": "2026-08-29T03:54:11Z"
     },
     {
       "category": "Science & Tech",
@@ -121,10 +121,10 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
+      "title": "Thunderstorms and gusty winds set to continue into Bank Holiday Monday",
       "summary": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.",
       "url": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4196/live/2c190870-a2e3-11f1-a291-b542ee92de7c.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ef/live/040d5720-a453-11f1-b109-879e35c24276.jpg",
       "publishedAt": "2026-08-29T10:51:21Z"
     },
     {
