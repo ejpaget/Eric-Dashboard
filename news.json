@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T00:12:20.271318Z",
+  "updatedAt": "2026-08-30T05:45:00.608099Z",
   "stories": [
     {
       "category": "Local",
@@ -30,21 +30,21 @@
     },
     {
       "category": "Local",
-      "source": "Sacramento Bee",
-      "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - Sacramento Bee",
-      "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UmprRjFJLTZZWFJucmhtZFE4QWxlXzc4WHpUOU1xeXJpZDJDWTFFRjFUc01tM0hXLW9may1CR09KcF9raHo5Z3ota2pSblNzVnI3UXNUTEVCYzVKVXFMMS05Z2pLd9IBZkFVX3lxTE9kVGVrMDFUQURsSkFZaE9IYVp4WWIyQzdOYWRzMHg0LUxfcnU0OWdlYUFJOWtmU19GblRXWk1vWExkd09IcG9QU1FyTVQxUnhKU1VSUE5TR05YS3F4ZXVLRFNySlROZw?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-22T18:20:43Z"
-    },
-    {
-      "category": "Local",
       "source": "KCRA",
       "title": "Grass Valley cancels Flock contract for license plate reading cameras - KCRA",
       "summary": "Grass Valley cancels Flock contract for license plate reading cameras KCRA",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVJrQWRxZWxNS3dDTGJOWXJ5UGdsbFBJNnpnT0hsWjlyZEoyRk9ST2pHOUtxNEEtVXM2b2xLZUpDRGJpNWxOYUJiMVExdDBkX283Y291NHRWQ1lkTVVieTRsOFNrTHBFYzVVVl9pWkNnNHY0RFpnMXlvYVZ4eV85QzVJS0txN0pkNlFFM1Y3cnVhc1BmakxHXzhCZkpoU0NxVGNvUmZ3ZjN2aVU?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-12T07:00:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "Sacramento Bee",
+      "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - Sacramento Bee",
+      "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UmprRjFJLTZZWFJucmhtZFE4QWxlXzc4WHpUOU1xeXJpZDJDWTFFRjFUc01tM0hXLW9may1CR09KcF9raHo5Z3ota2pSblNzVnI3UXNUTEVCYzVKVXFMMS05Z2pLd9IBZkFVX3lxTE9kVGVrMDFUQURsSkFZaE9IYVp4WWIyQzdOYWRzMHg0LUxfcnU0OWdlYUFJOWtmU19GblRXWk1vWExkd09IcG9QU1FyTVQxUnhKU1VSUE5TR05YS3F4ZXVLRFNySlROZw?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-22T18:20:43Z"
     },
     {
       "category": "Local",
@@ -67,6 +67,24 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Iceland EU referendum on a knife edge as counting continues",
+      "summary": "A vote on whether to resume membership talks with the European Union is too close to call.",
+      "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e0f/live/272509c0-a425-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-08-30T03:57:01Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "WhatsApp chat used to send cash for crime and extremism",
+      "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+      "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e7b/live/835e38f0-a2fa-11f1-b109-879e35c24276.png",
+      "publishedAt": "2026-08-30T04:59:56Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
       "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
       "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
@@ -85,29 +103,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Norway's new king remembers 'my dear father' in first speech",
-      "summary": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecd7/live/b200b740-a3dc-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-08-29T19:06:28Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Former Ecuadorian president imprisoned for corruption",
-      "summary": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc04/live/e3ac7010-a3d0-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-29T19:44:54Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
-      "summary": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
-      "url": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa12/live/55bbb480-a2d3-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-08-29T00:32:17Z"
+      "title": "Canada installs large Lake Ontario sign in latest jab at US",
+      "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+      "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db21/live/575d2470-a410-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-08-30T00:17:25Z"
     },
     {
       "category": "Science & Tech",
