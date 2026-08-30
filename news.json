@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T21:40:52.518843Z",
+  "updatedAt": "2026-08-30T00:12:20.271318Z",
   "stories": [
     {
       "category": "Local",
@@ -12,21 +12,21 @@
     },
     {
       "category": "Local",
-      "source": "Nevada County (.gov)",
-      "title": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley - Nevada County (.gov)",
-      "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley Nevada County (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTkFsa0k0UzMtWmEzSHFDcVFYWlBueEZrRGV5UWx1dW5Oa3hUWVp2VkZZQ3JLQmNQc0IwYzQyRFdva0UzZk5yUmVVeGVrRXZ0bzZoNzNpRTY3MzU0MjF5YUsxWDVDeHByYkE?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-23T06:08:45Z"
-    },
-    {
-      "category": "Local",
       "source": "YubaNet",
       "title": "Sierra Foothills Audubon Society and Grass Valley Charter School Present “For the Love of Birds” Featuring Two Live Birds of Prey - YubaNet",
       "summary": "Sierra Foothills Audubon Society and Grass Valley Charter School Present “For the Love of Birds” Featuring Two Live Birds of Prey YubaNet",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa25XTl9KUS03TkJSbjBqNUF2RHBaUFNyQUFodlUtYlRPUzRkcHJsMkQtU0F1ZmdmRVplZEJ5YmtWRlJzaDB6RHdYLTNjSVhkRkNIY1l5REc1bFFodXlrcGRkMmdZZXl2ZURYRjJUd2pJY2VuVXJOTG55a1NVZWNfR0Ewb2hRMUVZdk1MMXl5cXpTX29KU1ZRcU9idDRvU0JlVkRqWHBmZjF0RTZIQU9PdHIwd1BnTUM1RXJudmYydS1CXzVfRm44cmo3b1NNWW1VX1lvdGxaUERqa0RxQm8wTGJVaHZZWWVDOXB6TmVB?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-28T14:55:10Z"
+    },
+    {
+      "category": "Local",
+      "source": "Nevada County (.gov)",
+      "title": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley - Nevada County (.gov)",
+      "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley Nevada County (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTkFsa0k0UzMtWmEzSHFDcVFYWlBueEZrRGV5UWx1dW5Oa3hUWVp2VkZZQ3JLQmNQc0IwYzQyRFdva0UzZk5yUmVVeGVrRXZ0bzZoNzNpRTY3MzU0MjF5YUsxWDVDeHByYkE?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-23T06:08:45Z"
     },
     {
       "category": "Local",
@@ -139,6 +139,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
+      "title": "I've been to Gamescom six times - here's what excited me this year",
+      "summary": "The BBC's Laura Cress gets a first look at the biggest games in Cologne from Witcher 3 to Alien: Isolation 2.",
+      "url": "https://www.bbc.co.uk/news/articles/cew92lp2g45o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e644/live/028c1140-a285-11f1-ae59-c1f7c17a8b7d.png",
+      "publishedAt": "2026-08-29T23:02:28Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
       "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
       "summary": "The performers are asking the government to give every person in the UK a legal right to own their voice.",
       "url": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cwyz11475l1o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76e0/live/18ba43f0-a236-11f1-80a2-67c89a95284e.jpg",
       "publishedAt": "2026-08-27T19:44:27Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Reform of all social media should come with Meta changes, UN says",
-      "summary": "California's attorney general is now looking at TikTok and YouTube to enact teen safety features.",
-      "url": "https://www.bbc.co.uk/news/articles/c17j00lnn41o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5901/live/e330e520-a228-11f1-bd6a-3d72a7f54a3e.jpg",
-      "publishedAt": "2026-08-27T19:31:10Z"
     }
   ],
   "feedErrors": [
