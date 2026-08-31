@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T13:35:09.214654Z",
+  "updatedAt": "2026-08-31T19:36:50.450862Z",
   "stories": [
     {
       "category": "Local",
@@ -12,9 +12,9 @@
     },
     {
       "category": "Local",
-      "source": "Sacramento Bee",
-      "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - Sacramento Bee",
-      "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order Sacramento Bee",
+      "source": "sacbee.com",
+      "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - sacbee.com",
+      "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order sacbee.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UmprRjFJLTZZWFJucmhtZFE4QWxlXzc4WHpUOU1xeXJpZDJDWTFFRjFUc01tM0hXLW9may1CR09KcF9raHo5Z3ota2pSblNzVnI3UXNUTEVCYzVKVXFMMS05Z2pLd9IBZkFVX3lxTE9kVGVrMDFUQURsSkFZaE9IYVp4WWIyQzdOYWRzMHg0LUxfcnU0OWdlYUFJOWtmU19GblRXWk1vWExkd09IcG9QU1FyTVQxUnhKU1VSUE5TR05YS3F4ZXVLRFNySlROZw?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-22T07:00:00Z"
@@ -39,6 +39,15 @@
     },
     {
       "category": "Local",
+      "source": "San Francisco Chronicle",
+      "title": "Arson arrest after Nevada County wildfire prompts evacuations - San Francisco Chronicle",
+      "summary": "Arson arrest after Nevada County wildfire prompts evacuations San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcFRrVklqSTdCcm9FZnNaV0JxS19ic0phNGo2M2czQU1QLTl4RHpwTFhiRWhkTnBhQmtQdU55ZURDUmR4VEpaTFhIakktR3E2cml0UWtRbG12SzZFU1NlekVjbG5RQTA1cFdfUmlUM1VDbFFQS0ZNUHZvYWlyQnBiNVdIOUVIbFpNQVo3SHMwa3o4QmVjUjBxd2FB?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-22T07:00:00Z"
+    },
+    {
+      "category": "Local",
       "source": "Hindustan Times",
       "title": "Grass Valley Clover Fire: Evacuation map, updates as blaze burns in Nevada County near Alta Sierra | Hindustan Times - Hindustan Times",
       "summary": "Grass Valley Clover Fire: Evacuation map, updates as blaze burns in Nevada County near Alta Sierra | Hindustan Times Hindustan Times",
@@ -47,13 +56,13 @@
       "publishedAt": "2026-08-22T07:00:00Z"
     },
     {
-      "category": "Local",
-      "source": "FOX40",
-      "title": "Grass Valley police leave Flock over data privacy concerns - FOX40",
-      "summary": "Grass Valley police leave Flock over data privacy concerns FOX40",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZaG5ubXRvMGxxN185Y0FRVzkyc3E3cHN2WGlMNEJSNEdMbnhvV2VXa3kxTkVwckllaEgtRXhyc19WWGJfUU9FNUJVejJZNFZRUjZYcnlMQUYzY1RPMWRkSDZmSnYtMlRUdVNjTGFOUGtwQUV2SngwZGVXNHRoZ9IBgwFBVV95cUxQRGZ1STU3VFRNYnVaVjFvc0lhUzZXUG5saGVsZ3VYcnNmZ0NwUzJSYjlEaXQxZE91dFJJN1M5eG9QR09WZkNpTlhCX3BMeVh0bjRLeUVuRVh0Y1VwbnNsMEVPRXVjZEdyaDVBVWRFRVRpb21wM241SjRDY0REMl9TMk9nMA?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-12T07:00:00Z"
+      "category": "World",
+      "source": "BBC News",
+      "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+      "summary": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dce/live/98bb2c90-a556-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-08-31T17:30:47Z"
     },
     {
       "category": "World",
@@ -62,7 +71,7 @@
       "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
       "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-31T08:34:25Z"
+      "publishedAt": "2026-08-31T13:47:30Z"
     },
     {
       "category": "World",
@@ -76,15 +85,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "South African airline defends low-altitude aerial stunt over packed stadium",
-      "summary": "Airlink says the manoeuvre with two planes in close formation involved careful and precise planning.",
-      "url": "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04bd/live/21055af0-a528-11f1-a291-b542ee92de7c.png",
-      "publishedAt": "2026-08-31T10:18:07Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "The jury's options in Lindsay Clancy's murder trial",
       "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with killing her three children.",
       "url": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
@@ -94,20 +94,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Search continues for 18 passengers after ferry capsized in northern Cyprus",
-      "summary": "Eight people have died after the ferry started taking on water shortly after setting off for Turkey.",
+      "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
+      "summary": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people.",
       "url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e12/live/a0ae2f30-a52c-11f1-8ebe-efa2c58ecfe9.png",
-      "publishedAt": "2026-08-31T11:41:05Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e7/live/97d65330-a548-11f1-8689-6589354d0f8e.png",
+      "publishedAt": "2026-08-31T14:50:36Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Dolly Parton laid to rest alongside husband in Nashville",
-      "summary": "A private family funeral is held for the singer who died on Tuesday at the age of 80.",
-      "url": "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a36d/live/d19e2b60-a51b-11f1-89d5-dd5482a9fcc2.jpg",
-      "publishedAt": "2026-08-31T09:24:50Z"
+      "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
+      "summary": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.",
+      "url": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/024b/live/9dd0a660-a55b-11f1-9acf-19576105f049.jpg",
+      "publishedAt": "2026-08-31T17:54:23Z"
     },
     {
       "category": "Science & Tech",
@@ -139,6 +139,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
+      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
+      "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
+      "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-08-31T16:49:11Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
       "title": "I've been to Gamescom six times - here's what excited me this year",
       "summary": "The BBC's Laura Cress gets a first look at the biggest games in Cologne from Witcher 3 to Alien: Isolation 2.",
       "url": "https://www.bbc.co.uk/news/articles/cew92lp2g45o?at_medium=RSS&at_campaign=rss",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a34/live/922d2fb0-a234-11f1-a291-b542ee92de7c.jpg",
       "publishedAt": "2026-08-28T05:11:16Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Time is running out for cyber security, warn top tech firms",
-      "summary": "The letter warns cyber-attacks which use AI will become more sophisticated in a matter of months.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyz11475l1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76e0/live/18ba43f0-a236-11f1-80a2-67c89a95284e.jpg",
-      "publishedAt": "2026-08-27T19:44:27Z"
     }
   ],
   "feedErrors": [
