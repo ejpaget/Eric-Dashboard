@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T19:36:50.450862Z",
+  "updatedAt": "2026-08-31T23:20:32.403344Z",
   "stories": [
     {
       "category": "Local",
@@ -12,9 +12,9 @@
     },
     {
       "category": "Local",
-      "source": "sacbee.com",
-      "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - sacbee.com",
-      "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order sacbee.com",
+      "source": "Sacramento Bee",
+      "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - Sacramento Bee",
+      "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order Sacramento Bee",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UmprRjFJLTZZWFJucmhtZFE4QWxlXzc4WHpUOU1xeXJpZDJDWTFFRjFUc01tM0hXLW9may1CR09KcF9raHo5Z3ota2pSblNzVnI3UXNUTEVCYzVKVXFMMS05Z2pLd9IBZkFVX3lxTE9kVGVrMDFUQURsSkFZaE9IYVp4WWIyQzdOYWRzMHg0LUxfcnU0OWdlYUFJOWtmU19GblRXWk1vWExkd09IcG9QU1FyTVQxUnhKU1VSUE5TR05YS3F4ZXVLRFNySlROZw?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-22T07:00:00Z"
@@ -30,9 +30,9 @@
     },
     {
       "category": "Local",
-      "source": "KCRA",
-      "title": "Grass Valley cancels Flock contract for license plate reading cameras - KCRA",
-      "summary": "Grass Valley cancels Flock contract for license plate reading cameras KCRA",
+      "source": "kcra.com",
+      "title": "Grass Valley cancels Flock contract for license plate reading cameras - kcra.com",
+      "summary": "Grass Valley cancels Flock contract for license plate reading cameras kcra.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVJrQWRxZWxNS3dDTGJOWXJ5UGdsbFBJNnpnT0hsWjlyZEoyRk9ST2pHOUtxNEEtVXM2b2xLZUpDRGJpNWxOYUJiMVExdDBkX283Y291NHRWQ1lkTVVieTRsOFNrTHBFYzVVVl9pWkNnNHY0RFpnMXlvYVZ4eV85QzVJS0txN0pkNlFFM1Y3cnVhc1BmakxHXzhCZkpoU0NxVGNvUmZ3ZjN2aVU?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-12T07:00:00Z"
@@ -67,11 +67,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "US and Iran trade strikes for first time in weeks",
-      "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-31T13:47:30Z"
+      "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
+      "summary": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.",
+      "url": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/024b/live/9dd0a660-a55b-11f1-9acf-19576105f049.jpg",
+      "publishedAt": "2026-08-31T17:54:23Z"
     },
     {
       "category": "World",
@@ -85,15 +85,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "The jury's options in Lindsay Clancy's murder trial",
-      "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with killing her three children.",
-      "url": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c17/live/80180ab0-a4d3-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-31T11:53:21Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
       "summary": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people.",
       "url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
@@ -103,11 +94,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
-      "summary": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.",
-      "url": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/024b/live/9dd0a660-a55b-11f1-9acf-19576105f049.jpg",
-      "publishedAt": "2026-08-31T17:54:23Z"
+      "title": "US and Iran trade strikes for first time in weeks",
+      "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-08-31T13:47:30Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
+      "summary": "But Chief Justice John Roberts dissents, writing that \"construction is likely unlawful\".",
+      "url": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ead3/live/f03f27e0-a57a-11f1-9648-5fefd339ae88.jpg",
+      "publishedAt": "2026-08-31T22:38:24Z"
     },
     {
       "category": "Science & Tech",
@@ -139,6 +139,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
+      "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
+      "summary": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c0/live/06652f80-a574-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-08-31T21:28:49Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
       "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
       "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
       "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cew92lp2g45o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e644/live/028c1140-a285-11f1-ae59-c1f7c17a8b7d.png",
       "publishedAt": "2026-08-29T23:02:28Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
-      "summary": "The performers are asking the government to give every person in the UK a legal right to own their voice.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a34/live/922d2fb0-a234-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-28T05:11:16Z"
     }
   ],
   "feedErrors": [
