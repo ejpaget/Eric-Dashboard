@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T17:25:42.326102Z",
+  "updatedAt": "2026-09-01T20:08:07.894284Z",
   "stories": [
     {
       "category": "Local",
@@ -30,21 +30,12 @@
     },
     {
       "category": "Local",
-      "source": "kcra.com",
-      "title": "Grass Valley cancels Flock contract for license plate reading cameras - kcra.com",
-      "summary": "Grass Valley cancels Flock contract for license plate reading cameras kcra.com",
+      "source": "KCRA",
+      "title": "Grass Valley cancels Flock contract for license plate reading cameras - KCRA",
+      "summary": "Grass Valley cancels Flock contract for license plate reading cameras KCRA",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVJrQWRxZWxNS3dDTGJOWXJ5UGdsbFBJNnpnT0hsWjlyZEoyRk9ST2pHOUtxNEEtVXM2b2xLZUpDRGJpNWxOYUJiMVExdDBkX283Y291NHRWQ1lkTVVieTRsOFNrTHBFYzVVVl9pWkNnNHY0RFpnMXlvYVZ4eV85QzVJS0txN0pkNlFFM1Y3cnVhc1BmakxHXzhCZkpoU0NxVGNvUmZ3ZjN2aVU?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-12T07:00:00Z"
-    },
-    {
-      "category": "Local",
-      "source": "San Francisco Chronicle",
-      "title": "Arson arrest after Nevada County wildfire prompts evacuations - San Francisco Chronicle",
-      "summary": "Arson arrest after Nevada County wildfire prompts evacuations San Francisco Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcFRrVklqSTdCcm9FZnNaV0JxS19ic0phNGo2M2czQU1QLTl4RHpwTFhiRWhkTnBhQmtQdU55ZURDUmR4VEpaTFhIakktR3E2cml0UWtRbG12SzZFU1NlekVjbG5RQTA1cFdfUmlUM1VDbFFQS0ZNUHZvYWlyQnBiNVdIOUVIbFpNQVo3SHMwa3o4QmVjUjBxd2FB?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-22T07:00:00Z"
     },
     {
       "category": "Local",
@@ -56,13 +47,31 @@
       "publishedAt": "2026-08-22T07:00:00Z"
     },
     {
+      "category": "Local",
+      "source": "FOX40",
+      "title": "Grass Valley police leave Flock over data privacy concerns - FOX40",
+      "summary": "Grass Valley police leave Flock over data privacy concerns FOX40",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZaG5ubXRvMGxxN185Y0FRVzkyc3E3cHN2WGlMNEJSNEdMbnhvV2VXa3kxTkVwckllaEgtRXhyc19WWGJfUU9FNUJVejJZNFZRUjZYcnlMQUYzY1RPMWRkSDZmSnYtMlRUdVNjTGFOUGtwQUV2SngwZGVXNHRoZ9IBgwFBVV95cUxQRGZ1STU3VFRNYnVaVjFvc0lhUzZXUG5saGVsZ3VYcnNmZ0NwUzJSYjlEaXQxZE91dFJJN1M5eG9QR09WZkNpTlhCX3BMeVh0bjRLeUVuRVh0Y1VwbnNsMEVPRXVjZEdyaDVBVWRFRVRpb21wM241SjRDY0REMl9TMk9nMA?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-12T07:00:00Z"
+    },
+    {
       "category": "World",
       "source": "BBC News",
       "title": "Germany says Russia behind Leipzig airport drone attack",
       "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
       "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6b5/live/bf0d1e90-a618-11f1-9ca2-a3e18de91b7b.jpg",
-      "publishedAt": "2026-09-01T16:53:40Z"
+      "publishedAt": "2026-09-01T19:13:03Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US launches more strikes on Iran as state media reports explosions",
+      "summary": "US Central Command accused Iran of targeting commercial shipping and American service members deployed in the region.",
+      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/913b/live/5a3308c0-a629-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-01T19:50:05Z"
     },
     {
       "category": "World",
@@ -94,20 +103,29 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Vance calls Michigan Senate candidate El-Sayed 'evil' at campaign rally",
-      "summary": "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two.",
-      "url": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5638/live/ebb6d900-a61c-11f1-9ca2-a3e18de91b7b.jpg",
-      "publishedAt": "2026-09-01T15:51:40Z"
+      "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
+      "summary": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023.",
+      "url": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c43/live/4a3ec160-a62a-11f1-905b-8511af748865.jpg",
+      "publishedAt": "2026-09-01T20:05:23Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Pistol in a lake gives hope for French cold case",
-      "summary": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012.",
-      "url": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e60e/live/059e82e0-a61e-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-09-01T16:33:29Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "How a small island in Canada appeared, vanished, and was found again",
+      "summary": "Officials in British Columbia say the floating island drifted towards the shoreline of a local lake. But its origins remain a mystery.",
+      "url": "https://www.bbc.co.uk/news/articles/cgk5jk6nkxzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a487/live/3b0ddbf0-a629-11f1-b384-1f35d0eeee9d.jpg",
+      "publishedAt": "2026-09-01T17:36:44Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Met Office: Summer 2026 was UK's hottest ever",
+      "summary": "The UK had a spring and summer of persistent heat with five widespread heatwaves and 40 days of temperatures above 30C (86F), smashing the previous record of 34 days.",
+      "url": "https://www.bbc.co.uk/news/videos/cn74vl31r48o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7640/live/17b44350-a620-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-01T17:25:35Z"
     },
     {
       "category": "Science & Tech",
@@ -117,24 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c74b/live/69a57380-7fa8-11f1-a5f4-433bb9aa2e5a.jpg",
       "publishedAt": "2026-09-01T13:37:06Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "One still missing after Grand Canyon floods kill two and prompt rescue efforts",
-      "summary": "Almost everyone is now accounted for after dozens of hikers were airlifted to safety, an official says.",
-      "url": "https://www.bbc.co.uk/news/articles/c62e6rkn43ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1ca/live/41edbe20-a581-11f1-ae94-15924a612dd1.jpg",
-      "publishedAt": "2026-09-01T13:34:04Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Summer 2026 was UK's hottest on record, Met Office says",
-      "summary": "Met Office figures show that the previous record, set in 2025, has been broken after an unprecedented summer of persistent heat.",
-      "url": "https://www.bbc.co.uk/weather/articles/c99dypl3jgmo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84de/live/4bd31cb0-a51c-11f1-89d5-dd5482a9fcc2.jpg",
-      "publishedAt": "2026-09-01T12:18:55Z"
     },
     {
       "category": "Science & Tech",
