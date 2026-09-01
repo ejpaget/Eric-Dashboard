@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-01T20:08:07.894284Z",
+  "updatedAt": "2026-09-01T22:34:11.782922Z",
   "stories": [
     {
       "category": "Local",
-      "source": "Legacy obituary",
-      "title": "Rhonda Maynard Obituary (1963 - 2026) - Grass valley, CA - The Union - Legacy obituary",
-      "summary": "Rhonda Maynard Obituary (1963 - 2026) - Grass valley, CA - The Union Legacy obituary",
+      "source": "legacy.com",
+      "title": "Rhonda Maynard Obituary (1963 - 2026) - Grass valley, CA - The Union - legacy.com",
+      "summary": "Rhonda Maynard Obituary (1963 - 2026) - Grass valley, CA - The Union legacy.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSGhYTXdtU05CbnlZQ0dkM2xHN3M4b2k2RWVNYzlzemtCbllHbC1GeFdDclZ6SXNXNGIzQnphamFmOVZoeXJBY1pXVWZwOFhyM3BLRHhyZGNMVXN4MC1aZk5COVg4c2xQbzlrMFFzcndOZWJlcnpuS3lBS0tTWkNJeTNidWljVkJBcl9udl9MSQ?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-01T12:03:28Z"
@@ -39,6 +39,15 @@
     },
     {
       "category": "Local",
+      "source": "San Francisco Chronicle",
+      "title": "Arson arrest after Nevada County wildfire prompts evacuations - San Francisco Chronicle",
+      "summary": "Arson arrest after Nevada County wildfire prompts evacuations San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcFRrVklqSTdCcm9FZnNaV0JxS19ic0phNGo2M2czQU1QLTl4RHpwTFhiRWhkTnBhQmtQdU55ZURDUmR4VEpaTFhIakktR3E2cml0UWtRbG12SzZFU1NlekVjbG5RQTA1cFdfUmlUM1VDbFFQS0ZNUHZvYWlyQnBiNVdIOUVIbFpNQVo3SHMwa3o4QmVjUjBxd2FB?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-22T07:00:00Z"
+    },
+    {
+      "category": "Local",
       "source": "Hindustan Times",
       "title": "Grass Valley Clover Fire: Evacuation map, updates as blaze burns in Nevada County near Alta Sierra | Hindustan Times - Hindustan Times",
       "summary": "Grass Valley Clover Fire: Evacuation map, updates as blaze burns in Nevada County near Alta Sierra | Hindustan Times Hindustan Times",
@@ -47,31 +56,22 @@
       "publishedAt": "2026-08-22T07:00:00Z"
     },
     {
-      "category": "Local",
-      "source": "FOX40",
-      "title": "Grass Valley police leave Flock over data privacy concerns - FOX40",
-      "summary": "Grass Valley police leave Flock over data privacy concerns FOX40",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZaG5ubXRvMGxxN185Y0FRVzkyc3E3cHN2WGlMNEJSNEdMbnhvV2VXa3kxTkVwckllaEgtRXhyc19WWGJfUU9FNUJVejJZNFZRUjZYcnlMQUYzY1RPMWRkSDZmSnYtMlRUdVNjTGFOUGtwQUV2SngwZGVXNHRoZ9IBgwFBVV95cUxQRGZ1STU3VFRNYnVaVjFvc0lhUzZXUG5saGVsZ3VYcnNmZ0NwUzJSYjlEaXQxZE91dFJJN1M5eG9QR09WZkNpTlhCX3BMeVh0bjRLeUVuRVh0Y1VwbnNsMEVPRXVjZEdyaDVBVWRFRVRpb21wM241SjRDY0REMl9TMk9nMA?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-12T07:00:00Z"
-    },
-    {
       "category": "World",
       "source": "BBC News",
       "title": "Germany says Russia behind Leipzig airport drone attack",
       "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
       "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6b5/live/bf0d1e90-a618-11f1-9ca2-a3e18de91b7b.jpg",
-      "publishedAt": "2026-09-01T19:13:03Z"
+      "publishedAt": "2026-09-01T21:05:22Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "US launches more strikes on Iran as state media reports explosions",
-      "summary": "US Central Command accused Iran of targeting commercial shipping and American service members deployed in the region.",
+      "title": "US strikes Iran as state media reports four killed at wedding party",
+      "summary": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
       "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/913b/live/5a3308c0-a629-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-09-01T19:50:05Z"
+      "publishedAt": "2026-09-01T21:48:28Z"
     },
     {
       "category": "World",
@@ -112,6 +112,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "Watch: Astronauts set out on rare all-female spacewalk",
+      "summary": "For the sixth time in history, a team of two women completed a spacewalk outside the International Space Station.",
+      "url": "https://www.bbc.co.uk/news/videos/c89jyxqvjq0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1337/live/9bc87da0-a648-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-01T21:08:48Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "How a small island in Canada appeared, vanished, and was found again",
       "summary": "Officials in British Columbia say the floating island drifted towards the shoreline of a local lake. But its origins remain a mystery.",
       "url": "https://www.bbc.co.uk/news/articles/cgk5jk6nkxzo?at_medium=RSS&at_campaign=rss",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cn74vl31r48o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7640/live/17b44350-a620-11f1-a291-b542ee92de7c.jpg",
       "publishedAt": "2026-09-01T17:25:35Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "More hosepipe bans in force as drought declared - is your area affected?",
-      "summary": "About 30 million people have been placed under hosepipe bans due to higher demand and low rainfall.",
-      "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c74b/live/69a57380-7fa8-11f1-a5f4-433bb9aa2e5a.jpg",
-      "publishedAt": "2026-09-01T13:37:06Z"
     },
     {
       "category": "Science & Tech",
