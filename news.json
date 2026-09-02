@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-01T22:34:11.782922Z",
+  "updatedAt": "2026-09-02T00:29:41.497509Z",
   "stories": [
     {
       "category": "Local",
-      "source": "legacy.com",
-      "title": "Rhonda Maynard Obituary (1963 - 2026) - Grass valley, CA - The Union - legacy.com",
-      "summary": "Rhonda Maynard Obituary (1963 - 2026) - Grass valley, CA - The Union legacy.com",
+      "source": "Legacy obituary",
+      "title": "Rhonda Maynard Obituary (1963 - 2026) - Grass valley, CA - The Union - Legacy obituary",
+      "summary": "Rhonda Maynard Obituary (1963 - 2026) - Grass valley, CA - The Union Legacy obituary",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSGhYTXdtU05CbnlZQ0dkM2xHN3M4b2k2RWVNYzlzemtCbllHbC1GeFdDclZ6SXNXNGIzQnphamFmOVZoeXJBY1pXVWZwOFhyM3BLRHhyZGNMVXN4MC1aZk5COVg4c2xQbzlrMFFzcndOZWJlcnpuS3lBS0tTWkNJeTNidWljVkJBcl9udl9MSQ?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-01T12:03:28Z"
@@ -67,11 +67,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "US strikes Iran as state media reports four killed at wedding party",
+      "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
       "summary": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
       "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/913b/live/5a3308c0-a629-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-09-01T21:48:28Z"
+      "publishedAt": "2026-09-02T00:13:26Z"
     },
     {
       "category": "World",
@@ -139,6 +139,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
+      "title": "Will self-flying planes transform the skies?",
+      "summary": "Autonomous crop-spraying aircraft are leading the way in pilot-free flying.",
+      "url": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0db2/live/a6fc85a0-9724-11f1-870d-5d08c49babb2.jpg",
+      "publishedAt": "2026-09-01T23:27:35Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
       "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
       "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
       "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c0/live/06652f80-a574-11f1-b109-879e35c24276.jpg",
       "publishedAt": "2026-08-31T21:28:49Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "I've been to Gamescom six times - here's what excited me this year",
-      "summary": "The BBC's Laura Cress gets a first look at the biggest games in Cologne from Witcher 3 to Alien: Isolation 2.",
-      "url": "https://www.bbc.co.uk/news/articles/cew92lp2g45o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e644/live/028c1140-a285-11f1-ae59-c1f7c17a8b7d.png",
-      "publishedAt": "2026-08-29T23:02:28Z"
     }
   ],
   "feedErrors": [
