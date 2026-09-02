@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-02T09:31:12.421876Z",
+  "updatedAt": "2026-09-02T13:50:25.146525Z",
   "stories": [
+    {
+      "category": "Local",
+      "source": "Legacy obituary",
+      "title": "Melvin Teague Obituary (1946 - 2026) - Grass Valley, CA - The Union - Legacy obituary",
+      "summary": "Melvin Teague Obituary (1946 - 2026) - Grass Valley, CA - The Union Legacy obituary",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWTBrQ0x6NW1wZHdGdlVhNzNrcnFEVVpFUFlSR3luU0NuQXNMTm9nN2lBU3d2RjdGNER1blRkdGVWTDBvVHV2ZC1XN2NxeVQ5b2FsLTdQVWplV2tDV09WM19HTUlTc3pObnh2WTBWaHNxVm9ycWlRTFk4YndqX1lEUk45TFZ5clF3WDRRUzdn?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-09-02T11:15:00Z"
+    },
     {
       "category": "Local",
       "source": "Sacramento Bee",
@@ -21,18 +30,9 @@
     },
     {
       "category": "Local",
-      "source": "Legacy obituary",
-      "title": "Rhonda Maynard Obituary (1963 - 2026) - Grass Valley, CA - The Union - Legacy obituary",
-      "summary": "Rhonda Maynard Obituary (1963 - 2026) - Grass Valley, CA - The Union Legacy obituary",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSGhYTXdtU05CbnlZQ0dkM2xHN3M4b2k2RWVNYzlzemtCbllHbC1GeFdDclZ6SXNXNGIzQnphamFmOVZoeXJBY1pXVWZwOFhyM3BLRHhyZGNMVXN4MC1aZk5COVg4c2xQbzlrMFFzcndOZWJlcnpuS3lBS0tTWkNJeTNidWljVkJBcl9udl9MSQ?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-01T12:03:28Z"
-    },
-    {
-      "category": "Local",
-      "source": "FOX40",
-      "title": "Grass Valley police leave Flock over data privacy concerns - FOX40",
-      "summary": "Grass Valley police leave Flock over data privacy concerns FOX40",
+      "source": "fox40.com",
+      "title": "Grass Valley police leave Flock over data privacy concerns - fox40.com",
+      "summary": "Grass Valley police leave Flock over data privacy concerns fox40.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZaG5ubXRvMGxxN185Y0FRVzkyc3E3cHN2WGlMNEJSNEdMbnhvV2VXa3kxTkVwckllaEgtRXhyc19WWGJfUU9FNUJVejJZNFZRUjZYcnlMQUYzY1RPMWRkSDZmSnYtMlRUdVNjTGFOUGtwQUV2SngwZGVXNHRoZ9IBgwFBVV95cUxQRGZ1STU3VFRNYnVaVjFvc0lhUzZXUG5saGVsZ3VYcnNmZ0NwUzJSYjlEaXQxZE91dFJJN1M5eG9QR09WZkNpTlhCX3BMeVh0bjRLeUVuRVh0Y1VwbnNsMEVPRXVjZEdyaDVBVWRFRVRpb21wM241SjRDY0REMl9TMk9nMA?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-12T07:00:00Z"
@@ -58,56 +58,65 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
+      "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e37a/live/fe3f01b0-a6cb-11f1-b0c9-07afcdd8053c.jpg",
+      "publishedAt": "2026-09-02T13:04:47Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
+      "summary": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
+      "url": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f73a/live/e93452f0-a6c3-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-09-02T11:47:11Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
+      "summary": "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism.",
+      "url": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88f1/live/abdafbf0-a6b6-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-09-02T10:04:28Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
       "summary": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
       "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3a3/live/cb052080-a663-11f1-8e27-73ef28718a3e.jpg",
-      "publishedAt": "2026-09-02T04:23:23Z"
+      "publishedAt": "2026-09-02T13:16:26Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
-      "summary": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.",
-      "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96b7/live/025c25f0-a61a-11f1-9ca2-a3e18de91b7b.jpg",
-      "publishedAt": "2026-09-02T05:03:09Z"
+      "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
+      "summary": "The ministry says the total number of people killed in the Strip since 10 October is now more than 1,300, including 301 children.",
+      "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bae6/live/70e46460-a6ba-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-09-02T11:51:46Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Why US troops have a history in this raucous Thai city",
-      "summary": "The BBC's Jonathan Head looks at the historical echoes of US troops arriving in Pattaya, a beach resort famous for its racy bars.",
-      "url": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95b2/live/cdf05af0-a6a2-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-09-02T07:18:39Z"
+      "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
+      "summary": "More than 1,000 people have died and thousands are missing, as rescue efforts continue and aid is airlifted to villages.",
+      "url": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf1d/live/babee4c0-a6b5-11f1-bf9b-4185c128a665.jpg",
+      "publishedAt": "2026-09-02T13:17:43Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "South Korea jails care home head for sexually assaulting disabled residents",
-      "summary": "The man, surnamed Kim, was handed a 15-year prison term for abusing three residents at the facility near Seoul.",
-      "url": "https://www.bbc.co.uk/news/articles/cn74vzl52l4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c264/live/b83417d0-a68c-11f1-84e3-e532cd3b83b6.jpg",
-      "publishedAt": "2026-09-02T05:56:44Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Bus crash on Egypt's Red Sea coast kills 16",
-      "summary": "Another 28 people are injured in the accident in the South Sinai governorate, officials say.",
-      "url": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f8b/live/56326370-a6aa-11f1-b109-879e35c24276.png",
-      "publishedAt": "2026-09-02T08:24:24Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
-      "summary": "The 23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e11a/live/b263dbb0-a696-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-09-02T01:59:10Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Will your name be the next UK storm?",
+      "summary": "The storm name list for the next year is out. Will your name be on it?",
+      "url": "https://www.bbc.co.uk/news/videos/ckgxzyrk7x7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93e3/live/a9a7ef50-a6b6-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-09-02T10:26:15Z"
     },
     {
       "category": "Science & Tech",
@@ -129,12 +138,12 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Met Office: Summer 2026 was UK's hottest ever",
-      "summary": "The UK had a spring and summer of persistent heat with five widespread heatwaves and 40 days of temperatures above 30C (86F), smashing the previous record of 34 days.",
-      "url": "https://www.bbc.co.uk/news/videos/cn74vl31r48o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7640/live/17b44350-a620-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-09-01T17:25:35Z"
+      "source": "BBC Technology",
+      "title": "Criminals publish data of 8.7m people after airports hack",
+      "summary": "The company, which owns Manchester, Stansted and East Midlands airports, was hacked last month.",
+      "url": "https://www.bbc.co.uk/news/articles/c74k39g3ee5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa2e/live/1c4ecf40-a6be-11f1-ae1e-219da1d6451a.jpg",
+      "publishedAt": "2026-09-02T11:00:59Z"
     },
     {
       "category": "Science & Tech",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a73/live/30054c70-971f-11f1-a7ab-8b30adf0800a.jpg",
       "publishedAt": "2026-09-01T23:27:35Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-      "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
-      "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-09-01T10:18:47Z"
     }
   ],
   "feedErrors": [
