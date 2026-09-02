@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-09-02T00:29:41.497509Z",
+  "updatedAt": "2026-09-02T05:00:45.532940Z",
   "stories": [
-    {
-      "category": "Local",
-      "source": "Legacy obituary",
-      "title": "Rhonda Maynard Obituary (1963 - 2026) - Grass valley, CA - The Union - Legacy obituary",
-      "summary": "Rhonda Maynard Obituary (1963 - 2026) - Grass valley, CA - The Union Legacy obituary",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSGhYTXdtU05CbnlZQ0dkM2xHN3M4b2k2RWVNYzlzemtCbllHbC1GeFdDclZ6SXNXNGIzQnphamFmOVZoeXJBY1pXVWZwOFhyM3BLRHhyZGNMVXN4MC1aZk5COVg4c2xQbzlrMFFzcndOZWJlcnpuS3lBS0tTWkNJeTNidWljVkJBcl9udl9MSQ?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-01T12:03:28Z"
-    },
     {
       "category": "Local",
       "source": "Sacramento Bee",
@@ -18,6 +9,15 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UmprRjFJLTZZWFJucmhtZFE4QWxlXzc4WHpUOU1xeXJpZDJDWTFFRjFUc01tM0hXLW9may1CR09KcF9raHo5Z3ota2pSblNzVnI3UXNUTEVCYzVKVXFMMS05Z2pLd9IBZkFVX3lxTE9kVGVrMDFUQURsSkFZaE9IYVp4WWIyQzdOYWRzMHg0LUxfcnU0OWdlYUFJOWtmU19GblRXWk1vWExkd09IcG9QU1FyTVQxUnhKU1VSUE5TR05YS3F4ZXVLRFNySlROZw?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-22T07:00:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "Legacy obituary",
+      "title": "Rhonda Maynard Obituary (1963 - 2026) - Grass Valley, CA - The Union - Legacy obituary",
+      "summary": "Rhonda Maynard Obituary (1963 - 2026) - Grass Valley, CA - The Union Legacy obituary",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSGhYTXdtU05CbnlZQ0dkM2xHN3M4b2k2RWVNYzlzemtCbllHbC1GeFdDclZ6SXNXNGIzQnphamFmOVZoeXJBY1pXVWZwOFhyM3BLRHhyZGNMVXN4MC1aZk5COVg4c2xQbzlrMFFzcndOZWJlcnpuS3lBS0tTWkNJeTNidWljVkJBcl9udl9MSQ?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-09-01T12:03:28Z"
     },
     {
       "category": "Local",
@@ -39,21 +39,66 @@
     },
     {
       "category": "Local",
-      "source": "San Francisco Chronicle",
-      "title": "Arson arrest after Nevada County wildfire prompts evacuations - San Francisco Chronicle",
-      "summary": "Arson arrest after Nevada County wildfire prompts evacuations San Francisco Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcFRrVklqSTdCcm9FZnNaV0JxS19ic0phNGo2M2czQU1QLTl4RHpwTFhiRWhkTnBhQmtQdU55ZURDUmR4VEpaTFhIakktR3E2cml0UWtRbG12SzZFU1NlekVjbG5RQTA1cFdfUmlUM1VDbFFQS0ZNUHZvYWlyQnBiNVdIOUVIbFpNQVo3SHMwa3o4QmVjUjBxd2FB?oc=5",
+      "source": "YubaNet",
+      "title": "Grass Valley and Nevada City Celebrate America’s 250th with a Hometown Celebration for Every Generation - YubaNet",
+      "summary": "Grass Valley and Nevada City Celebrate America’s 250th with a Hometown Celebration for Every Generation YubaNet",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZE44bVlHem1HRnNrdTM3MEUxaTlCa2dUQTd3N3B3RXpSUmpMUmszVDM5NHdhb2xsa3RySElfLXpEYkE2Q2xOSHNNYlg1T09wNDdySGdUakYtam1uT0VlQWtocUY3YXZJc2JIdEFaV3ZZOEgtT2FkNW1pTVdnQnd1R2VfZnFqbXJuN1pJdU1relNtX3Nack51ZFBLOS1ER3NPeDdiMmJHbDVUUFEtMW8zOGxfbFo3dEtuc0tRZFMzSXJGWVhEdlpsS2ZzZEM?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-08-22T07:00:00Z"
+      "publishedAt": "2026-07-02T07:00:00Z"
     },
     {
       "category": "Local",
-      "source": "Hindustan Times",
-      "title": "Grass Valley Clover Fire: Evacuation map, updates as blaze burns in Nevada County near Alta Sierra | Hindustan Times - Hindustan Times",
-      "summary": "Grass Valley Clover Fire: Evacuation map, updates as blaze burns in Nevada County near Alta Sierra | Hindustan Times Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbExYc1RBTEpJY3dDN25SNl9Ob0x5cU9SZHlSZXdqMWtLOWV3RTBZbWU1TmFOc2xBUDI3cWl0U0pOV0FDZm52dDBYc2pwbno2Z1FkZlJOdjdoeXRGUkFzQUpwU0t3MDVZYi1GazFjM3pqNnEwOFJRMEppVlEwUEVtUWhtbWh5aTlsZVVlQ1pva3ZUeGh2dEoxbGQ1RlkxUTNIMVF0Y2NKMmx3dFkxZnQ1TUxORlFXalJWWjBBanNKYlJmNS1LS3pIQk9KcXpNS0xMRU5vWVgzRk55SlpQcXlNdkdwZ01PSkY1OGh2Z1Y0NkZsRS1HQlBVam96b9IBgAJBVV95cUxNLXpIUmtZWllGZ1J5UjlVcGtNQU1HY2YzT1VUYXp1OEYtYVJZVFBESm1HenhBOENYUFNkamdPT0U1SnczSnl3VGtpY0FvR3BqT1VyeTFSOUwySzM5RkFSTnI1X1pkNjg4cmotM0NDNV84SGJ5eTkzNHVVdFlyTVZhbFZKLTNhelc5MF9SZWd1bG9TM2lHOWctTGNuRzVndDNrdHRuSDRkNWVwam54YVdTQ3haSE9XWktTYVYyQkdOdmJweU5ycWNWdWNRMWNkLXJMNnM1WE53MGhGYnpFT282SjJGQzNFQlNzR2x4bnFES1UzRVR2ekRrbUFzVU5oNmlU?oc=5",
+      "source": "abc10.com",
+      "title": "Grass Valley police seek public help to identify Plaza Drive armed robbery suspects - abc10.com",
+      "summary": "Grass Valley police seek public help to identify Plaza Drive armed robbery suspects abc10.com",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOWFVwdXd0dkhHdkhJMWVCS09VSi1obTdOWDQySXBlM1QxbFctNVA0ZkY1cW96TlhUaEhWUHJGU3Z5cWliM1JaN2RfdVhyZzhrcFF2R0JUT1d6a0pPdW5zdnN4R09qa0F0Sk4wNWplRk9HQktUS2FUb3F0emtNUElZaHZKZWk1Mlpfa1BQTkFsQTFScmh0QV9nUTh5U1FxYUxTRVFnTVpKZHMwVVdXNWVTNlAyNTBwRUlKdUFaVmxEN1pRM2Nua1FfQnZNaGJRaXJ5TGJTVmN3RTRaODY5WjVWVXhRUWNUNnFqVHQ0NW9BVWcxS1BhWm40dmxMaDFUaTZDaHlV?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-08-22T07:00:00Z"
+      "publishedAt": "2026-05-07T07:00:00Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
+      "summary": "Iran has launched attacks on US military bases in Iraq and Jordan, according to local state media and the Jordanian Armed Forces.",
+      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/913b/live/5a3308c0-a629-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-02T03:19:44Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
+      "summary": "The 23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fe7/live/9ee301c0-795e-11f1-b976-0b9c15b0ccfc.jpg",
+      "publishedAt": "2026-09-02T01:59:10Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Tiger Woods to change plea after crash arrest",
+      "summary": "The golfer will be in court on Wednesday for a hearing to change his plea after being charged with driving under the influence.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f10d/live/63965f70-a65b-11f1-853a-cf6d29350130.jpg",
+      "publishedAt": "2026-09-02T00:26:08Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+      "summary": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3a3/live/cb052080-a663-11f1-8e27-73ef28718a3e.jpg",
+      "publishedAt": "2026-09-02T04:23:23Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US aircraft carrier docks near Thai beach resort Pattaya after record 250 days at sea",
+      "summary": "The USS Lincoln is docking close to Pattaya, known for its raucous nightlife, and for sex tourism.",
+      "url": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/201f/live/e9641b80-a681-11f1-b276-f1ba527f802d.jpg",
+      "publishedAt": "2026-09-02T02:42:38Z"
     },
     {
       "category": "World",
@@ -62,52 +107,7 @@
       "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
       "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6b5/live/bf0d1e90-a618-11f1-9ca2-a3e18de91b7b.jpg",
-      "publishedAt": "2026-09-01T21:05:22Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
-      "summary": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
-      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/913b/live/5a3308c0-a629-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-09-02T00:13:26Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
-      "summary": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
-      "url": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae4b/live/abaa7a90-a54c-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-09-01T05:00:34Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
-      "summary": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
-      "url": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e90/live/d5de0800-a618-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-09-01T16:11:18Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
-      "summary": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
-      "url": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e187/live/283b8970-a5ff-11f1-83fc-0df57e6b3866.jpg",
-      "publishedAt": "2026-09-01T15:33:14Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
-      "summary": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023.",
-      "url": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c43/live/4a3ec160-a62a-11f1-905b-8511af748865.jpg",
-      "publishedAt": "2026-09-01T20:05:23Z"
+      "publishedAt": "2026-09-02T01:59:54Z"
     },
     {
       "category": "Science & Tech",
@@ -139,6 +139,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
+      "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
+      "summary": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
+      "url": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f10/live/ff12f590-a5f1-11f1-8348-fb0cb1cd9761.jpg",
+      "publishedAt": "2026-09-02T01:27:34Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
       "title": "Will self-flying planes transform the skies?",
       "summary": "Autonomous crop-spraying aircraft are leading the way in pilot-free flying.",
       "url": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg",
       "publishedAt": "2026-09-01T10:18:47Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
-      "summary": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c0/live/06652f80-a574-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-31T21:28:49Z"
     }
   ],
   "feedErrors": [
