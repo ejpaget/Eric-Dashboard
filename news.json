@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-03T21:52:01.469075Z",
+  "updatedAt": "2026-09-03T23:59:37.277293Z",
   "stories": [
     {
       "category": "Local",
-      "source": "YubaNet",
-      "title": "Happening Now – September 2026 - YubaNet",
-      "summary": "Happening Now – September 2026 YubaNet",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oc2pzcm0xTzFQM2FwTlpqMFNxN0J6M1VlejljMnQxaFVJT3g1ZXRRenpodE1hYnJMOXRtTXZtNzBka0g2dWJiSg?oc=5",
+      "source": "Nevada County (.gov)",
+      "title": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley - Nevada County (.gov)",
+      "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley Nevada County (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTkFsa0k0UzMtWmEzSHFDcVFYWlBueEZrRGV5UWx1dW5Oa3hUWVp2VkZZQ3JLQmNQc0IwYzQyRFdva0UzZk5yUmVVeGVrRXZ0bzZoNzNpRTY3MzU0MjF5YUsxWDVDeHByYkE?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-09-01T13:36:08Z"
+      "publishedAt": "2026-09-03T18:06:35Z"
     },
     {
       "category": "Local",
@@ -21,21 +21,21 @@
     },
     {
       "category": "Local",
-      "source": "WorldAtlas",
-      "title": "9 Best Towns In California To Retire Comfortably - WorldAtlas",
-      "summary": "9 Best Towns In California To Retire Comfortably WorldAtlas",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOU40ZThlRGxzU0V5WFdYTGw1UzRENXRwUXpTbjl3QVM4OWZ5aUd6VGQ4VkdVejNEX1dYMV9jc3FmblhESFcxVWZyaFJUeVpwYlRLQmgwRkZhQjBMTW5Gc25jUC1hR3RieW9TTVBDYk9NdEsxNnEzM0VYYl94VWhRaFJsYThtRTlGN3FSX2RpMDJhbzhFVTU0UQ?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-02T23:00:00Z"
-    },
-    {
-      "category": "Local",
       "source": "KCRA",
       "title": "Grass Valley cancels Flock contract for license plate reading cameras - KCRA",
       "summary": "Grass Valley cancels Flock contract for license plate reading cameras KCRA",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVJrQWRxZWxNS3dDTGJOWXJ5UGdsbFBJNnpnT0hsWjlyZEoyRk9ST2pHOUtxNEEtVXM2b2xLZUpDRGJpNWxOYUJiMVExdDBkX283Y291NHRWQ1lkTVVieTRsOFNrTHBFYzVVVl9pWkNnNHY0RFpnMXlvYVZ4eV85QzVJS0txN0pkNlFFM1Y3cnVhc1BmakxHXzhCZkpoU0NxVGNvUmZ3ZjN2aVU?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-12T07:00:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "WorldAtlas",
+      "title": "9 Best Towns In California To Retire Comfortably - WorldAtlas",
+      "summary": "9 Best Towns In California To Retire Comfortably WorldAtlas",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOU40ZThlRGxzU0V5WFdYTGw1UzRENXRwUXpTbjl3QVM4OWZ5aUd6VGQ4VkdVejNEX1dYMV9jc3FmblhESFcxVWZyaFJUeVpwYlRLQmgwRkZhQjBMTW5Gc25jUC1hR3RieW9TTVBDYk9NdEsxNnEzM0VYYl94VWhRaFJsYThtRTlGN3FSX2RpMDJhbzhFVTU0UQ?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-09-02T23:00:00Z"
     },
     {
       "category": "Local",
@@ -58,6 +58,24 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Trump hints US would not back UK over Falkland Islands due to lack of Iran war support",
+      "summary": "The US president says the UK was not \"there to help me\" in his ongoing war with Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd3/live/c8f1c0a0-a7b2-11f1-b5cf-8556ae508a51.jpg",
+      "publishedAt": "2026-09-03T16:16:49Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US investigating if missile hit Iran wedding, Vance says",
+      "summary": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70a5/live/33e75750-a7e3-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-03T22:19:59Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
       "summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
       "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
@@ -67,11 +85,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
-      "summary": "Millions of people have been exposed to the smog, with more than 12,000 children suffering respiratory issues.",
-      "url": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4952/live/e2983d40-a77b-11f1-b2d5-535b3b3d379f.jpg",
-      "publishedAt": "2026-09-03T11:35:52Z"
+      "title": "Transplanted pig kidney works in US man's body for record 271 days",
+      "summary": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
+      "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7ac/live/9ea66460-a7b5-11f1-b5cf-8556ae508a51.jpg",
+      "publishedAt": "2026-09-03T22:31:23Z"
     },
     {
       "category": "World",
@@ -85,29 +103,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
-      "summary": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
-      "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cc0/live/a22ffbc0-a772-11f1-993c-a325009c1935.jpg",
-      "publishedAt": "2026-09-03T15:05:57Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
-      "summary": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.",
-      "url": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a51b/live/97a35bf0-a76f-11f1-993c-a325009c1935.jpg",
-      "publishedAt": "2026-09-03T09:37:34Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
-      "summary": "The ICE officer faces federal charges related to the January shooting in Minnesota.",
-      "url": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cfa/live/d35c0c90-a7cf-11f1-809e-25fc74c1ec7d.jpg",
-      "publishedAt": "2026-09-03T20:49:05Z"
+      "title": "Around 2,000 fall ill in Indonesia after eating free school meals",
+      "summary": "Authorities are investigating several suspected outbreaks amid growing criticism of the scheme.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z7lz7777o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/060f/live/a8348b80-a7ae-11f1-b78b-6b70b0a83270.jpg",
+      "publishedAt": "2026-09-03T15:48:06Z"
     },
     {
       "category": "Science & Tech",
@@ -139,6 +139,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
+      "title": "Could robots be the future of theme parks?",
+      "summary": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.",
+      "url": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c42/live/48fb09f0-a7ef-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-09-03T23:34:27Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
       "title": "AI data centres are booming in Australia - but at what cost?",
       "summary": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
       "url": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9a5/live/f7099cf0-a7a9-11f1-aed2-8d6da8d75094.jpg",
       "publishedAt": "2026-09-03T16:32:05Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Watch: BBC travels in self-driving Uber around London",
-      "summary": "The BBC's Zoe Kleinman takes a ride on Uber's self-driving robotaxi as the service rolls out on Thursday.",
-      "url": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40c5/live/aaf5c6a0-a767-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-09-03T07:20:23Z"
     }
   ],
   "feedErrors": [
