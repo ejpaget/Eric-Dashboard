@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T13:26:22.427753Z",
+  "updatedAt": "2026-09-04T17:02:13.418808Z",
   "stories": [
     {
       "category": "Local",
@@ -48,9 +48,9 @@
     },
     {
       "category": "Local",
-      "source": "WorldAtlas",
-      "title": "9 Best Towns In California To Retire Comfortably - WorldAtlas",
-      "summary": "9 Best Towns In California To Retire Comfortably WorldAtlas",
+      "source": "worldatlas.com",
+      "title": "9 Best Towns In California To Retire Comfortably - worldatlas.com",
+      "summary": "9 Best Towns In California To Retire Comfortably worldatlas.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOU40ZThlRGxzU0V5WFdYTGw1UzRENXRwUXpTbjl3QVM4OWZ5aUd6VGQ4VkdVejNEX1dYMV9jc3FmblhESFcxVWZyaFJUeVpwYlRLQmgwRkZhQjBMTW5Gc25jUC1hR3RieW9TTVBDYk9NdEsxNnEzM0VYYl94VWhRaFJsYThtRTlGN3FSX2RpMDJhbzhFVTU0UQ?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-02T23:00:00Z"
@@ -58,20 +58,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
+      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
       "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
       "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3a3/live/c697e520-a841-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-09-04T10:00:18Z"
+      "publishedAt": "2026-09-04T16:49:15Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
-      "summary": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
-      "url": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f9c/live/c6815740-a83e-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-09-04T08:23:05Z"
+      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+      "summary": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.",
+      "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5561/live/dbe464c0-a87e-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-04T14:40:00Z"
     },
     {
       "category": "World",
@@ -85,11 +85,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "US diesel prices hit an all-time-high",
-      "summary": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
-      "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9ea/live/aaff4f90-a843-11f1-b3a7-d5de760fef6e.jpg",
-      "publishedAt": "2026-09-04T10:52:56Z"
+      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+      "summary": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21d4/live/99481b50-a86c-11f1-bbad-43eaf67b94b6.jpg",
+      "publishedAt": "2026-09-04T16:02:32Z"
     },
     {
       "category": "World",
@@ -103,11 +103,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Body of world's youngest traditional king returns home to Uganda amid succession row",
-      "summary": "King Oyo died in the US last week aged 34 after receiving treatment for an aggressive form of cancer.",
-      "url": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c4/live/ee518c70-a85e-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-09-04T13:00:44Z"
+      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+      "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
+      "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e39/live/bcf0df00-a86d-11f1-bbad-43eaf67b94b6.jpg",
+      "publishedAt": "2026-09-04T16:30:50Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "At least 37 killed by toxic fumes during alleged petrol theft in Nigeria, reports say",
+      "summary": "An environmental group says those who died are suspected of stealing petrol from a pipeline in Nigeria's Rivers State.",
+      "url": "https://www.bbc.co.uk/news/articles/cde024l10dyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c46/live/efad0420-a866-11f1-b109-879e35c24276.png",
+      "publishedAt": "2026-09-04T15:44:05Z"
     },
     {
       "category": "Science & Tech",
@@ -129,12 +138,12 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "From 'dog fruit' to darling: India's avocado boom",
-      "summary": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
-      "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/985c/live/f13cd3e0-96f7-11f1-870d-5d08c49babb2.jpg",
-      "publishedAt": "2026-09-04T05:09:02Z"
+      "source": "BBC Technology",
+      "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+      "summary": "OpenAI said it could not \"meaningfully respond\" to the report's findings because it hadn't been allowed to review it ahead of publication.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg",
+      "publishedAt": "2026-09-04T14:59:13Z"
     },
     {
       "category": "Science & Tech",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c42/live/48fb09f0-a7ef-11f1-b109-879e35c24276.jpg",
       "publishedAt": "2026-09-04T02:02:02Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "'I lost my savings after a job interview scam'",
-      "summary": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
-      "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f931/live/69fc7270-a78f-11f1-9bb7-af8e8fd3d806.jpg",
-      "publishedAt": "2026-09-03T23:41:49Z"
     }
   ],
   "feedErrors": [
