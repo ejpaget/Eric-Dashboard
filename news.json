@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-09-04T04:22:11.327046Z",
+  "updatedAt": "2026-09-04T09:01:07.746075Z",
   "stories": [
-    {
-      "category": "Local",
-      "source": "Nevada County (.gov)",
-      "title": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley - Nevada County (.gov)",
-      "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley Nevada County (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTkFsa0k0UzMtWmEzSHFDcVFYWlBueEZrRGV5UWx1dW5Oa3hUWVp2VkZZQ3JLQmNQc0IwYzQyRFdva0UzZk5yUmVVeGVrRXZ0bzZoNzNpRTY3MzU0MjF5YUsxWDVDeHByYkE?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-03T18:06:35Z"
-    },
     {
       "category": "Local",
       "source": "YubaNet",
@@ -39,21 +30,39 @@
     },
     {
       "category": "Local",
-      "source": "WorldAtlas",
-      "title": "9 Best Towns In California To Retire Comfortably - WorldAtlas",
-      "summary": "9 Best Towns In California To Retire Comfortably WorldAtlas",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOU40ZThlRGxzU0V5WFdYTGw1UzRENXRwUXpTbjl3QVM4OWZ5aUd6VGQ4VkdVejNEX1dYMV9jc3FmblhESFcxVWZyaFJUeVpwYlRLQmgwRkZhQjBMTW5Gc25jUC1hR3RieW9TTVBDYk9NdEsxNnEzM0VYYl94VWhRaFJsYThtRTlGN3FSX2RpMDJhbzhFVTU0UQ?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-02T23:00:00Z"
-    },
-    {
-      "category": "Local",
       "source": "Legacy obituary",
       "title": "Vanessa Lackey Obituary (1977 - 2026) - Grass Valley, CA - The Union - Legacy obituary",
       "summary": "Vanessa Lackey Obituary (1977 - 2026) - Grass Valley, CA - The Union Legacy obituary",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNlc5dWw3RFVmbTZ0ZUIyNmN0ZDZ6a3g4MnB4UkJJX0FISGJNb3NiYnVlT3NGbVZKbjM0R25KaTAxalg3VTRVTEotMnNSRUJvTlJkVldHUXpSZmxMQmt4Y2VIRkQ5MFhhdHF3Z0FPaUwyZkxpTDdyQXd6dFJkcWNxMGs0d2JZOU5IeUZkM1poSQ?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-26T11:23:47Z"
+    },
+    {
+      "category": "Local",
+      "source": "Nevada County (.gov)",
+      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - Nevada County (.gov)",
+      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations Nevada County (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-06-18T05:24:55Z"
+    },
+    {
+      "category": "Local",
+      "source": "worldatlas.com",
+      "title": "9 Best Towns In California To Retire Comfortably - worldatlas.com",
+      "summary": "9 Best Towns In California To Retire Comfortably worldatlas.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOU40ZThlRGxzU0V5WFdYTGw1UzRENXRwUXpTbjl3QVM4OWZ5aUd6VGQ4VkdVejNEX1dYMV9jc3FmblhESFcxVWZyaFJUeVpwYlRLQmgwRkZhQjBMTW5Gc25jUC1hR3RieW9TTVBDYk9NdEsxNnEzM0VYYl94VWhRaFJsYThtRTlGN3FSX2RpMDJhbzhFVTU0UQ?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-09-02T23:00:00Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Nepal says it will need billions in funding to rebuild after flash floods",
+      "summary": "BBC South Asia correspondent Azadeh Moshiri is in Nepal where authorities are trying to begin rebuilding amid the debris.",
+      "url": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc63/live/61693130-a806-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-04T02:20:37Z"
     },
     {
       "category": "World",
@@ -67,11 +76,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Argentina to sanction oil firms as Falklands dispute with UK heats up",
+      "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
       "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
       "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ba/live/95a27d40-a7fb-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-09-04T04:04:42Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14fb/live/08a50760-a827-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-09-04T06:52:29Z"
     },
     {
       "category": "World",
@@ -85,20 +94,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
-      "summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
-      "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067c/live/99ebc3c0-a70b-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-09-03T06:01:54Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-      "summary": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1a3/live/90a60580-a7fd-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-09-04T01:20:32Z"
+      "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+      "summary": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
+      "url": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c809/live/e61062e0-a811-11f1-a863-bf0d1acbb54a.jpg",
+      "publishedAt": "2026-09-04T04:06:41Z"
     },
     {
       "category": "World",
@@ -112,29 +112,29 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "'Miracle' eagle with broken wing spotted back above Scottish coast",
-      "summary": "A sea eagle that confounded experts by surviving with a broken wing has been spotted back above Scotland's west coast.",
-      "url": "https://www.bbc.co.uk/news/articles/crerw2nj81zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aa3/live/7c9c7810-a7be-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-09-04T00:46:54Z"
+      "title": "Is a whale fossil the leftovers of a Bronze Age Sunday roast?",
+      "summary": "A 10-year-old boy was out looking for fossils along the shore in Islandmagee when he spotted the back of the skull.",
+      "url": "https://www.bbc.co.uk/news/articles/cly4zkpvl4wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a19c/live/eae2b780-a6c9-11f1-ae1e-219da1d6451a.jpg",
+      "publishedAt": "2026-09-04T05:13:54Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "‘So scary’: massive hail and torrential rain causes chaos in Toronto",
-      "summary": "Videos shared from across the region showed streets overwhelmed by rain and hailstones falling in a matter of minutes.",
-      "url": "https://www.bbc.co.uk/news/videos/cgl7x04k3yyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a09c/live/d9b5a550-a7b7-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-09-03T17:52:37Z"
+      "title": "Renewable energy in NI reaches record level",
+      "summary": "And for the first time renewable generation has consistently exceeded non-renewable generation since January.",
+      "url": "https://www.bbc.co.uk/news/articles/ce3rql5rzx4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bcb/live/93328190-a7a1-11f1-a7ad-37a1f7dc081c.jpg",
+      "publishedAt": "2026-09-04T05:11:45Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "How the brain of a fly may help explain human behaviour",
-      "summary": "Comparing the brains of male and female flies may transform our understanding of how genes shape behaviour, including ours.",
-      "url": "https://www.bbc.co.uk/news/articles/cqjkd2ylq1yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c857/live/f3aa7920-a7b9-11f1-b5cf-8556ae508a51.jpg",
-      "publishedAt": "2026-09-03T15:01:41Z"
+      "title": "From 'dog fruit' to darling: India's avocado boom",
+      "summary": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
+      "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/985c/live/f13cd3e0-96f7-11f1-870d-5d08c49babb2.jpg",
+      "publishedAt": "2026-09-04T05:09:02Z"
     },
     {
       "category": "Science & Tech",
@@ -148,20 +148,20 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "AI data centres are booming in Australia - but at what cost?",
-      "summary": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
-      "url": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9176/live/0e5ba530-a5a5-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-09-03T18:32:03Z"
+      "title": "'I lost my savings after a job interview scam'",
+      "summary": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
+      "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f931/live/69fc7270-a78f-11f1-9bb7-af8e8fd3d806.jpg",
+      "publishedAt": "2026-09-03T23:41:49Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-      "summary": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
-      "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9a5/live/f7099cf0-a7a9-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-09-03T16:32:05Z"
+      "title": "AI data centres are booming in Australia - but at what cost?",
+      "summary": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
+      "url": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f90/live/402d60f0-a828-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-09-03T18:32:03Z"
     }
   ],
   "feedErrors": [
