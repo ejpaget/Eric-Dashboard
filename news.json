@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-04T09:01:07.746075Z",
+  "updatedAt": "2026-09-04T13:26:22.427753Z",
   "stories": [
+    {
+      "category": "Local",
+      "source": "Nevada County (.gov)",
+      "title": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley - Nevada County (.gov)",
+      "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley Nevada County (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTkFsa0k0UzMtWmEzSHFDcVFYWlBueEZrRGV5UWx1dW5Oa3hUWVp2VkZZQ3JLQmNQc0IwYzQyRFdva0UzZk5yUmVVeGVrRXZ0bzZoNzNpRTY3MzU0MjF5YUsxWDVDeHByYkE?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-09-03T18:06:35Z"
+    },
     {
       "category": "Local",
       "source": "YubaNet",
@@ -35,22 +44,13 @@
       "summary": "Vanessa Lackey Obituary (1977 - 2026) - Grass Valley, CA - The Union Legacy obituary",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNlc5dWw3RFVmbTZ0ZUIyNmN0ZDZ6a3g4MnB4UkJJX0FISGJNb3NiYnVlT3NGbVZKbjM0R25KaTAxalg3VTRVTEotMnNSRUJvTlJkVldHUXpSZmxMQmt4Y2VIRkQ5MFhhdHF3Z0FPaUwyZkxpTDdyQXd6dFJkcWNxMGs0d2JZOU5IeUZkM1poSQ?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-08-26T11:23:47Z"
+      "publishedAt": "2026-08-26T07:00:00Z"
     },
     {
       "category": "Local",
-      "source": "Nevada County (.gov)",
-      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - Nevada County (.gov)",
-      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations Nevada County (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-06-18T05:24:55Z"
-    },
-    {
-      "category": "Local",
-      "source": "worldatlas.com",
-      "title": "9 Best Towns In California To Retire Comfortably - worldatlas.com",
-      "summary": "9 Best Towns In California To Retire Comfortably worldatlas.com",
+      "source": "WorldAtlas",
+      "title": "9 Best Towns In California To Retire Comfortably - WorldAtlas",
+      "summary": "9 Best Towns In California To Retire Comfortably WorldAtlas",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOU40ZThlRGxzU0V5WFdYTGw1UzRENXRwUXpTbjl3QVM4OWZ5aUd6VGQ4VkdVejNEX1dYMV9jc3FmblhESFcxVWZyaFJUeVpwYlRLQmgwRkZhQjBMTW5Gc25jUC1hR3RieW9TTVBDYk9NdEsxNnEzM0VYYl94VWhRaFJsYThtRTlGN3FSX2RpMDJhbzhFVTU0UQ?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-02T23:00:00Z"
@@ -58,38 +58,38 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Nepal says it will need billions in funding to rebuild after flash floods",
-      "summary": "BBC South Asia correspondent Azadeh Moshiri is in Nepal where authorities are trying to begin rebuilding amid the debris.",
-      "url": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc63/live/61693130-a806-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-09-04T02:20:37Z"
+      "title": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
+      "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3a3/live/c697e520-a841-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-09-04T10:00:18Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
-      "summary": "The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case.",
-      "url": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f49e/live/1194d700-a7f1-11f1-8061-c3b9abc6cd07.jpg",
-      "publishedAt": "2026-09-04T00:54:46Z"
+      "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
+      "summary": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
+      "url": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f9c/live/c6815740-a83e-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-04T08:23:05Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
-      "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-      "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14fb/live/08a50760-a827-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-09-04T06:52:29Z"
+      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+      "summary": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
+      "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ea2/live/97f55e90-a856-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-09-04T11:54:51Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "US investigating if missile hit Iran wedding, Vance says",
-      "summary": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
-      "url": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70a5/live/33e75750-a7e3-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-09-03T22:19:59Z"
+      "title": "US diesel prices hit an all-time-high",
+      "summary": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
+      "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9ea/live/aaff4f90-a843-11f1-b3a7-d5de760fef6e.jpg",
+      "publishedAt": "2026-09-04T10:52:56Z"
     },
     {
       "category": "World",
@@ -103,11 +103,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Transplanted pig kidney works in US man's body for record 271 days",
-      "summary": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
-      "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7ac/live/9ea66460-a7b5-11f1-b5cf-8556ae508a51.jpg",
-      "publishedAt": "2026-09-03T22:31:23Z"
+      "title": "Body of world's youngest traditional king returns home to Uganda amid succession row",
+      "summary": "King Oyo died in the US last week aged 34 after receiving treatment for an aggressive form of cancer.",
+      "url": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c4/live/ee518c70-a85e-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-04T13:00:44Z"
     },
     {
       "category": "Science & Tech",
@@ -139,6 +139,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
+      "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
+      "summary": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
+      "url": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067c/live/895a4a20-a84d-11f1-80f8-c33181935c5a.jpg",
+      "publishedAt": "2026-09-04T11:48:24Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
       "title": "Could robots be the future of theme parks?",
       "summary": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.",
       "url": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f931/live/69fc7270-a78f-11f1-9bb7-af8e8fd3d806.jpg",
       "publishedAt": "2026-09-03T23:41:49Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "AI data centres are booming in Australia - but at what cost?",
-      "summary": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
-      "url": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f90/live/402d60f0-a828-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-09-03T18:32:03Z"
     }
   ],
   "feedErrors": [
