@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T23:58:33.183215Z",
+  "updatedAt": "2026-09-05T04:17:39.756771Z",
   "stories": [
     {
       "category": "Local",
@@ -67,6 +67,15 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+      "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
+      "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e39/live/bcf0df00-a86d-11f1-bbad-43eaf67b94b6.jpg",
+      "publishedAt": "2026-09-04T20:03:52Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
       "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
       "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
@@ -76,11 +85,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-      "summary": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.",
-      "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5561/live/dbe464c0-a87e-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-09-04T14:40:00Z"
+      "title": "UN votes to adopt new world map to reflect Africa's true size",
+      "summary": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it.",
+      "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f88/live/bff197b0-a874-11f1-b109-879e35c24276.png",
+      "publishedAt": "2026-09-05T00:53:11Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "At least two dead in blast at Bolivia military barracks",
+      "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
+      "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38c6/live/2c42cd50-a8d2-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-05T02:59:40Z"
     },
     {
       "category": "World",
@@ -90,24 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80f2/live/23835360-a882-11f1-824a-0fc4c5d895ae.jpg",
       "publishedAt": "2026-09-04T23:07:23Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-      "summary": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1829/live/70faa890-a888-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-09-04T16:02:32Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
-      "summary": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
-      "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ea2/live/97f55e90-a856-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-09-04T11:54:51Z"
     },
     {
       "category": "Science & Tech",
