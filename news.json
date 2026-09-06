@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T23:16:13.762317Z",
+  "updatedAt": "2026-09-06T01:18:11.714852Z",
   "stories": [
     {
       "category": "Local",
@@ -21,21 +21,12 @@
     },
     {
       "category": "Local",
-      "source": "WorldAtlas",
-      "title": "11 Best Towns In California's Sierra Nevada For Retirees - WorldAtlas",
-      "summary": "11 Best Towns In California's Sierra Nevada For Retirees WorldAtlas",
+      "source": "worldatlas.com",
+      "title": "11 Best Towns In California's Sierra Nevada For Retirees - worldatlas.com",
+      "summary": "11 Best Towns In California's Sierra Nevada For Retirees worldatlas.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRXphRFNMQWdpa19jVjRYRWs5YW13ZVJpUWpkTWhOMUZWNkYtSlVYc0g0aW9xeFg2RTg2bXU4MUkwWHdzLU8xQUF3MFFTRDNlZy01anAzY2tKaDlkbmdramRWaWliek5zTDlRalRkZVhVWTZsZ1JPcDhlS0ZLbmluMkdZYW1abzlfWUZ4S3FWUXpJbDhpT1dfZFEyaw?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-04T18:30:00Z"
-    },
-    {
-      "category": "Local",
-      "source": "YubaNet",
-      "title": "Happening Now – September 2026 - YubaNet",
-      "summary": "Happening Now – September 2026 YubaNet",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oc2pzcm0xTzFQM2FwTlpqMFNxN0J6M1VlejljMnQxaFVJT3g1ZXRRenpodE1hYnJMOXRtTXZtNzBka0g2dWJiSg?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-01T13:36:08Z"
     },
     {
       "category": "Local",
@@ -56,13 +47,22 @@
       "publishedAt": "2026-08-26T07:00:00Z"
     },
     {
+      "category": "Local",
+      "source": "YubaNet",
+      "title": "Grass Valley and Nevada City Celebrate America’s 250th with a Hometown Celebration for Every Generation - YubaNet",
+      "summary": "Grass Valley and Nevada City Celebrate America’s 250th with a Hometown Celebration for Every Generation YubaNet",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZE44bVlHem1HRnNrdTM3MEUxaTlCa2dUQTd3N3B3RXpSUmpMUmszVDM5NHdhb2xsa3RySElfLXpEYkE2Q2xOSHNNYlg1T09wNDdySGdUakYtam1uT0VlQWtocUY3YXZJc2JIdEFaV3ZZOEgtT2FkNW1pTVdnQnd1R2VfZnFqbXJuN1pJdU1relNtX3Nack51ZFBLOS1ER3NPeDdiMmJHbDVUUFEtMW8zOGxfbFo3dEtuc0tRZFMzSXJGWVhEdlpsS2ZzZEM?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-07-02T07:00:00Z"
+    },
+    {
       "category": "World",
       "source": "BBC News",
       "title": "US envoys meet Putin in Moscow for Ukraine talks",
       "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
       "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d7d/live/1a5083e0-a953-11f1-adf0-6d46cbf5ba37.png",
-      "publishedAt": "2026-09-05T21:39:02Z"
+      "publishedAt": "2026-09-06T01:10:25Z"
     },
     {
       "category": "World",
@@ -76,11 +76,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
-      "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
-      "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb8c/live/47cc3ed0-a7ab-11f1-b78b-6b70b0a83270.jpg",
-      "publishedAt": "2026-09-04T22:48:38Z"
+      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+      "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6328/live/f1a48620-a95d-11f1-99c3-dba02712eb49.png",
+      "publishedAt": "2026-09-05T21:29:38Z"
     },
     {
       "category": "World",
@@ -103,11 +103,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
-      "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6328/live/f1a48620-a95d-11f1-99c3-dba02712eb49.png",
-      "publishedAt": "2026-09-05T21:29:38Z"
+      "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+      "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+      "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb8c/live/47cc3ed0-a7ab-11f1-b78b-6b70b0a83270.jpg",
+      "publishedAt": "2026-09-04T22:48:38Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+      "summary": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b63/live/c35016e0-a872-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-05T23:20:00Z"
     },
     {
       "category": "Science & Tech",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c5y75dl0jpko?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e01/live/e9948ee0-a885-11f1-824a-0fc4c5d895ae.png",
       "publishedAt": "2026-09-05T05:52:05Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "At least 37 killed by toxic fumes during alleged petrol theft in Nigeria, reports say",
-      "summary": "An environmental group says those who died are suspected of stealing petrol from a pipeline in Nigeria's Rivers State.",
-      "url": "https://www.bbc.co.uk/news/articles/cde024l10dyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c46/live/efad0420-a866-11f1-b109-879e35c24276.png",
-      "publishedAt": "2026-09-04T15:44:05Z"
     },
     {
       "category": "Science & Tech",
