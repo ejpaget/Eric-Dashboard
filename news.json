@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-06T11:18:15.857450Z",
+  "updatedAt": "2026-09-06T14:22:10.666441Z",
   "stories": [
     {
       "category": "Local",
-      "source": "Nevada County (.gov)",
-      "title": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley - Nevada County (.gov)",
-      "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley Nevada County (.gov)",
+      "source": "nevadacountyca.gov",
+      "title": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley - nevadacountyca.gov",
+      "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley nevadacountyca.gov",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTkFsa0k0UzMtWmEzSHFDcVFYWlBueEZrRGV5UWx1dW5Oa3hUWVp2VkZZQ3JLQmNQc0IwYzQyRFdva0UzZk5yUmVVeGVrRXZ0bzZoNzNpRTY3MzU0MjF5YUsxWDVDeHByYkE?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-09-05T07:20:39Z"
+      "publishedAt": "2026-09-05T18:29:15Z"
     },
     {
       "category": "Local",
@@ -18,15 +18,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UmprRjFJLTZZWFJucmhtZFE4QWxlXzc4WHpUOU1xeXJpZDJDWTFFRjFUc01tM0hXLW9may1CR09KcF9raHo5Z3ota2pSblNzVnI3UXNUTEVCYzVKVXFMMS05Z2pLd9IBZkFVX3lxTE9kVGVrMDFUQURsSkFZaE9IYVp4WWIyQzdOYWRzMHg0LUxfcnU0OWdlYUFJOWtmU19GblRXWk1vWExkd09IcG9QU1FyTVQxUnhKU1VSUE5TR05YS3F4ZXVLRFNySlROZw?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-22T07:00:00Z"
-    },
-    {
-      "category": "Local",
-      "source": "WorldAtlas",
-      "title": "11 Best Towns In California's Sierra Nevada For Retirees - WorldAtlas",
-      "summary": "11 Best Towns In California's Sierra Nevada For Retirees WorldAtlas",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRXphRFNMQWdpa19jVjRYRWs5YW13ZVJpUWpkTWhOMUZWNkYtSlVYc0g0aW9xeFg2RTg2bXU4MUkwWHdzLU8xQUF3MFFTRDNlZy01anAzY2tKaDlkbmdramRWaWliek5zTDlRalRkZVhVWTZsZ1JPcDhlS0ZLbmluMkdZYW1abzlfWUZ4S3FWUXpJbDhpT1dfZFEyaw?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-04T18:30:00Z"
     },
     {
       "category": "Local",
@@ -48,6 +39,15 @@
     },
     {
       "category": "Local",
+      "source": "WorldAtlas",
+      "title": "9 Best Towns In California To Retire Comfortably - WorldAtlas",
+      "summary": "9 Best Towns In California To Retire Comfortably WorldAtlas",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOU40ZThlRGxzU0V5WFdYTGw1UzRENXRwUXpTbjl3QVM4OWZ5aUd6VGQ4VkdVejNEX1dYMV9jc3FmblhESFcxVWZyaFJUeVpwYlRLQmgwRkZhQjBMTW5Gc25jUC1hR3RieW9TTVBDYk9NdEsxNnEzM0VYYl94VWhRaFJsYThtRTlGN3FSX2RpMDJhbzhFVTU0UQ?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-09-02T23:00:00Z"
+    },
+    {
+      "category": "Local",
       "source": "YubaNet",
       "title": "Grass Valley and Nevada City Celebrate America’s 250th with a Hometown Celebration for Every Generation - YubaNet",
       "summary": "Grass Valley and Nevada City Celebrate America’s 250th with a Hometown Celebration for Every Generation YubaNet",
@@ -58,29 +58,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "US envoys arrive in Ukraine for talks after meeting Putin in Russia",
-      "summary": "It is the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
+      "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
+      "summary": "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.",
       "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f3d/live/937b0470-a9df-11f1-803f-7f2a9199ddc4.jpg",
-      "publishedAt": "2026-09-06T10:44:26Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-      "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
-      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9613/live/a1c35120-a93c-11f1-a291-b542ee92de7c.png",
-      "publishedAt": "2026-09-05T22:44:07Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
-      "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6328/live/f1a48620-a95d-11f1-99c3-dba02712eb49.png",
-      "publishedAt": "2026-09-06T08:05:22Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7828/live/f5ab4970-a9ee-11f1-921b-6365210e1c9d.jpg",
+      "publishedAt": "2026-09-06T13:16:21Z"
     },
     {
       "category": "World",
@@ -94,11 +76,29 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
-      "summary": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
-      "url": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/645e/live/47458b70-a994-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-09-06T01:54:29Z"
+      "title": "Dozens feared trapped in collapsed building in Delhi",
+      "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a286/live/1c93d200-a9f4-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-06T14:07:35Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
+      "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6328/live/f1a48620-a95d-11f1-99c3-dba02712eb49.png",
+      "publishedAt": "2026-09-06T08:05:22Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+      "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
+      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9613/live/a1c35120-a93c-11f1-a291-b542ee92de7c.png",
+      "publishedAt": "2026-09-05T22:44:07Z"
     },
     {
       "category": "World",
