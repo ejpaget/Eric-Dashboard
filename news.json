@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T01:18:11.714852Z",
+  "updatedAt": "2026-09-06T06:28:16.856522Z",
   "stories": [
     {
       "category": "Local",
@@ -8,7 +8,7 @@
       "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley Nevada County (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTkFsa0k0UzMtWmEzSHFDcVFYWlBueEZrRGV5UWx1dW5Oa3hUWVp2VkZZQ3JLQmNQc0IwYzQyRFdva0UzZk5yUmVVeGVrRXZ0bzZoNzNpRTY3MzU0MjF5YUsxWDVDeHByYkE?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-09-04T19:20:12Z"
+      "publishedAt": "2026-09-05T07:20:39Z"
     },
     {
       "category": "Local",
@@ -21,9 +21,9 @@
     },
     {
       "category": "Local",
-      "source": "worldatlas.com",
-      "title": "11 Best Towns In California's Sierra Nevada For Retirees - worldatlas.com",
-      "summary": "11 Best Towns In California's Sierra Nevada For Retirees worldatlas.com",
+      "source": "WorldAtlas",
+      "title": "11 Best Towns In California's Sierra Nevada For Retirees - WorldAtlas",
+      "summary": "11 Best Towns In California's Sierra Nevada For Retirees WorldAtlas",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRXphRFNMQWdpa19jVjRYRWs5YW13ZVJpUWpkTWhOMUZWNkYtSlVYc0g0aW9xeFg2RTg2bXU4MUkwWHdzLU8xQUF3MFFTRDNlZy01anAzY2tKaDlkbmdramRWaWliek5zTDlRalRkZVhVWTZsZ1JPcDhlS0ZLbmluMkdZYW1abzlfWUZ4S3FWUXpJbDhpT1dfZFEyaw?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-04T18:30:00Z"
@@ -58,11 +58,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "US envoys meet Putin in Moscow for Ukraine talks",
-      "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d7d/live/1a5083e0-a953-11f1-adf0-6d46cbf5ba37.png",
-      "publishedAt": "2026-09-06T01:10:25Z"
+      "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+      "summary": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8dc/live/731248d0-a997-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-06T02:24:16Z"
     },
     {
       "category": "World",
@@ -80,16 +80,25 @@
       "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
       "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6328/live/f1a48620-a95d-11f1-99c3-dba02712eb49.png",
-      "publishedAt": "2026-09-05T21:29:38Z"
+      "publishedAt": "2026-09-06T05:04:04Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
-      "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cea5/live/8e7be190-a905-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-09-05T15:22:41Z"
+      "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
+      "summary": "More than 20,000 passengers are stranded after ash was detected in airspace near Jakarta following volcanic eruptions.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d5a/live/7147fc30-a9af-11f1-b3ec-61826c09ec88.jpg",
+      "publishedAt": "2026-09-06T05:12:44Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
+      "summary": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
+      "url": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/645e/live/47458b70-a994-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-09-06T01:54:29Z"
     },
     {
       "category": "World",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c5f/live/c032d030-a2b2-11f1-9024-715001d09aeb.jpg",
       "publishedAt": "2026-09-05T21:00:02Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
-      "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
-      "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb8c/live/47cc3ed0-a7ab-11f1-b78b-6b70b0a83270.jpg",
-      "publishedAt": "2026-09-04T22:48:38Z"
     },
     {
       "category": "Science & Tech",
