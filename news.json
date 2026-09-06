@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T19:27:57.994438Z",
+  "updatedAt": "2026-09-06T21:39:53.287447Z",
   "stories": [
     {
       "category": "Local",
@@ -9,6 +9,15 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTkFsa0k0UzMtWmEzSHFDcVFYWlBueEZrRGV5UWx1dW5Oa3hUWVp2VkZZQ3JLQmNQc0IwYzQyRFdva0UzZk5yUmVVeGVrRXZ0bzZoNzNpRTY3MzU0MjF5YUsxWDVDeHByYkE?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-05T18:29:15Z"
+    },
+    {
+      "category": "Local",
+      "source": "WorldAtlas",
+      "title": "7 Small Towns In California's Sierra Nevada That Come Alive In The Fall - WorldAtlas",
+      "summary": "7 Small Towns In California's Sierra Nevada That Come Alive In The Fall WorldAtlas",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb2hUZlYzal9Sa2JfTmNjNmNtSEtFekotNmlFUlhGcFFpRW5iQlZwYmtBSkhpM1YwSTExeU8teFdJTDdFMGxySTFtbFRzcEdzUkdPd2F4d0FlMERzeXRacGwxTlAxVVJ4UFVVR1lFcER1S0FyMmM5ZkE3U1dMT09uLVh6TXJhTTRFZGRKTE9WamhvRURBME5SN1RCbnFYaUl4enlZYTJUdUYyNWhVc0ZDcHJ3VWZUYWc?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-09-06T20:15:00Z"
     },
     {
       "category": "Local",
@@ -27,15 +36,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UmprRjFJLTZZWFJucmhtZFE4QWxlXzc4WHpUOU1xeXJpZDJDWTFFRjFUc01tM0hXLW9may1CR09KcF9raHo5Z3ota2pSblNzVnI3UXNUTEVCYzVKVXFMMS05Z2pLd9IBZkFVX3lxTE9kVGVrMDFUQURsSkFZaE9IYVp4WWIyQzdOYWRzMHg0LUxfcnU0OWdlYUFJOWtmU19GblRXWk1vWExkd09IcG9QU1FyTVQxUnhKU1VSUE5TR05YS3F4ZXVLRFNySlROZw?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-22T07:00:00Z"
-    },
-    {
-      "category": "Local",
-      "source": "WorldAtlas",
-      "title": "11 Best Towns In California's Sierra Nevada For Retirees - WorldAtlas",
-      "summary": "11 Best Towns In California's Sierra Nevada For Retirees WorldAtlas",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRXphRFNMQWdpa19jVjRYRWs5YW13ZVJpUWpkTWhOMUZWNkYtSlVYc0g0aW9xeFg2RTg2bXU4MUkwWHdzLU8xQUF3MFFTRDNlZy01anAzY2tKaDlkbmdramRWaWliek5zTDlRalRkZVhVWTZsZ1JPcDhlS0ZLbmluMkdZYW1abzlfWUZ4S3FWUXpJbDhpT1dfZFEyaw?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-04T18:30:00Z"
     },
     {
       "category": "Local",
@@ -58,20 +58,29 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-      "summary": "Talks finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
-      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7828/live/f5ab4970-a9ee-11f1-921b-6365210e1c9d.jpg",
-      "publishedAt": "2026-09-06T18:33:50Z"
+      "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+      "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-09-06T21:37:05Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "German far-right set for big win in eastern state, projections show",
-      "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
-      "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-09-06T19:13:51Z"
+      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+      "summary": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0b8/live/737c2df0-aa36-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-09-06T20:41:58Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+      "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
+      "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77dd/live/92218f50-aa29-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-06T20:52:12Z"
     },
     {
       "category": "World",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6328/live/f1a48620-a95d-11f1-99c3-dba02712eb49.png",
       "publishedAt": "2026-09-06T08:05:22Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
-      "summary": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
-      "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4169/live/c55f7eb0-aa0e-11f1-9220-c38a4a0d51b4.jpg",
-      "publishedAt": "2026-09-06T17:00:56Z"
     },
     {
       "category": "Science & Tech",
