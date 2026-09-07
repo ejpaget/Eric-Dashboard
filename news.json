@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-07T21:27:14.637567Z",
+  "updatedAt": "2026-09-07T23:43:39.458807Z",
   "stories": [
+    {
+      "category": "Local",
+      "source": "nevadacountyca.gov",
+      "title": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley - nevadacountyca.gov",
+      "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley nevadacountyca.gov",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTkFsa0k0UzMtWmEzSHFDcVFYWlBueEZrRGV5UWx1dW5Oa3hUWVp2VkZZQ3JLQmNQc0IwYzQyRFdva0UzZk5yUmVVeGVrRXZ0bzZoNzNpRTY3MzU0MjF5YUsxWDVDeHByYkE?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-09-06T19:06:17Z"
+    },
     {
       "category": "Local",
       "source": "KCRA",
@@ -8,34 +17,7 @@
       "summary": "Grass Valley police remove re-installed Flock cameras after end of contract KCRA",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSnV0c2lNaGh4QmpJcWtDVE1aeDhISmdxS0RyWGUzT2JzTi05Wi1fcVI2NDlvdkFEVkFqMWhxbVBpU19wWnkwYWxEOHV4dS1ETE1KYXZDYXJPd3VNNjBYUzRublRnYkpaVW95NUpKdEtFMDVrZDJfYzV3Tkc5alBIY1N2MTViQ2tPZzRkRnZFSzN0emNEa0E?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-09-07T04:06:00Z"
-    },
-    {
-      "category": "Local",
-      "source": "Nevada County (.gov)",
-      "title": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley - Nevada County (.gov)",
-      "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley Nevada County (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTkFsa0k0UzMtWmEzSHFDcVFYWlBueEZrRGV5UWx1dW5Oa3hUWVp2VkZZQ3JLQmNQc0IwYzQyRFdva0UzZk5yUmVVeGVrRXZ0bzZoNzNpRTY3MzU0MjF5YUsxWDVDeHByYkE?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-05T18:29:15Z"
-    },
-    {
-      "category": "Local",
-      "source": "Sacramento Bee",
-      "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - Sacramento Bee",
-      "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UmprRjFJLTZZWFJucmhtZFE4QWxlXzc4WHpUOU1xeXJpZDJDWTFFRjFUc01tM0hXLW9may1CR09KcF9raHo5Z3ota2pSblNzVnI3UXNUTEVCYzVKVXFMMS05Z2pLd9IBZkFVX3lxTE9kVGVrMDFUQURsSkFZaE9IYVp4WWIyQzdOYWRzMHg0LUxfcnU0OWdlYUFJOWtmU19GblRXWk1vWExkd09IcG9QU1FyTVQxUnhKU1VSUE5TR05YS3F4ZXVLRFNySlROZw?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-22T07:00:00Z"
-    },
-    {
-      "category": "Local",
-      "source": "wunderground.com",
-      "title": "Grass Valley, CA Air Quality & Pollen - wunderground.com",
-      "summary": "Grass Valley, CA Air Quality & Pollen wunderground.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcGN2UWpLdUJWQV8yNXcwdl8wUXpjdURaa2lHbDVCSXhaY1loYVVBUWRuaEFLNy1OT3FzRW44WGlwR2txS1dJcGRobk1RRzY4ZF9kMWlTYlA2UzhHclFEWEx0ZHhISkxZMWJGVS00UU9LUHNkRzFRV2s5ekVoSjlUaXRGMzVtcV9VVmxSQnM5VXJnbGwxeFE?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-04T19:54:22Z"
+      "publishedAt": "2026-09-07T04:07:00Z"
     },
     {
       "category": "Local",
@@ -48,12 +30,39 @@
     },
     {
       "category": "Local",
+      "source": "Sacramento Bee",
+      "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - Sacramento Bee",
+      "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UmprRjFJLTZZWFJucmhtZFE4QWxlXzc4WHpUOU1xeXJpZDJDWTFFRjFUc01tM0hXLW9may1CR09KcF9raHo5Z3ota2pSblNzVnI3UXNUTEVCYzVKVXFMMS05Z2pLd9IBZkFVX3lxTE9kVGVrMDFUQURsSkFZaE9IYVp4WWIyQzdOYWRzMHg0LUxfcnU0OWdlYUFJOWtmU19GblRXWk1vWExkd09IcG9QU1FyTVQxUnhKU1VSUE5TR05YS3F4ZXVLRFNySlROZw?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-22T07:00:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "Weather Underground",
+      "title": "Grass Valley, CA Air Quality & Pollen - Weather Underground",
+      "summary": "Grass Valley, CA Air Quality & Pollen Weather Underground",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcGN2UWpLdUJWQV8yNXcwdl8wUXpjdURaa2lHbDVCSXhaY1loYVVBUWRuaEFLNy1OT3FzRW44WGlwR2txS1dJcGRobk1RRzY4ZF9kMWlTYlA2UzhHclFEWEx0ZHhISkxZMWJGVS00UU9LUHNkRzFRV2s5ekVoSjlUaXRGMzVtcV9VVmxSQnM5VXJnbGwxeFE?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-09-04T19:54:22Z"
+    },
+    {
+      "category": "Local",
       "source": "WorldAtlas",
       "title": "11 Best Towns In California's Sierra Nevada For Retirees - WorldAtlas",
       "summary": "11 Best Towns In California's Sierra Nevada For Retirees WorldAtlas",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRXphRFNMQWdpa19jVjRYRWs5YW13ZVJpUWpkTWhOMUZWNkYtSlVYc0g0aW9xeFg2RTg2bXU4MUkwWHdzLU8xQUF3MFFTRDNlZy01anAzY2tKaDlkbmdramRWaWliek5zTDlRalRkZVhVWTZsZ1JPcDhlS0ZLbmluMkdZYW1abzlfWUZ4S3FWUXpJbDhpT1dfZFEyaw?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-04T18:30:00Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+      "summary": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c84c/live/fc526aa0-ab02-11f1-93bd-5b304745dac3.jpg",
+      "publishedAt": "2026-09-07T22:23:03Z"
     },
     {
       "category": "World",
@@ -101,15 +110,6 @@
       "publishedAt": "2026-09-07T15:27:50Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Nepal observes national day of mourning for victims of flash flood disaster",
-      "summary": "Flags flew at half mast on the 13th day since the disaster, the last day of the Hindu mourning period.",
-      "url": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0043/live/461239b0-aa93-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-09-07T09:31:26Z"
-    },
-    {
       "category": "Science & Tech",
       "source": "BBC Science",
       "title": "Gaps in evidence on vaccinating badgers against TB, researchers say",
@@ -139,6 +139,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
+      "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+      "summary": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
+      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/192e/live/85ed8b30-aaa1-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-09-07T23:05:12Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
       "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
       "summary": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
       "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9408/live/98bd0c70-aaa8-11f1-9eba-7de947fa7cd1.jpg",
       "publishedAt": "2026-09-07T12:22:07Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
-      "summary": "Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online.",
-      "url": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/787a/live/cae3e7b0-aaa7-11f1-9eba-7de947fa7cd1.jpg",
-      "publishedAt": "2026-09-07T11:30:27Z"
     }
   ],
   "feedErrors": [
