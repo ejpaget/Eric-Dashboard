@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T05:59:42.350327Z",
+  "updatedAt": "2026-09-07T12:20:14.596836Z",
   "stories": [
     {
       "category": "Local",
@@ -21,21 +21,21 @@
     },
     {
       "category": "Local",
-      "source": "Weather Underground",
-      "title": "Grass Valley, CA Air Quality & Pollen - Weather Underground",
-      "summary": "Grass Valley, CA Air Quality & Pollen Weather Underground",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcGN2UWpLdUJWQV8yNXcwdl8wUXpjdURaa2lHbDVCSXhaY1loYVVBUWRuaEFLNy1OT3FzRW44WGlwR2txS1dJcGRobk1RRzY4ZF9kMWlTYlA2UzhHclFEWEx0ZHhISkxZMWJGVS00UU9LUHNkRzFRV2s5ekVoSjlUaXRGMzVtcV9VVmxSQnM5VXJnbGwxeFE?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-04T19:54:22Z"
-    },
-    {
-      "category": "Local",
       "source": "sacbee.com",
       "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - sacbee.com",
       "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order sacbee.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UmprRjFJLTZZWFJucmhtZFE4QWxlXzc4WHpUOU1xeXJpZDJDWTFFRjFUc01tM0hXLW9may1CR09KcF9raHo5Z3ota2pSblNzVnI3UXNUTEVCYzVKVXFMMS05Z2pLd9IBZkFVX3lxTE9kVGVrMDFUQURsSkFZaE9IYVp4WWIyQzdOYWRzMHg0LUxfcnU0OWdlYUFJOWtmU19GblRXWk1vWExkd09IcG9QU1FyTVQxUnhKU1VSUE5TR05YS3F4ZXVLRFNySlROZw?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-22T07:00:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "Weather Underground",
+      "title": "Grass Valley, CA Air Quality & Pollen - Weather Underground",
+      "summary": "Grass Valley, CA Air Quality & Pollen Weather Underground",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcGN2UWpLdUJWQV8yNXcwdl8wUXpjdURaa2lHbDVCSXhaY1loYVVBUWRuaEFLNy1OT3FzRW44WGlwR2txS1dJcGRobk1RRzY4ZF9kMWlTYlA2UzhHclFEWEx0ZHhISkxZMWJGVS00UU9LUHNkRzFRV2s5ekVoSjlUaXRGMzVtcV9VVmxSQnM5VXJnbGwxeFE?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-09-04T19:54:22Z"
     },
     {
       "category": "Local",
@@ -58,83 +58,92 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Germany's far-right AfD hails big victory in east, but falls short of majority",
-      "summary": "Alternative for Germany hails a \"historic\" success as preliminary results show a big margin of victory with almost 44% of the vote.",
-      "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-09-07T04:48:02Z"
+      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+      "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
+      "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/742c/live/a801c5d0-aa9a-11f1-ab09-7f2415c9a652.jpg",
+      "publishedAt": "2026-09-07T11:54:22Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Europe wrestles with impact of historic regional gains for Germany's AfD",
-      "summary": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
-      "url": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c3b/live/72883ac0-aa67-11f1-b26f-b3549bd39fba.jpg",
-      "publishedAt": "2026-09-07T04:07:23Z"
+      "title": "Israeli strikes in southern Lebanese village kill nine",
+      "summary": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73bc/live/047b0dc0-aa8d-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-09-07T10:16:56Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
-      "summary": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+      "title": "New videos of man in 9/11 lawsuit reveal extremist links",
+      "summary": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
+      "url": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b59c/live/875c3670-a9dd-11f1-b109-879e35c24276.png",
+      "publishedAt": "2026-09-07T05:31:06Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Probe begins into why cargo plane overran Miami runway",
+      "summary": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.",
       "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d36/live/ead9f6b0-aa73-11f1-8722-09fc3b051866.jpg",
-      "publishedAt": "2026-09-07T00:57:38Z"
+      "publishedAt": "2026-09-07T09:54:40Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-      "summary": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
-      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0b8/live/737c2df0-aa36-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-09-06T20:41:58Z"
+      "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+      "summary": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks.",
+      "url": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b166/live/63ecaa80-a884-11f1-824a-0fc4c5d895ae.jpg",
+      "publishedAt": "2026-09-07T07:03:44Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-      "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
-      "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77dd/live/92218f50-aa29-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-09-06T20:52:12Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-      "summary": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9193/live/bc786310-a9bf-11f1-a47c-49756d8d78ae.jpg",
-      "publishedAt": "2026-09-06T16:00:21Z"
+      "title": "Nepal observes national day of mourning for victims of flash flood disaster",
+      "summary": "Flags flew at half mast on the 13th day since the disaster, the last day of the Hindu mourning period.",
+      "url": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0043/live/461239b0-aa93-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-07T09:31:26Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "Cooler temperatures with wet and windy weather forecast for UK this week",
+      "title": "Public asked to have their say on proposed new renewable energy company",
+      "summary": "The proposed plans aim to reduce the cost of energy in the long-term, but won't be able to set bills.",
+      "url": "https://www.bbc.co.uk/news/articles/c780n702pp4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a64/live/bdcc0c50-aaa8-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-09-07T12:09:50Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Pioneering fossil hunter recognised with blue plaque",
+      "summary": "Dorothea Bate discovered the dwarf elephant and the myotragus, an extinct goat-like antelope.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zx1v8ye3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40b0/live/47c3aa50-aa7f-11f1-a14b-7d9bc9f3336b.png",
+      "publishedAt": "2026-09-07T06:01:33Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Turning cooler with wet and windy weather forecast for UK this week",
       "summary": "Weekend warmth gives way to rain and strong winds for many into the start of the new week.",
       "url": "https://www.bbc.co.uk/weather/articles/cvgynj49lzmo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98e4/live/fae34f20-a9e2-11f1-803f-7f2a9199ddc4.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d91a/live/6a011d30-aa8b-11f1-9e5d-f9e7792c40d7.jpg",
       "publishedAt": "2026-09-07T03:09:04Z"
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
-      "summary": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia.",
-      "url": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082b/live/50dfea10-a839-11f1-b3a7-d5de760fef6e.jpg",
-      "publishedAt": "2026-09-06T23:13:29Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-      "summary": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b63/live/c35016e0-a872-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-09-05T23:20:00Z"
+      "source": "BBC Technology",
+      "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
+      "summary": "Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online.",
+      "url": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/787a/live/cae3e7b0-aaa7-11f1-9eba-7de947fa7cd1.jpg",
+      "publishedAt": "2026-09-07T11:30:27Z"
     },
     {
       "category": "Science & Tech",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067c/live/895a4a20-a84d-11f1-80f8-c33181935c5a.jpg",
       "publishedAt": "2026-09-04T11:48:24Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Could robots be the future of theme parks?",
-      "summary": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.",
-      "url": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c42/live/48fb09f0-a7ef-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-09-04T02:02:02Z"
     }
   ],
   "feedErrors": [
