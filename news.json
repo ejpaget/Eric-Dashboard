@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T04:26:10.920470Z",
+  "updatedAt": "2026-09-08T09:02:31.429622Z",
   "stories": [
     {
       "category": "Local",
@@ -12,15 +12,6 @@
     },
     {
       "category": "Local",
-      "source": "Weather Underground",
-      "title": "Grass Valley, CA Air Quality & Pollen - Weather Underground",
-      "summary": "Grass Valley, CA Air Quality & Pollen Weather Underground",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcGN2UWpLdUJWQV8yNXcwdl8wUXpjdURaa2lHbDVCSXhaY1loYVVBUWRuaEFLNy1OT3FzRW44WGlwR2txS1dJcGRobk1RRzY4ZF9kMWlTYlA2UzhHclFEWEx0ZHhISkxZMWJGVS00UU9LUHNkRzFRV2s5ekVoSjlUaXRGMzVtcV9VVmxSQnM5VXJnbGwxeFE?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-04T19:54:22Z"
-    },
-    {
-      "category": "Local",
       "source": "Sacramento Bee",
       "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - Sacramento Bee",
       "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order Sacramento Bee",
@@ -30,9 +21,18 @@
     },
     {
       "category": "Local",
-      "source": "worldatlas.com",
-      "title": "11 Best Towns In California's Sierra Nevada For Retirees - worldatlas.com",
-      "summary": "11 Best Towns In California's Sierra Nevada For Retirees worldatlas.com",
+      "source": "Weather Underground",
+      "title": "Grass Valley, CA Air Quality & Pollen - Weather Underground",
+      "summary": "Grass Valley, CA Air Quality & Pollen Weather Underground",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcGN2UWpLdUJWQV8yNXcwdl8wUXpjdURaa2lHbDVCSXhaY1loYVVBUWRuaEFLNy1OT3FzRW44WGlwR2txS1dJcGRobk1RRzY4ZF9kMWlTYlA2UzhHclFEWEx0ZHhISkxZMWJGVS00UU9LUHNkRzFRV2s5ekVoSjlUaXRGMzVtcV9VVmxSQnM5VXJnbGwxeFE?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-09-04T19:54:22Z"
+    },
+    {
+      "category": "Local",
+      "source": "WorldAtlas",
+      "title": "11 Best Towns In California's Sierra Nevada For Retirees - WorldAtlas",
+      "summary": "11 Best Towns In California's Sierra Nevada For Retirees WorldAtlas",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRXphRFNMQWdpa19jVjRYRWs5YW13ZVJpUWpkTWhOMUZWNkYtSlVYc0g0aW9xeFg2RTg2bXU4MUkwWHdzLU8xQUF3MFFTRDNlZy01anAzY2tKaDlkbmdramRWaWliek5zTDlRalRkZVhVWTZsZ1JPcDhlS0ZLbmluMkdZYW1abzlfWUZ4S3FWUXpJbDhpT1dfZFEyaw?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-04T18:30:00Z"
@@ -48,21 +48,21 @@
     },
     {
       "category": "Local",
-      "source": "YubaNet",
-      "title": "Happening Now – September 2026 - YubaNet",
-      "summary": "Happening Now – September 2026 YubaNet",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oc2pzcm0xTzFQM2FwTlpqMFNxN0J6M1VlejljMnQxaFVJT3g1ZXRRenpodE1hYnJMOXRtTXZtNzBka0g2dWJiSg?oc=5",
+      "source": "kcra.com",
+      "title": "Grass Valley cancels Flock contract for license plate reading cameras - kcra.com",
+      "summary": "Grass Valley cancels Flock contract for license plate reading cameras kcra.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVJrQWRxZWxNS3dDTGJOWXJ5UGdsbFBJNnpnT0hsWjlyZEoyRk9ST2pHOUtxNEEtVXM2b2xLZUpDRGJpNWxOYUJiMVExdDBkX283Y291NHRWQ1lkTVVieTRsOFNrTHBFYzVVVl9pWkNnNHY0RFpnMXlvYVZ4eV85QzVJS0txN0pkNlFFM1Y3cnVhc1BmakxHXzhCZkpoU0NxVGNvUmZ3ZjN2aVU?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-09-01T13:36:08Z"
+      "publishedAt": "2026-08-12T07:00:00Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
-      "summary": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c84c/live/fc526aa0-ab02-11f1-93bd-5b304745dac3.jpg",
-      "publishedAt": "2026-09-07T22:23:03Z"
+      "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+      "summary": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
+      "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4970/live/57d86dc0-ab49-11f1-9191-cd98112fd46c.jpg",
+      "publishedAt": "2026-09-08T04:39:14Z"
     },
     {
       "category": "World",
@@ -70,44 +70,44 @@
       "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
       "summary": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
       "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ded/live/26dbafb0-aaff-11f1-a2a8-b5ca0233056a.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1697/live/fa2ce530-ab47-11f1-a291-b542ee92de7c.png",
       "publishedAt": "2026-09-07T21:12:37Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-      "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
-      "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/742c/live/a801c5d0-aa9a-11f1-ab09-7f2415c9a652.jpg",
-      "publishedAt": "2026-09-07T14:04:01Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
-      "summary": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative.",
+      "summary": "An investigation will be launched into the incident, which left female employees \"humiliated\", a union representative says.",
       "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d22e/live/141311a0-ab0b-11f1-b04e-03281e16415e.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/796a/live/168bd1a0-ab3e-11f1-a4b4-5f8aad41146d.jpg",
       "publishedAt": "2026-09-07T23:46:44Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
-      "summary": "In his resignation letter, Ruslan Kravchenko denied the allegations against him, saying he did not want his office \"to be used as a tool in political confrontation\".",
-      "url": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a191/live/44b56530-ab09-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-09-08T01:07:47Z"
+      "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
+      "summary": "The bodies of Jake and Callum Robinson and their US friend were found with gunshot wounds to their heads.",
+      "url": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/e2e67670-c5f1-11f0-9f1e-75cdd6519717.png",
+      "publishedAt": "2026-09-08T01:32:56Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "UK government expected to announce restrictions on trade with West Bank settlements",
-      "summary": "Foreign Secretary Ed Miliband is expected to outline proposals targeting goods from Israeli-occupied areas on Tuesday.",
-      "url": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/270b/live/676c01e0-ab24-11f1-993d-a17289144c06.jpg",
-      "publishedAt": "2026-09-08T01:50:55Z"
+      "title": "Nepal cracks down on online abuse against flood survivors",
+      "summary": "Authorities will \"show no leniency\" to people who \"belittle\" those who are suffering, the prime minister says.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5x3n38308o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fe7/live/28e855b0-ab59-11f1-b471-ff02eb3eac27.jpg",
+      "publishedAt": "2026-09-08T08:31:01Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Flight recorders recovered from Amazon cargo plane crash",
+      "summary": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c84c/live/fc526aa0-ab02-11f1-93bd-5b304745dac3.jpg",
+      "publishedAt": "2026-09-07T22:23:03Z"
     },
     {
       "category": "Science & Tech",
@@ -139,11 +139,11 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-      "summary": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
-      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/192e/live/85ed8b30-aaa1-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-09-07T23:05:12Z"
+      "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
+      "summary": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
+      "url": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b1/live/2890be40-a613-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-09-08T06:49:56Z"
     },
     {
       "category": "Science & Tech",
