@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T22:57:00.539393Z",
+  "updatedAt": "2026-09-09T01:12:18.246527Z",
   "stories": [
     {
       "category": "Local",
@@ -12,15 +12,6 @@
     },
     {
       "category": "Local",
-      "source": "ABC10",
-      "title": "Why Flock cameras were reinstalled in Grass Valley after police suspended their use - ABC10",
-      "summary": "Why Flock cameras were reinstalled in Grass Valley after police suspended their use ABC10",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOVlhEN0xtby13aVBScF9JWjVwOEdPNVk1eVBrTzR5WHFsQTMyVTItaVdYUGpNNUxHeGxYcVYwSE4tNGoxeTZwM0ExWmlLRHpzNUdPckZJa3d2MGU5YWxsLTFDMTZFNG9UZy1Ya2ZJQlVZSTdmV1NPNFBMRVN3eE45QTBMbXVVLWxfOHpZd05tRjBOcEZvQk83Zmxra3Y1U1RzSVlRRmp3MnoyM3g0X0h0MjEtcTZYYXctaUw0LXEzNzZlaEFxZ1luSUVyMk05WUJHRWpIaGN6Y05LN2ZmYUlTVHIwYWh5M19JVWtfOXFoTGZsVFlZVWpEUFlzeS00X0lKNHk4Qw?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-08T16:42:00Z"
-    },
-    {
-      "category": "Local",
       "source": "Nevada County (.gov)",
       "title": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley - Nevada County (.gov)",
       "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley Nevada County (.gov)",
@@ -30,9 +21,18 @@
     },
     {
       "category": "Local",
-      "source": "Sacramento Bee",
-      "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - Sacramento Bee",
-      "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order Sacramento Bee",
+      "source": "ABC10",
+      "title": "Why Flock cameras were reinstalled in Grass Valley after police suspended their use - ABC10",
+      "summary": "Why Flock cameras were reinstalled in Grass Valley after police suspended their use ABC10",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOVlhEN0xtby13aVBScF9JWjVwOEdPNVk1eVBrTzR5WHFsQTMyVTItaVdYUGpNNUxHeGxYcVYwSE4tNGoxeTZwM0ExWmlLRHpzNUdPckZJa3d2MGU5YWxsLTFDMTZFNG9UZy1Ya2ZJQlVZSTdmV1NPNFBMRVN3eE45QTBMbXVVLWxfOHpZd05tRjBOcEZvQk83Zmxra3Y1U1RzSVlRRmp3MnoyM3g0X0h0MjEtcTZYYXctaUw0LXEzNzZlaEFxZ1luSUVyMk05WUJHRWpIaGN6Y05LN2ZmYUlTVHIwYWh5M19JVWtfOXFoTGZsVFlZVWpEUFlzeS00X0lKNHk4Qw?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-09-08T16:42:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "sacbee.com",
+      "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - sacbee.com",
+      "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order sacbee.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UmprRjFJLTZZWFJucmhtZFE4QWxlXzc4WHpUOU1xeXJpZDJDWTFFRjFUc01tM0hXLW9may1CR09KcF9raHo5Z3ota2pSblNzVnI3UXNUTEVCYzVKVXFMMS05Z2pLd9IBZkFVX3lxTE9kVGVrMDFUQURsSkFZaE9IYVp4WWIyQzdOYWRzMHg0LUxfcnU0OWdlYUFJOWtmU19GblRXWk1vWExkd09IcG9QU1FyTVQxUnhKU1VSUE5TR05YS3F4ZXVLRFNySlROZw?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-22T07:00:00Z"
@@ -76,11 +76,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
-      "summary": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
-      "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ebe/live/daf11f50-ab98-11f1-aa04-efbf6a882854.jpg",
-      "publishedAt": "2026-09-08T14:46:16Z"
+      "title": "US slaps import ban on Canadian alcohol and other goods",
+      "summary": "It is the latest escalation in a trade war between the two countries, and comes as Canadian retaliatory tariffs on US goods come into force.",
+      "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08b5/live/f578ba70-abe0-11f1-b727-455d73198a95.jpg",
+      "publishedAt": "2026-09-09T01:09:15Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
+      "summary": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
+      "url": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e30/live/c326db60-ab90-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-09-08T23:11:32Z"
     },
     {
       "category": "World",
@@ -94,20 +103,29 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Argentina to file criminal case against oil company operating in Falklands",
-      "summary": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
-      "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f822/live/55e4d820-ab6a-11f1-9712-a14d469bace4.jpg",
-      "publishedAt": "2026-09-08T11:09:54Z"
+      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+      "summary": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
+      "url": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c81/live/921c3ba0-ab3b-11f1-8710-d518c99f37f3.jpg",
+      "publishedAt": "2026-09-08T23:27:23Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-      "summary": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
-      "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0e0/live/0e3c16f0-ab92-11f1-aa04-efbf6a882854.png",
-      "publishedAt": "2026-09-08T17:10:54Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Watch: Downed trees and flooding as Hurricane Lowell batters western Hawaii",
+      "summary": "The storm brought damaging winds and torrential rain to parts of the island on Monday and Tuesday, triggering concerns about flash flooding and mudslides.",
+      "url": "https://www.bbc.co.uk/news/videos/c2079ne1xx6o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc8e/live/be05e3b0-abea-11f1-9d91-376486f9e679.jpg",
+      "publishedAt": "2026-09-09T01:11:44Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "The trail of clues that our planet might be heating faster than we realised",
+      "summary": "A curious online row over this summer's heatwaves points to a wider - and worrying - shift in climate science.",
+      "url": "https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba25/live/699e3f00-ab83-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-08T23:11:52Z"
     },
     {
       "category": "Science & Tech",
@@ -120,21 +138,21 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Public asked to have their say on proposed new renewable energy company",
-      "summary": "The proposed plans aim to reduce the cost of energy in the long-term, but won't be able to set bills.",
-      "url": "https://www.bbc.co.uk/news/articles/c780n702pp4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a64/live/bdcc0c50-aaa8-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-09-07T18:02:43Z"
+      "source": "BBC Technology",
+      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+      "summary": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
+      "url": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c81/live/921c3ba0-ab3b-11f1-8710-d518c99f37f3.jpg",
+      "publishedAt": "2026-09-08T23:27:23Z"
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Pioneering fossil hunter recognised with blue plaque",
-      "summary": "Dorothea Bate discovered the dwarf elephant and the myotragus, an extinct goat-like antelope.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zx1v8ye3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40b0/live/47c3aa50-aa7f-11f1-a14b-7d9bc9f3336b.png",
-      "publishedAt": "2026-09-07T06:01:33Z"
+      "source": "BBC Technology",
+      "title": "Should promotion depend on how workers use AI?",
+      "summary": "More companies are tying career progression to AI use: is that fair?",
+      "url": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb6c/live/d0ef5870-900c-11f1-aabc-c3c7aa714117.jpg",
+      "publishedAt": "2026-09-08T23:05:23Z"
     },
     {
       "category": "Science & Tech",
@@ -144,24 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22b2/live/38d45d10-abc3-11f1-a601-7d96c5d5b6ea.jpg",
       "publishedAt": "2026-09-08T20:57:09Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "New law to force tech firms to stop children taking or sharing nude images",
-      "summary": "The government said it will legislate \"as soon as they can\" but may \"reassess\" its plans if firms make the desired changes sooner.",
-      "url": "https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec8e/live/f2e6ac40-ab90-11f1-aa04-efbf6a882854.jpg",
-      "publishedAt": "2026-09-08T16:48:29Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
-      "summary": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
-      "url": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b1/live/2890be40-a613-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-09-08T06:49:56Z"
     }
   ],
   "feedErrors": [
