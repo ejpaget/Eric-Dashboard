@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-09-10T21:52:46.412481Z",
+  "updatedAt": "2026-09-11T00:03:14.333983Z",
   "stories": [
-    {
-      "category": "Local",
-      "source": "Nevada County (.gov)",
-      "title": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley - Nevada County (.gov)",
-      "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley Nevada County (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTkFsa0k0UzMtWmEzSHFDcVFYWlBueEZrRGV5UWx1dW5Oa3hUWVp2VkZZQ3JLQmNQc0IwYzQyRFdva0UzZk5yUmVVeGVrRXZ0bzZoNzNpRTY3MzU0MjF5YUsxWDVDeHByYkE?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-10T08:28:58Z"
-    },
     {
       "category": "Local",
       "source": "KCRA",
@@ -18,6 +9,15 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSnV0c2lNaGh4QmpJcWtDVE1aeDhISmdxS0RyWGUzT2JzTi05Wi1fcVI2NDlvdkFEVkFqMWhxbVBpU19wWnkwYWxEOHV4dS1ETE1KYXZDYXJPd3VNNjBYUzRublRnYkpaVW95NUpKdEtFMDVrZDJfYzV3Tkc5alBIY1N2MTViQ2tPZzRkRnZFSzN0emNEa0E?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-07T04:07:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "Nevada County (.gov)",
+      "title": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley - Nevada County (.gov)",
+      "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley Nevada County (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTkFsa0k0UzMtWmEzSHFDcVFYWlBueEZrRGV5UWx1dW5Oa3hUWVp2VkZZQ3JLQmNQc0IwYzQyRFdva0UzZk5yUmVVeGVrRXZ0bzZoNzNpRTY3MzU0MjF5YUsxWDVDeHByYkE?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-09-07T19:11:49Z"
     },
     {
       "category": "Local",
@@ -112,6 +112,24 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "New hurricane season record as 'historic' El Niño leaves Atlantic eerily quiet",
+      "summary": "The Atlantic hurricane season has reached its climatological peak, but a strong El Niño means no hurricanes have formed this year.",
+      "url": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7955/live/89a9f220-ad6e-11f1-b6b8-91dc721cef9f.png",
+      "publishedAt": "2026-09-10T23:22:33Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Species 'at risk of vanishing' from area of Wales' largest national park",
+      "summary": "The National Trust warns species are on the brink of extinction in a valley of Eryri National Park.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy04v7rkjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb8e/live/6bdb87e0-ad0f-11f1-b1d1-571ed4d7ff2c.png",
+      "publishedAt": "2026-09-10T21:58:29Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "August joint hottest month on record globally",
       "summary": "BBC Weather Presenter Simon King explains the figures.",
       "url": "https://www.bbc.co.uk/news/videos/ckgw3ngep09o?at_medium=RSS&at_campaign=rss",
@@ -120,21 +138,12 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "August joint-hottest month on record as climate change and El Niño drive heat",
-      "summary": "Climate change and the rising influence of El Niño saw August reach the record for warmest month.",
-      "url": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7e3/live/9e323aa0-aceb-11f1-8d69-858c9dcdf738.jpg",
-      "publishedAt": "2026-09-10T02:05:47Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Watch: Downed trees and flooding as Hurricane Lowell batters western Hawaii",
-      "summary": "The storm brought damaging winds and torrential rain to parts of the island on Monday and Tuesday, triggering concerns about flash flooding and mudslides.",
-      "url": "https://www.bbc.co.uk/news/videos/c2079ne1xx6o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc8e/live/be05e3b0-abea-11f1-9d91-376486f9e679.jpg",
-      "publishedAt": "2026-09-09T01:11:44Z"
+      "source": "BBC Technology",
+      "title": "Can Europe recharge its battery industry?",
+      "summary": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+      "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac3e/live/cd5970d0-acf2-11f1-a540-61c3f7fc4e6c.jpg",
+      "publishedAt": "2026-09-10T23:05:47Z"
     },
     {
       "category": "Science & Tech",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d61/live/80327fa0-ac6a-11f1-80f0-9795d1a5edbc.jpg",
       "publishedAt": "2026-09-09T17:06:48Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-      "summary": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cace/live/40c59310-ac2a-11f1-9bd9-7b7da208bd5c.jpg",
-      "publishedAt": "2026-09-09T15:34:09Z"
     }
   ],
   "feedErrors": [
