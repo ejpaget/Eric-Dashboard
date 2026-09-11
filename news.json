@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T19:40:43.769945Z",
+  "updatedAt": "2026-09-11T22:30:09.774908Z",
   "stories": [
     {
       "category": "Local",
@@ -62,7 +62,7 @@
       "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
       "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09dc/live/6dac0640-adcc-11f1-a540-61c3f7fc4e6c.jpg",
-      "publishedAt": "2026-09-11T16:58:34Z"
+      "publishedAt": "2026-09-11T22:17:45Z"
     },
     {
       "category": "World",
@@ -112,6 +112,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "Battle to save the tiny, gooey snail only found in one lake in the UK",
+      "summary": "Once prevalent across the UK, this mollusc is now only found in one lake in Wales.",
+      "url": "https://www.bbc.co.uk/news/articles/c1j4ngr05l8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ead9/live/f1274f90-abbd-11f1-be3c-77d601a01c16.jpg",
+      "publishedAt": "2026-09-11T21:38:15Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "Sheen says he was snubbed by FM over pollution claims",
       "summary": "The actor urged MPs to back a national testing programme to make sure historic toxic dump sites were safe.",
       "url": "https://www.bbc.co.uk/news/videos/cm2q8pp8epro?at_medium=RSS&at_campaign=rss",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/weather/articles/cqxv4wj8jxwo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1828/live/df0abbc0-ad44-11f1-8a01-6d097895aae4.png",
       "publishedAt": "2026-09-11T06:27:20Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Species 'at risk of vanishing' from area of Wales' largest national park",
-      "summary": "The National Trust warns species are on the brink of extinction in a valley of Eryri - Snowdonia - National Park.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy04v7rkjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eef0/live/9c5b0430-ad9c-11f1-87fb-0334de21ac71.png",
-      "publishedAt": "2026-09-11T05:00:16Z"
     },
     {
       "category": "Science & Tech",
