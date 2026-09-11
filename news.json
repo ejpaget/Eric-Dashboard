@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-11T13:29:34.664609Z",
+  "updatedAt": "2026-09-11T17:10:05.172499Z",
   "stories": [
     {
       "category": "Local",
-      "source": "Nevada County (.gov)",
-      "title": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley - Nevada County (.gov)",
-      "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley Nevada County (.gov)",
+      "source": "nevadacountyca.gov",
+      "title": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley - nevadacountyca.gov",
+      "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley nevadacountyca.gov",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTkFsa0k0UzMtWmEzSHFDcVFYWlBueEZrRGV5UWx1dW5Oa3hUWVp2VkZZQ3JLQmNQc0IwYzQyRFdva0UzZk5yUmVVeGVrRXZ0bzZoNzNpRTY3MzU0MjF5YUsxWDVDeHByYkE?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-10T08:28:58Z"
@@ -21,9 +21,9 @@
     },
     {
       "category": "Local",
-      "source": "realtor.com",
-      "title": "16694 Marion Way, Grass Valley, CA 95949 - realtor.com",
-      "summary": "16694 Marion Way, Grass Valley, CA 95949 realtor.com",
+      "source": "Realtor.com",
+      "title": "16694 Marion Way, Grass Valley, CA 95949 - Realtor.com",
+      "summary": "16694 Marion Way, Grass Valley, CA 95949 Realtor.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVlJUSjVzdDNtclhJNmlrT0VhM0s0bllSdmkzWU04OC1KaWdRS0ctMWd0allJampqU18xOElrQWp1V1Y1OTVYWWtfeG5SMXAtdnllc0F2ZV92azNvVkM1LXlwb25WcVBBWl9JaHM4SEg0aW1sSUdDZjlZOEdKTzJoX0FUSUlaVTlkY1lPVmNMQV9DNHBWa3c?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-11T03:58:09Z"
@@ -48,9 +48,9 @@
     },
     {
       "category": "Local",
-      "source": "Yahoo Tech",
-      "title": "Flock reinstalled its license plate cameras in California's Grass Valley after a privacy ban — prompting a battle with its police department - Yahoo Tech",
-      "summary": "Flock reinstalled its license plate cameras in California's Grass Valley after a privacy ban — prompting a battle with its police department Yahoo Tech",
+      "source": "tech.yahoo.com",
+      "title": "Flock reinstalled its license plate cameras in California's Grass Valley after a privacy ban — prompting a battle with its police department - tech.yahoo.com",
+      "summary": "Flock reinstalled its license plate cameras in California's Grass Valley after a privacy ban — prompting a battle with its police department tech.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbkhHQzJjWU44d1M2dVBCWEppdF9tMWw5cjRqWUxhR1FjWjNCNkJUdFByMmsyeEV6NGQ4UkxOM1JYeHBGeFYxdDBRNnRsR21hQmZzUzJCTHpwWkN6LU9XUk9tOENlRHRwU3JrclVHcGI0US1xQ0NJSGpoT3hYRkV3V2hQSWNjSlhHUklfLXE5YjFOX0Q5a040SzdWZXdsSVVvbnc?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-10T13:19:33Z"
@@ -67,20 +67,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-      "summary": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c23c/live/9ec505e0-adc9-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-11T05:41:54Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Israel says it has destroyed major underground Hezbollah base",
       "summary": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
       "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb3/live/845b2920-adc7-11f1-a540-61c3f7fc4e6c.jpg",
-      "publishedAt": "2026-09-11T11:34:07Z"
+      "publishedAt": "2026-09-11T15:50:23Z"
     },
     {
       "category": "World",
@@ -103,11 +94,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Philippine rescuers board ferry 40 hours after blaze began",
-      "summary": "Thick, toxic fumes and extreme temperatures pose a challenge to rescuers who have boarded the ship.",
-      "url": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d23/live/4db05bf0-ad92-11f1-89c7-2d9bd86063c9.jpg",
-      "publishedAt": "2026-09-11T06:33:15Z"
+      "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
+      "summary": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
+      "url": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4871/live/931f3ad0-adfb-11f1-8169-6fdea7f79791.png",
+      "publishedAt": "2026-09-11T16:00:59Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+      "summary": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c23c/live/9ec505e0-adc9-11f1-b1d1-571ed4d7ff2c.jpg",
+      "publishedAt": "2026-09-11T05:41:54Z"
     },
     {
       "category": "Science & Tech",
@@ -139,6 +139,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
+      "title": "UK government rejects 'kill switch' idea for dangerous AI",
+      "summary": "The Cabinet Office, which leads on AI safety, says the UK \"cannot simply turn AI off\".",
+      "url": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63e1/live/212f16d0-adeb-11f1-9a5c-a7a4083eb832.jpg",
+      "publishedAt": "2026-09-11T15:07:07Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
       "title": "Does this AI comic make you laugh?",
       "summary": "Comedian Garrett Millerick has created an AI avatar based on his own material. Is it any good?",
       "url": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/090c/live/88ca35f0-ad6d-11f1-8edd-ada2fcb84b27.jpg",
       "publishedAt": "2026-09-11T08:15:25Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Can Europe recharge its battery industry?",
-      "summary": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
-      "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac3e/live/cd5970d0-acf2-11f1-a540-61c3f7fc4e6c.jpg",
-      "publishedAt": "2026-09-10T23:05:47Z"
     }
   ],
   "feedErrors": [
