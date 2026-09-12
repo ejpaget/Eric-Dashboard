@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T18:42:17.465806Z",
+  "updatedAt": "2026-09-12T21:24:14.074937Z",
   "stories": [
     {
       "category": "Local",
@@ -12,9 +12,9 @@
     },
     {
       "category": "Local",
-      "source": "Santa Monica Daily Press",
-      "title": "California's Later School Start Times Law Getting High Marks - Santa Monica Daily Press",
-      "summary": "California's Later School Start Times Law Getting High Marks Santa Monica Daily Press",
+      "source": "smdp.com",
+      "title": "California's Later School Start Times Law Getting High Marks - smdp.com",
+      "summary": "California's Later School Start Times Law Getting High Marks smdp.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEUzdzFpNHE2cDRrOURPTnRua0R3X0VhZkktdlpKRFdmQWI3SUtfSkhUanNtZ0RuWWhMa2kxZmpiczVRVXhmTzJlcXpKWHJTMDhGRll0U1g0MEdIYkhGX21FOWRUWHdoU1lwUFRLSjkyVnFTZXFON045eUpwRHU4M3lsOFhqNUlkZW1DaGhJakF1TXRtTmNORUdfeFB3Ulg1aXZ5anNJRQ?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-12T16:00:23Z"
@@ -30,9 +30,9 @@
     },
     {
       "category": "Local",
-      "source": "mtdemocrat.com",
-      "title": "A new era of choral excellence is coming to Grass Valley - mtdemocrat.com",
-      "summary": "A new era of choral excellence is coming to Grass Valley mtdemocrat.com",
+      "source": "Mountain Democrat",
+      "title": "A new era of choral excellence is coming to Grass Valley - Mountain Democrat",
+      "summary": "A new era of choral excellence is coming to Grass Valley Mountain Democrat",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUUlVR0NyMnRieXBhRGZiWmI1YlJjMkhybXhVUjlZT3d5bnhobFhUVThFUG9IMnB6OVBMaUl4YU10QWo2em9rS2xSRHVLUEhSOFNCREhmMm4yWDFiQ294N1VLSUNsOTBkb0JHdHA5dnFBUXZ0bHR3b0o4THp6djVETDJoOFpCVEJ4eFZNclNqU2NWWlFSVl9LcGJIaG9KUkkyLUZpa1lxTDVJMUtENEQzb1VvSXhoRHB3SDNRYUhMd0pvbnc5SndqTUg5U2dzdEtaZHd0c0twNmtfMlI3T3c?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-11T17:00:00Z"
@@ -62,7 +62,7 @@
       "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
       "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-12T17:42:38Z"
+      "publishedAt": "2026-09-12T21:16:47Z"
     },
     {
       "category": "World",
@@ -85,20 +85,20 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Fire at nursing home in Chile kills 16 residents",
+      "summary": "Ten people were evacuated from the home in Araucanía region in central Chile.",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a76/live/dfbc28f0-aeda-11f1-91ea-91f4a2a08fa4.jpg",
+      "publishedAt": "2026-09-12T19:36:50Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "French officials investigate if malicious act caused train derailment",
       "summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
       "url": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57a4/live/cdfa4090-aea6-11f1-8972-d5c52a82c3b8.jpg",
       "publishedAt": "2026-09-12T15:05:53Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
-      "summary": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/658c/live/322ba800-ae4e-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-12T05:55:15Z"
     },
     {
       "category": "World",
@@ -143,16 +143,7 @@
       "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
       "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-12T17:42:38Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-      "summary": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
-      "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/203a/live/5d11e480-ae26-11f1-a540-61c3f7fc4e6c.jpg",
-      "publishedAt": "2026-09-12T17:28:53Z"
+      "publishedAt": "2026-09-12T21:16:47Z"
     },
     {
       "category": "Science & Tech",
@@ -162,6 +153,15 @@
       "url": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bd7/live/153f4400-ac68-11f1-80f0-9795d1a5edbc.jpg",
       "publishedAt": "2026-09-12T00:35:50Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
+      "title": "UK government rejects 'kill switch' idea for dangerous AI",
+      "summary": "The Cabinet Office, which leads on AI safety, says the UK \"cannot simply turn AI off\".",
+      "url": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63e1/live/212f16d0-adeb-11f1-9a5c-a7a4083eb832.jpg",
+      "publishedAt": "2026-09-11T15:07:07Z"
     }
   ],
   "feedErrors": [
