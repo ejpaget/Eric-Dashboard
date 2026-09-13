@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T19:23:28.740727Z",
+  "updatedAt": "2026-09-13T21:38:14.173506Z",
   "stories": [
     {
       "category": "Local",
@@ -49,11 +49,11 @@
     {
       "category": "Local",
       "source": "Nevada County (.gov)",
-      "title": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley - Nevada County (.gov)",
-      "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley Nevada County (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTkFsa0k0UzMtWmEzSHFDcVFYWlBueEZrRGV5UWx1dW5Oa3hUWVp2VkZZQ3JLQmNQc0IwYzQyRFdva0UzZk5yUmVVeGVrRXZ0bzZoNzNpRTY3MzU0MjF5YUsxWDVDeHByYkE?oc=5",
+      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - Nevada County (.gov)",
+      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations Nevada County (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-08-23T06:08:45Z"
+      "publishedAt": "2026-06-18T05:24:55Z"
     },
     {
       "category": "World",
@@ -85,6 +85,15 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Swedish party blocs tied after Sunday vote, projections say",
+      "summary": "With 50% of the votes counted, the two main blocs were separated by only 20,000 votes, Sweden public broadvasteer SVT said.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7e0/live/f8b9f5b0-afa4-11f1-a27d-17e2480354ed.jpg",
+      "publishedAt": "2026-09-13T21:17:15Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
       "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
       "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cf8/live/cecf2da0-af73-11f1-b1d1-571ed4d7ff2c.jpg",
       "publishedAt": "2026-09-13T14:25:56Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Iran war reshapes Brics ties but also exposes divisions",
-      "summary": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60f4/live/46af4990-af60-11f1-8b54-ef4b26bcf610.jpg",
-      "publishedAt": "2026-09-13T11:23:42Z"
     },
     {
       "category": "Science & Tech",
