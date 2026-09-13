@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-09-13T21:38:14.173506Z",
+  "updatedAt": "2026-09-13T23:28:49.059980Z",
   "stories": [
-    {
-      "category": "Local",
-      "source": "Weather Underground",
-      "title": "Grass Valley, CA Air Quality & Pollen - Weather Underground",
-      "summary": "Grass Valley, CA Air Quality & Pollen Weather Underground",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVy1Cd3lzazUxbWhsQk5KQmJDMC1CYUhQNXZPdExjOV9neXcwUUM4UXhTWnJ4dlhaZ1A5Um9XYUhYQ1diSFFEc01kdXJKZDlycmNPOTAzX2k1ZFFtRzhfYWhMZGJPWktyaUpTUWt4ZVZua3hXMEE1ZC1MaFhDTllIWFhrUVVxbFdDdm9oeXNSWDI?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-13T06:30:07Z"
-    },
     {
       "category": "Local",
       "source": "KCRA",
@@ -56,6 +47,15 @@
       "publishedAt": "2026-06-18T05:24:55Z"
     },
     {
+      "category": "Local",
+      "source": "Legacy obituary",
+      "title": "Vanessa Lackey Obituary (1977 - 2026) - Grass Valley, CA - The Union - Legacy obituary",
+      "summary": "Vanessa Lackey Obituary (1977 - 2026) - Grass Valley, CA - The Union Legacy obituary",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNlc5dWw3RFVmbTZ0ZUIyNmN0ZDZ6a3g4MnB4UkJJX0FISGJNb3NiYnVlT3NGbVZKbjM0R25KaTAxalg3VTRVTEotMnNSRUJvTlJkVldHUXpSZmxMQmt4Y2VIRkQ5MFhhdHF3Z0FPaUwyZkxpTDdyQXd6dFJkcWNxMGs0d2JZOU5IeUZkM1poSQ?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-08-26T07:00:00Z"
+    },
+    {
       "category": "World",
       "source": "BBC News",
       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
@@ -86,10 +86,10 @@
       "category": "World",
       "source": "BBC News",
       "title": "Swedish party blocs tied after Sunday vote, projections say",
-      "summary": "With 50% of the votes counted, the two main blocs were separated by only 20,000 votes, Sweden public broadvasteer SVT said.",
+      "summary": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority.",
       "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7e0/live/f8b9f5b0-afa4-11f1-a27d-17e2480354ed.jpg",
-      "publishedAt": "2026-09-13T21:17:15Z"
+      "publishedAt": "2026-09-13T22:27:54Z"
     },
     {
       "category": "World",
@@ -112,6 +112,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "The Himalayas are melting faster - and India's economy is 'at risk'",
+      "summary": "A new report warns Himalayan glaciers are melting faster, threatening India’s water, economy and communities.",
+      "url": "https://www.bbc.co.uk/news/articles/crm9ezvwjpno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03f1/live/7fae1aa0-adad-11f1-8ac2-99a6f36b284a.jpg",
+      "publishedAt": "2026-09-13T22:07:22Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "Summer wildfires caused catastrophic hidden damage, scientists warn",
       "summary": "Bangor University researchers say the scale of damage is far greater than what is immediately visible.",
       "url": "https://www.bbc.co.uk/news/articles/cn07rzrq244o?at_medium=RSS&at_campaign=rss",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cvgy4w3mnpvo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aff8/live/ce59c3a0-ad0f-11f1-a035-c91dffce51bf.jpg",
       "publishedAt": "2026-09-12T23:53:07Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Record heatwaves in France set to make champagne stronger",
-      "summary": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6fd/live/129bea30-aea9-11f1-8972-d5c52a82c3b8.jpg",
-      "publishedAt": "2026-09-12T13:00:32Z"
     },
     {
       "category": "Science & Tech",
