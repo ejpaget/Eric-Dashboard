@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T01:22:53.751619Z",
+  "updatedAt": "2026-09-13T06:43:53.171941Z",
   "stories": [
     {
       "category": "Local",
@@ -76,6 +76,15 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
+      "summary": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
+      "url": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1233/live/5647ef90-aeb3-11f1-ae38-d350b022f499.png",
+      "publishedAt": "2026-09-13T00:49:08Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
       "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
       "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57a4/live/cdfa4090-aea6-11f1-8972-d5c52a82c3b8.jpg",
       "publishedAt": "2026-09-12T15:05:53Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Uganda's King Oyo buried amid calls for unity over his successor",
-      "summary": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
-      "url": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0e9/live/2565bff0-aecd-11f1-89e2-171455bb2760.png",
-      "publishedAt": "2026-09-12T16:55:31Z"
     },
     {
       "category": "Science & Tech",
@@ -140,10 +140,10 @@
       "category": "Science & Tech",
       "source": "BBC Technology",
       "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-      "summary": "Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in.",
+      "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
       "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f569/live/74e6aa80-af04-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-13T01:15:04Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09f1/live/aaa670e0-af38-11f1-a540-61c3f7fc4e6c.jpg",
+      "publishedAt": "2026-09-13T06:04:06Z"
     },
     {
       "category": "Science & Tech",
