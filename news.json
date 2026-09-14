@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-14T01:34:39.581329Z",
+  "updatedAt": "2026-09-14T07:00:23.237414Z",
   "stories": [
     {
       "category": "Local",
       "source": "Weather Underground",
       "title": "Grass Valley, CA Air Quality & Pollen - Weather Underground",
       "summary": "Grass Valley, CA Air Quality & Pollen Weather Underground",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ2NXNTJ2RTFBLUlObGxUYXZsN1ExOWYzcGdDeDhzWHBKSUladFVwMFJYazNNbHpVMUUzZ2lhQ2tMYTZQZmE0bERnbThKbDNCYy1jNS1TSkVGY2UycjFwU0RWTWZaVEprQl9Vd0N1ak8xNVg1RDhPMGcydmdfRlNQb2xHS25KWGQxM3ZVTGRERQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWF9WNjhsUHA3MzJqbmRDcXFjZ21JQzVuTVNqdFFhVDdGaFFDTk8tcFIxUmx5c2dEalh0eWhnbk5wWFR1TnQ3ejlLR2hRakFNMjV1dkMxWnlPZjZDcFNHWTNPbGtXeVlKUEhZcmZyQ3A4dlByNm1ETHN1aXZLWVVnTWNqU1UwZkUzWFBtc180MA?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-09-13T09:12:23Z"
+      "publishedAt": "2026-09-14T00:08:02Z"
     },
     {
       "category": "Local",
@@ -39,6 +39,15 @@
     },
     {
       "category": "Local",
+      "source": "nevadacountyca.gov",
+      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - nevadacountyca.gov",
+      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations nevadacountyca.gov",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-06-18T05:24:55Z"
+    },
+    {
+      "category": "Local",
       "source": "Sacramento Bee",
       "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - Sacramento Bee",
       "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order Sacramento Bee",
@@ -47,22 +56,13 @@
       "publishedAt": "2026-08-22T07:00:00Z"
     },
     {
-      "category": "Local",
-      "source": "Nevada County (.gov)",
-      "title": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley - Nevada County (.gov)",
-      "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley Nevada County (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTkFsa0k0UzMtWmEzSHFDcVFYWlBueEZrRGV5UWx1dW5Oa3hUWVp2VkZZQ3JLQmNQc0IwYzQyRFdva0UzZk5yUmVVeGVrRXZ0bzZoNzNpRTY3MzU0MjF5YUsxWDVDeHByYkE?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-23T06:08:45Z"
-    },
-    {
       "category": "World",
       "source": "BBC News",
       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+      "summary": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
       "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4d2/live/edf64150-af96-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-13T19:14:21Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/715d/live/e93baec0-afff-11f1-9713-5de61387c384.png",
+      "publishedAt": "2026-09-14T03:38:13Z"
     },
     {
       "category": "World",
@@ -85,11 +85,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Swedish party blocs tied after Sunday vote, projections say",
-      "summary": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority.",
+      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "summary": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
       "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7e0/live/f8b9f5b0-afa4-11f1-a27d-17e2480354ed.jpg",
-      "publishedAt": "2026-09-13T22:27:54Z"
+      "publishedAt": "2026-09-14T01:58:59Z"
     },
     {
       "category": "World",
