@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-09-13T23:28:49.059980Z",
+  "updatedAt": "2026-09-14T01:34:39.581329Z",
   "stories": [
+    {
+      "category": "Local",
+      "source": "Weather Underground",
+      "title": "Grass Valley, CA Air Quality & Pollen - Weather Underground",
+      "summary": "Grass Valley, CA Air Quality & Pollen Weather Underground",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ2NXNTJ2RTFBLUlObGxUYXZsN1ExOWYzcGdDeDhzWHBKSUladFVwMFJYazNNbHpVMUUzZ2lhQ2tMYTZQZmE0bERnbThKbDNCYy1jNS1TSkVGY2UycjFwU0RWTWZaVEprQl9Vd0N1ak8xNVg1RDhPMGcydmdfRlNQb2xHS25KWGQxM3ZVTGRERQ?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-09-13T09:12:23Z"
+    },
     {
       "category": "Local",
       "source": "KCRA",
@@ -40,20 +49,11 @@
     {
       "category": "Local",
       "source": "Nevada County (.gov)",
-      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - Nevada County (.gov)",
-      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations Nevada County (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
+      "title": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley - Nevada County (.gov)",
+      "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley Nevada County (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTkFsa0k0UzMtWmEzSHFDcVFYWlBueEZrRGV5UWx1dW5Oa3hUWVp2VkZZQ3JLQmNQc0IwYzQyRFdva0UzZk5yUmVVeGVrRXZ0bzZoNzNpRTY3MzU0MjF5YUsxWDVDeHByYkE?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-06-18T05:24:55Z"
-    },
-    {
-      "category": "Local",
-      "source": "Legacy obituary",
-      "title": "Vanessa Lackey Obituary (1977 - 2026) - Grass Valley, CA - The Union - Legacy obituary",
-      "summary": "Vanessa Lackey Obituary (1977 - 2026) - Grass Valley, CA - The Union Legacy obituary",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNlc5dWw3RFVmbTZ0ZUIyNmN0ZDZ6a3g4MnB4UkJJX0FISGJNb3NiYnVlT3NGbVZKbjM0R25KaTAxalg3VTRVTEotMnNSRUJvTlJkVldHUXpSZmxMQmt4Y2VIRkQ5MFhhdHF3Z0FPaUwyZkxpTDdyQXd6dFJkcWNxMGs0d2JZOU5IeUZkM1poSQ?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-26T07:00:00Z"
+      "publishedAt": "2026-08-23T06:08:45Z"
     },
     {
       "category": "World",
@@ -68,7 +68,7 @@
       "category": "World",
       "source": "BBC News",
       "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "summary": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
       "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05d0/live/2a71c0a0-af92-11f1-bc1f-3f186ca4140c.jpg",
       "publishedAt": "2026-09-13T18:49:37Z"
@@ -140,7 +140,7 @@
       "category": "Science & Tech",
       "source": "BBC Technology",
       "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "summary": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
       "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05d0/live/2a71c0a0-af92-11f1-bc1f-3f186ca4140c.jpg",
       "publishedAt": "2026-09-13T18:49:37Z"
