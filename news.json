@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-09-15T12:05:25.924263Z",
+  "updatedAt": "2026-09-15T16:51:35.111580Z",
   "stories": [
-    {
-      "category": "Local",
-      "source": "Legacy obituary",
-      "title": "Matthew Peterson Obituary (0982 - 2026) - Grass Valley, CA - The Union - Legacy obituary",
-      "summary": "Matthew Peterson Obituary (0982 - 2026) - Grass Valley, CA - The Union Legacy obituary",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdDA2RlZYYVA3VnRjTXE5ZzBYZ0o0QVlHb2txZS00ellyeTRRTUVVcVB4NFkwVVZkcG1leTFRQnkycEhSX2JTM2JWUjVkSFhxZm5EbXFaeUNmVTNOT204bDk1SDA1aWNodmRvOHJHcFF4WE90eF9mWmZRUGdRWXpra3l6aEhsYXN0TzVCYWF5N0RYdw?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-15T11:00:22Z"
-    },
     {
       "category": "Local",
       "source": "KCRA",
@@ -27,6 +18,15 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVy1Cd3lzazUxbWhsQk5KQmJDMC1CYUhQNXZPdExjOV9neXcwUUM4UXhTWnJ4dlhaZ1A5Um9XYUhYQ1diSFFEc01kdXJKZDlycmNPOTAzX2k1ZFFtRzhfYWhMZGJPWktyaUpTUWt4ZVZua3hXMEE1ZC1MaFhDTllIWFhrUVVxbFdDdm9oeXNSWDI?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-13T06:30:07Z"
+    },
+    {
+      "category": "Local",
+      "source": "Nevada County (.gov)",
+      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - Nevada County (.gov)",
+      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations Nevada County (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-06-18T05:24:55Z"
     },
     {
       "category": "Local",
@@ -48,30 +48,12 @@
     },
     {
       "category": "Local",
-      "source": "nevadacountyca.gov",
-      "title": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley - nevadacountyca.gov",
-      "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley nevadacountyca.gov",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTkFsa0k0UzMtWmEzSHFDcVFYWlBueEZrRGV5UWx1dW5Oa3hUWVp2VkZZQ3JLQmNQc0IwYzQyRFdva0UzZk5yUmVVeGVrRXZ0bzZoNzNpRTY3MzU0MjF5YUsxWDVDeHByYkE?oc=5",
+      "source": "YubaNet",
+      "title": "Happening Now – September 2026 - YubaNet",
+      "summary": "Happening Now – September 2026 YubaNet",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oc2pzcm0xTzFQM2FwTlpqMFNxN0J6M1VlejljMnQxaFVJT3g1ZXRRenpodE1hYnJMOXRtTXZtNzBka0g2dWJiSg?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-08-23T06:08:45Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-      "summary": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
-      "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38af/live/0a4981c0-b0fd-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-15T08:49:31Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "AI regulation faces political deadlock as calls grow for Congress to act",
-      "summary": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
-      "url": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc0/live/aa535ba0-b0a8-11f1-bc1f-3f186ca4140c.jpg",
-      "publishedAt": "2026-09-15T02:50:36Z"
+      "publishedAt": "2026-09-01T07:00:00Z"
     },
     {
       "category": "World",
@@ -85,11 +67,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-      "summary": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.",
-      "url": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e1b/live/15051b70-b0ed-11f1-a540-61c3f7fc4e6c.jpg",
-      "publishedAt": "2026-09-15T03:50:06Z"
+      "title": "What weapon could the US have put into space?",
+      "summary": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/501e/live/92c14ad0-b105-11f1-b1d1-571ed4d7ff2c.jpg",
+      "publishedAt": "2026-09-15T14:23:14Z"
     },
     {
       "category": "World",
@@ -97,17 +79,44 @@
       "title": "Suspected sabotage causes major Netherlands rail disruption",
       "summary": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
       "url": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda4/live/dbe5e120-b0de-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-15T11:55:36Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5666/live/b70fbd00-b109-11f1-a451-6b1ff10ed362.jpg",
+      "publishedAt": "2026-09-15T13:33:16Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "US confirms for first time it has deployed space weapons",
-      "summary": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.",
-      "url": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b47/live/b32fd7a0-b0f1-11f1-bc1f-3f186ca4140c.jpg",
-      "publishedAt": "2026-09-15T08:48:28Z"
+      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+      "summary": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
+      "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61f8/live/adf23e90-b0fb-11f1-a451-6b1ff10ed362.jpg",
+      "publishedAt": "2026-09-15T16:13:41Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+      "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
+      "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ff7/live/4d4e0d70-b110-11f1-8907-39a652c5e20e.jpg",
+      "publishedAt": "2026-09-15T15:31:34Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Canada is a 'safe harbour' for global finance, Carney says",
+      "summary": "The prime minister is hosting a major global investment summit, with the goal of attracting money into the country amid a trade war with the US.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4df/live/3ae50110-b107-11f1-a540-61c3f7fc4e6c.jpg",
+      "publishedAt": "2026-09-15T13:43:01Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "What weapon could the US have put into space?",
+      "summary": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/501e/live/92c14ad0-b105-11f1-b1d1-571ed4d7ff2c.jpg",
+      "publishedAt": "2026-09-15T14:23:14Z"
     },
     {
       "category": "Science & Tech",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c65ym93p73xmo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5137/live/e8988d50-b075-11f1-a905-bfcd9db6b414.jpg",
       "publishedAt": "2026-09-15T06:45:12Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Giant jellyfish with '40ft tentacles' captured on camera",
-      "summary": "Iestyn Morgan has set out to make Welsh aquatic life \"more accessible\" for people to see.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgynz9qz00o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1bb/live/84fac5b0-b052-11f1-89e4-0bbff5cb7e23.jpg",
-      "publishedAt": "2026-09-15T05:18:42Z"
     },
     {
       "category": "Science & Tech",
