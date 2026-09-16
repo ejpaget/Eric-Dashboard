@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T12:33:45.903323Z",
+  "updatedAt": "2026-09-16T17:15:19.250080Z",
   "stories": [
     {
       "category": "Local",
@@ -30,12 +30,21 @@
     },
     {
       "category": "Local",
-      "source": "MaxPreps",
-      "title": "Nevada Union High School (Grass Valley, CA) Football - MaxPreps",
-      "summary": "Nevada Union High School (Grass Valley, CA) Football MaxPreps",
+      "source": "maxpreps.com",
+      "title": "Nevada Union High School (Grass Valley, CA) Football - maxpreps.com",
+      "summary": "Nevada Union High School (Grass Valley, CA) Football maxpreps.com",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zX2VPSFNRdEFIN1pHdE9NRVJCVUJMYUh0ZnFQa0E3NU1Nam80OTlyUW1iNnMyUTBEY2Y3WGtiQ2hfbkFEOFNlVkYxb2VrVnktT3A5aGIwaWpWbGd1dUMyZnVpM0N0SWVlQXMtbkFnRnNlSWNtdjI2RFdR?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-12T07:00:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "YubaNet",
+      "title": "Happening Now – September 2026 - YubaNet",
+      "summary": "Happening Now – September 2026 YubaNet",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oc2pzcm0xTzFQM2FwTlpqMFNxN0J6M1VlejljMnQxaFVJT3g1ZXRRenpodE1hYnJMOXRtTXZtNzBka0g2dWJiSg?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-09-01T07:00:00Z"
     },
     {
       "category": "Local",
@@ -47,22 +56,31 @@
       "publishedAt": "2026-09-12T16:00:23Z"
     },
     {
-      "category": "Local",
-      "source": "ABC10",
-      "title": "Grass Valley police seek public help to identify Plaza Drive armed robbery suspects - ABC10",
-      "summary": "Grass Valley police seek public help to identify Plaza Drive armed robbery suspects ABC10",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOWFVwdXd0dkhHdkhJMWVCS09VSi1obTdOWDQySXBlM1QxbFctNVA0ZkY1cW96TlhUaEhWUHJGU3Z5cWliM1JaN2RfdVhyZzhrcFF2R0JUT1d6a0pPdW5zdnN4R09qa0F0Sk4wNWplRk9HQktUS2FUb3F0emtNUElZaHZKZWk1Mlpfa1BQTkFsQTFScmh0QV9nUTh5U1FxYUxTRVFnTVpKZHMwVVdXNWVTNlAyNTBwRUlKdUFaVmxEN1pRM2Nua1FfQnZNaGJRaXJ5TGJTVmN3RTRaODY5WjVWVXhRUWNUNnFqVHQ0NW9BVWcxS1BhWm40dmxMaDFUaTZDaHlV?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-05-07T07:00:00Z"
-    },
-    {
       "category": "World",
       "source": "BBC News",
       "title": "EU chief backs plan for Canada to become 'associate member'",
       "summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
       "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b431/live/3960b020-b1b9-11f1-bdcf-d393eb724fa3.jpg",
-      "publishedAt": "2026-09-16T10:59:53Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4305/live/f4857df0-b1cc-11f1-b1d1-571ed4d7ff2c.jpg",
+      "publishedAt": "2026-09-16T12:36:51Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "summary": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living.",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e43/live/ff225e50-b1b7-11f1-b1d1-571ed4d7ff2c.jpg",
+      "publishedAt": "2026-09-16T13:28:46Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
+      "summary": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\".",
+      "url": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acf1/live/aa52dd30-b1aa-11f1-8b77-cd7827f05bee.jpg",
+      "publishedAt": "2026-09-16T12:26:00Z"
     },
     {
       "category": "World",
@@ -76,29 +94,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-      "summary": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f8/live/3cfae5c0-b128-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-16T09:36:54Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "summary": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living.",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e43/live/ff225e50-b1b7-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-16T12:26:16Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-      "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
-      "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ff7/live/4d4e0d70-b110-11f1-8907-39a652c5e20e.jpg",
-      "publishedAt": "2026-09-15T20:34:12Z"
+      "title": "Eight German state premiers back Merz amid speculation over future",
+      "summary": "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend.",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f16/live/f8062b20-b1ca-11f1-b1d1-571ed4d7ff2c.jpg",
+      "publishedAt": "2026-09-16T14:50:26Z"
     },
     {
       "category": "World",
@@ -108,6 +108,15 @@
       "url": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01a1/live/6450ab70-b1a3-11f1-a430-4d16ee157c41.jpg",
       "publishedAt": "2026-09-16T08:36:17Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Part-human part-mouse brain developed in science breakthrough",
+      "summary": "Researchers at Stanford University genetically altered mice to be able to receive and function with human brain cells.",
+      "url": "https://www.bbc.co.uk/news/articles/c60m3k28j81mo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0701/live/5c142ed0-b1f0-11f1-bc1f-3f186ca4140c.jpg",
+      "publishedAt": "2026-09-16T15:53:27Z"
     },
     {
       "category": "Science & Tech",
@@ -129,12 +138,12 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "What weapon could the US have put into space?",
-      "summary": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/501e/live/92c14ad0-b105-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-15T14:23:14Z"
+      "source": "BBC Technology",
+      "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
+      "summary": "Mustafa Suleyman says he believes the AI giant is in effect teaching Claude it \"may be conscious\".",
+      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf81/live/b2088f70-b1d2-11f1-8493-1910d79d53eb.jpg",
+      "publishedAt": "2026-09-16T14:16:14Z"
     },
     {
       "category": "Science & Tech",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a00/live/07f248b0-b168-11f1-a1e1-ab09ccd44496.jpg",
       "publishedAt": "2026-09-15T23:27:17Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Pubs in England and Wales to allow digital ID apps to prove age",
-      "summary": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8927/live/27ccb940-b04b-11f1-89e4-0bbff5cb7e23.jpg",
-      "publishedAt": "2026-09-14T23:07:56Z"
     }
   ],
   "feedErrors": [
