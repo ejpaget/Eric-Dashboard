@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T20:23:54.587529Z",
+  "updatedAt": "2026-09-16T23:13:23.420128Z",
   "stories": [
     {
       "category": "Local",
@@ -9,15 +9,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSnV0c2lNaGh4QmpJcWtDVE1aeDhISmdxS0RyWGUzT2JzTi05Wi1fcVI2NDlvdkFEVkFqMWhxbVBpU19wWnkwYWxEOHV4dS1ETE1KYXZDYXJPd3VNNjBYUzRublRnYkpaVW95NUpKdEtFMDVrZDJfYzV3Tkc5alBIY1N2MTViQ2tPZzRkRnZFSzN0emNEa0E?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-06T07:00:00Z"
-    },
-    {
-      "category": "Local",
-      "source": "Nevada County, CA (.gov)",
-      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - Nevada County, CA (.gov)",
-      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations Nevada County, CA (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-06-18T05:24:55Z"
     },
     {
       "category": "Local",
@@ -48,21 +39,30 @@
     },
     {
       "category": "Local",
-      "source": "YubaNet",
-      "title": "Happening Now – September 2026 - YubaNet",
-      "summary": "Happening Now – September 2026 YubaNet",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oc2pzcm0xTzFQM2FwTlpqMFNxN0J6M1VlejljMnQxaFVJT3g1ZXRRenpodE1hYnJMOXRtTXZtNzBka0g2dWJiSg?oc=5",
+      "source": "Nevada County, CA (.gov)",
+      "title": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley - Nevada County, CA (.gov)",
+      "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley Nevada County, CA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTkFsa0k0UzMtWmEzSHFDcVFYWlBueEZrRGV5UWx1dW5Oa3hUWVp2VkZZQ3JLQmNQc0IwYzQyRFdva0UzZk5yUmVVeGVrRXZ0bzZoNzNpRTY3MzU0MjF5YUsxWDVDeHByYkE?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-09-01T07:00:00Z"
+      "publishedAt": "2026-08-23T06:08:45Z"
+    },
+    {
+      "category": "Local",
+      "source": "ABC10",
+      "title": "Why Flock cameras were reinstalled in Grass Valley after police suspended their use - ABC10",
+      "summary": "Why Flock cameras were reinstalled in Grass Valley after police suspended their use ABC10",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOVlhEN0xtby13aVBScF9JWjVwOEdPNVk1eVBrTzR5WHFsQTMyVTItaVdYUGpNNUxHeGxYcVYwSE4tNGoxeTZwM0ExWmlLRHpzNUdPckZJa3d2MGU5YWxsLTFDMTZFNG9UZy1Ya2ZJQlVZSTdmV1NPNFBMRVN3eE45QTBMbXVVLWxfOHpZd05tRjBOcEZvQk83Zmxra3Y1U1RzSVlRRmp3MnoyM3g0X0h0MjEtcTZYYXctaUw0LXEzNzZlaEFxZ1luSUVyMk05WUJHRWpIaGN6Y05LN2ZmYUlTVHIwYWh5M19JVWtfOXFoTGZsVFlZVWpEUFlzeS00X0lKNHk4Qw?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-09-08T07:00:00Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "EU chief backs plan for Canada to become 'associate member'",
-      "summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
-      "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4305/live/f4857df0-b1cc-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-16T12:36:51Z"
+      "title": "US interest rates raised for first time in three years",
+      "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4317/live/97f51f30-b214-11f1-95f2-19e1a2e8eef2.jpg",
+      "publishedAt": "2026-09-16T22:16:51Z"
     },
     {
       "category": "World",
@@ -76,6 +76,15 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "EU chief backs plan for Canada to become 'associate member'",
+      "summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+      "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4305/live/f4857df0-b1cc-11f1-b1d1-571ed4d7ff2c.jpg",
+      "publishedAt": "2026-09-16T12:36:51Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
       "summary": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
       "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
@@ -85,11 +94,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
-      "summary": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\".",
-      "url": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acf1/live/aa52dd30-b1aa-11f1-8b77-cd7827f05bee.jpg",
-      "publishedAt": "2026-09-16T12:26:00Z"
+      "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
+      "summary": "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender.",
+      "url": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a16/live/03313030-b202-11f1-a4a7-291ff3d1006b.jpg",
+      "publishedAt": "2026-09-16T19:59:57Z"
     },
     {
       "category": "World",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b490/live/dc850210-b1b4-11f1-b1d1-571ed4d7ff2c.jpg",
       "publishedAt": "2026-09-16T10:02:05Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Eight German state premiers back Merz amid speculation over future",
-      "summary": "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend.",
-      "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f16/live/f8062b20-b1ca-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-16T14:50:26Z"
     },
     {
       "category": "Science & Tech",
