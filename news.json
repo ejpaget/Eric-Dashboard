@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T17:15:19.250080Z",
+  "updatedAt": "2026-09-16T20:23:54.587529Z",
   "stories": [
     {
       "category": "Local",
@@ -12,15 +12,6 @@
     },
     {
       "category": "Local",
-      "source": "Weather Underground",
-      "title": "Grass Valley, CA Air Quality & Pollen - Weather Underground",
-      "summary": "Grass Valley, CA Air Quality & Pollen Weather Underground",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN0U5S1ljemotY1o1MUYxWi11UFNWZE1hb3NiVENTQzUycDdSWDBuZTBTYUkxTVFmWkVZR213Ui1EUlFYc202eDdNWHhQalZtZDM3WVlabFhKQ1VGMGMzN1k3ZlRmZUF5VUdkeEk3LUNPOThsam9RaFFLQlg4ZktSTnlwQS1LRDFPR0E?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-14T07:46:21Z"
-    },
-    {
-      "category": "Local",
       "source": "Nevada County, CA (.gov)",
       "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - Nevada County, CA (.gov)",
       "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations Nevada County, CA (.gov)",
@@ -30,21 +21,21 @@
     },
     {
       "category": "Local",
-      "source": "maxpreps.com",
-      "title": "Nevada Union High School (Grass Valley, CA) Football - maxpreps.com",
-      "summary": "Nevada Union High School (Grass Valley, CA) Football maxpreps.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zX2VPSFNRdEFIN1pHdE9NRVJCVUJMYUh0ZnFQa0E3NU1Nam80OTlyUW1iNnMyUTBEY2Y3WGtiQ2hfbkFEOFNlVkYxb2VrVnktT3A5aGIwaWpWbGd1dUMyZnVpM0N0SWVlQXMtbkFnRnNlSWNtdjI2RFdR?oc=5",
+      "source": "Weather Underground",
+      "title": "Grass Valley, CA Air Quality & Pollen - Weather Underground",
+      "summary": "Grass Valley, CA Air Quality & Pollen Weather Underground",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN0U5S1ljemotY1o1MUYxWi11UFNWZE1hb3NiVENTQzUycDdSWDBuZTBTYUkxTVFmWkVZR213Ui1EUlFYc202eDdNWHhQalZtZDM3WVlabFhKQ1VGMGMzN1k3ZlRmZUF5VUdkeEk3LUNPOThsam9RaFFLQlg4ZktSTnlwQS1LRDFPR0E?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-09-12T07:00:00Z"
+      "publishedAt": "2026-09-14T07:46:21Z"
     },
     {
       "category": "Local",
-      "source": "YubaNet",
-      "title": "Happening Now – September 2026 - YubaNet",
-      "summary": "Happening Now – September 2026 YubaNet",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oc2pzcm0xTzFQM2FwTlpqMFNxN0J6M1VlejljMnQxaFVJT3g1ZXRRenpodE1hYnJMOXRtTXZtNzBka0g2dWJiSg?oc=5",
+      "source": "MaxPreps",
+      "title": "Nevada Union High School (Grass Valley, CA) Football - MaxPreps",
+      "summary": "Nevada Union High School (Grass Valley, CA) Football MaxPreps",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zX2VPSFNRdEFIN1pHdE9NRVJCVUJMYUh0ZnFQa0E3NU1Nam80OTlyUW1iNnMyUTBEY2Y3WGtiQ2hfbkFEOFNlVkYxb2VrVnktT3A5aGIwaWpWbGd1dUMyZnVpM0N0SWVlQXMtbkFnRnNlSWNtdjI2RFdR?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-09-01T07:00:00Z"
+      "publishedAt": "2026-09-12T07:00:00Z"
     },
     {
       "category": "Local",
@@ -54,6 +45,15 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEUzdzFpNHE2cDRrOURPTnRua0R3X0VhZkktdlpKRFdmQWI3SUtfSkhUanNtZ0RuWWhMa2kxZmpiczVRVXhmTzJlcXpKWHJTMDhGRll0U1g0MEdIYkhGX21FOWRUWHdoU1lwUFRLSjkyVnFTZXFON045eUpwRHU4M3lsOFhqNUlkZW1DaGhJakF1TXRtTmNORUdfeFB3Ulg1aXZ5anNJRQ?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-12T16:00:23Z"
+    },
+    {
+      "category": "Local",
+      "source": "YubaNet",
+      "title": "Happening Now – September 2026 - YubaNet",
+      "summary": "Happening Now – September 2026 YubaNet",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oc2pzcm0xTzFQM2FwTlpqMFNxN0J6M1VlejljMnQxaFVJT3g1ZXRRenpodE1hYnJMOXRtTXZtNzBka0g2dWJiSg?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-09-01T07:00:00Z"
     },
     {
       "category": "World",
@@ -67,11 +67,20 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Photos show widespread damage at US sites from Iranian attacks",
+      "summary": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
+      "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/506d/live/98661900-b1de-11f1-a430-4d16ee157c41.jpg",
+      "publishedAt": "2026-09-16T18:36:16Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "summary": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living.",
+      "summary": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
       "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e43/live/ff225e50-b1b7-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-16T13:28:46Z"
+      "publishedAt": "2026-09-16T17:16:47Z"
     },
     {
       "category": "World",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f16/live/f8062b20-b1ca-11f1-b1d1-571ed4d7ff2c.jpg",
       "publishedAt": "2026-09-16T14:50:26Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-      "summary": "The Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a \"disgraceful act\".",
-      "url": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01a1/live/6450ab70-b1a3-11f1-a430-4d16ee157c41.jpg",
-      "publishedAt": "2026-09-16T08:36:17Z"
     },
     {
       "category": "Science & Tech",
