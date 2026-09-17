@@ -1,11 +1,20 @@
 {
-  "updatedAt": "2026-09-17T20:14:01.175511Z",
+  "updatedAt": "2026-09-17T23:03:13.041061Z",
   "stories": [
     {
       "category": "Local",
-      "source": "kcra.com",
-      "title": "Grass Valley police remove re-installed Flock cameras after end of contract - kcra.com",
-      "summary": "Grass Valley police remove re-installed Flock cameras after end of contract kcra.com",
+      "source": "TheUnion.com",
+      "title": "Local business owner and parent announces candidacy for Grass Valley School District Board - TheUnion.com",
+      "summary": "Local business owner and parent announces candidacy for Grass Valley School District Board TheUnion.com",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcmIxOGQ5eWFPWlNwcUdXczVOa1F6YWNITUIwTHd2dWVudmRDdkxyZXpQYWkwdFlJNHJ3cFk2SlhvdWprM3lYQjRIM3QzOXI5M0Z1MVRIMlBhR1BYR1VYUERTbHlucjV1LTBFYzhPVzQwYlFpaUM1Q2JiTHlYUDRiMGJUMEVwNWNQVDZZMnpaaF9XZlZydHBYS2VzN2ljOUVFWTI3SG9jdEFLYzlVa2toVldQaHVVbkR3YjZoTWR6N0FkekhSek1DV2hUZ3RsR01OdDF5VE1LQ3VoMHlOLWZpQWU0T3FfbHh6X3p3RTJ6dXZMLTJsSEwybDdMY1M5MGc?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-09-17T09:15:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "KCRA",
+      "title": "Grass Valley police remove re-installed Flock cameras after end of contract - KCRA",
+      "summary": "Grass Valley police remove re-installed Flock cameras after end of contract KCRA",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSnV0c2lNaGh4QmpJcWtDVE1aeDhISmdxS0RyWGUzT2JzTi05Wi1fcVI2NDlvdkFEVkFqMWhxbVBpU19wWnkwYWxEOHV4dS1ETE1KYXZDYXJPd3VNNjBYUzRublRnYkpaVW95NUpKdEtFMDVrZDJfYzV3Tkc5alBIY1N2MTViQ2tPZzRkRnZFSzN0emNEa0E?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-06T07:00:00Z"
@@ -30,15 +39,6 @@
     },
     {
       "category": "Local",
-      "source": "smdp.com",
-      "title": "California's Later School Start Times Law Getting High Marks - smdp.com",
-      "summary": "California's Later School Start Times Law Getting High Marks smdp.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEUzdzFpNHE2cDRrOURPTnRua0R3X0VhZkktdlpKRFdmQWI3SUtfSkhUanNtZ0RuWWhMa2kxZmpiczVRVXhmTzJlcXpKWHJTMDhGRll0U1g0MEdIYkhGX21FOWRUWHdoU1lwUFRLSjkyVnFTZXFON045eUpwRHU4M3lsOFhqNUlkZW1DaGhJakF1TXRtTmNORUdfeFB3Ulg1aXZ5anNJRQ?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-12T16:00:23Z"
-    },
-    {
-      "category": "Local",
       "source": "YubaNet",
       "title": "Grass Valley and Nevada City Celebrate America’s 250th with a Hometown Celebration for Every Generation - YubaNet",
       "summary": "Grass Valley and Nevada City Celebrate America’s 250th with a Hometown Celebration for Every Generation YubaNet",
@@ -48,9 +48,9 @@
     },
     {
       "category": "Local",
-      "source": "ABC10",
-      "title": "Clover Fire in Nevada County | Updates, Evacuations, and Maps - ABC10",
-      "summary": "Clover Fire in Nevada County | Updates, Evacuations, and Maps ABC10",
+      "source": "abc10.com",
+      "title": "Clover Fire in Nevada County | Updates, Evacuations, and Maps - abc10.com",
+      "summary": "Clover Fire in Nevada County | Updates, Evacuations, and Maps abc10.com",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeHNrVXJQQ2RGbldMeW1nQmluOVBLVkNhdUNFdkNabmFaN0l2bGs5UWVacTNWT3oxWXJSMENHWGt5OUNEakdnczVoN1U4VGhXY1BJQ0ltN3B0Q29kNElaeUYxRGs2NGV0VXZGX1dDaUhOa29yQVdaWHJGRE9TU3M0UHZBNTlSQjI0c0luT2ZndDdmRG90ajg3azlNZzVwQV82endFTXR5RHF6MFl6QUxIX2xqbkZ3ZVREdmxCNGFVLWxtMWFBdkpEb0JNTlVwVVh5SWRfWVJTV2VndzZVYlJNZlpR?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-21T07:00:00Z"
@@ -80,16 +80,16 @@
       "summary": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
       "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f29/live/f45ca2b0-b29c-11f1-bc1f-3f186ca4140c.jpg",
-      "publishedAt": "2026-09-17T15:07:47Z"
+      "publishedAt": "2026-09-17T20:34:30Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Hyrox athlete apologises for continuing race after soiling herself",
-      "summary": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
-      "url": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae40/live/65f662f0-b2a5-11f1-bd7d-0f16235ccc4c.jpg",
-      "publishedAt": "2026-09-17T15:05:13Z"
+      "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+      "summary": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e890/live/25bea680-b2cc-11f1-aa00-7947ea0dbeab.jpg",
+      "publishedAt": "2026-09-17T21:41:19Z"
     },
     {
       "category": "World",
@@ -103,11 +103,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
-      "summary": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
-      "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f662/live/68ede5c0-b25d-11f1-bc1f-3f186ca4140c.jpg",
-      "publishedAt": "2026-09-17T05:00:18Z"
+      "title": "Hyrox athlete apologises for continuing race after soiling herself",
+      "summary": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
+      "url": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae40/live/65f662f0-b2a5-11f1-bd7d-0f16235ccc4c.jpg",
+      "publishedAt": "2026-09-17T15:05:13Z"
     },
     {
       "category": "Science & Tech",
@@ -139,6 +139,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
+      "title": "The virtual worlds where robots are trained",
+      "summary": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
+      "url": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4861/live/2c408c40-a786-11f1-b2d5-535b3b3d379f.jpg",
+      "publishedAt": "2026-09-17T23:00:47Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
       "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
       "summary": "The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic.",
       "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2b6/live/889402c0-b036-11f1-9ae0-e316eeb4632d.jpg",
       "publishedAt": "2026-09-17T09:18:57Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-      "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4c4/live/26db17d0-b270-11f1-a430-4d16ee157c41.jpg",
-      "publishedAt": "2026-09-17T08:22:12Z"
     }
   ],
   "feedErrors": [
