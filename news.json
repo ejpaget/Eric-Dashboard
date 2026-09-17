@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T01:39:32.484655Z",
+  "updatedAt": "2026-09-17T06:38:11.358569Z",
   "stories": [
     {
       "category": "Local",
@@ -9,6 +9,15 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSnV0c2lNaGh4QmpJcWtDVE1aeDhISmdxS0RyWGUzT2JzTi05Wi1fcVI2NDlvdkFEVkFqMWhxbVBpU19wWnkwYWxEOHV4dS1ETE1KYXZDYXJPd3VNNjBYUzRublRnYkpaVW95NUpKdEtFMDVrZDJfYzV3Tkc5alBIY1N2MTViQ2tPZzRkRnZFSzN0emNEa0E?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-06T07:00:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "nevadacountyca.gov",
+      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - nevadacountyca.gov",
+      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations nevadacountyca.gov",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-06-18T05:24:55Z"
     },
     {
       "category": "Local",
@@ -39,21 +48,21 @@
     },
     {
       "category": "Local",
-      "source": "Nevada County, CA (.gov)",
-      "title": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley - Nevada County, CA (.gov)",
-      "summary": "County-Funded Habitat for Humanity House Completed on Ventana Sierra Drive in Grass Valley Nevada County, CA (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTkFsa0k0UzMtWmEzSHFDcVFYWlBueEZrRGV5UWx1dW5Oa3hUWVp2VkZZQ3JLQmNQc0IwYzQyRFdva0UzZk5yUmVVeGVrRXZ0bzZoNzNpRTY3MzU0MjF5YUsxWDVDeHByYkE?oc=5",
+      "source": "ABC10",
+      "title": "Grass Valley police seek public help to identify Plaza Drive armed robbery suspects - ABC10",
+      "summary": "Grass Valley police seek public help to identify Plaza Drive armed robbery suspects ABC10",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOWFVwdXd0dkhHdkhJMWVCS09VSi1obTdOWDQySXBlM1QxbFctNVA0ZkY1cW96TlhUaEhWUHJGU3Z5cWliM1JaN2RfdVhyZzhrcFF2R0JUT1d6a0pPdW5zdnN4R09qa0F0Sk4wNWplRk9HQktUS2FUb3F0emtNUElZaHZKZWk1Mlpfa1BQTkFsQTFScmh0QV9nUTh5U1FxYUxTRVFnTVpKZHMwVVdXNWVTNlAyNTBwRUlKdUFaVmxEN1pRM2Nua1FfQnZNaGJRaXJ5TGJTVmN3RTRaODY5WjVWVXhRUWNUNnFqVHQ0NW9BVWcxS1BhWm40dmxMaDFUaTZDaHlV?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-08-23T06:08:45Z"
+      "publishedAt": "2026-05-07T07:00:00Z"
     },
     {
-      "category": "Local",
-      "source": "ABC10",
-      "title": "Why Flock cameras were reinstalled in Grass Valley after police suspended their use - ABC10",
-      "summary": "Why Flock cameras were reinstalled in Grass Valley after police suspended their use ABC10",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOVlhEN0xtby13aVBScF9JWjVwOEdPNVk1eVBrTzR5WHFsQTMyVTItaVdYUGpNNUxHeGxYcVYwSE4tNGoxeTZwM0ExWmlLRHpzNUdPckZJa3d2MGU5YWxsLTFDMTZFNG9UZy1Ya2ZJQlVZSTdmV1NPNFBMRVN3eE45QTBMbXVVLWxfOHpZd05tRjBOcEZvQk83Zmxra3Y1U1RzSVlRRmp3MnoyM3g0X0h0MjEtcTZYYXctaUw0LXEzNzZlaEFxZ1luSUVyMk05WUJHRWpIaGN6Y05LN2ZmYUlTVHIwYWh5M19JVWtfOXFoTGZsVFlZVWpEUFlzeS00X0lKNHk4Qw?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-08T07:00:00Z"
+      "category": "World",
+      "source": "BBC News",
+      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+      "summary": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
+      "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f662/live/68ede5c0-b25d-11f1-bc1f-3f186ca4140c.jpg",
+      "publishedAt": "2026-09-17T05:00:18Z"
     },
     {
       "category": "World",
@@ -67,11 +76,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
-      "summary": "Evan Speigel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+      "title": "Snapchat open to putting time limits on teens, boss tells BBC",
+      "summary": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
       "url": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f10f/live/321a5e10-b22c-11f1-a430-4d16ee157c41.jpg",
       "publishedAt": "2026-09-16T23:41:57Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
+      "summary": "There is no doubt over the outcome of this vote, but for the Kremlin they are still an important moment.",
+      "url": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/609d/live/48839ac0-b1d9-11f1-bc1f-3f186ca4140c.png",
+      "publishedAt": "2026-09-17T05:00:36Z"
     },
     {
       "category": "World",
@@ -92,22 +110,13 @@
       "publishedAt": "2026-09-17T00:32:05Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
-      "summary": "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender.",
-      "url": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a16/live/03313030-b202-11f1-a4a7-291ff3d1006b.jpg",
-      "publishedAt": "2026-09-16T19:59:57Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "summary": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e43/live/ff225e50-b1b7-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-16T17:16:47Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "'The choir was a great lifter when the fields fell silent'",
+      "summary": "Dairy farmer Mervyn Kelso struggled with the sadness of the empty fields when he lost his entire herd to bovine TB.",
+      "url": "https://www.bbc.co.uk/news/articles/c58jd32wgwk4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae17/live/f0d34c60-b1c1-11f1-bdcf-d393eb724fa3.jpg",
+      "publishedAt": "2026-09-17T05:43:03Z"
     },
     {
       "category": "Science & Tech",
@@ -129,39 +138,30 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
-      "summary": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies.",
-      "url": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af1f/live/e6dc9eb0-b134-11f1-a430-4d16ee157c41.jpg",
-      "publishedAt": "2026-09-16T00:05:51Z"
+      "source": "BBC Technology",
+      "title": "Tech treating AI like humans is mistaken and misguided, Microsoft boss tells BBC",
+      "summary": "Mustafa Suleyman says he believes the AI giant is in effect teaching Claude it \"may be conscious\".",
+      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77d3/live/116815e0-b25e-11f1-81c2-17e97ccb67a1.jpg",
+      "publishedAt": "2026-09-17T06:30:40Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
-      "summary": "Evan Speigel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+      "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
+      "summary": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
+      "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a25/live/9ebbb350-b238-11f1-9f5d-fbda72f7de0b.jpg",
+      "publishedAt": "2026-09-17T03:09:21Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
+      "title": "Snapchat open to putting time limits on teens, boss tells BBC",
+      "summary": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
       "url": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f10f/live/321a5e10-b22c-11f1-a430-4d16ee157c41.jpg",
       "publishedAt": "2026-09-16T23:41:57Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Would you buy branded clothing from your favourite tech firm?",
-      "summary": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines",
-      "url": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14e5/live/9ccd08c0-a76e-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-09-16T23:18:47Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-      "summary": "Mustafa Suleyman says he believes the AI giant is in effect teaching Claude it \"may be conscious\".",
-      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf81/live/b2088f70-b1d2-11f1-8493-1910d79d53eb.jpg",
-      "publishedAt": "2026-09-16T14:16:14Z"
     }
   ],
   "feedErrors": [
