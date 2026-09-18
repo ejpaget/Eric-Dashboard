@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-09-18T01:14:03.167844Z",
+  "updatedAt": "2026-09-18T06:35:46.238683Z",
   "stories": [
-    {
-      "category": "Local",
-      "source": "TheUnion.com",
-      "title": "Local business owner and parent announces candidacy for Grass Valley School District Board - TheUnion.com",
-      "summary": "Local business owner and parent announces candidacy for Grass Valley School District Board TheUnion.com",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcmIxOGQ5eWFPWlNwcUdXczVOa1F6YWNITUIwTHd2dWVudmRDdkxyZXpQYWkwdFlJNHJ3cFk2SlhvdWprM3lYQjRIM3QzOXI5M0Z1MVRIMlBhR1BYR1VYUERTbHlucjV1LTBFYzhPVzQwYlFpaUM1Q2JiTHlYUDRiMGJUMEVwNWNQVDZZMnpaaF9XZlZydHBYS2VzN2ljOUVFWTI3SG9jdEFLYzlVa2toVldQaHVVbkR3YjZoTWR6N0FkekhSek1DV2hUZ3RsR01OdDF5VE1LQ3VoMHlOLWZpQWU0T3FfbHh6X3p3RTJ6dXZMLTJsSEwybDdMY1M5MGc?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-17T09:15:00Z"
-    },
     {
       "category": "Local",
       "source": "KCRA",
@@ -18,6 +9,15 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSnV0c2lNaGh4QmpJcWtDVE1aeDhISmdxS0RyWGUzT2JzTi05Wi1fcVI2NDlvdkFEVkFqMWhxbVBpU19wWnkwYWxEOHV4dS1ETE1KYXZDYXJPd3VNNjBYUzRublRnYkpaVW95NUpKdEtFMDVrZDJfYzV3Tkc5alBIY1N2MTViQ2tPZzRkRnZFSzN0emNEa0E?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-06T07:00:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "TheUnion.com",
+      "title": "Local business owner and parent announces candidacy for Grass Valley School District Board - TheUnion.com",
+      "summary": "Local business owner and parent announces candidacy for Grass Valley School District Board TheUnion.com",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcmIxOGQ5eWFPWlNwcUdXczVOa1F6YWNITUIwTHd2dWVudmRDdkxyZXpQYWkwdFlJNHJ3cFk2SlhvdWprM3lYQjRIM3QzOXI5M0Z1MVRIMlBhR1BYR1VYUERTbHlucjV1LTBFYzhPVzQwYlFpaUM1Q2JiTHlYUDRiMGJUMEVwNWNQVDZZMnpaaF9XZlZydHBYS2VzN2ljOUVFWTI3SG9jdEFLYzlVa2toVldQaHVVbkR3YjZoTWR6N0FkekhSek1DV2hUZ3RsR01OdDF5VE1LQ3VoMHlOLWZpQWU0T3FfbHh6X3p3RTJ6dXZMLTJsSEwybDdMY1M5MGc?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-09-17T09:15:00Z"
     },
     {
       "category": "Local",
@@ -48,12 +48,12 @@
     },
     {
       "category": "Local",
-      "source": "ABC10",
-      "title": "Clover Fire in Nevada County | Updates, Evacuations, and Maps - ABC10",
-      "summary": "Clover Fire in Nevada County | Updates, Evacuations, and Maps ABC10",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeHNrVXJQQ2RGbldMeW1nQmluOVBLVkNhdUNFdkNabmFaN0l2bGs5UWVacTNWT3oxWXJSMENHWGt5OUNEakdnczVoN1U4VGhXY1BJQ0ltN3B0Q29kNElaeUYxRGs2NGV0VXZGX1dDaUhOa29yQVdaWHJGRE9TU3M0UHZBNTlSQjI0c0luT2ZndDdmRG90ajg3azlNZzVwQV82endFTXR5RHF6MFl6QUxIX2xqbkZ3ZVREdmxCNGFVLWxtMWFBdkpEb0JNTlVwVVh5SWRfWVJTV2VndzZVYlJNZlpR?oc=5",
+      "source": "MaxPreps",
+      "title": "Nevada Union High School (Grass Valley, CA) Football - MaxPreps",
+      "summary": "Nevada Union High School (Grass Valley, CA) Football MaxPreps",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zX2VPSFNRdEFIN1pHdE9NRVJCVUJMYUh0ZnFQa0E3NU1Nam80OTlyUW1iNnMyUTBEY2Y3WGtiQ2hfbkFEOFNlVkYxb2VrVnktT3A5aGIwaWpWbGd1dUMyZnVpM0N0SWVlQXMtbkFnRnNlSWNtdjI2RFdR?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-08-21T07:00:00Z"
+      "publishedAt": "2026-09-12T07:00:00Z"
     },
     {
       "category": "World",
@@ -112,10 +112,19 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "See tiny organisms on show in microscopic video competition",
+      "summary": "The winning video features tiny hair-like structures, called cilia, in the airways of a child with a rare genetic disease.",
+      "url": "https://www.bbc.co.uk/news/videos/cr209jz45vn4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dca/live/8e772c30-b301-11f1-a430-4d16ee157c41.jpg",
+      "publishedAt": "2026-09-18T01:41:14Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "New wild cat species discovered - with only one known living member",
       "summary": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
       "url": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f924/live/5c6733f0-b2b8-11f1-ad9d-efc12ace03e0.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a757/live/32801fb0-b327-11f1-a430-4d16ee157c41.jpg",
       "publishedAt": "2026-09-17T23:15:55Z"
     },
     {
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c620lz12d1l7o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d29/live/76eff0e0-b29a-11f1-a430-4d16ee157c41.png",
       "publishedAt": "2026-09-17T16:14:40Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Nepal to use new flood study to claim millions from UN climate disaster fund",
-      "summary": "A new study says climate change was a likely factor in the massive flood on the Nepal-Tibet border last month.",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyrzve5pwzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7364/live/ed40ce00-b249-11f1-a45e-d7e94b0e7f98.jpg",
-      "publishedAt": "2026-09-17T10:31:35Z"
     },
     {
       "category": "Science & Tech",
