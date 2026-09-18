@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T23:03:13.041061Z",
+  "updatedAt": "2026-09-18T01:14:03.167844Z",
   "stories": [
     {
       "category": "Local",
@@ -48,9 +48,9 @@
     },
     {
       "category": "Local",
-      "source": "abc10.com",
-      "title": "Clover Fire in Nevada County | Updates, Evacuations, and Maps - abc10.com",
-      "summary": "Clover Fire in Nevada County | Updates, Evacuations, and Maps abc10.com",
+      "source": "ABC10",
+      "title": "Clover Fire in Nevada County | Updates, Evacuations, and Maps - ABC10",
+      "summary": "Clover Fire in Nevada County | Updates, Evacuations, and Maps ABC10",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeHNrVXJQQ2RGbldMeW1nQmluOVBLVkNhdUNFdkNabmFaN0l2bGs5UWVacTNWT3oxWXJSMENHWGt5OUNEakdnczVoN1U4VGhXY1BJQ0ltN3B0Q29kNElaeUYxRGs2NGV0VXZGX1dDaUhOa29yQVdaWHJGRE9TU3M0UHZBNTlSQjI0c0luT2ZndDdmRG90ajg3azlNZzVwQV82endFTXR5RHF6MFl6QUxIX2xqbkZ3ZVREdmxCNGFVLWxtMWFBdkpEb0JNTlVwVVh5SWRfWVJTV2VndzZVYlJNZlpR?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-21T07:00:00Z"
@@ -112,6 +112,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "New wild cat species discovered - with only one known living member",
+      "summary": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f924/live/5c6733f0-b2b8-11f1-ad9d-efc12ace03e0.jpg",
+      "publishedAt": "2026-09-17T23:15:55Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "Repeat offender fined for searching for gold in protected river",
       "summary": "Brian Wright, 68, from Henley-upon-Thames, was caught gold panning on a protected river in north Wales.",
       "url": "https://www.bbc.co.uk/news/articles/c620lz12d1l7o?at_medium=RSS&at_campaign=rss",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cmlyrzve5pwzo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7364/live/ed40ce00-b249-11f1-a45e-d7e94b0e7f98.jpg",
       "publishedAt": "2026-09-17T10:31:35Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "The farmer who turned to singing after bovine TB silenced his fields",
-      "summary": "Dairy farmer Mervyn Kelso struggled with the sadness of the empty fields when he lost his entire herd to bovine TB.",
-      "url": "https://www.bbc.co.uk/news/articles/c58jd32wgwk4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae17/live/f0d34c60-b1c1-11f1-bdcf-d393eb724fa3.jpg",
-      "publishedAt": "2026-09-17T10:01:43Z"
     },
     {
       "category": "Science & Tech",
