@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T20:33:02.542685Z",
+  "updatedAt": "2026-09-19T22:28:00.087112Z",
   "stories": [
     {
       "category": "Local",
@@ -21,9 +21,9 @@
     },
     {
       "category": "Local",
-      "source": "yubanet.com",
-      "title": "Happening Now – September 2026 - yubanet.com",
-      "summary": "Happening Now – September 2026 yubanet.com",
+      "source": "YubaNet",
+      "title": "Happening Now – September 2026 - YubaNet",
+      "summary": "Happening Now – September 2026 YubaNet",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oc2pzcm0xTzFQM2FwTlpqMFNxN0J6M1VlejljMnQxaFVJT3g1ZXRRenpodE1hYnJMOXRtTXZtNzBka0g2dWJiSg?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-01T07:00:00Z"
@@ -39,9 +39,9 @@
     },
     {
       "category": "Local",
-      "source": "ABC10",
-      "title": "Grass Valley police seek public help to identify Plaza Drive armed robbery suspects - ABC10",
-      "summary": "Grass Valley police seek public help to identify Plaza Drive armed robbery suspects ABC10",
+      "source": "abc10.com",
+      "title": "Grass Valley police seek public help to identify Plaza Drive armed robbery suspects - abc10.com",
+      "summary": "Grass Valley police seek public help to identify Plaza Drive armed robbery suspects abc10.com",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOWFVwdXd0dkhHdkhJMWVCS09VSi1obTdOWDQySXBlM1QxbFctNVA0ZkY1cW96TlhUaEhWUHJGU3Z5cWliM1JaN2RfdVhyZzhrcFF2R0JUT1d6a0pPdW5zdnN4R09qa0F0Sk4wNWplRk9HQktUS2FUb3F0emtNUElZaHZKZWk1Mlpfa1BQTkFsQTFScmh0QV9nUTh5U1FxYUxTRVFnTVpKZHMwVVdXNWVTNlAyNTBwRUlKdUFaVmxEN1pRM2Nua1FfQnZNaGJRaXJ5TGJTVmN3RTRaODY5WjVWVXhRUWNUNnFqVHQ0NW9BVWcxS1BhWm40dmxMaDFUaTZDaHlV?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-05-07T07:00:00Z"
@@ -68,7 +68,7 @@
       "category": "World",
       "source": "BBC News",
       "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as conflict between Saudi Arabia and the Yemen-based group continues.",
+      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
       "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39c5/live/a0844fe0-b45d-11f1-b213-1db858c3e27c.jpg",
       "publishedAt": "2026-09-19T20:16:07Z"
@@ -94,6 +94,15 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg",
+      "publishedAt": "2026-09-19T21:01:56Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Google's Gemini AI hacked three companies in security test",
       "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
       "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
@@ -101,13 +110,13 @@
       "publishedAt": "2026-09-19T13:39:32Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Trump signs sweeping Russia sanctions bill",
-      "summary": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/402a/live/1f49c870-b3f3-11f1-a710-1de24a8819a3.jpg",
-      "publishedAt": "2026-09-18T22:05:47Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg",
+      "publishedAt": "2026-09-19T21:01:56Z"
     },
     {
       "category": "Science & Tech",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cke87n51563po?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae7c/live/e294bb70-b35b-11f1-b949-71f91f81d1ab.jpg",
       "publishedAt": "2026-09-18T12:01:08Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "See tiny organisms on show in microscopic video competition",
-      "summary": "The winning video features tiny hair-like structures, called cilia, in the airways of a child with a rare genetic disease.",
-      "url": "https://www.bbc.co.uk/news/videos/cr209jz45vn4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dca/live/8e772c30-b301-11f1-a430-4d16ee157c41.jpg",
-      "publishedAt": "2026-09-18T01:41:14Z"
     },
     {
       "category": "Science & Tech",
