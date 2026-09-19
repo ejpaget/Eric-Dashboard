@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T01:32:17.313467Z",
+  "updatedAt": "2026-09-19T06:33:12.019121Z",
   "stories": [
     {
       "category": "Local",
@@ -59,10 +59,37 @@
       "category": "World",
       "source": "BBC News",
       "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-      "summary": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+      "summary": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials.",
       "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1d9/live/919d1120-b3ad-11f1-baa2-f576e6b1431d.jpg",
       "publishedAt": "2026-09-18T22:58:55Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Trump says he is banning CNN and Politico from White House",
+      "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5034/live/0c472f40-b3aa-11f1-a7fa-c95bcf5935e4.jpg",
+      "publishedAt": "2026-09-19T05:36:36Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754e/live/31c59420-b3e9-11f1-9fb5-25be39d7a18e.jpg",
+      "publishedAt": "2026-09-19T04:27:11Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Trump signs sweeping Russia sanctions bill",
+      "summary": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/402a/live/1f49c870-b3f3-11f1-a710-1de24a8819a3.jpg",
+      "publishedAt": "2026-09-18T22:05:47Z"
     },
     {
       "category": "World",
@@ -76,38 +103,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Trump says he is banning CNN and Politico from White House",
-      "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
-      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5034/live/0c472f40-b3aa-11f1-a7fa-c95bcf5935e4.jpg",
-      "publishedAt": "2026-09-18T23:26:48Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
-      "summary": "Records in 2024 show the venue had a surplus of millions of dollars once contributions and grants had been factored in.",
-      "url": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1c2/live/d8cd31d0-b383-11f1-a430-4d16ee157c41.png",
-      "publishedAt": "2026-09-18T18:56:17Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-      "summary": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
-      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/629b/live/fef4ee20-b356-11f1-bc1f-3f186ca4140c.jpg",
-      "publishedAt": "2026-09-18T20:17:50Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
-      "summary": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
-      "url": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bd9/live/4ffadb90-b34d-11f1-b949-71f91f81d1ab.jpg",
-      "publishedAt": "2026-09-18T11:49:46Z"
+      "title": "Grim discoveries of murdered women spark fear in South Africa",
+      "summary": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+      "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33a2/live/be22b180-b3a0-11f1-a430-4d16ee157c41.jpg",
+      "publishedAt": "2026-09-18T23:04:41Z"
     },
     {
       "category": "Science & Tech",
@@ -115,7 +115,7 @@
       "title": "When a beloved tree began withering away, locals suspected a killer in their midst",
       "summary": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe.",
       "url": "https://www.bbc.co.uk/news/articles/cw5yl228lvzlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bfd/live/f534ea20-b374-11f1-b1d1-571ed4d7ff2c.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26db/live/09fc8080-b3ed-11f1-8f87-95bf134da57f.jpg",
       "publishedAt": "2026-09-18T22:03:40Z"
     },
     {
@@ -139,6 +139,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754e/live/31c59420-b3e9-11f1-9fb5-25be39d7a18e.jpg",
+      "publishedAt": "2026-09-19T04:27:11Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
       "title": "Would Australians support a smart glasses ban?",
       "summary": "As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.",
       "url": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4861/live/2c408c40-a786-11f1-b2d5-535b3b3d379f.jpg",
       "publishedAt": "2026-09-17T23:00:47Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
-      "summary": "The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic.",
-      "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0503/live/89db5860-b2be-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-17T14:33:12Z"
     }
   ],
   "feedErrors": [
