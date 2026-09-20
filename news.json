@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T22:28:00.087112Z",
+  "updatedAt": "2026-09-20T00:20:57.622916Z",
   "stories": [
     {
       "category": "Local",
@@ -21,15 +21,6 @@
     },
     {
       "category": "Local",
-      "source": "YubaNet",
-      "title": "Happening Now – September 2026 - YubaNet",
-      "summary": "Happening Now – September 2026 YubaNet",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oc2pzcm0xTzFQM2FwTlpqMFNxN0J6M1VlejljMnQxaFVJT3g1ZXRRenpodE1hYnJMOXRtTXZtNzBka0g2dWJiSg?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-01T07:00:00Z"
-    },
-    {
-      "category": "Local",
       "source": "Sacramento Bee",
       "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - Sacramento Bee",
       "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order Sacramento Bee",
@@ -48,6 +39,15 @@
     },
     {
       "category": "Local",
+      "source": "YubaNet",
+      "title": "Grass Valley and Nevada City Celebrate America’s 250th with a Hometown Celebration for Every Generation - YubaNet",
+      "summary": "Grass Valley and Nevada City Celebrate America’s 250th with a Hometown Celebration for Every Generation YubaNet",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZE44bVlHem1HRnNrdTM3MEUxaTlCa2dUQTd3N3B3RXpSUmpMUmszVDM5NHdhb2xsa3RySElfLXpEYkE2Q2xOSHNNYlg1T09wNDdySGdUakYtam1uT0VlQWtocUY3YXZJc2JIdEFaV3ZZOEgtT2FkNW1pTVdnQnd1R2VfZnFqbXJuN1pJdU1relNtX3Nack51ZFBLOS1ER3NPeDdiMmJHbDVUUFEtMW8zOGxfbFo3dEtuc0tRZFMzSXJGWVhEdlpsS2ZzZEM?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-07-02T07:00:00Z"
+    },
+    {
+      "category": "Local",
       "source": "Weather Underground",
       "title": "Grass Valley, CA Air Quality & Pollen - Weather Underground",
       "summary": "Grass Valley, CA Air Quality & Pollen Weather Underground",
@@ -58,20 +58,29 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-      "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
-      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ad/live/fd353880-b421-11f1-8a8e-d9778c1036bb.jpg",
-      "publishedAt": "2026-09-19T11:36:55Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Houthis say they targeted Saudi capital with ballistic missiles",
       "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
       "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39c5/live/a0844fe0-b45d-11f1-b213-1db858c3e27c.jpg",
-      "publishedAt": "2026-09-19T20:16:07Z"
+      "publishedAt": "2026-09-19T23:49:26Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ad/live/fd353880-b421-11f1-8a8e-d9778c1036bb.jpg",
+      "publishedAt": "2026-09-19T23:00:27Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+      "summary": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
+      "url": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aa3/live/ce27ab50-b029-11f1-b1d1-571ed4d7ff2c.jpg",
+      "publishedAt": "2026-09-19T23:01:38Z"
     },
     {
       "category": "World",
@@ -85,29 +94,20 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Cultural treasures are being destroyed by war, and people want justice",
+      "summary": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc2/live/3b2c77f0-b023-11f1-b1d1-571ed4d7ff2c.jpg",
+      "publishedAt": "2026-09-19T23:18:18Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Converse pulls 'deeply upsetting' advert after backlash",
       "summary": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging.",
       "url": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3993/live/0f1fa560-b433-11f1-9fa0-111a12dcb7b0.jpg",
       "publishedAt": "2026-09-19T14:05:01Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-      "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
-      "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg",
-      "publishedAt": "2026-09-19T21:01:56Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Google's Gemini AI hacked three companies in security test",
-      "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
-      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754e/live/31c59420-b3e9-11f1-9fb5-25be39d7a18e.jpg",
-      "publishedAt": "2026-09-19T13:39:32Z"
     },
     {
       "category": "Science & Tech",
@@ -139,6 +139,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
+      "title": "Not all AI workers think the tech could kill everyone",
+      "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae2c/live/f246e690-b3a3-11f1-84e0-d100e0413eb5.jpg",
+      "publishedAt": "2026-09-19T23:01:57Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
       "title": "Google's Gemini AI hacked three companies in security test",
       "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
       "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6e5/live/6cb55ee0-b32a-11f1-a430-4d16ee157c41.jpg",
       "publishedAt": "2026-09-18T23:15:10Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "The virtual worlds where robots are trained",
-      "summary": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
-      "url": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4861/live/2c408c40-a786-11f1-b2d5-535b3b3d379f.jpg",
-      "publishedAt": "2026-09-17T23:00:47Z"
     }
   ],
   "feedErrors": [
