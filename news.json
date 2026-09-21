@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T11:03:13.736911Z",
+  "updatedAt": "2026-09-21T16:59:02.732875Z",
   "stories": [
     {
       "category": "Local",
@@ -21,9 +21,9 @@
     },
     {
       "category": "Local",
-      "source": "Sacramento Bee",
-      "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - Sacramento Bee",
-      "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order Sacramento Bee",
+      "source": "sacbee.com",
+      "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - sacbee.com",
+      "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order sacbee.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UmprRjFJLTZZWFJucmhtZFE4QWxlXzc4WHpUOU1xeXJpZDJDWTFFRjFUc01tM0hXLW9may1CR09KcF9raHo5Z3ota2pSblNzVnI3UXNUTEVCYzVKVXFMMS05Z2pLd9IBZkFVX3lxTE9kVGVrMDFUQURsSkFZaE9IYVp4WWIyQzdOYWRzMHg0LUxfcnU0OWdlYUFJOWtmU19GblRXWk1vWExkd09IcG9QU1FyTVQxUnhKU1VSUE5TR05YS3F4ZXVLRFNySlROZw?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-22T07:00:00Z"
@@ -58,11 +58,47 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-      "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
-      "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93f5/live/3af71800-b571-11f1-9877-152b2e8b38a0.jpg",
-      "publishedAt": "2026-09-21T08:56:27Z"
+      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+      "summary": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cd3/live/e6442550-b5c0-11f1-abb5-85e9be42cb76.jpg",
+      "publishedAt": "2026-09-21T14:14:16Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b6/live/7001c260-b5a9-11f1-a430-4d16ee157c41.jpg",
+      "publishedAt": "2026-09-21T15:58:53Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
+      "summary": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
+      "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf2e/live/a7f43980-b5d8-11f1-8c16-65d8f060d73f.jpg",
+      "publishedAt": "2026-09-21T16:54:56Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "First UK charges brought over 1994 Rwanda genocide",
+      "summary": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
+      "url": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3647/live/dfe06fe0-b5d7-11f1-a430-4d16ee157c41.png",
+      "publishedAt": "2026-09-21T16:33:02Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+      "summary": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded in most areas.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a792/live/bc4bd170-b5cb-11f1-bc1f-3f186ca4140c.jpg",
+      "publishedAt": "2026-09-21T14:06:12Z"
     },
     {
       "category": "World",
@@ -74,40 +110,13 @@
       "publishedAt": "2026-09-21T00:05:11Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Seven Ethiopian rebel groups form new alliance",
-      "summary": "The groups have been active in Ethiopia's most populous regions for years and now say they will work together.",
-      "url": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb9c/live/d7511890-b585-11f1-b2a3-f56f2cdf83e9.jpg",
-      "publishedAt": "2026-09-21T10:29:34Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
-      "summary": "The US media outlets say they are defending \"the principle that the government does not decide what the press reports or publishes\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b6/live/7001c260-b5a9-11f1-a430-4d16ee157c41.jpg",
-      "publishedAt": "2026-09-21T10:57:03Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Three arrested in South Africa over one of nine women's bodies found",
-      "summary": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.",
-      "url": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e812/live/08938de0-b27d-11f1-94d0-89db86965db8.jpg",
-      "publishedAt": "2026-09-21T10:35:01Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Jailed teacher convicted of sexual abuse secretly released early in Indonesia, BBC finds",
-      "summary": "Undercover footage recorded by the BBC reveals he has been released after serving less than half his sentence.",
-      "url": "https://www.bbc.co.uk/news/articles/c9zrz0nl4p70o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6ba/live/6ff872c0-b368-11f1-8f19-bd786ea30d0b.jpg",
-      "publishedAt": "2026-09-20T23:12:31Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alert",
+      "summary": "More than 1.9 million people are under evacuation orders as Typhoon Dujuan batters Japan.",
+      "url": "https://www.bbc.co.uk/news/videos/ckjrxpqxx2v3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b37/live/d9c62380-b5c2-11f1-abb5-85e9be42cb76.png",
+      "publishedAt": "2026-09-21T14:05:29Z"
     },
     {
       "category": "Science & Tech",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg",
       "publishedAt": "2026-09-19T21:01:56Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "When a beloved tree began withering away, locals suspected a killer in their midst",
-      "summary": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe.",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yl228lvzlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26db/live/09fc8080-b3ed-11f1-8f87-95bf134da57f.jpg",
-      "publishedAt": "2026-09-18T22:03:40Z"
     },
     {
       "category": "Science & Tech",
