@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T09:54:38.369261Z",
+  "updatedAt": "2026-09-23T14:56:01.724486Z",
   "stories": [
     {
       "category": "Local",
@@ -12,18 +12,18 @@
     },
     {
       "category": "Local",
-      "source": "WorldAtlas",
-      "title": "8 Romantic Small Towns In California's Sierra Nevada For A 3-Day Weekend - WorldAtlas",
-      "summary": "8 Romantic Small Towns In California's Sierra Nevada For A 3-Day Weekend WorldAtlas",
+      "source": "worldatlas.com",
+      "title": "8 Romantic Small Towns In California's Sierra Nevada For A 3-Day Weekend - worldatlas.com",
+      "summary": "8 Romantic Small Towns In California's Sierra Nevada For A 3-Day Weekend worldatlas.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZGVLYnV3SnlpekV5RDc3RVpNaGN3blRTaG0xXzlsOWpwS2J0R0xPR2g1WDk3WWVQUUR2SGd4ZW05dmpHRk5xekVycGdVTU9aNnY1cHB0T05MMkFFMS1QbGstVGUwM09GaGxlSTA4Vi1KUFlVc0cxOXVtc1dUYW5Td1JmbmNuYzN1YmVPNTVXaWs1bGlyeXByVTVDQTVwQ29jVXhiYURxWG1laEtOQldoQQ?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-21T21:30:00Z"
     },
     {
       "category": "Local",
-      "source": "kcra.com",
-      "title": "Grass Valley police remove re-installed Flock cameras after end of contract - kcra.com",
-      "summary": "Grass Valley police remove re-installed Flock cameras after end of contract kcra.com",
+      "source": "KCRA",
+      "title": "Grass Valley police remove re-installed Flock cameras after end of contract - KCRA",
+      "summary": "Grass Valley police remove re-installed Flock cameras after end of contract KCRA",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSnV0c2lNaGh4QmpJcWtDVE1aeDhISmdxS0RyWGUzT2JzTi05Wi1fcVI2NDlvdkFEVkFqMWhxbVBpU19wWnkwYWxEOHV4dS1ETE1KYXZDYXJPd3VNNjBYUzRublRnYkpaVW95NUpKdEtFMDVrZDJfYzV3Tkc5alBIY1N2MTViQ2tPZzRkRnZFSzN0emNEa0E?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-06T07:00:00Z"
@@ -76,11 +76,29 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Eleven killed in mass shooting at house in South Africa",
-      "summary": "One of those killed is believed to be a pregnant woman, police said.",
-      "url": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5581/live/0a1fdd60-b716-11f1-8d21-19ad84e0e822.jpg",
-      "publishedAt": "2026-09-23T07:02:52Z"
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd1c/live/f9fdfbe0-b74e-11f1-a430-4d16ee157c41.png",
+      "publishedAt": "2026-09-23T13:17:11Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+      "summary": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3750/live/bcba89f0-b759-11f1-a430-4d16ee157c41.jpg",
+      "publishedAt": "2026-09-23T12:31:31Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
+      "summary": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate.",
+      "url": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c5d/live/94bf0a90-b72f-11f1-9f81-a10976817ca3.jpg",
+      "publishedAt": "2026-09-23T12:22:53Z"
     },
     {
       "category": "World",
@@ -89,34 +107,7 @@
       "summary": "The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security.",
       "url": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5038/live/fc68f0f0-b718-11f1-8d21-19ad84e0e822.jpg",
-      "publishedAt": "2026-09-23T06:47:49Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "US to build two military bases in Greenland under new deal with Denmark",
-      "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
-      "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad23/live/08b181f0-b6b6-11f1-8448-334c53ba4316.jpg",
-      "publishedAt": "2026-09-22T21:36:55Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Hurricane Polo intensifies into rare category 5 storm off the coast of Mexico",
-      "summary": "The storm's sudden intensification is \"truly remarkable\", the US hurricane monitoring agency said.",
-      "url": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cbc/live/9fb1a7e0-b721-11f1-a430-4d16ee157c41.jpg",
-      "publishedAt": "2026-09-23T02:54:56Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "UK economy will grow by less than expected next year, OECD says",
-      "summary": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
-      "url": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a8c/live/e0daf3a0-b723-11f1-8d21-19ad84e0e822.jpg",
-      "publishedAt": "2026-09-23T09:18:12Z"
+      "publishedAt": "2026-09-23T13:34:25Z"
     },
     {
       "category": "Science & Tech",
@@ -138,12 +129,30 @@
     },
     {
       "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "India is producing more green energy - but wasting a lot of it",
+      "summary": "India has rapidly decarbonised electricity generation, but its gains are tempered by transmission shortages.",
+      "url": "https://www.bbc.co.uk/news/articles/c8xkvzlz0x4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d6/live/9c8a92d0-b185-11f1-9730-e36fcedc2d41.jpg",
+      "publishedAt": "2026-09-22T23:02:29Z"
+    },
+    {
+      "category": "Science & Tech",
       "source": "BBC Technology",
       "title": "Pornhub investigated over its age checks",
       "summary": "The regulator says it has concerns over how the site is relying on third party checks provided by Apple for some users.",
       "url": "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef85/live/76f98710-b72a-11f1-a430-4d16ee157c41.jpg",
-      "publishedAt": "2026-09-23T09:12:21Z"
+      "publishedAt": "2026-09-23T13:15:24Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
+      "title": "OpenAI gives cyber defence tools to Ukraine",
+      "summary": "Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under the deal - a rival to Anthropic's Mythos and Fable",
+      "url": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d33f/live/a1cce6f0-b746-11f1-8846-e70401199dae.jpg",
+      "publishedAt": "2026-09-23T12:01:37Z"
     },
     {
       "category": "Science & Tech",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2286/live/6cf9eb00-b6e5-11f1-8900-3ddc42cc49ef.jpg",
       "publishedAt": "2026-09-23T01:35:56Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Will a switch to light speed cut power use at data centres?",
-      "summary": "To save power and add capacity, data centres are switching from copper wires to tech using light.",
-      "url": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f83/live/bddd95b0-a12a-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-09-22T23:03:48Z"
     }
   ],
   "feedErrors": [
