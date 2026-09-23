@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T00:23:10.268085Z",
+  "updatedAt": "2026-09-23T05:06:45.374689Z",
   "stories": [
     {
       "category": "Local",
@@ -58,11 +58,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
-      "summary": "In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+      "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
+      "summary": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
       "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ce7/live/a35e4ee0-b6a2-11f1-ba3d-1d5c8a47f823.jpg",
-      "publishedAt": "2026-09-22T21:50:31Z"
+      "publishedAt": "2026-09-23T02:57:00Z"
     },
     {
       "category": "World",
@@ -112,6 +112,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "More than 170,000 respiratory cases recorded in haze-choked Indonesia",
+      "summary": "More than 40,000 of the cases – which range from mild coughs to pneumonia – involve toddlers.",
+      "url": "https://www.bbc.co.uk/news/articles/cq62j13gnyrko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4af/live/c72c9a50-b703-11f1-a4bb-21add78cf97f.jpg",
+      "publishedAt": "2026-09-23T04:20:12Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "India is producing more green energy - but wasting a lot of it",
       "summary": "India has rapidly decarbonised electricity generation, but its gains are tempered by transmission shortages.",
       "url": "https://www.bbc.co.uk/news/articles/c8xkvzlz0x4o?at_medium=RSS&at_campaign=rss",
@@ -129,12 +138,12 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Inside Scotland's wildcat HQ",
-      "summary": "The Saving Wildcats partnership is keeping an eye on the latest wildcats being bred in captivity for release into the Cairngorms.",
-      "url": "https://www.bbc.co.uk/news/videos/ckq6312dq0qjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8c0/live/b4412ae0-b673-11f1-a430-4d16ee157c41.jpg",
-      "publishedAt": "2026-09-22T10:54:53Z"
+      "source": "BBC Technology",
+      "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+      "summary": "Under the draft laws, tech firms face fines if they do not give users the option to switch off algorithms.",
+      "url": "https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2286/live/6cf9eb00-b6e5-11f1-8900-3ddc42cc49ef.jpg",
+      "publishedAt": "2026-09-23T01:35:56Z"
     },
     {
       "category": "Science & Tech",
@@ -148,20 +157,11 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "A new skyline of data centres is rising from the rolling plains of rural China",
-      "summary": "Potato farmers rub shoulders with rows of gleaming new data centres as Trump and Xi meet to discuss AI safety.",
+      "title": "As Trump and Xi talk, China surges ahead with its AI ambitions",
+      "summary": "The BBC visits Inner Mongolia, where Beijing's AI infrastructure is progressing at \"China speed\", says one worker.",
       "url": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de91/live/e1c3c1e0-b6b3-11f1-a430-4d16ee157c41.jpg",
       "publishedAt": "2026-09-22T22:04:31Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Rare look at the remote engine rooms powering China's AI ambitions",
-      "summary": "The BBC is in Inner Mongolia where dozen of Chinese data centres are being constructed, as the country aims to lead the world in artificial intelligence.",
-      "url": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1ba/live/c4418760-b64a-11f1-bc1f-3f186ca4140c.jpg",
-      "publishedAt": "2026-09-22T22:03:48Z"
     }
   ],
   "feedErrors": [
