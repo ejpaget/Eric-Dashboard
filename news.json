@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T18:59:33.020806Z",
+  "updatedAt": "2026-09-23T22:13:28.972907Z",
   "stories": [
     {
       "category": "Local",
@@ -39,9 +39,9 @@
     },
     {
       "category": "Local",
-      "source": "sacbee.com",
-      "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - sacbee.com",
-      "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order sacbee.com",
+      "source": "Sacramento Bee",
+      "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - Sacramento Bee",
+      "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order Sacramento Bee",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UmprRjFJLTZZWFJucmhtZFE4QWxlXzc4WHpUOU1xeXJpZDJDWTFFRjFUc01tM0hXLW9may1CR09KcF9raHo5Z3ota2pSblNzVnI3UXNUTEVCYzVKVXFMMS05Z2pLd9IBZkFVX3lxTE9kVGVrMDFUQURsSkFZaE9IYVp4WWIyQzdOYWRzMHg0LUxfcnU0OWdlYUFJOWtmU19GblRXWk1vWExkd09IcG9QU1FyTVQxUnhKU1VSUE5TR05YS3F4ZXVLRFNySlROZw?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-22T07:00:00Z"
@@ -76,11 +76,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "White House rolling out red carpet for historic Xi Jinping visit",
-      "summary": "Trump and Xi are expected to discuss a range of issues from trade to AI during the latter's multi-day visit to Washington.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15e9/live/9da0b090-b6d1-11f1-b2fe-f10f693c3bae.jpg",
-      "publishedAt": "2026-09-23T14:32:37Z"
+      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+      "summary": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+      "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77bf/live/26f24db0-b770-11f1-a7b2-f3bdba1cd194.jpg",
+      "publishedAt": "2026-09-23T21:26:14Z"
     },
     {
       "category": "World",
@@ -94,6 +94,15 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "UK survivor of Canadian poison seller says he exploited her despair",
+      "summary": "Elisabeth Belien tells Kenneth Law's sentencing hearing she took the poison when she was just 23 years old.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8549/live/b7449770-b792-11f1-a7dc-51a9fb487fda.jpg",
+      "publishedAt": "2026-09-23T21:16:00Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
       "summary": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate.",
       "url": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
@@ -101,13 +110,22 @@
       "publishedAt": "2026-09-23T12:22:53Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
-      "summary": "Assault survivor Miriam Haley said the \"devastating effect on my life and sense of security that may never go away\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27d6/live/b340ed80-b766-11f1-a7b2-f3bdba1cd194.jpg",
-      "publishedAt": "2026-09-23T18:51:12Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "'Perfect storm' could lead to rubbish piling up on Scotland's streets, experts warn",
+      "summary": "There are warnings over a combination of significantly reduced landfill space and a breakdown of Glasgow's main incinerator.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlymw74g20ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65c1/live/174c83e0-b652-11f1-8d77-eb0cf812c06a.jpg",
+      "publishedAt": "2026-09-23T21:53:39Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
+      "summary": "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions.",
+      "url": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abdb/live/d1ce9ed0-b772-11f1-a7b2-f3bdba1cd194.jpg",
+      "publishedAt": "2026-09-23T21:01:06Z"
     },
     {
       "category": "Science & Tech",
@@ -120,21 +138,12 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "When and how to see the Harvest Moon in 2026",
-      "summary": "September's full Moon will rise across on Saturday 26 September. The best viewing conditions currently look to be across southern and eastern parts of the UK.",
-      "url": "https://www.bbc.co.uk/weather/articles/cmp8dr34rz0yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/277d/live/922b4e20-b670-11f1-b711-df5e4d50c2fd.jpg",
-      "publishedAt": "2026-09-23T16:36:56Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Millions of lettuces ruined by UK aphid outbreak",
-      "summary": "Growers are facing losses of £10m, as 30 million heads of lettuce will be rendered unusable.",
-      "url": "https://www.bbc.co.uk/news/articles/ckd79wlg2wl8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a120/live/2a183810-b76b-11f1-a7b2-f3bdba1cd194.jpg",
-      "publishedAt": "2026-09-23T16:08:49Z"
+      "source": "BBC Technology",
+      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+      "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+      "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/149c/live/60c365b0-b306-11f1-aa6a-fb974fe212f6.jpg",
+      "publishedAt": "2026-09-23T22:01:17Z"
     },
     {
       "category": "Science & Tech",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d33f/live/a1cce6f0-b746-11f1-8846-e70401199dae.jpg",
       "publishedAt": "2026-09-23T12:01:37Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
-      "summary": "Under the draft laws, tech firms face fines if they do not give users the option to switch off algorithms.",
-      "url": "https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2286/live/6cf9eb00-b6e5-11f1-8900-3ddc42cc49ef.jpg",
-      "publishedAt": "2026-09-23T01:35:56Z"
     }
   ],
   "feedErrors": [
