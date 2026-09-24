@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T11:38:08.871970Z",
+  "updatedAt": "2026-09-24T15:54:24.726540Z",
   "stories": [
     {
       "category": "Local",
@@ -48,12 +48,21 @@
     },
     {
       "category": "Local",
-      "source": "sacbee.com",
-      "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - sacbee.com",
-      "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order sacbee.com",
+      "source": "Sacramento Bee",
+      "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - Sacramento Bee",
+      "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order Sacramento Bee",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UmprRjFJLTZZWFJucmhtZFE4QWxlXzc4WHpUOU1xeXJpZDJDWTFFRjFUc01tM0hXLW9may1CR09KcF9raHo5Z3ota2pSblNzVnI3UXNUTEVCYzVKVXFMMS05Z2pLd9IBZkFVX3lxTE9kVGVrMDFUQURsSkFZaE9IYVp4WWIyQzdOYWRzMHg0LUxfcnU0OWdlYUFJOWtmU19GblRXWk1vWExkd09IcG9QU1FyTVQxUnhKU1VSUE5TR05YS3F4ZXVLRFNySlROZw?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-08-22T07:00:00Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "White House 'repeatedly violated' court order to restore press access, say media outlets",
+      "summary": "Employees from CNN, Politico and MS Now reported being denied entry, with some having passes confiscated.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/706e/live/5280a470-b821-11f1-9173-8b6ede38f022.jpg",
+      "publishedAt": "2026-09-24T15:53:06Z"
     },
     {
       "category": "World",
@@ -62,52 +71,52 @@
       "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
       "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg",
-      "publishedAt": "2026-09-24T07:10:58Z"
+      "publishedAt": "2026-09-24T15:42:07Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Trump offers warm welcome as China's Xi arrives for US visit",
-      "summary": "The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit.",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/7d0fe1c0-b7c1-11f1-a430-4d16ee157c41.jpg",
-      "publishedAt": "2026-09-24T03:52:21Z"
+      "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+      "summary": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
+      "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg",
+      "publishedAt": "2026-09-24T14:08:38Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
-      "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-      "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb15/live/c9e0fd20-b7cd-11f1-9f14-6be29ed37cd7.jpg",
-      "publishedAt": "2026-09-23T22:01:17Z"
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34f4/live/bd885cd0-b7ff-11f1-97e1-83bf52ec4acd.jpg",
+      "publishedAt": "2026-09-24T11:59:23Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Iran's president tells Trump it will never 'bend the knee'",
-      "summary": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe3f/live/8c85eb50-b766-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-23T18:15:31Z"
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "summary": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
+      "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16fa/live/2ae842f0-b813-11f1-bc1f-3f186ca4140c.jpg",
+      "publishedAt": "2026-09-24T15:37:45Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b8d/live/5b472620-b767-11f1-a7b2-f3bdba1cd194.jpg",
-      "publishedAt": "2026-09-24T09:28:33Z"
+      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+      "summary": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1b2/live/b86b4a70-b811-11f1-a430-4d16ee157c41.jpg",
+      "publishedAt": "2026-09-24T14:37:34Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
-      "summary": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
-      "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fb7/live/38baabd0-b7fe-11f1-bc1f-3f186ca4140c.jpg",
-      "publishedAt": "2026-09-24T10:11:15Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Elephants use medicinal plants to treat themselves, researchers find",
+      "summary": "African elephants use dozens of different medicinal plants to treat themselves and their families when they are sick, research reveals.",
+      "url": "https://www.bbc.co.uk/news/articles/cv1j4yr6j2p0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a1a/live/57752de0-b667-11f1-b785-7d19738c6de2.jpg",
+      "publishedAt": "2026-09-24T11:42:42Z"
     },
     {
       "category": "Science & Tech",
@@ -124,26 +133,8 @@
       "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
       "summary": "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions.",
       "url": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abdb/live/d1ce9ed0-b772-11f1-a7b2-f3bdba1cd194.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a27d/live/9290f960-b813-11f1-a430-4d16ee157c41.jpg",
       "publishedAt": "2026-09-24T07:10:19Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Waste sector crisis could see rubbish piling up on streets, experts warn",
-      "summary": "There are warnings over a combination of significantly reduced landfill space and a breakdown of Glasgow's main incinerator.",
-      "url": "https://www.bbc.co.uk/news/articles/cqlymw74g20ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dae2/live/73d967d0-b7d9-11f1-9329-25fd53239d64.jpg",
-      "publishedAt": "2026-09-24T05:13:18Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Are we back in big tech's 'move fast and break things' era?",
-      "summary": "Despite promises to make safe AI, examples of bots behaving badly are now coming at us thick and fast.",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq8egl3wd2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3f9/live/bf71f270-b801-11f1-97e1-83bf52ec4acd.jpg",
-      "publishedAt": "2026-09-24T11:29:20Z"
     },
     {
       "category": "Science & Tech",
@@ -152,16 +143,25 @@
       "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
       "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg",
-      "publishedAt": "2026-09-24T07:10:58Z"
+      "publishedAt": "2026-09-24T15:42:07Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "What you need to know about the OpenAI Australian government hack",
-      "summary": "The BBC’s North America technology correspondent Lily Jamali explains how the Medicare breach happened, and why it matters.",
-      "url": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feb5/live/f0712fb0-b7d6-11f1-a430-4d16ee157c41.jpg",
-      "publishedAt": "2026-09-24T05:18:26Z"
+      "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+      "summary": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
+      "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg",
+      "publishedAt": "2026-09-24T14:08:38Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
+      "title": "FBI investigating claim hackers have stolen details of all its agents",
+      "summary": "The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information.",
+      "url": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dff/live/04222c60-b793-11f1-a7dc-51a9fb487fda.jpg",
+      "publishedAt": "2026-09-24T12:23:52Z"
     }
   ],
   "feedErrors": [
