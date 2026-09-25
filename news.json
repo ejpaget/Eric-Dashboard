@@ -1,59 +1,77 @@
 {
-  "updatedAt": "2026-09-25T01:51:35.522908Z",
+  "updatedAt": "2026-09-25T07:40:51.412212Z",
   "stories": [
     {
       "category": "Local",
-      "source": "YubaNet",
-      "title": "Nevada County 4-H to Host Kickoff Celebration in Grass Valley - YubaNet",
-      "summary": "Nevada County 4-H to Host Kickoff Celebration in Grass Valley YubaNet",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMEE5dUY1MEswTzJWNUJNdnQ3b1lRYkU5SWh6bkNNRXlJRFZvWmdoNWYyeWJZZHFXNmRiX2dsbmEwelBoQnVRRlBDX0N0N1YwM2xGTVZndllJR0twWXl3dy1yQlF2ZEE5MWZENXRTOTQzOWVHNC1FdVhsMnA0UE9ud2NzM0I3cDlqWGc3a2V1QnZyVjRQb3c?oc=5",
+      "source": "The Union",
+      "title": "Ideas & Opinions — Richard Andrew: Prince Charming saves women and others",
+      "summary": "I am a very bold personality. If people don't like it, tough.",
+      "url": "https://www.theunion.com/news/community/ideas-opinions-richard-andrew-prince-charming-saves-women-and-others/article_2924ebd1-7d66-42d5-86ed-d51bd9d4b1d5.html",
       "imageUrl": "",
-      "publishedAt": "2026-09-23T12:48:00Z"
+      "publishedAt": "2026-09-25T07:30:00Z"
     },
     {
       "category": "Local",
-      "source": "WorldAtlas",
-      "title": "8 Romantic Small Towns In California's Sierra Nevada For A 3-Day Weekend - WorldAtlas",
-      "summary": "8 Romantic Small Towns In California's Sierra Nevada For A 3-Day Weekend WorldAtlas",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZGVLYnV3SnlpekV5RDc3RVpNaGN3blRTaG0xXzlsOWpwS2J0R0xPR2g1WDk3WWVQUUR2SGd4ZW05dmpHRk5xekVycGdVTU9aNnY1cHB0T05MMkFFMS1QbGstVGUwM09GaGxlSTA4Vi1KUFlVc0cxOXVtc1dUYW5Td1JmbmNuYzN1YmVPNTVXaWs1bGlyeXByVTVDQTVwQ29jVXhiYURxWG1laEtOQldoQQ?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-21T21:30:00Z"
+      "source": "The Union",
+      "title": "New Grass Valley city manager talks what’s next for police department, city hall",
+      "summary": "The six-year contract with a base salary of $279,500 and standard benefits for the new Grass Valley City Manager Alex Gammelgard was unanimously approved by the city council during Tuesday evening’s regular council meeting in the chambers of city hall.",
+      "url": "https://www.theunion.com/news/new-grass-valley-city-manager-talks-what-s-next-for-police-department-city-hall/article_21613584-8971-4d15-80ab-e99109429d76.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/0/9d/09d231c1-9152-47a1-aa79-f68cef23400a/6ab43e846ef38.image.jpg?resize=300%2C330",
+      "publishedAt": "2026-09-24T10:45:00Z"
     },
     {
       "category": "Local",
-      "source": "KCRA",
-      "title": "Grass Valley police remove re-installed Flock cameras after end of contract - KCRA",
-      "summary": "Grass Valley police remove re-installed Flock cameras after end of contract KCRA",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSnV0c2lNaGh4QmpJcWtDVE1aeDhISmdxS0RyWGUzT2JzTi05Wi1fcVI2NDlvdkFEVkFqMWhxbVBpU19wWnkwYWxEOHV4dS1ETE1KYXZDYXJPd3VNNjBYUzRublRnYkpaVW95NUpKdEtFMDVrZDJfYzV3Tkc5alBIY1N2MTViQ2tPZzRkRnZFSzN0emNEa0E?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-06T07:00:00Z"
+      "source": "The Union",
+      "title": "Setting the stage: Holt Ballet Conservatory to bring Clara & The Nutcracker to The Center for the Arts",
+      "summary": "Changes are afoot not only for Holt Ballet Conservatory but for Grass Valley’s Center for the Arts.",
+      "url": "https://www.theunion.com/news/setting-the-stage-holt-ballet-conservatory-to-bring-clara-the-nutcracker-to-the-center-for/article_4ce55175-8abf-4be3-9ff4-93ecbd908bc9.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/5/cf/5cf71aac-2d81-405f-bd35-ab4f523d89a4/6ab316548e2e0.image.jpg?resize=300%2C400",
+      "publishedAt": "2026-09-24T10:30:00Z"
     },
     {
       "category": "Local",
-      "source": "Legacy obituary",
-      "title": "Doris McGill Obituary (1924 - 2026) - Grass Valley, CA - The Union - Legacy obituary",
-      "summary": "Doris McGill Obituary (1924 - 2026) - Grass Valley, CA - The Union Legacy obituary",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOODFITlNVMEt5dG9NYzVfcDJiaGJ0alBpWWJWWERzZ0t2a3FEOHZFM3BoQzNZelBlcGp0dEF3SDNjWE4tRGRGTGFHclVjNzZwRUhSNzZVVzViaC1Bc2tuWEdFY0NQbUxfVncwaVdCTHMwMF92WWZSWVRfeW5FRkNxcUx2OG5Nem5ZMGx0YQ?oc=5",
+      "source": "The Union",
+      "title": "Community Forum to talk rise in FAIR Plan rates",
+      "summary": "“FAIR Plan Rates Are Going Up 30%: What To Do?” is the topic of this month’s free Community Forum to be held from 10:30 to 11:30 a.m. on Friday, September 25. The live, one-hour panel discussion will be held at…",
+      "url": "https://www.theunion.com/news/community-forum-to-talk-rise-in-fair-plan-rates/article_6a515f52-020d-4cd8-9656-ee595044489a.html",
       "imageUrl": "",
-      "publishedAt": "2026-09-24T12:58:30Z"
+      "publishedAt": "2026-09-24T10:15:00Z"
     },
     {
       "category": "Local",
-      "source": "Nevada County, CA (.gov)",
-      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - Nevada County, CA (.gov)",
-      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations Nevada County, CA (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-06-18T05:24:55Z"
+      "source": "The Union",
+      "title": "Howdy partners!: NID puts the stamp on relationship with high school district's educational ranch",
+      "summary": "The future of Nevada County ag students may have just grown richer, with the Nevada Irrigation District (NID) approving a Memorandum of Understanding (MOU) with Nevada Joint Union High School District to collaborate on water usage within the district’s 86-acre…",
+      "url": "https://www.theunion.com/news/howdy-partners-nid-puts-the-stamp-on-relationship-with-high-school-districts-educational-ranch/article_0bb57103-60bf-4cf5-9eb8-89ea75ad59f2.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/d/ba/dba0a3b2-ed26-4ecb-b519-9a564fda1ef4/68545c32448fe.image.jpg?resize=300%2C189",
+      "publishedAt": "2026-09-24T10:00:00Z"
     },
     {
       "category": "Local",
-      "source": "Sacramento Bee",
-      "title": "Arson arrest made after fire near Grass Valley that prompted evacuation order - Sacramento Bee",
-      "summary": "Arson arrest made after fire near Grass Valley that prompted evacuation order Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UmprRjFJLTZZWFJucmhtZFE4QWxlXzc4WHpUOU1xeXJpZDJDWTFFRjFUc01tM0hXLW9may1CR09KcF9raHo5Z3ota2pSblNzVnI3UXNUTEVCYzVKVXFMMS05Z2pLd9IBZkFVX3lxTE9kVGVrMDFUQURsSkFZaE9IYVp4WWIyQzdOYWRzMHg0LUxfcnU0OWdlYUFJOWtmU19GblRXWk1vWExkd09IcG9QU1FyTVQxUnhKU1VSUE5TR05YS3F4ZXVLRFNySlROZw?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-08-22T07:00:00Z"
+      "source": "The Union",
+      "title": "Say 'mmm' at Say When: Try delicious scones at an up and coming South County bakery",
+      "summary": "If you have a craving for scones and more, then this up and coming local bakery might be the spot for you.",
+      "url": "https://www.theunion.com/news/say-mmm-at-say-when-try-delicious-scones-at-an-up-and-coming-south-county/article_4c940043-44e6-4303-86fd-51adcbf91173.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/a/75/a75b1c57-df7e-415e-b8f9-74fb43f2256f/6ab4402160773.image.jpg?resize=300%2C225",
+      "publishedAt": "2026-09-24T09:45:00Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+      "summary": "Trump said he and Xi had \"never gotten along better\" as he hosted the Chinese president at the lavish White House event.",
+      "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/602f/live/4a515750-b8a7-11f1-a430-4d16ee157c41.jpg",
+      "publishedAt": "2026-09-25T06:40:18Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+      "summary": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+      "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9194/live/2ae40780-b8b3-11f1-b1d1-571ed4d7ff2c.jpg",
+      "publishedAt": "2026-09-25T03:57:09Z"
     },
     {
       "category": "World",
@@ -68,9 +86,9 @@
       "category": "World",
       "source": "BBC News",
       "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
-      "summary": "CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored.",
+      "summary": "CNN and MS NOW reporters say they were barred from covering a state dinner after a judge ruled their passes should be restored.",
       "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afff/live/c8cd8880-b855-11f1-a430-4d16ee157c41.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b5/live/159a3ed0-b8a9-11f1-a430-4d16ee157c41.jpg",
       "publishedAt": "2026-09-25T01:10:35Z"
     },
     {
@@ -79,7 +97,7 @@
       "title": "Hundreds of thousands expected in Paris for Pope's visit",
       "summary": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
       "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d70/live/7b6d6240-b7f6-11f1-8ef6-b9665ffdab6f.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f2b/live/edd87070-b8a7-11f1-b1d1-571ed4d7ff2c.jpg",
       "publishedAt": "2026-09-24T23:17:00Z"
     },
     {
@@ -92,22 +110,13 @@
       "publishedAt": "2026-09-24T18:06:40Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-      "summary": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b1e/live/34396cd0-b827-11f1-9173-8b6ede38f022.jpg",
-      "publishedAt": "2026-09-24T19:02:36Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Priest killed and four injured in knife attack at Polish abbey",
-      "summary": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
-      "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b58/live/c831d5d0-b836-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-24T19:18:12Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "What are my children exposed to? Why I want testing for cancer-causing chemicals",
+      "summary": "People living near a lagoon branded \"a shame on Britain\" want to be tested for cancer-causing PCBs.",
+      "url": "https://www.bbc.co.uk/news/articles/cw05rym38gdqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0705/live/4aa439a0-b8a4-11f1-8257-a79ccb54f692.png",
+      "publishedAt": "2026-09-25T05:48:36Z"
     },
     {
       "category": "Science & Tech",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cqkgv3dr5gjeo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21e6/live/33b26ae0-b819-11f1-bc1f-3f186ca4140c.jpg",
       "publishedAt": "2026-09-24T22:10:35Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "What are my children exposed to? Why I want testing for cancer-causing chemicals",
-      "summary": "People living near a lagoon branded \"a shame on Britain\" want to be tested for cancer-causing PCBs.",
-      "url": "https://www.bbc.co.uk/news/articles/cw05rym38gdqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b738/live/1ebb61d0-b82a-11f1-89f8-b5d404417bc8.png",
-      "publishedAt": "2026-09-24T21:54:32Z"
     },
     {
       "category": "Science & Tech",
@@ -165,7 +165,6 @@
     }
   ],
   "feedErrors": [
-    "The Union: HTTP Error 429: Too Many Requests",
     "ESPN: no element found: line 1, column 0"
   ]
 }
