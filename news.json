@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T23:54:49.400976Z",
+  "updatedAt": "2026-09-29T05:36:38.073953Z",
   "stories": [
     {
       "category": "Local",
@@ -30,9 +30,9 @@
     },
     {
       "category": "Local",
-      "source": "nevadacountyca.gov",
-      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - nevadacountyca.gov",
-      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations nevadacountyca.gov",
+      "source": "Nevada County, CA (.gov)",
+      "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - Nevada County, CA (.gov)",
+      "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations Nevada County, CA (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-06-18T05:24:55Z"
@@ -58,56 +58,56 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d46e/live/100af420-bba4-11f1-b5d5-0be7b4d3c75d.jpg",
+      "publishedAt": "2026-09-29T04:30:13Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Evicted Spanish pensioner can move back home, lawyer says",
+      "summary": "The eviction of Maricarmen Abascal, 87, prompted large-scale protests across Spain.",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a6a/live/e5e03d10-bb97-11f1-8663-cd23eb071822.jpg",
+      "publishedAt": "2026-09-29T01:28:57Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+      "summary": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d54/live/ced3b090-bb9f-11f1-a430-4d16ee157c41.jpg",
+      "publishedAt": "2026-09-29T03:50:40Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "New York Times executive fatally shot allegedly by elderly in-laws",
+      "summary": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
+      "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/530d/live/9d8b6460-bb72-11f1-8200-bffada0fd8de.png",
+      "publishedAt": "2026-09-29T04:06:43Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+      "summary": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
+      "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db51/live/1fd12340-bb7a-11f1-a430-4d16ee157c41.jpg",
+      "publishedAt": "2026-09-29T04:10:33Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Inside Yemen's front-line city as Houthis battle for control",
       "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
       "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b03e/live/dca633d0-bab6-11f1-aa85-8f10bc212c53.jpg",
       "publishedAt": "2026-09-27T21:16:31Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-      "summary": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
-      "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4afe/live/251cfde0-bb54-11f1-bc1f-3f186ca4140c.jpg",
-      "publishedAt": "2026-09-28T14:57:31Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
-      "summary": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
-      "url": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c325/live/9671af90-bb40-11f1-a071-65d2e11c8f4a.jpg",
-      "publishedAt": "2026-09-28T17:26:21Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "French PM warns against escalation of school protests after 164 arrested",
-      "summary": "Students are protesting over issues such as overcrowded classes, but the prime minister has condemned reports of violence.",
-      "url": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f058/live/59b822c0-bb7a-11f1-b505-77b42c904b07.jpg",
-      "publishedAt": "2026-09-28T21:46:53Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Nigerian attempts to break world record by dancing non-stop for seven days",
-      "summary": "Crowds have gathered in Lagos to watch Ben Dancer, who says he will carry on dancing until Tuesday morning.",
-      "url": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb2/live/f4252dc0-bb49-11f1-a071-65d2e11c8f4a.jpg",
-      "publishedAt": "2026-09-28T15:39:19Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Iran court upholds lashes sentence for singer who performed without hijab",
-      "summary": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert.",
-      "url": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg",
-      "publishedAt": "2026-09-28T17:15:00Z"
     },
     {
       "category": "Science & Tech",
@@ -139,6 +139,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d46e/live/100af420-bba4-11f1-b5d5-0be7b4d3c75d.jpg",
+      "publishedAt": "2026-09-29T04:30:13Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
       "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
       "summary": "Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.",
       "url": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe1e/live/6ddbd170-b954-11f1-96dc-f7c10dbde38b.jpg",
       "publishedAt": "2026-09-26T02:50:56Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Inside iconic horror game Silent Hill's Scottish makeover",
-      "summary": "One of gaming's biggest horror franchises has come to the UK. Can it live up to the original?",
-      "url": "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6dc/live/98dd3e90-b7a1-11f1-ba14-197cc9acea52.jpg",
-      "publishedAt": "2026-09-25T23:34:20Z"
     }
   ],
   "feedErrors": [
