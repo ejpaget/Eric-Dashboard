@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T18:25:15.578401Z",
+  "updatedAt": "2026-09-30T22:33:22.108127Z",
   "stories": [
     {
       "category": "Local",
@@ -39,15 +39,6 @@
     },
     {
       "category": "Local",
-      "source": "Legacy",
-      "title": "Howard Rogers Obituary (1944 - 2026) - Grass Valley, CA - The Union - Legacy",
-      "summary": "Howard Rogers Obituary (1944 - 2026) - Grass Valley, CA - The Union Legacy",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh2c0xmOUdmb29aSU50M3hTOVRMTzdMV0U0ek02ZGdKX0tPZFdZcDFudWZObm1LbTFsMzl1Mml0RVQ0Zm9GcXFEYUFkUV8yWVphSHRES0RCQzdWY1N3bl9PQUhkT1FxQ19HNmJucnFRRm5EcUp0SUt6cUJjRzBZYlRVdDNxNHBGYzVJdlFn?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-29T11:14:45Z"
-    },
-    {
-      "category": "Local",
       "source": "ABC10",
       "title": "Grass Valley police seek public help to identify Plaza Drive armed robbery suspects - ABC10",
       "summary": "Grass Valley police seek public help to identify Plaza Drive armed robbery suspects ABC10",
@@ -56,13 +47,22 @@
       "publishedAt": "2026-05-07T07:00:00Z"
     },
     {
+      "category": "Local",
+      "source": "Legacy obituary",
+      "title": "Howard Rogers Obituary (1944 - 2026) - Grass Valley, CA - The Union - Legacy obituary",
+      "summary": "Howard Rogers Obituary (1944 - 2026) - Grass Valley, CA - The Union Legacy obituary",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh2c0xmOUdmb29aSU50M3hTOVRMTzdMV0U0ek02ZGdKX0tPZFdZcDFudWZObm1LbTFsMzl1Mml0RVQ0Zm9GcXFEYUFkUV8yWVphSHRES0RCQzdWY1N3bl9PQUhkT1FxQ19HNmJucnFRRm5EcUp0SUt6cUJjRzBZYlRVdDNxNHBGYzVJdlFn?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-09-29T11:14:45Z"
+    },
+    {
       "category": "World",
       "source": "BBC News",
       "title": "What we know about stabbing on Flydubai flight to Israel",
-      "summary": "The captain and first officer were injured, and one pilot has been arrested, officials say.",
+      "summary": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
       "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83af/live/a2587eb0-bce4-11f1-a64c-550be9e3c66b.jpg",
-      "publishedAt": "2026-09-30T17:51:49Z"
+      "publishedAt": "2026-09-30T21:36:31Z"
     },
     {
       "category": "World",
@@ -94,6 +94,15 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
+      "summary": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain.",
+      "url": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ee5/live/a7dfc5c0-bcec-11f1-bc2e-018d645d8d21.jpg",
+      "publishedAt": "2026-09-30T22:01:16Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
       "summary": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
       "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
@@ -101,13 +110,22 @@
       "publishedAt": "2026-09-30T14:53:02Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
-      "summary": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
-      "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1f4/live/bfefaa90-bcba-11f1-babe-4199b0e7ccea.jpg",
-      "publishedAt": "2026-09-30T11:36:23Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
+      "summary": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain.",
+      "url": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ee5/live/a7dfc5c0-bcec-11f1-bc2e-018d645d8d21.jpg",
+      "publishedAt": "2026-09-30T22:01:16Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "'Special surprise' as rare moth found in nature reserve for first time",
+      "summary": "Experts called it a \"special surprise\" to find an \"incredibly sparse moth\" in this habitat.",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gqnnm4ymdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de2c/live/87a986d0-bcdb-11f1-afec-ebbb2634c4cd.png",
+      "publishedAt": "2026-09-30T21:58:22Z"
     },
     {
       "category": "Science & Tech",
@@ -117,24 +135,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cqkg07lp9dvlo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2840/live/c92415f0-bcd4-11f1-a64c-550be9e3c66b.jpg",
       "publishedAt": "2026-09-30T13:51:52Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Orionid meteor shower to streak across night sky this week",
-      "summary": "The Orionid meteor shower peaks in October as Earth passes through debris left behind by Halley’s Comet.",
-      "url": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd19/live/87cd3a10-bc9c-11f1-bd53-81692d9847e1.png",
-      "publishedAt": "2026-09-30T06:32:14Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Watch: Moment a government building collapses into a river in Nepal amid floods",
-      "summary": "The municipality building in Baglung was left teetering on an unstable ledge due to floods before it fell into a river.",
-      "url": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bea3/live/61d8c9c0-bc7c-11f1-a430-4d16ee157c41.jpg",
-      "publishedAt": "2026-09-30T03:21:28Z"
     },
     {
       "category": "Science & Tech",
