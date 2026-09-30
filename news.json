@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T06:37:38.306687Z",
+  "updatedAt": "2026-09-30T12:58:40.191646Z",
   "stories": [
     {
       "category": "Local",
@@ -12,9 +12,9 @@
     },
     {
       "category": "Local",
-      "source": "KCRA",
-      "title": "Grass Valley police remove re-installed Flock cameras after end of contract - KCRA",
-      "summary": "Grass Valley police remove re-installed Flock cameras after end of contract KCRA",
+      "source": "kcra.com",
+      "title": "Grass Valley police remove re-installed Flock cameras after end of contract - kcra.com",
+      "summary": "Grass Valley police remove re-installed Flock cameras after end of contract kcra.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSnV0c2lNaGh4QmpJcWtDVE1aeDhISmdxS0RyWGUzT2JzTi05Wi1fcVI2NDlvdkFEVkFqMWhxbVBpU19wWnkwYWxEOHV4dS1ETE1KYXZDYXJPd3VNNjBYUzRublRnYkpaVW95NUpKdEtFMDVrZDJfYzV3Tkc5alBIY1N2MTViQ2tPZzRkRnZFSzN0emNEa0E?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-06T07:00:00Z"
@@ -30,21 +30,21 @@
     },
     {
       "category": "Local",
-      "source": "Legacy obituary",
-      "title": "Howard Rogers Obituary (1944 - 2026) - Grass Valley, CA - The Union - Legacy obituary",
-      "summary": "Howard Rogers Obituary (1944 - 2026) - Grass Valley, CA - The Union Legacy obituary",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh2c0xmOUdmb29aSU50M3hTOVRMTzdMV0U0ek02ZGdKX0tPZFdZcDFudWZObm1LbTFsMzl1Mml0RVQ0Zm9GcXFEYUFkUV8yWVphSHRES0RCQzdWY1N3bl9PQUhkT1FxQ19HNmJucnFRRm5EcUp0SUt6cUJjRzBZYlRVdDNxNHBGYzVJdlFn?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-29T11:14:45Z"
-    },
-    {
-      "category": "Local",
       "source": "Nevada County, CA (.gov)",
       "title": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations - Nevada County, CA (.gov)",
       "summary": "Calling Design-Build Teams: Request for Proposals for Grass Valley Veterans Building Renovations Nevada County, CA (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-06-18T05:24:55Z"
+    },
+    {
+      "category": "Local",
+      "source": "Legacy obituary",
+      "title": "Howard Rogers Obituary (1944 - 2026) - Grass Valley, CA - The Union - Legacy obituary",
+      "summary": "Howard Rogers Obituary (1944 - 2026) - Grass Valley, CA - The Union Legacy obituary",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh2c0xmOUdmb29aSU50M3hTOVRMTzdMV0U0ek02ZGdKX0tPZFdZcDFudWZObm1LbTFsMzl1Mml0RVQ0Zm9GcXFEYUFkUV8yWVphSHRES0RCQzdWY1N3bl9PQUhkT1FxQ19HNmJucnFRRm5EcUp0SUt6cUJjRzBZYlRVdDNxNHBGYzVJdlFn?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-09-29T11:14:45Z"
     },
     {
       "category": "Local",
@@ -58,20 +58,29 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "summary": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
+      "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cc3/live/0f9ce800-bcc0-11f1-babe-4199b0e7ccea.jpg",
+      "publishedAt": "2026-09-30T12:42:34Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+      "summary": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
+      "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1f4/live/bfefaa90-bcba-11f1-babe-4199b0e7ccea.jpg",
+      "publishedAt": "2026-09-30T11:36:23Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Chinese AI tool told researchers how to make bioweapons",
       "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
       "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925f/live/79ba4b60-bc25-11f1-bd53-1b67dc8fba34.jpg",
       "publishedAt": "2026-09-29T23:15:29Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-      "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
-      "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af69/live/34e7c4c0-bc86-11f1-bc1f-3f186ca4140c.jpg",
-      "publishedAt": "2026-09-30T04:01:52Z"
     },
     {
       "category": "World",
@@ -85,29 +94,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-      "summary": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
-      "url": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1795/live/6e65f480-bc7f-11f1-8f6a-cb544b8fa0f7.jpg",
-      "publishedAt": "2026-09-30T05:24:52Z"
+      "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
+      "summary": "Lowe and his wife Kim Painter announce the death of their daughter, who \"was the light of our lives\".",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a27/live/37eb2f00-bcad-11f1-a3e9-bbda6f9b9e25.jpg",
+      "publishedAt": "2026-09-30T08:59:38Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "South Africa to clean up high-risk areas after 12 women killed",
-      "summary": "The deaths sparked a national outcry about the scale of violence against women in the country.",
-      "url": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dae4/live/d8d527f0-bc11-11f1-bd21-bdf910f2cec6.jpg",
-      "publishedAt": "2026-09-29T22:33:39Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
-      "summary": "The ban is part of a number of proposals that must be approved in parliament within 30 days.",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc7/live/fb735b70-bbfc-11f1-90b9-913e4354ed35.jpg",
-      "publishedAt": "2026-09-29T16:23:58Z"
+      "title": "Six Flags shuts down X2 rollercoaster after more than 100 allege brain injuries",
+      "summary": "Hundreds of riders were allegedly injured on X2, which has seats that spin 360 degrees.",
+      "url": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/220d/live/ab8024a0-bc55-11f1-8053-53e939fa7624.jpg",
+      "publishedAt": "2026-09-29T22:33:13Z"
     },
     {
       "category": "Science & Tech",
@@ -115,7 +115,7 @@
       "title": "Orionid meteor shower to streak across night sky this week",
       "summary": "The Orionid meteor shower peaks in October as Earth passes through debris left behind by Halley’s Comet.",
       "url": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f95d/live/36a60d80-bb3c-11f1-a9b8-670e5d9d8eee.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd19/live/87cd3a10-bc9c-11f1-bd53-81692d9847e1.png",
       "publishedAt": "2026-09-30T06:32:14Z"
     },
     {
@@ -130,11 +130,20 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "How AI is creating a UK super-museum and revealing our planet's history",
+      "title": "Gold beetles to Darwin's finds - the 70 million museum artefacts going online",
       "summary": "More than 70 million specimens from 100 UK collections will be put into an online digital museum",
       "url": "https://www.bbc.co.uk/news/articles/cv5yjgrj4ello?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f156/live/89546d90-b29c-11f1-9b18-ad61bef6e34f.jpg",
       "publishedAt": "2026-09-30T00:46:29Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
+      "title": "Regulating AI 'not the right place to start' says Bailey",
+      "summary": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
+      "url": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e249/live/7e528b30-bcb4-11f1-a3e9-bbda6f9b9e25.jpg",
+      "publishedAt": "2026-09-30T10:20:20Z"
     },
     {
       "category": "Science & Tech",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af69/live/34e7c4c0-bc86-11f1-bc1f-3f186ca4140c.jpg",
       "publishedAt": "2026-09-30T04:01:52Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Chinese AI tool told researchers how to make bioweapons",
-      "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
-      "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925f/live/79ba4b60-bc25-11f1-bd53-1b67dc8fba34.jpg",
-      "publishedAt": "2026-09-29T23:15:29Z"
     }
   ],
   "feedErrors": [
