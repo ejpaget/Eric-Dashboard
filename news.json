@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T01:30:58.394284Z",
+  "updatedAt": "2026-10-01T07:44:16.678918Z",
   "stories": [
     {
       "category": "Local",
@@ -12,9 +12,9 @@
     },
     {
       "category": "Local",
-      "source": "kcra.com",
-      "title": "Grass Valley police remove re-installed Flock cameras after end of contract - kcra.com",
-      "summary": "Grass Valley police remove re-installed Flock cameras after end of contract kcra.com",
+      "source": "KCRA",
+      "title": "Grass Valley police remove re-installed Flock cameras after end of contract - KCRA",
+      "summary": "Grass Valley police remove re-installed Flock cameras after end of contract KCRA",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSnV0c2lNaGh4QmpJcWtDVE1aeDhISmdxS0RyWGUzT2JzTi05Wi1fcVI2NDlvdkFEVkFqMWhxbVBpU19wWnkwYWxEOHV4dS1ETE1KYXZDYXJPd3VNNjBYUzRublRnYkpaVW95NUpKdEtFMDVrZDJfYzV3Tkc5alBIY1N2MTViQ2tPZzRkRnZFSzN0emNEa0E?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-06T07:00:00Z"
@@ -48,12 +48,30 @@
     },
     {
       "category": "Local",
-      "source": "legacy.com",
-      "title": "Howard Rogers Obituary (1944 - 2026) - Grass Valley, CA - The Union - legacy.com",
-      "summary": "Howard Rogers Obituary (1944 - 2026) - Grass Valley, CA - The Union legacy.com",
+      "source": "Legacy",
+      "title": "Howard Rogers Obituary (1944 - 2026) - Grass Valley, CA - The Union - Legacy",
+      "summary": "Howard Rogers Obituary (1944 - 2026) - Grass Valley, CA - The Union Legacy",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh2c0xmOUdmb29aSU50M3hTOVRMTzdMV0U0ek02ZGdKX0tPZFdZcDFudWZObm1LbTFsMzl1Mml0RVQ0Zm9GcXFEYUFkUV8yWVphSHRES0RCQzdWY1N3bl9PQUhkT1FxQ19HNmJucnFRRm5EcUp0SUt6cUJjRzBZYlRVdDNxNHBGYzVJdlFn?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-29T11:14:45Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US death row inmate survives execution attempt after two lethal injections",
+      "summary": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
+      "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b6b/live/4ce5c930-bd5a-11f1-babe-4199b0e7ccea.jpg",
+      "publishedAt": "2026-10-01T07:01:16Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+      "summary": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/565c/live/ce323a50-bd69-11f1-bc2e-018d645d8d21.jpg",
+      "publishedAt": "2026-10-01T07:27:25Z"
     },
     {
       "category": "World",
@@ -62,25 +80,16 @@
       "summary": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
       "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83af/live/a2587eb0-bce4-11f1-a64c-550be9e3c66b.jpg",
-      "publishedAt": "2026-09-30T21:36:31Z"
+      "publishedAt": "2026-10-01T02:31:24Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
       "summary": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
       "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c37/live/eac38c60-bce6-11f1-8ce2-417f8f7cb095.jpg",
       "publishedAt": "2026-09-30T23:10:06Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "US Supreme Court allows execution of Christa Pike to go ahead",
-      "summary": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution.",
-      "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6311/live/31a802d0-bd25-11f1-bc2e-018d645d8d21.jpg",
-      "publishedAt": "2026-10-01T00:19:20Z"
     },
     {
       "category": "World",
@@ -101,13 +110,13 @@
       "publishedAt": "2026-09-30T17:14:03Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Tiny image sparks big backlash in Nikon photo contest",
-      "summary": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
-      "url": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96e1/live/ce7836b0-bcea-11f1-8ce2-417f8f7cb095.jpg",
-      "publishedAt": "2026-09-30T23:10:19Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "'Special surprise' as rare moth found in nature reserve for first time",
+      "summary": "Experts called it a \"special surprise\" to find an \"incredibly sparse moth\" in this habitat.",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gqnnm4ymdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de2c/live/87a986d0-bcdb-11f1-afec-ebbb2634c4cd.png",
+      "publishedAt": "2026-10-01T05:03:12Z"
     },
     {
       "category": "Science & Tech",
@@ -129,12 +138,12 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "The AI telling farmers when to harvest",
-      "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
-      "url": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/874b/live/cbc27c20-acfd-11f1-bc1f-3f186ca4140c.jpg",
-      "publishedAt": "2026-09-30T23:02:21Z"
+      "source": "BBC Technology",
+      "title": "AI boom could trigger market shocks, Bank of England boss warns",
+      "summary": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
+      "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d849/live/8e2b1bb0-bd4c-11f1-a52c-0511052dc036.jpg",
+      "publishedAt": "2026-10-01T04:03:17Z"
     },
     {
       "category": "Science & Tech",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/874b/live/cbc27c20-acfd-11f1-bc1f-3f186ca4140c.jpg",
       "publishedAt": "2026-09-30T23:02:21Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Regulating AI 'not the right place to start' says Bailey",
-      "summary": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
-      "url": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e249/live/7e528b30-bcb4-11f1-a3e9-bbda6f9b9e25.jpg",
-      "publishedAt": "2026-09-30T14:00:33Z"
     }
   ],
   "feedErrors": [
