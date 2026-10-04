@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T22:23:49.709384Z",
+  "updatedAt": "2026-10-04T01:57:44.991804Z",
   "stories": [
     {
       "category": "Local",
@@ -30,9 +30,9 @@
     },
     {
       "category": "Local",
-      "source": "League of Women Voters",
-      "title": "Watch the video replay of the Grass Valley City Council candidate forum - League of Women Voters",
-      "summary": "Watch the video replay of the Grass Valley City Council candidate forum League of Women Voters",
+      "source": "my.lwv.org",
+      "title": "Watch the video replay of the Grass Valley City Council candidate forum - my.lwv.org",
+      "summary": "Watch the video replay of the Grass Valley City Council candidate forum my.lwv.org",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOF9MdTJtc1ptX2FVcFZaOHVhMldSLXBLRHhnTmF6UHFwSVRiNHp3N3hYUlJEdm9xWjhQNzQwaFhOdmpfWXZFQjFGdk50d1A4MU5mdWJXMDBkUEIwY0ZTUWVxMExsejNMMTVEdjRJVW82Uzl2LTJna2ZiTFlJdG01aEUxbFVTYlNRRW1ZcGgwbUNRTk1RT3A0M0lhNUg4TW9YTE9xV0FHOA?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-09-26T00:30:08Z"
@@ -48,12 +48,12 @@
     },
     {
       "category": "Local",
-      "source": "WorldAtlas",
-      "title": "8 Romantic Small Towns In California's Sierra Nevada For A 3-Day Weekend - WorldAtlas",
-      "summary": "8 Romantic Small Towns In California's Sierra Nevada For A 3-Day Weekend WorldAtlas",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZGVLYnV3SnlpekV5RDc3RVpNaGN3blRTaG0xXzlsOWpwS2J0R0xPR2g1WDk3WWVQUUR2SGd4ZW05dmpHRk5xekVycGdVTU9aNnY1cHB0T05MMkFFMS1QbGstVGUwM09GaGxlSTA4Vi1KUFlVc0cxOXVtc1dUYW5Td1JmbmNuYzN1YmVPNTVXaWs1bGlyeXByVTVDQTVwQ29jVXhiYURxWG1laEtOQldoQQ?oc=5",
+      "source": "CBS News",
+      "title": "Grass Valley police remove Flock cameras again after unexpected reinstallations - CBS News",
+      "summary": "Grass Valley police remove Flock cameras again after unexpected reinstallations CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNk15VGJLOWhySkFtYXVvYWVScHp0NTFqLXp5aHBhcVNaMm1ET2VUZ2V3QnBub19RdE5xTjJJdmtTbUh1eUs1ZWRLRWpJS3pBVFBxTmk0QkJMNEVEZkFHUk8yNGdPVUxaMlBFdGYtVDNQTUZUQnNJbmo4Vmpab1JtWDRQUkJycDZVbXlRNE1IcjUySXM?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-09-21T07:00:00Z"
+      "publishedAt": "2026-09-07T07:00:00Z"
     },
     {
       "category": "World",
@@ -63,6 +63,15 @@
       "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d3/live/7d12d1b0-bf45-11f1-babe-4199b0e7ccea.jpg",
       "publishedAt": "2026-10-03T17:48:42Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Cornell president says university 'must do better' after frat house rape allegations",
+      "summary": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1acd/live/708a4390-bf7e-11f1-9b0d-03ed169a0cab.jpg",
+      "publishedAt": "2026-10-04T00:11:25Z"
     },
     {
       "category": "World",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c3/live/c89e9510-beff-11f1-babe-4199b0e7ccea.jpg",
       "publishedAt": "2026-10-03T04:38:31Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Medical plane with 6 on board missing off Massachusetts coast",
-      "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
-      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5084/live/3748e6a0-bf41-11f1-8acc-0bb5649ca116.jpg",
-      "publishedAt": "2026-10-03T21:16:21Z"
     },
     {
       "category": "Science & Tech",
