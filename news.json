@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-06T21:11:42.369305Z",
+  "updatedAt": "2026-10-07T00:59:39.462120Z",
   "stories": [
+    {
+      "category": "Local",
+      "source": "YubaNet",
+      "title": "Wine Country Meets Anime – Yatska Sokuleva Exhibit at Avanguardia Wines in Grass Valley - YubaNet",
+      "summary": "Wine Country Meets Anime – Yatska Sokuleva Exhibit at Avanguardia Wines in Grass Valley YubaNet",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pdldoMnV6aGU4TzNva2hnT0k1TFJVUnpqNl9UOEItblc0Y1AtZXAtUTVLUllRcEZSQm83RGtHc3ZOWDJwQTlKcGRzdkRyVlVDY2VOemNZV3F0S0VDcG5WQnl6NENRRndrbzFncmdvVjhudjQ?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-10-06T18:43:53Z"
+    },
     {
       "category": "Local",
       "source": "KCRA",
@@ -18,15 +27,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sb0N2X3hfQVNwZXZrMDhuVGNicFNlc0xlR1BGNDFVZy1fXzloTDdKdGswbHFZSWd0RmpFM2dwZVdrNS01b3h1UzJJLV9QSTBNTlhkVVBWYVFCNDhIZUdFUGNSSHNaNnBpYmc?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-06-18T05:24:55Z"
-    },
-    {
-      "category": "Local",
-      "source": "YubaNet",
-      "title": "Nevada County 4-H to Host Kickoff Celebration in Grass Valley - YubaNet",
-      "summary": "Nevada County 4-H to Host Kickoff Celebration in Grass Valley YubaNet",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMEE5dUY1MEswTzJWNUJNdnQ3b1lRYkU5SWh6bkNNRXlJRFZvWmdoNWYyeWJZZHFXNmRiX2dsbmEwelBoQnVRRlBDX0N0N1YwM2xGTVZndllJR0twWXl3dy1yQlF2ZEE5MWZENXRTOTQzOWVHNC1FdVhsMnA0UE9ud2NzM0I3cDlqWGc3a2V1QnZyVjRQb3c?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-23T12:48:00Z"
     },
     {
       "category": "Local",
@@ -58,20 +58,20 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+      "summary": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
+      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/226c/live/7221efd0-c1c9-11f1-b8a9-47f21beea0a3.jpg",
+      "publishedAt": "2026-10-07T00:56:59Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Tear gas in Paris and Marseille as school protests grow across France",
       "summary": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
       "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aed/live/289aad70-c1ab-11f1-8fa2-19a1e9b6288f.jpg",
       "publishedAt": "2026-10-06T18:03:19Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "US death row inmate Christa Pike conscious after failed execution, lawyers say",
-      "summary": "Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday.",
-      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/226c/live/7221efd0-c1c9-11f1-b8a9-47f21beea0a3.jpg",
-      "publishedAt": "2026-10-06T21:09:41Z"
     },
     {
       "category": "World",
@@ -85,11 +85,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Ship sinks and crew missing after Black Sea drone attack",
-      "summary": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ac4/live/33a7d8a0-c192-11f1-babe-4199b0e7ccea.jpg",
-      "publishedAt": "2026-10-06T11:53:21Z"
+      "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+      "summary": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
+      "url": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/641f/live/0b408380-c075-11f1-aa5a-7b59b59b45bf.jpg",
+      "publishedAt": "2026-10-06T23:07:44Z"
     },
     {
       "category": "World",
@@ -112,6 +112,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+      "summary": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
+      "url": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/641f/live/0b408380-c075-11f1-aa5a-7b59b59b45bf.jpg",
+      "publishedAt": "2026-10-06T23:07:44Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "'Ghost particles' from space telescope wins physics Nobel",
       "summary": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
       "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
@@ -129,12 +138,12 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Why are data centres such a big deal in Scotland?",
-      "summary": "At least 23 huge data centres are planned in Scotland, causing significant concern for campaigners.",
-      "url": "https://www.bbc.co.uk/news/articles/c6qxv55882z1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f963/live/d2ae1e10-c0a1-11f1-b72b-c3e328aa18ed.jpg",
-      "publishedAt": "2026-10-05T10:04:08Z"
+      "source": "BBC Technology",
+      "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
+      "summary": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb59/live/11c39bd0-be71-11f1-8a45-cd59664d243b.jpg",
+      "publishedAt": "2026-10-06T23:01:22Z"
     },
     {
       "category": "Science & Tech",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8809/live/12b85c00-c1a6-11f1-8fa2-19a1e9b6288f.jpg",
       "publishedAt": "2026-10-06T17:15:46Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Italian PM files to trademark her voice against AI threats",
-      "summary": "Giorgia Meloni submitted a four-second audio to a EU agency in a bid to protect her voice from deepfakes.",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc57/live/ceb63ea0-c15f-11f1-ae7b-cfc528a6c828.jpg",
-      "publishedAt": "2026-10-06T11:24:10Z"
     }
   ],
   "feedErrors": [
