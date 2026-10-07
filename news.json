@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T00:59:39.462120Z",
+  "updatedAt": "2026-10-07T07:09:52.741050Z",
   "stories": [
     {
       "category": "Local",
@@ -61,26 +61,35 @@
       "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
       "summary": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
       "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/226c/live/7221efd0-c1c9-11f1-b8a9-47f21beea0a3.jpg",
-      "publishedAt": "2026-10-07T00:56:59Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b33f/live/56311ac0-c210-11f1-bc2e-018d645d8d21.jpg",
+      "publishedAt": "2026-10-07T07:07:22Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Tear gas in Paris and Marseille as school protests grow across France",
-      "summary": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
-      "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aed/live/289aad70-c1ab-11f1-8fa2-19a1e9b6288f.jpg",
-      "publishedAt": "2026-10-06T18:03:19Z"
+      "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
+      "summary": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e00e/live/bb88aa50-c1c5-11f1-babe-4199b0e7ccea.jpg",
+      "publishedAt": "2026-10-07T05:02:18Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Former German spy chief arrested for espionage and treason",
-      "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
-      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ff2/live/9164de70-c174-11f1-babe-4199b0e7ccea.jpg",
-      "publishedAt": "2026-10-06T10:05:42Z"
+      "title": "What is pneumonic plague and how does it spread?",
+      "summary": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b32/live/023d84b0-c195-11f1-aa62-b37233e4aed8.jpg",
+      "publishedAt": "2026-10-06T15:35:22Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
+      "summary": "David Rush, who also confessed to providing secrets to a foreign government, had revealed the existence of a \"clandestine human source\", prosecutors said.",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d4e/live/b62d3360-c1ab-11f1-bc2e-018d645d8d21.jpg",
+      "publishedAt": "2026-10-06T19:53:45Z"
     },
     {
       "category": "World",
@@ -94,20 +103,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
-      "summary": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6613/live/f2cf53b0-c189-11f1-83c7-97e75190a976.jpg",
-      "publishedAt": "2026-10-06T18:05:53Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Finland orders halt to work on two Google data centres",
-      "summary": "The order affecting two planned data centres follows concerns over forest clearance.",
-      "url": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8809/live/12b85c00-c1a6-11f1-8fa2-19a1e9b6288f.jpg",
-      "publishedAt": "2026-10-06T17:15:46Z"
+      "title": "Former Australian bishop jailed for sexually abusing young men",
+      "summary": "The former Bishop of Broome is one of the most senior Catholic clerics in the world to face sex abuse charges.",
+      "url": "https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/266a/live/bd7f75d0-c208-11f1-b488-75e728293e20.png",
+      "publishedAt": "2026-10-07T04:22:07Z"
     },
     {
       "category": "Science & Tech",
@@ -151,7 +151,7 @@
       "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
       "summary": "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm.",
       "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/384f/live/df1099d0-c169-11f1-a003-8be783290413.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebee/live/d275dfa0-c218-11f1-bc2e-018d645d8d21.jpg",
       "publishedAt": "2026-10-06T17:50:19Z"
     },
     {
