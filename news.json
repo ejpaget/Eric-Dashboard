@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-10-08T13:19:16.060857Z",
+  "updatedAt": "2026-10-08T19:24:06.075041Z",
   "stories": [
-    {
-      "category": "Local",
-      "source": "MaxPreps",
-      "title": "Videos - Nevada Union Miners (Grass Valley, CA) Volleyball - MaxPreps",
-      "summary": "Videos - Nevada Union Miners (Grass Valley, CA) Volleyball MaxPreps",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYzJ4RjBxSXJxc3FJYXBsdW5XcmhIZzRzeHVCaC1QcmpsR2s1TUNPd3pxdUJobXhlNXJEcjNlUjgyVzFnUXJ5U21DTTJILTlTRGZJdXZaMWVCdUtwQzBtRnpvSEtBOG90aGZGejc4cmpQMy1VWE42SnlkXzBpSTdYVTdMSGJTazBuSDRiZktuTzZlY3cxRUdhYXloV0NoNEdBbWxtZGZZZWVRN2ZJdkRWbmNUd2ZKa2ZEMHhobEN2ZE5nY0x2QXpQWXVR?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-10-07T23:13:56Z"
-    },
     {
       "category": "Local",
       "source": "Legacy | Obituary",
@@ -27,6 +18,15 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZFBpWU5hblFya2lYWTlJNzNLdHUwTHJTMTRPSGtVX0hGYnFGZ2RFWDZNX1JyeEM1QlZwZGhIcTdNZzNjOEpuY01pbFN2UEtMcGJNc18zNlNweFVCengzWVFlcWNLVHVKNHVMcGQ3bkFtOG5ueDN5eDdNM3Fjd09WUVpxamRpT20tWkRVUnJ1cTlJWE0?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-10-08T04:53:50Z"
+    },
+    {
+      "category": "Local",
+      "source": "MaxPreps",
+      "title": "Videos - Nevada Union Miners (Grass Valley, CA) Volleyball - MaxPreps",
+      "summary": "Videos - Nevada Union Miners (Grass Valley, CA) Volleyball MaxPreps",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYzJ4RjBxSXJxc3FJYXBsdW5XcmhIZzRzeHVCaC1QcmpsR2s1TUNPd3pxdUJobXhlNXJEcjNlUjgyVzFnUXJ5U21DTTJILTlTRGZJdXZaMWVCdUtwQzBtRnpvSEtBOG90aGZGejc4cmpQMy1VWE42SnlkXzBpSTdYVTdMSGJTazBuSDRiZktuTzZlY3cxRUdhYXloV0NoNEdBbWxtZGZZZWVRN2ZJdkRWbmNUd2ZKa2ZEMHhobEN2ZE5nY0x2QXpQWXVR?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-10-07T23:13:56Z"
     },
     {
       "category": "Local",
@@ -49,38 +49,20 @@
     {
       "category": "Local",
       "source": "YubaNet",
-      "title": "Wine Country Meets Anime – Yatska Sokuleva Exhibit at Avanguardia Wines in Grass Valley - YubaNet",
-      "summary": "Wine Country Meets Anime – Yatska Sokuleva Exhibit at Avanguardia Wines in Grass Valley YubaNet",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pdldoMnV6aGU4TzNva2hnT0k1TFJVUnpqNl9UOEItblc0Y1AtZXAtUTVLUllRcEZSQm83RGtHc3ZOWDJwQTlKcGRzdkRyVlVDY2VOemNZV3F0S0VDcG5WQnl6NENRRndrbzFncmdvVjhudjQ?oc=5",
+      "title": "Nevada County 4-H to Host Kickoff Celebration in Grass Valley - YubaNet",
+      "summary": "Nevada County 4-H to Host Kickoff Celebration in Grass Valley YubaNet",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMEE5dUY1MEswTzJWNUJNdnQ3b1lRYkU5SWh6bkNNRXlJRFZvWmdoNWYyeWJZZHFXNmRiX2dsbmEwelBoQnVRRlBDX0N0N1YwM2xGTVZndllJR0twWXl3dy1yQlF2ZEE5MWZENXRTOTQzOWVHNC1FdVhsMnA0UE9ud2NzM0I3cDlqWGc3a2V1QnZyVjRQb3c?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T18:43:53Z"
+      "publishedAt": "2026-09-23T12:48:00Z"
     },
     {
       "category": "World",
       "source": "BBC News",
       "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-      "summary": "Ukraine accused Russia of targeting the crowded vehicles in the frontline city of Kramatorsk to kill as many civilians as possible.",
+      "summary": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
       "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5b/live/25d71060-c2fa-11f1-b8c6-6d610e41a5d9.jpg",
-      "publishedAt": "2026-10-08T12:43:56Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
-      "summary": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
-      "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6350/live/ef6a77a0-c1a6-11f1-a64c-550be9e3c66b.jpg",
-      "publishedAt": "2026-10-08T05:00:44Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-      "summary": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
-      "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1af2/live/5079a140-c2df-11f1-bc2e-018d645d8d21.jpg",
-      "publishedAt": "2026-10-08T08:18:36Z"
+      "publishedAt": "2026-10-08T16:31:29Z"
     },
     {
       "category": "World",
@@ -89,12 +71,30 @@
       "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
       "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afaf/live/3e4f37a0-c2ee-11f1-89a3-9b445bfcfe23.jpg",
-      "publishedAt": "2026-10-08T08:13:52Z"
+      "publishedAt": "2026-10-08T15:02:32Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Italy overhauls electoral system after fiercely contested debate",
+      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+      "summary": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
+      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcd9/live/df938ae0-c329-11f1-9981-cf94ea240e40.jpg",
+      "publishedAt": "2026-10-08T17:38:59Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "summary": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
+      "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d62a/live/d11c0100-c341-11f1-b521-0bbd7e4f1f2e.jpg",
+      "publishedAt": "2026-10-08T19:10:06Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
       "summary": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
       "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6b9/live/1e2c3920-c30a-11f1-8f04-85217d686658.jpg",
@@ -103,11 +103,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
-      "summary": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
-      "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f398/live/8524e1d0-c2fc-11f1-b8c6-6d610e41a5d9.jpg",
-      "publishedAt": "2026-10-08T12:11:31Z"
+      "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
+      "summary": "More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data.",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85e7/live/fdeabc50-c308-11f1-8f04-85217d686658.jpg",
+      "publishedAt": "2026-10-08T17:16:32Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "More than 800,000 hours of sewage spills in Wales last year, report claims",
+      "summary": "It is equivalent to a sewage discharge happening every five minutes, according to campaigners.",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy74e8nyggo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eee8/live/5d456bf0-c340-11f1-b521-0bbd7e4f1f2e.png",
+      "publishedAt": "2026-10-08T18:05:35Z"
     },
     {
       "category": "Science & Tech",
@@ -116,7 +125,7 @@
       "summary": "El Niño has led to an eerily quiet season so far but the first Atlantic hurricane of the year is now set to impact the southern USA.",
       "url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e38/live/728421a0-c309-11f1-8f04-85217d686658.png",
-      "publishedAt": "2026-10-08T11:35:35Z"
+      "publishedAt": "2026-10-08T17:15:33Z"
     },
     {
       "category": "Science & Tech",
@@ -129,12 +138,12 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Wonky elm named UK Tree of the Year",
-      "summary": "It is the first time a tree in Northern Ireland has won the national title since it was launched in 2014.",
-      "url": "https://www.bbc.co.uk/news/articles/c69wzr9qr7qro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efc0/live/62375e30-c303-11f1-9955-5d2e13ff2bea.jpg",
-      "publishedAt": "2026-10-08T10:32:34Z"
+      "source": "BBC Technology",
+      "title": "White House blocks Microsoft from foreign worker hiring program",
+      "summary": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7e9/live/ec86f2b0-c346-11f1-9a39-31b474234113.jpg",
+      "publishedAt": "2026-10-08T18:56:46Z"
     },
     {
       "category": "Science & Tech",
@@ -143,7 +152,7 @@
       "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
       "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef63/live/b1b98540-c30e-11f1-a64c-550be9e3c66b.jpg",
-      "publishedAt": "2026-10-08T11:01:29Z"
+      "publishedAt": "2026-10-08T16:29:33Z"
     },
     {
       "category": "Science & Tech",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2882/live/c97d4d10-c2b4-11f1-a0fd-81bd2aaa775c.jpg",
       "publishedAt": "2026-10-08T01:59:54Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
-      "summary": "A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e42/live/60b35020-c25c-11f1-a64c-550be9e3c66b.jpg",
-      "publishedAt": "2026-10-07T23:50:29Z"
     }
   ],
   "feedErrors": [
