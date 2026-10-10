@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-10-10T20:01:04.977353Z",
+  "updatedAt": "2026-10-10T23:28:40.233811Z",
   "stories": [
-    {
-      "category": "Local",
-      "source": "Daily Breeze",
-      "title": "Ellen Davis Obituary - Grass Valley, Ca (1942-2026) - Daily Breeze",
-      "summary": "Ellen Davis Obituary - Grass Valley, Ca (1942-2026) Daily Breeze",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfM0tWazd2YjRBZ21OLTlXZjQzYmg2MUdaQzBmaThTM201b0tQVGota2R1SS1mTEwtZkxOTk5ycnRQbUI1X05wckJDbW5XTVJfOWtiTWs0Ry1zN1RyR1NxREhrTHZyQjF5SlNwQ1hNMXcwZEx5bGc?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-10-10T09:03:33Z"
-    },
     {
       "category": "Local",
       "source": "KCRA",
@@ -56,6 +47,15 @@
       "publishedAt": "2026-05-07T07:00:00Z"
     },
     {
+      "category": "Local",
+      "source": "CBS News",
+      "title": "Grass Valley police remove Flock cameras again after unexpected reinstallations - CBS News",
+      "summary": "Grass Valley police remove Flock cameras again after unexpected reinstallations CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNk15VGJLOWhySkFtYXVvYWVScHp0NTFqLXp5aHBhcVNaMm1ET2VUZ2V3QnBub19RdE5xTjJJdmtTbUh1eUs1ZWRLRWpJS3pBVFBxTmk0QkJMNEVEZkFHUk8yNGdPVUxaMlBFdGYtVDNQTUZUQnNJbmo4Vmpab1JtWDRQUkJycDZVbXlRNE1IcjUySXM?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-09-07T07:00:00Z"
+    },
+    {
       "category": "World",
       "source": "BBC News",
       "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
@@ -67,20 +67,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
       "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
       "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98ce/live/569e8e50-c49c-11f1-869c-8f95c437952a.jpg",
-      "publishedAt": "2026-10-10T14:16:50Z"
+      "publishedAt": "2026-10-10T20:51:12Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Several injured in attack on airport in Saudi capital Riyadh",
-      "summary": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
+      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "summary": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.",
       "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/882f/live/23bf5530-c4c1-11f1-9ce9-55293bd7f0d9.jpg",
-      "publishedAt": "2026-10-10T18:37:10Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32eb/live/ede92230-c4f0-11f1-b35a-c3ed8feab55e.jpg",
+      "publishedAt": "2026-10-10T22:40:56Z"
     },
     {
       "category": "World",
@@ -95,10 +95,10 @@
       "category": "World",
       "source": "BBC News",
       "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "summary": "Isaias made landfall in Florida on late Friday before being downgraded to a post-tropical cyclone.",
+      "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
       "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfd2/live/7e8f55f0-c4df-11f1-9a39-31b474234113.jpg",
-      "publishedAt": "2026-10-10T19:08:17Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a454/live/61dbc890-c4e3-11f1-a793-e9d00826e617.jpg",
+      "publishedAt": "2026-10-10T23:19:55Z"
     },
     {
       "category": "World",
@@ -113,10 +113,10 @@
       "category": "Science & Tech",
       "source": "BBC Science",
       "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "summary": "Isaias made landfall in Florida on late Friday before being downgraded to a post-tropical cyclone.",
+      "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
       "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfd2/live/7e8f55f0-c4df-11f1-9a39-31b474234113.jpg",
-      "publishedAt": "2026-10-10T19:08:17Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a454/live/61dbc890-c4e3-11f1-a793-e9d00826e617.jpg",
+      "publishedAt": "2026-10-10T23:19:55Z"
     },
     {
       "category": "Science & Tech",
