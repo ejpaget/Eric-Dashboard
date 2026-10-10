@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T23:11:03.346056Z",
+  "updatedAt": "2026-10-10T02:41:13.111097Z",
   "stories": [
     {
       "category": "Local",
@@ -22,11 +22,11 @@
     {
       "category": "Local",
       "source": "YubaNet",
-      "title": "Wine Country Meets Anime – Yatska Sokuleva Exhibit at Avanguardia Wines in Grass Valley - YubaNet",
-      "summary": "Wine Country Meets Anime – Yatska Sokuleva Exhibit at Avanguardia Wines in Grass Valley YubaNet",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pdldoMnV6aGU4TzNva2hnT0k1TFJVUnpqNl9UOEItblc0Y1AtZXAtUTVLUllRcEZSQm83RGtHc3ZOWDJwQTlKcGRzdkRyVlVDY2VOemNZV3F0S0VDcG5WQnl6NENRRndrbzFncmdvVjhudjQ?oc=5",
+      "title": "Nevada County 4-H to Host Kickoff Celebration in Grass Valley - YubaNet",
+      "summary": "Nevada County 4-H to Host Kickoff Celebration in Grass Valley YubaNet",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMEE5dUY1MEswTzJWNUJNdnQ3b1lRYkU5SWh6bkNNRXlJRFZvWmdoNWYyeWJZZHFXNmRiX2dsbmEwelBoQnVRRlBDX0N0N1YwM2xGTVZndllJR0twWXl3dy1yQlF2ZEE5MWZENXRTOTQzOWVHNC1FdVhsMnA0UE9ud2NzM0I3cDlqWGc3a2V1QnZyVjRQb3c?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-10-06T18:43:53Z"
+      "publishedAt": "2026-09-23T12:48:00Z"
     },
     {
       "category": "Local",
@@ -58,11 +58,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-      "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
       "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61b/live/93d8fbd0-c41e-11f1-a175-8928617a734f.jpg",
-      "publishedAt": "2026-10-09T21:54:28Z"
+      "publishedAt": "2026-10-10T00:45:51Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+      "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9075/live/94a528a0-c422-11f1-9462-0fb8e72a616b.jpg",
+      "publishedAt": "2026-10-09T22:30:22Z"
     },
     {
       "category": "World",
@@ -76,6 +85,24 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+      "summary": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d433/live/d30d8e00-c3d4-11f1-9a39-31b474234113.jpg",
+      "publishedAt": "2026-10-09T23:02:07Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
+      "summary": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana.",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32d0/live/ee00aa70-c443-11f1-8e13-7de7b0658be0.jpg",
+      "publishedAt": "2026-10-10T01:58:56Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
       "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
       "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
@@ -83,31 +110,13 @@
       "publishedAt": "2026-10-09T21:50:47Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-      "summary": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
-      "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ae5/live/091da400-c419-11f1-9a39-31b474234113.jpg",
-      "publishedAt": "2026-10-09T21:26:30Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-      "summary": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e67c/live/c75f8690-c3fb-11f1-9a39-31b474234113.jpg",
-      "publishedAt": "2026-10-09T17:14:44Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Man named Hitler Mussolini elected mayor in Peru",
-      "summary": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
-      "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b8a/live/e5e46370-c3f5-11f1-9a39-31b474234113.png",
-      "publishedAt": "2026-10-09T16:32:22Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
+      "summary": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana.",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32d0/live/ee00aa70-c443-11f1-8e13-7de7b0658be0.jpg",
+      "publishedAt": "2026-10-10T01:58:56Z"
     },
     {
       "category": "Science & Tech",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cmewe552de72o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73f6/live/ed683ba0-c3ee-11f1-9a39-31b474234113.jpg",
       "publishedAt": "2026-10-09T16:46:32Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
-      "summary": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
-      "url": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b04d/live/ba559970-c3f2-11f1-bc2e-018d645d8d21.jpg",
-      "publishedAt": "2026-10-09T15:32:30Z"
     },
     {
       "category": "Science & Tech",
