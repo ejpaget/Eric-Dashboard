@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T21:38:49.503234Z",
+  "updatedAt": "2026-10-16T23:51:19.405314Z",
   "stories": [
     {
       "category": "Local",
@@ -67,6 +67,15 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+      "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c80/live/72894110-c9b4-11f1-9409-01a8c77950d7.jpg",
+      "publishedAt": "2026-10-16T23:07:38Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
       "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
       "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
@@ -76,38 +85,29 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Katie Zacharia leaving her White House role less than five days on the job",
+      "summary": "Her public debut as White House press secretary on Tuesday ended with a flurry of media criticism about her credentials and preparedness.",
+      "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8455/live/c34abe60-c99d-11f1-8844-b58b162b44d4.jpg",
+      "publishedAt": "2026-10-16T21:05:05Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
+      "summary": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f50/live/e57d8d50-c8c1-11f1-bdfb-e3788aeae9ec.jpg",
+      "publishedAt": "2026-10-16T23:07:18Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Trump denies limiting Ukraine access to Starlink network",
       "summary": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
       "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a95/live/08a3c460-c990-11f1-adc3-01d8629f0470.jpg",
       "publishedAt": "2026-10-16T19:33:48Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Pope pictured for first time since surgery and cancer diagnosis",
-      "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
-      "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b711/live/6c3028b0-c978-11f1-9a39-31b474234113.jpg",
-      "publishedAt": "2026-10-16T14:36:39Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "India's 'cockroach' party founder detained ahead of protest",
-      "summary": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc0b/live/9877b0a0-c955-11f1-8879-9d9deeb686e1.jpg",
-      "publishedAt": "2026-10-16T11:44:31Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Dad fined after son, 2, died in Cyprus hotel fall",
-      "summary": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
-      "url": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca70/live/ee811780-c945-11f1-94af-5f148d758fe7.jpg",
-      "publishedAt": "2026-10-16T14:21:32Z"
     },
     {
       "category": "Science & Tech",
