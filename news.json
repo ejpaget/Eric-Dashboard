@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T04:14:59.430182Z",
+  "updatedAt": "2026-10-17T08:45:56.752230Z",
   "stories": [
     {
       "category": "Local",
@@ -39,15 +39,6 @@
     },
     {
       "category": "Local",
-      "source": "YubaNet",
-      "title": "Happening Now – October 2026 - YubaNet",
-      "summary": "Happening Now – October 2026 YubaNet",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oc2pzcm0xTzFQM2FwTlpqMFNxN0J6M1VlejljMnQxaFVJT3g1ZXRRenpodE1hYnJMOXRtTXZtNzBka0g2dWJiSg?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-10-01T07:00:00Z"
-    },
-    {
-      "category": "Local",
       "source": "ABC10",
       "title": "Grass Valley police seek public help to identify Plaza Drive armed robbery suspects - ABC10",
       "summary": "Grass Valley police seek public help to identify Plaza Drive armed robbery suspects ABC10",
@@ -56,13 +47,22 @@
       "publishedAt": "2026-05-07T07:00:00Z"
     },
     {
+      "category": "Local",
+      "source": "CBS News",
+      "title": "Grass Valley police remove Flock cameras again after unexpected reinstallations - CBS News",
+      "summary": "Grass Valley police remove Flock cameras again after unexpected reinstallations CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNk15VGJLOWhySkFtYXVvYWVScHp0NTFqLXp5aHBhcVNaMm1ET2VUZ2V3QnBub19RdE5xTjJJdmtTbUh1eUs1ZWRLRWpJS3pBVFBxTmk0QkJMNEVEZkFHUk8yNGdPVUxaMlBFdGYtVDNQTUZUQnNJbmo4Vmpab1JtWDRQUkJycDZVbXlRNE1IcjUySXM?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-09-07T07:00:00Z"
+    },
+    {
       "category": "World",
       "source": "BBC News",
-      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-      "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ab/live/8511edf0-c9be-11f1-ae9f-bf0ab88aba90.jpg",
-      "publishedAt": "2026-10-17T02:33:09Z"
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
+      "publishedAt": "2026-10-17T07:41:01Z"
     },
     {
       "category": "World",
@@ -71,16 +71,7 @@
       "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
       "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c80/live/72894110-c9b4-11f1-9409-01a8c77950d7.jpg",
-      "publishedAt": "2026-10-17T01:19:04Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Trump waives several Russia sanctions as new US law takes effect",
-      "summary": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
-      "publishedAt": "2026-10-17T02:48:36Z"
+      "publishedAt": "2026-10-17T06:49:48Z"
     },
     {
       "category": "World",
@@ -103,11 +94,29 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ab/live/8511edf0-c9be-11f1-ae9f-bf0ab88aba90.jpg",
+      "publishedAt": "2026-10-17T02:33:09Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
       "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
       "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2e/live/1a3bde40-c96f-11f1-9a39-31b474234113.jpg",
       "publishedAt": "2026-10-16T14:31:04Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Avian flu and costs among reasons for loss of captive birds at Castle Espie",
+      "summary": "Difficulties in transporting animals since Brexit has contributed to the decline in the number of captive birds.",
+      "url": "https://www.bbc.co.uk/news/articles/c6m24e1ln130o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f584/live/ad66ed10-c9ea-11f1-bb2b-7517a3677781.jpg",
+      "publishedAt": "2026-10-17T05:10:33Z"
     },
     {
       "category": "Science & Tech",
@@ -129,18 +138,9 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Evacuation orders as fast-moving California wildfire burns homes",
-      "summary": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state.",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67d1/live/5c4e9f00-c9c6-11f1-9624-cbdaf8e49de5.jpg",
-      "publishedAt": "2026-10-17T01:36:39Z"
-    },
-    {
-      "category": "Science & Tech",
       "source": "BBC Technology",
       "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-      "summary": "Australia has proposed a switch to force social media platforms to let users turn off recommended content.",
+      "summary": "The Australian government hopes to protect social media users from being served content they don't want to see.",
       "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ca/live/8f226840-c966-11f1-a64c-550be9e3c66b.png",
       "publishedAt": "2026-10-16T18:11:29Z"
