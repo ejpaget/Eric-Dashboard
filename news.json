@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T17:43:57.504451Z",
+  "updatedAt": "2026-10-19T22:16:59.593730Z",
   "stories": [
     {
       "category": "Local",
@@ -58,11 +58,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Australian MP critically injured after being hit by car in apparent attack",
-      "summary": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c1d/live/efe61500-cbd2-11f1-9a39-31b474234113.jpg",
-      "publishedAt": "2026-10-19T14:09:54Z"
+      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a726/live/cb93b2c0-cbf0-11f1-9a39-31b474234113.png",
+      "publishedAt": "2026-10-19T20:49:00Z"
     },
     {
       "category": "World",
@@ -76,11 +76,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
       "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
       "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png",
-      "publishedAt": "2026-10-19T16:22:12Z"
+      "publishedAt": "2026-10-19T21:12:30Z"
     },
     {
       "category": "World",
@@ -112,11 +112,11 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "Mission set to blast off for Mars to grab a piece of its moon",
+      "title": "Mission blasts off for Mars to grab a piece of its moon",
       "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
       "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e5/live/791ac150-c8ad-11f1-9c75-6ff1271de385.jpg",
-      "publishedAt": "2026-10-19T08:03:49Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f0e/live/0a4e2af0-cbff-11f1-bc2e-018d645d8d21.jpg",
+      "publishedAt": "2026-10-19T19:45:46Z"
     },
     {
       "category": "Science & Tech",
@@ -139,11 +139,20 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
       "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
       "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png",
-      "publishedAt": "2026-10-19T16:22:12Z"
+      "publishedAt": "2026-10-19T21:12:30Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
+      "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+      "summary": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
+      "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fb/live/a102f4a0-cbe9-11f1-ad7b-fd8c269705fe.jpg",
+      "publishedAt": "2026-10-19T18:21:54Z"
     },
     {
       "category": "Science & Tech",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55c0/live/e258cdd0-0819-11ef-8205-3fa833ece17b.jpg",
       "publishedAt": "2026-10-19T12:58:39Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Musk and Anthropic pledge public share giveaways",
-      "summary": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/075f/live/77a0d170-cba0-11f1-9ee2-f74dfb8e54e5.jpg",
-      "publishedAt": "2026-10-19T09:38:25Z"
     }
   ],
   "feedErrors": [
