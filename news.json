@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T01:13:14.982420Z",
+  "updatedAt": "2026-10-20T06:32:05.101476Z",
   "stories": [
     {
       "category": "Local",
@@ -59,7 +59,7 @@
       "category": "World",
       "source": "BBC News",
       "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-      "summary": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
+      "summary": "The country's interior minister admits that police \"lost control\" in some cities following a weekend of riots.",
       "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4a4/live/f9b4b1d0-cc1e-11f1-94fe-b94794c2a157.jpg",
       "publishedAt": "2026-10-19T21:14:53Z"
@@ -76,51 +76,24 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-      "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d07e/live/02bf88b0-cbd7-11f1-bc2e-018d645d8d21.jpg",
-      "publishedAt": "2026-10-19T17:18:04Z"
+      "title": "Seventh day of violent clashes between Albanian protesters and police",
+      "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b732/live/2812da60-cc20-11f1-bc2e-018d645d8d21.jpg",
+      "publishedAt": "2026-10-20T02:45:05Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
-      "summary": "The two top tennis pros married in 2021 and have one child together.",
-      "url": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/766b/live/02caf1d0-cbc0-11f1-a64c-550be9e3c66b.jpg",
-      "publishedAt": "2026-10-19T21:02:33Z"
+      "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
+      "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
+      "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f1e/live/5b9b0010-cc2f-11f1-aeea-f9fa95687445.png",
+      "publishedAt": "2026-10-20T03:10:39Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Five ways El Niño is affecting the weather around the world",
-      "summary": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
-      "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be75/live/52212cf0-b73d-11f1-aa9c-3d062fa3aea7.jpg",
-      "publishedAt": "2026-10-19T23:08:25Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-      "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
-      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png",
-      "publishedAt": "2026-10-19T21:12:30Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Five ways El Niño is affecting the weather around the world",
-      "summary": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
-      "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be75/live/52212cf0-b73d-11f1-aa9c-3d062fa3aea7.jpg",
-      "publishedAt": "2026-10-19T23:08:25Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
       "title": "Mission blasts off for Mars to grab a piece of its moon",
       "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
       "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
@@ -128,13 +101,40 @@
       "publishedAt": "2026-10-19T19:45:46Z"
     },
     {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
+      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d07e/live/02bf88b0-cbd7-11f1-bc2e-018d645d8d21.jpg",
+      "publishedAt": "2026-10-19T17:18:04Z"
+    },
+    {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "BBC visits wildfire front in haze-choked Indonesia",
-      "summary": "The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents.",
-      "url": "https://www.bbc.co.uk/news/videos/cm9wzye55j4xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/174e/live/b716c350-cb5f-11f1-9a39-31b474234113.jpg",
-      "publishedAt": "2026-10-19T01:57:02Z"
+      "title": "Orionid meteor shower to peak in UK skies this week",
+      "summary": "Clear skies permitting, skygazers could be able to spot as many as 10-20 meteors per hour as the shower peaks this week.",
+      "url": "https://www.bbc.co.uk/weather/articles/cm17knj9kpv8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d801/live/ecdce820-cbdc-11f1-b139-f77a8b036d06.png",
+      "publishedAt": "2026-10-20T06:31:04Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Northern Ireland needs 'courage and leadership' to tackle climate change",
+      "summary": "The new chair of the Climate Change Committee is spending two days in Northern Ireland on a fact-finding mission.",
+      "url": "https://www.bbc.co.uk/news/articles/cxzd6j5q0g7eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76f3/live/165a2440-b877-11ef-a72c-55cc49f950c5.jpg",
+      "publishedAt": "2026-10-20T05:27:15Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Five ways El Niño is affecting the weather around the world",
+      "summary": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
+      "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be75/live/52212cf0-b73d-11f1-aa9c-3d062fa3aea7.jpg",
+      "publishedAt": "2026-10-19T23:08:25Z"
     },
     {
       "category": "Science & Tech",
