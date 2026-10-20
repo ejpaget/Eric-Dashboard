@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-10-19T22:16:59.593730Z",
+  "updatedAt": "2026-10-20T01:13:14.982420Z",
   "stories": [
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "Five States of Confidence — Art Exhibition Opening",
+      "summary": "An unexpected pairing: wine and anime-inspired art! Meet local artist Yatska Sokuleva on Saturday, October 24, from 5–6 p.m. at Avanguardia Wines, 163 Mill Street, Grass Valley.",
+      "url": "https://www.theunion.com/entertainment/five-states-of-confidence-art-exhibition-opening/article_ae4c6970-116c-408d-9453-b24951598535.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/6/5b/65b2bc40-9080-42a3-bbcc-180ec6c11988/6ad6adb0eeb2a.image.jpg?resize=300%2C198",
+      "publishedAt": "2026-10-19T23:52:00Z"
+    },
     {
       "category": "Local",
       "source": "The Union",
@@ -47,13 +56,13 @@
       "publishedAt": "2026-10-19T05:00:00Z"
     },
     {
-      "category": "Local",
-      "source": "The Union",
-      "title": "When Vision Changes: 5 Ways to Navigate What Comes Next",
-      "summary": "",
-      "url": "https://www.theunion.com/online_features/health_and_wellness/when-vision-changes-5-ways-to-navigate-what-comes-next/article_7d568657-df26-5816-8a9f-28e1602ddd0b.html",
-      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/1/2d/12d646f5-37ba-5cde-8049-2f7a5e39396b/6ad5e379a7074.image.jpg?resize=300%2C180",
-      "publishedAt": "2026-10-19T05:00:00Z"
+      "category": "World",
+      "source": "BBC News",
+      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+      "summary": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
+      "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4a4/live/f9b4b1d0-cc1e-11f1-94fe-b94794c2a157.jpg",
+      "publishedAt": "2026-10-19T21:14:53Z"
     },
     {
       "category": "World",
@@ -61,7 +70,7 @@
       "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
       "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
       "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a726/live/cb93b2c0-cbf0-11f1-9a39-31b474234113.png",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd6e/live/09c582e0-cc13-11f1-b0fa-5b9abd1bf87b.png",
       "publishedAt": "2026-10-19T20:49:00Z"
     },
     {
@@ -76,6 +85,24 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+      "summary": "The two top tennis pros married in 2021 and have one child together.",
+      "url": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/766b/live/02caf1d0-cbc0-11f1-a64c-550be9e3c66b.jpg",
+      "publishedAt": "2026-10-19T21:02:33Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Five ways El Niño is affecting the weather around the world",
+      "summary": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
+      "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be75/live/52212cf0-b73d-11f1-aa9c-3d062fa3aea7.jpg",
+      "publishedAt": "2026-10-19T23:08:25Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
       "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
       "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
@@ -83,31 +110,13 @@
       "publishedAt": "2026-10-19T21:12:30Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-      "summary": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
-      "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/975c/live/8ec83c20-cb9c-11f1-93a7-b36f3083f4d3.jpg",
-      "publishedAt": "2026-10-19T13:44:57Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Exiled critic of Rwandan president found beheaded",
-      "summary": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
-      "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6002/live/ca68a640-cbae-11f1-821f-c5d07d801cca.png",
-      "publishedAt": "2026-10-19T13:42:41Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-      "summary": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
-      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9320/live/759508d0-cbd5-11f1-aba9-2bb2608f11d9.jpg",
-      "publishedAt": "2026-10-19T16:20:51Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Five ways El Niño is affecting the weather around the world",
+      "summary": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
+      "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be75/live/52212cf0-b73d-11f1-aa9c-3d062fa3aea7.jpg",
+      "publishedAt": "2026-10-19T23:08:25Z"
     },
     {
       "category": "Science & Tech",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cm9wzye55j4xo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/174e/live/b716c350-cb5f-11f1-9a39-31b474234113.jpg",
       "publishedAt": "2026-10-19T01:57:02Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Fears for protected bats if glamping pod plans are approved",
-      "summary": "Without a mitigation strategy the effect on the creatures would be \"major\", a survey says.",
-      "url": "https://www.bbc.co.uk/news/articles/c6dxwg50pq8lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a7/live/269d64d0-a8a7-11f1-b9ae-958b89fa84e3.jpg",
-      "publishedAt": "2026-10-18T19:22:31Z"
     },
     {
       "category": "Science & Tech",
