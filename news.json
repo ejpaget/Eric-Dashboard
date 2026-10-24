@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T12:12:04.356636Z",
+  "updatedAt": "2026-10-24T16:12:43.350959Z",
   "stories": [
     {
       "category": "Local",
@@ -62,16 +62,16 @@
       "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
       "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6049/live/9c0d0c10-cf9a-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-10-24T11:17:35Z"
+      "publishedAt": "2026-10-24T12:12:40Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
       "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/b8fe52a0-cf7e-11f1-ae2e-3fbb7ae6bffe.jpg",
-      "publishedAt": "2026-10-24T11:23:59Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/723c/live/ca5c07b0-cfc2-11f1-b441-2b33b063138f.jpg",
+      "publishedAt": "2026-10-24T15:21:44Z"
     },
     {
       "category": "World",
@@ -112,29 +112,29 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "Trains cancelled and road warnings as Scotland prepares for Storm Boelo",
+      "summary": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast.",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6ae/live/683db880-cfbd-11f1-9012-0172b9f73a72.jpg",
+      "publishedAt": "2026-10-24T15:08:19Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Amber weather warning as Storm Boelo hits Scotland",
+      "summary": "The Met Office has issued an amber warning for wind over Scotland from 21:00 until 21:00 on Sunday.",
+      "url": "https://www.bbc.co.uk/news/videos/cmqlnkq6p6y7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27d6/live/f305a660-cfb5-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-10-24T14:40:18Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "Storm Boelo to bring severe gales and heavy rain into Sunday",
       "summary": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.",
       "url": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2ee/live/899c04e0-cf9b-11f1-99e0-bfcc419a6039.jpg",
       "publishedAt": "2026-10-24T11:48:58Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Wales plans to ban steel pylons as government launches consultation",
-      "summary": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines.",
-      "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a57f/live/b7611c70-cec5-11f1-b9e0-e5f0da03dc7f.jpg",
-      "publishedAt": "2026-10-24T10:04:29Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Trains cancelled and road warnings as Scotland prepares for Storm Boelo",
-      "summary": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast.",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b118/live/2f6de9e0-cf03-11f1-b95c-310d5f3c558a.jpg",
-      "publishedAt": "2026-10-24T09:41:10Z"
     },
     {
       "category": "Science & Tech",
