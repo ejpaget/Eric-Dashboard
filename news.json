@@ -1,68 +1,104 @@
 {
-  "updatedAt": "2026-10-27T13:08:03.755067Z",
+  "updatedAt": "2026-10-27T18:39:42.307791Z",
   "stories": [
     {
       "category": "Local",
-      "source": "Nevada County (.gov)",
-      "title": "County Purchases Grass Valley Motel for Use as Homeless Veteran Housing - Nevada County (.gov)",
-      "summary": "County Purchases Grass Valley Motel for Use as Homeless Veteran Housing Nevada County (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xWnRDZHVCTV81eWdFeV9TVmo1RFNkLWNyNnI2aXhPNHpuNkRjZTBmT1dlWlFzcFhRaGVHRjZQSjdqaVNCQnlxX3VxQlgyUVRPMDVZVURNRWNOWWZGb0VObTJ3?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-10-22T17:01:52Z"
+      "source": "The Union",
+      "title": "Sponsored: Breathing easy—Keep your lungs healthy",
+      "summary": "Our lungs are one of the hardest working organs in our body. And when we exercise, when we are sick, or even just as we age – they work even harder.",
+      "url": "https://www.theunion.com/lifestyles/health/sponsored-breathing-easy-keep-your-lungs-healthy/article_4d3451b3-3ff1-4dc1-9339-69b2a78ad04d.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/f/69/f690ceda-05ec-4f45-b057-e1d42dba6fbb/6ae0caf78ffea.image.jpg?resize=300%2C200",
+      "publishedAt": "2026-10-27T16:30:00Z"
     },
     {
       "category": "Local",
-      "source": "Legacy | Obituary",
-      "title": "Winfred Dallas \"Skip\" Gunter - Legacy | Obituary",
-      "summary": "Winfred Dallas \"Skip\" Gunter Legacy | Obituary",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWUxSbjVuVmxmWTRIT2paTU5IVm5sbVRyRjhsbGtDajRxSF9XS1VVdE44bnJJSWg3cjhVMy05eDJYMVVQcS13am9KSS0waDd1ekItYmpjZjd5SUhqOGd5Y2lKb1dBNTRvekFWbzAzZ1lXNlNFdWNldlgxRFRuS1VQWDA5SQ?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-10-26T18:45:32Z"
+      "source": "The Union",
+      "title": "Going 'Beyond the Plate': Food Bank of Nevada County reflects on 40 years of service and community stories",
+      "summary": "Five trucks, two vans, approximately 230 volunteers, and roughly 2 million pounds of food distributed annually.",
+      "url": "https://www.theunion.com/news/going-beyond-the-plate-food-bank-of-nevada-county-reflects-on-40-years-of-service/article_1e6f0710-1d75-4dc6-be22-0f81c1de3324.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/a/8b/a8bd0ac9-f048-416f-9d2a-cbefd1ea1a14/6adfa3c505269.image.jpg?resize=300%2C199",
+      "publishedAt": "2026-10-27T10:45:00Z"
     },
     {
       "category": "Local",
-      "source": "WorldAtlas",
-      "title": "The Towns In Northern California Where Retirees Are Actually Moving To - WorldAtlas",
-      "summary": "The Towns In Northern California Where Retirees Are Actually Moving To WorldAtlas",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTTNEMVpzTEdSY0gzOUVYMFFqLXQ3VXVrbkwzLW5xYTZjR3lXNF9MMmozcC0wcGgxUkZaa2NjZmEyXzhrUzNKWTUwZklIa1pqaFRtX3RQSXV1b3laRjhSdVNUUENJU3hTLXJwRlhHLS12U2hfWmlmWVRsZ3pheTVNMnd3azloR2VoSGRpVzhwM2xHVG15QUttM0ZZQ0tIdWZTSkJEb182QVN6ajVXZVE?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-10-24T21:00:00Z"
+      "source": "The Union",
+      "title": "Nevada City Council to discuss cannabis tax changes, transit services, and City Hall hours",
+      "summary": "The Nevada City Council will consider a regional public safety dispatch agreement, hear a presentation on local transit services, and discuss potential changes to City Hall operating hours during its regularly scheduled meeting on Wednesday, Oct. 28, beginning at 6:30…",
+      "url": "https://www.theunion.com/news/nevada-city-council-to-discuss-cannabis-tax-changes-transit-services-and-city-hall-hours/article_58893eea-d27e-430b-ad44-74887e000e73.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/b/97/b974ce1d-1eb9-4d4f-946b-125ff2366ee3/6a2725da416ba.image.jpg?resize=300%2C382",
+      "publishedAt": "2026-10-27T10:30:00Z"
     },
     {
       "category": "Local",
-      "source": "CBS News",
-      "title": "Grass Valley police remove Flock cameras again after unexpected reinstallations - CBS News",
-      "summary": "Grass Valley police remove Flock cameras again after unexpected reinstallations CBS News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNk15VGJLOWhySkFtYXVvYWVScHp0NTFqLXp5aHBhcVNaMm1ET2VUZ2V3QnBub19RdE5xTjJJdmtTbUh1eUs1ZWRLRWpJS3pBVFBxTmk0QkJMNEVEZkFHUk8yNGdPVUxaMlBFdGYtVDNQTUZUQnNJbmo4Vmpab1JtWDRQUkJycDZVbXlRNE1IcjUySXM?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-07T07:00:00Z"
+      "source": "The Union",
+      "title": "NID Board set to approve 2027 budget",
+      "summary": "It’ll be a day of numbers for Nevada Irrigation District (NID) when its board meets tomorrow morning to finalize and approve its budget for 2027.",
+      "url": "https://www.theunion.com/news/nid-board-set-to-approve-2027-budget/article_c84b2df7-5948-4300-80e1-349c3915ff1b.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/5/05/5053bd86-86e5-47d5-9240-3548b3627605/6a614ce7b3ef0.image.jpg?resize=300%2C178",
+      "publishedAt": "2026-10-27T10:15:00Z"
     },
     {
       "category": "Local",
-      "source": "KCRA",
-      "title": "Grass Valley police remove re-installed Flock cameras after end of contract - KCRA",
-      "summary": "Grass Valley police remove re-installed Flock cameras after end of contract KCRA",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSnV0c2lNaGh4QmpJcWtDVE1aeDhISmdxS0RyWGUzT2JzTi05Wi1fcVI2NDlvdkFEVkFqMWhxbVBpU19wWnkwYWxEOHV4dS1ETE1KYXZDYXJPd3VNNjBYUzRublRnYkpaVW95NUpKdEtFMDVrZDJfYzV3Tkc5alBIY1N2MTViQ2tPZzRkRnZFSzN0emNEa0E?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-06T07:00:00Z"
+      "source": "The Union",
+      "title": "City managers discuss homelessness, parking: Carrie Wright and Alex Gammelgard address key issues",
+      "summary": "There was a lot to be said by the city managers of Nevada City and Grass Valley during Friday’s community forum held at Sierra College.",
+      "url": "https://www.theunion.com/news/city-managers-discuss-homelessness-parking-carrie-wright-and-alex-gammelgard-address-key-issues/article_dc22b889-a1a4-455c-b6e5-e27f63630741.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/5/00/5002fff5-37c0-44fe-b271-95aedc80cadd/6adfca685c83d.image.jpg?resize=300%2C225",
+      "publishedAt": "2026-10-27T10:00:00Z"
     },
     {
       "category": "Local",
-      "source": "Sacramento Bee",
-      "title": "Motorcyclist killed in crash near Grass Valley in Nevada County, CHP says - Sacramento Bee",
-      "summary": "Motorcyclist killed in crash near Grass Valley in Nevada County, CHP says Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UWk5jNVIzcGJIcDl5dm9XLXR4Z2tucGYxOVNsSElvLTd5QW5pUHViRG5namNrOVY4dkYwTHZ0bFhhcVRDVEgtZ1RvbU84eUdEUUJEQ0lqUExuQjZuSThUSUtwNXFTTzTSAWdBVV95cUxNOE0wMFJmdXJValVBN3JUcXVJQ0dqdVhxSV9SVnZIOEs0OVl3LTA4X1haQkkzRWlXd0xwMGFkMF8xamhJSVpkMEJzSkhlRTR6Wm5hNGRyd1R0bFdRREpTaHdPWGVTMmFB?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-10-12T07:00:00Z"
+      "source": "The Union",
+      "title": "John Seivert: Gateway Bike Park: Let’s give our kids another reason to get outside",
+      "summary": "We spend a lot of time talking about how to get kids off their phones, away from screens and outside moving.",
+      "url": "https://www.theunion.com/lifestyles/john-seivert-gateway-bike-park-let-s-give-our-kids-another-reason-to-get-outside/article_00815e59-4479-4501-ac69-01d489c503cd.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/f/e0/fe01fc28-77d9-40f0-88bd-3987e999efd7/6adf233d69efd.image.jpg?resize=300%2C237",
+      "publishedAt": "2026-10-27T09:30:00Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
-      "summary": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
-      "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9543/live/7b21c3e0-d1cc-11f1-837e-832a94a7445c.png",
-      "publishedAt": "2026-10-27T11:11:33Z"
+      "title": "Flávio Bolsonaro's passports cancelled after he fails to surrender them",
+      "summary": "The defeated presidential candidate is under investigation for alleged money laundering and barred from leaving Brazil.",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c0d/live/6e225510-d226-11f1-b8e4-17c9744a7f8e.jpg",
+      "publishedAt": "2026-10-27T17:08:24Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62a7/live/0a738c90-d1fa-11f1-8c9f-8d21fef6ffad.jpg",
+      "publishedAt": "2026-10-27T18:28:23Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
+      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af90/live/ca109650-d1b0-11f1-93f3-e3ba7480d857.jpg",
+      "publishedAt": "2026-10-27T15:13:24Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
+      "summary": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f138/live/2d67b730-d204-11f1-b441-2b33b063138f.png",
+      "publishedAt": "2026-10-27T14:29:39Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg",
+      "publishedAt": "2026-10-27T13:25:54Z"
     },
     {
       "category": "World",
@@ -74,67 +110,31 @@
       "publishedAt": "2026-10-27T01:46:38Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-      "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
-      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af90/live/ca109650-d1b0-11f1-93f3-e3ba7480d857.jpg",
-      "publishedAt": "2026-10-27T11:53:57Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
-      "summary": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/309b/live/f7a08cb0-d1a1-11f1-9ca8-7ff2fe25f975.jpg",
-      "publishedAt": "2026-10-27T02:40:17Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Ex-FBI chief James Comey faces federal charges for third time",
-      "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21c9/live/16bb9ba0-d187-11f1-8d7e-c9ff4ede405b.jpg",
-      "publishedAt": "2026-10-27T11:44:54Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Jay-Z to perform at Super Bowl half-time show",
-      "summary": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d63/live/e4feb0b0-d1d2-11f1-a701-fddedf244c16.jpg",
-      "publishedAt": "2026-10-27T05:05:15Z"
-    },
-    {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "Scotland's recycling rates fall to lowest level in five years",
-      "summary": "Environmental regulator Sepa says households recycled 42.8% of waste in 2025 - down from 44.3% the previous year.",
-      "url": "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8931/live/e4ac55b0-d1f8-11f1-8c9f-8d21fef6ffad.jpg",
-      "publishedAt": "2026-10-27T12:22:49Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "New weather warning as third storm hits Scotland",
-      "summary": "The country is braced for the third storm in as many days as communities continue to clean up after the weekend.",
+      "title": "Weather warning lifted as third storm to hit Scotland eases off",
+      "summary": "Several thousand properties in the north of Scotland are still without power after days of high winds and heavy rain.",
       "url": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aba6/live/8eb52fa0-d14a-11f1-9eb5-811878e0f07d.jpg",
-      "publishedAt": "2026-10-27T12:20:35Z"
+      "publishedAt": "2026-10-27T18:09:24Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "What is Nasa's Artemis III mission? And what comes next?",
-      "summary": "Artemis III will help test crucial systems needed for the planned Artemis IV Moon landing in 2028.",
-      "url": "https://www.bbc.co.uk/news/articles/cr5j40ezgz4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50dc/live/8ebfb300-2d1f-11f1-b297-95b0a0a8331e.jpg",
-      "publishedAt": "2026-10-27T10:33:26Z"
+      "title": "Will a new strategy help protect Northern Ireland's nature?",
+      "summary": "About 40% of the plants and animals in protected sites across Northern Ireland fall short of meeting the standard for \"favourable condition\".",
+      "url": "https://www.bbc.co.uk/news/articles/cq0megg87n3po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da92/live/f806aa70-d202-11f1-b3b6-c1e79e957e40.jpg",
+      "publishedAt": "2026-10-27T17:51:13Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Nanotyrannus skeleton sells for $47.3m in New York auction",
+      "summary": "The sale of the rare skeleton reignites debate in the scientific community about whether dinosaur remains should end up in private hands or public view.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a42/live/20bef180-d22a-11f1-b441-2b33b063138f.jpg",
+      "publishedAt": "2026-10-27T17:10:15Z"
     },
     {
       "category": "Science & Tech",
@@ -165,7 +165,6 @@
     }
   ],
   "feedErrors": [
-    "The Union: HTTP Error 429: Too Many Requests",
     "ESPN: no element found: line 1, column 0"
   ]
 }
