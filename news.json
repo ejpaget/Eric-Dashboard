@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T05:37:21.678058Z",
+  "updatedAt": "2026-10-29T11:43:15.610140Z",
   "stories": [
     {
       "category": "Local",
@@ -8,7 +8,7 @@
       "summary": "4 people arrested in relation to man's death at Grass Valley park KCRA",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVURzaEtWZDU5RzdOQ3pieWhrQ3RPRXpDTF9QNnk4dk8xMDB6ZTVsN1VFWkR4Ny02cXA3UnU0NXV6RDBhUTExay1YQUc0NHM2dU5BR0c1TlEzYUZKQ0hZYXJhX1lZWV9zN2RhQzF5MVJGU0h3MFA5aHE2VjlHVmM5VmdISjlIazFBX2EtWg?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-10-29T02:14:00Z"
+      "publishedAt": "2026-10-29T06:14:00Z"
     },
     {
       "category": "Local",
@@ -31,6 +31,15 @@
     {
       "category": "Local",
       "source": "Legacy | Obituary",
+      "title": "Anthony Clarabut Obituary (1953 - 2026) - Grass Valley, CA - The Union - Legacy | Obituary",
+      "summary": "Anthony Clarabut Obituary (1953 - 2026) - Grass Valley, CA - The Union Legacy | Obituary",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLVEtUnllLVhjVXR6dXBBY29meHVkU1VoWVkxUDR6YkhWbVdwMU4xSVoxdjJaemdkXzVJWUVFdVVvXzJ4Y1dXWmZabUR6S19QdUJoWnVvb2gyS3hCM1pIWVNuNlB2c1VNSG04NU1YUHBsWlJHckZLSWN6dEprVXl3bVctRHQyZ1FBanVpTHl0aHVFZw?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-10-29T10:52:30Z"
+    },
+    {
+      "category": "Local",
+      "source": "Legacy | Obituary",
       "title": "Glenn Higgins Obituary (1980 - 2026) - Grass Valley, CA - The Union - Legacy | Obituary",
       "summary": "Glenn Higgins Obituary (1980 - 2026) - Grass Valley, CA - The Union Legacy | Obituary",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdGNmT2FoVkpDTVBRY3VDV1NNZVFZeDA0NEszcjlqM092ZDMwNFYtckozS0hVQ0N3VDJzTkYtTER2cFhaUmpsSE5zdUIybUx4RGprZHVKYzd4bWZZcDJtYUZBVTZsSm9iVkdfeXpINzhHd0pWMzhhVUhtU0VLTTBFWGdUZVd3aTVRVkJ6VjNn?oc=5",
@@ -47,31 +56,13 @@
       "publishedAt": "2026-08-27T02:44:13Z"
     },
     {
-      "category": "Local",
-      "source": "IQAir",
-      "title": "Grass Valley Air Quality Index (AQI) and USA Air Pollution - IQAir",
-      "summary": "Grass Valley Air Quality Index (AQI) and USA Air Pollution IQAir",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uM0hpLUhNaUt6RUZzVW9hVnIxZTEzXy1OVVFmZGIwdlZRZEZCOFlKbUVUWUhSek1EamNLS3hHbThIQTluVmI1RjJnQmlRdUZSaUV2a0lqbGNzSFdlY01sQWdMR21iMENTR1JiMEV3?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-06-23T01:40:03Z"
-    },
-    {
       "category": "World",
       "source": "BBC News",
-      "title": "High-speed train crash kills at least 68 people in Spain",
-      "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c0f/live/1f7e90f0-d2e8-11f1-8d86-83eebc838351.jpg",
-      "publishedAt": "2026-10-28T21:38:54Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-      "summary": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2148/live/b9f2de90-d31d-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-10-28T21:24:41Z"
+      "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+      "summary": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dc9/live/708f0da0-d34a-11f1-8a05-59afc813496d.jpg",
+      "publishedAt": "2026-10-29T11:07:35Z"
     },
     {
       "category": "World",
@@ -86,28 +77,46 @@
       "category": "World",
       "source": "BBC News",
       "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "summary": "With 93% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
       "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3381/live/719a4410-d2f2-11f1-8d86-83eebc838351.jpg",
-      "publishedAt": "2026-10-28T20:24:39Z"
+      "publishedAt": "2026-10-29T11:22:18Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "How could Israel break election deadlock? Here are four scenarios",
-      "summary": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c6a/live/eef90440-d2d5-11f1-b677-b762d2f83f6e.jpg",
-      "publishedAt": "2026-10-28T14:30:31Z"
+      "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
+      "summary": "The term \"associate member\" is reportedly off the table as officials discuss deeper economic and defence ties.",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0304/live/98070ac0-d2e8-11f1-8d86-83eebc838351.jpg",
+      "publishedAt": "2026-10-29T09:51:06Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Girl seriously injured in wolf attack at German wildlife park",
-      "summary": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
-      "url": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad45/live/27f788a0-d30f-11f1-ad4f-5d2bbacf0caf.jpg",
-      "publishedAt": "2026-10-28T22:08:52Z"
+      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/836b/live/07facba0-d37f-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-10-29T11:27:05Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Details of thousands of US immigration agents leaked in major hack",
+      "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+      "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c03/live/2996f1b0-d318-11f1-ba7d-b5eab6da6837.jpg",
+      "publishedAt": "2026-10-29T01:30:43Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Serious pollution by water industry remains high despite £5bn investment",
+      "summary": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets.",
+      "url": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ee/live/a45ae8b0-d37d-11f1-bf63-739fb2907d03.jpg",
+      "publishedAt": "2026-10-29T10:45:01Z"
     },
     {
       "category": "Science & Tech",
@@ -129,12 +138,12 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Will a new strategy help protect Northern Ireland's nature?",
-      "summary": "About 40% of the plants and animals in protected sites across Northern Ireland fall short of meeting the standard for \"favourable condition\".",
-      "url": "https://www.bbc.co.uk/news/articles/cq0megg87n3po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da92/live/f806aa70-d202-11f1-b3b6-c1e79e957e40.jpg",
-      "publishedAt": "2026-10-27T17:51:13Z"
+      "source": "BBC Technology",
+      "title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
+      "summary": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ca/live/2bf1c250-d2af-11f1-a05d-41eb870c7a5f.jpg",
+      "publishedAt": "2026-10-29T09:31:44Z"
     },
     {
       "category": "Science & Tech",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0364/live/44d987f0-d32a-11f1-b0c3-4b2ce0e9f02a.jpg",
       "publishedAt": "2026-10-29T01:27:40Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
-      "summary": "The Russian President praised Musk and said they are in \"close\" contact.",
-      "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a4e/live/248d87d0-d2fd-11f1-8091-57f2713cabe8.jpg",
-      "publishedAt": "2026-10-28T19:15:58Z"
     }
   ],
   "feedErrors": [
