@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T15:50:27.359837Z",
+  "updatedAt": "2026-10-30T20:41:45.999386Z",
   "stories": [
     {
       "category": "Local",
@@ -48,12 +48,21 @@
     },
     {
       "category": "Local",
-      "source": "Legacy | Obituary",
-      "title": "Glenn Higgins Obituary (1980 - 2026) - Grass Valley, CA - The Union - Legacy | Obituary",
-      "summary": "Glenn Higgins Obituary (1980 - 2026) - Grass Valley, CA - The Union Legacy | Obituary",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdGNmT2FoVkpDTVBRY3VDV1NNZVFZeDA0NEszcjlqM092ZDMwNFYtckozS0hVQ0N3VDJzTkYtTER2cFhaUmpsSE5zdUIybUx4RGprZHVKYzd4bWZZcDJtYUZBVTZsSm9iVkdfeXpINzhHd0pWMzhhVUhtU0VLTTBFWGdUZVd3aTVRVkJ6VjNn?oc=5",
+      "source": "WorldAtlas",
+      "title": "The Towns In Northern California Where Retirees Are Actually Moving To - WorldAtlas",
+      "summary": "The Towns In Northern California Where Retirees Are Actually Moving To WorldAtlas",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTTNEMVpzTEdSY0gzOUVYMFFqLXQ3VXVrbkwzLW5xYTZjR3lXNF9MMmozcC0wcGgxUkZaa2NjZmEyXzhrUzNKWTUwZklIa1pqaFRtX3RQSXV1b3laRjhSdVNUUENJU3hTLXJwRlhHLS12U2hfWmlmWVRsZ3pheTVNMnd3azloR2VoSGRpVzhwM2xHVG15QUttM0ZZQ0tIdWZTSkJEb182QVN6ajVXZVE?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-10-28T10:49:12Z"
+      "publishedAt": "2026-10-24T21:00:00Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg",
+      "publishedAt": "2026-10-30T20:10:56Z"
     },
     {
       "category": "World",
@@ -62,16 +71,16 @@
       "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
       "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/c1455920-d46c-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-10-30T14:19:43Z"
+      "publishedAt": "2026-10-30T17:07:19Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-      "summary": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
+      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+      "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
       "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c61c/live/cae6b6f0-d461-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-10-30T12:25:53Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21db/live/aec4b500-d482-11f1-a701-fddedf244c16.jpg",
+      "publishedAt": "2026-10-30T16:26:11Z"
     },
     {
       "category": "World",
@@ -99,15 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8a0/live/e3a84f00-d470-11f1-9dda-1ba6fcc7d159.jpg",
       "publishedAt": "2026-10-30T14:48:22Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "US tech stocks see sharp falls over AI cost fears",
-      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
-      "publishedAt": "2026-10-30T15:46:28Z"
     },
     {
       "category": "Science & Tech",
@@ -139,11 +139,11 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "US tech stocks see sharp falls over AI cost fears",
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
       "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
       "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
-      "publishedAt": "2026-10-30T15:46:28Z"
+      "publishedAt": "2026-10-30T20:34:46Z"
     },
     {
       "category": "Science & Tech",
