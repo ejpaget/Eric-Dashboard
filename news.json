@@ -1,59 +1,68 @@
 {
-  "updatedAt": "2026-10-30T20:41:45.999386Z",
+  "updatedAt": "2026-10-31T00:42:17.273275Z",
   "stories": [
     {
       "category": "Local",
-      "source": "KCRA",
-      "title": "4 people arrested in relation to man's death at Grass Valley park - KCRA",
-      "summary": "4 people arrested in relation to man's death at Grass Valley park KCRA",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVURzaEtWZDU5RzdOQ3pieWhrQ3RPRXpDTF9QNnk4dk8xMDB6ZTVsN1VFWkR4Ny02cXA3UnU0NXV6RDBhUTExay1YQUc0NHM2dU5BR0c1TlEzYUZKQ0hZYXJhX1lZWV9zN2RhQzF5MVJGU0h3MFA5aHE2VjlHVmM5VmdISjlIazFBX2EtWg?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-10-29T02:15:00Z"
+      "source": "The Union",
+      "title": "On the bright side of history: 'Solar Roots' documentary to shine a light on Nevada County's solar energy background",
+      "summary": "Long before solar panels became a common sight on California rooftops, a group of independent-minded innovators were already experimenting with ways to harness the sun for electricity.",
+      "url": "https://www.theunion.com/news/on-the-bright-side-of-history-solar-roots-documentary-to-shine-a-light-on-nevada/article_cb19f9d6-f65b-46f0-9560-ff62c6190798.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/5/bb/5bbab747-e866-48c1-a47e-863164037594/6ae3c317b0468.image.png?resize=300%2C180",
+      "publishedAt": "2026-10-30T10:45:00Z"
     },
     {
       "category": "Local",
-      "source": "YubaNet",
-      "title": "Arrests Made by Grass Valley Police in November Condon Park Homicide - YubaNet",
-      "summary": "Arrests Made by Grass Valley Police in November Condon Park Homicide YubaNet",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSi1HczhOVFhxNXEwQnNjNHlhZDhUVlpqVHVjM1RfVlREZGozQmFOamJOZy1meVktS09WeHA3YllodWxlMTg3QU5QQ1lqcXk4U2pscVRnZlRLcVF0aWVyWWlEd3FqYVpES3ZSOGFXYlJIWEZOUEYwTk9jNEQ4aWdhMll1aWJyREZTc0lqcF85NXlhWHFGZEZrb3llNzdwcW8?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-10-28T23:47:51Z"
+      "source": "The Union",
+      "title": "City council dissolves Grass Valley Historical Commission, merges duties with DRC",
+      "summary": "During Tuesday’s Grass Valley City Council meeting, the council unanimously voted to dissolve the city’s Historical Commission as it currently exists, and merge its influence with the city’s Development Review Committee (DRC).",
+      "url": "https://www.theunion.com/news/city-council-dissolves-grass-valley-historical-commission-merges-duties-with-drc/article_8cf4a1cc-9c58-40e7-9556-1e5238db07a8.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/a/c4/ac47f947-7d9f-4470-aa27-63e293925ca8/67fecb8b673fe.image.jpg?resize=300%2C204",
+      "publishedAt": "2026-10-30T10:00:00Z"
     },
     {
       "category": "Local",
-      "source": "Nevada County (.gov)",
-      "title": "Help Shape a More Accessible Grass Valley Library - Nevada County (.gov)",
-      "summary": "Help Shape a More Accessible Grass Valley Library Nevada County (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BeWNsLWVMV3VLZVBJbDFjR2xoTGVPaWpkVUsyQWlqSkZrd2xhNmZadXIxNlB5UzA5N1NXNl8wV1cyVmNZVk1uRXEySFJ5eW9JMldjb0ZGTENGRFNLU3B5MGVueVBCQWM2Wldn?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-10-29T03:45:27Z"
+      "source": "The Union",
+      "title": "Jr. Miners plaster Placer, gear up for playoffs",
+      "summary": "The Nevada Union Jr. Miners wrapped the regular season with a stellar effort against the rival Placer Jr. Hillmen, earning victories in three of four contests Saturday at Placer High School’s LeFebvre Stadium.",
+      "url": "https://www.theunion.com/sports/jr-miners-plaster-placer-gear-up-for-playoffs/article_0dc1da8a-f272-475c-a4d1-769c5b8d8d4a.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/a/7c/a7c64886-4f79-4226-a513-c9bf2993dc1d/6ae3b07ec5d6f.image.jpg?resize=300%2C186",
+      "publishedAt": "2026-10-30T09:45:00Z"
     },
     {
       "category": "Local",
-      "source": "ABC10",
-      "title": "Grass Valley police arrest 4 in Condon Park homicide - ABC10",
-      "summary": "Grass Valley police arrest 4 in Condon Park homicide ABC10",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRVpYOG43ek0zM2xxVUZkQU9tTnZoTkxMM2txSVdwNHBBS1Jqb2tBaFlETlVqRFVVZ3FoUm1GVmFQOWpZWHUxZEhjNE1JbVZQcE9tQWNqd1R5dDBMcHM1MEJTOU1IQ0FjOWR3dldwSFdDSEZRZHRwdUNnOHA2UnVkOTFUSk90bHFJSGpDYm1LZ2I2eUxrMFFzZlNPM0czc3Z4WV9QNVBPSHdWN0FsQUZBRk85NzRBWU1DX003QWFtaHB1ZjgzWVh3SXVtYVJUbEE?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-10-29T02:33:00Z"
+      "source": "The Union",
+      "title": "A world of wonder: Local author explores the strange, mysterious, and unexplained in new book",
+      "summary": "For New York Times bestselling author Jonathan Robinson, a childhood spent navigating family conflict led him to mull over an unexpected question: What if the mind could offer a way to see the world differently?",
+      "url": "https://www.theunion.com/news/a-world-of-wonder-local-author-explores-the-strange-mysterious-and-unexplained-in-new-book/article_07fb32c3-2ef6-498e-b296-763e2cbecd0f.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/9/62/962f71e5-0775-4fe9-acdd-398f3210cdae/6ae12df52350c.image.jpg?resize=300%2C400",
+      "publishedAt": "2026-10-30T09:45:00Z"
     },
     {
       "category": "Local",
-      "source": "CBS News",
-      "title": "4 arrested in connection to deadly 2025 altercation at Grass Valley park - CBS News",
-      "summary": "4 arrested in connection to deadly 2025 altercation at Grass Valley park CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaHVRb3AxeGdXaTZ4N3lDYXlLQk1OU05NMnNKZWFCbFBzalJScjJsM2NxM1J2QVZYQkJ2QUdzNzJSRE1kSllWUjVqN1JKbkc0N2hObFJXaDAwdjY3Rnk1Um5tOGFheS1BU2hBZi1ET284V1B5Q05aY3c5OEFQcHFhdzVmM1ZtdUxHUnRia1pVSUxuS1lOeXhfVy1wS2NPRnIwemhWdk5kU0NnLVVhNnVoUWVxdG9LODhPZEdB?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-10-29T01:11:00Z"
+      "source": "The Union",
+      "title": "Denis Peirce: A bumpy day on Stampede",
+      "summary": "The first two weeks of November are peak time for brown trout fishing in the Sierra. The water temperature has dropped into the lower 50's and the browns can be in a pre-spawn feeding mood. Recently there have been a…",
+      "url": "https://www.theunion.com/lifestyles/denis-peirce-a-bumpy-day-on-stampede/article_3835a3ce-c453-45a8-a6b9-0ccc052eea41.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/e/6d/e6dc787c-b2eb-4c86-94b3-294bc4098a8f/6ae3704d8a958.image.jpg?resize=300%2C200",
+      "publishedAt": "2026-10-30T09:30:00Z"
     },
     {
       "category": "Local",
-      "source": "WorldAtlas",
-      "title": "The Towns In Northern California Where Retirees Are Actually Moving To - WorldAtlas",
-      "summary": "The Towns In Northern California Where Retirees Are Actually Moving To WorldAtlas",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTTNEMVpzTEdSY0gzOUVYMFFqLXQ3VXVrbkwzLW5xYTZjR3lXNF9MMmozcC0wcGgxUkZaa2NjZmEyXzhrUzNKWTUwZklIa1pqaFRtX3RQSXV1b3laRjhSdVNUUENJU3hTLXJwRlhHLS12U2hfWmlmWVRsZ3pheTVNMnd3azloR2VoSGRpVzhwM2xHVG15QUttM0ZZQ0tIdWZTSkJEb182QVN6ajVXZVE?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-10-24T21:00:00Z"
+      "source": "The Union",
+      "title": "City of Grass Valley to host green waste, e-waste and bulky item drop-off event",
+      "summary": "City of Grass Valley residents are invited to drop off one pickup truck of green waste, e-waste, and bulky items free of charge at Condon Park on Saturday, Nov. 7 from 9 a.m. to 1:30 p.m. City residents are encouraged…",
+      "url": "https://www.theunion.com/news/city-of-grass-valley-to-host-green-waste-e-waste-and-bulky-item-drop-off/article_28cfb51b-c2f9-41b7-9c47-22bc5be26bfd.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/f/d3/fd306cc3-a412-49ec-bf2d-02e253453a17/6ae3807a02581.image.jpg?resize=300%2C225",
+      "publishedAt": "2026-10-30T09:00:00Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg",
+      "publishedAt": "2026-10-31T00:40:43Z"
     },
     {
       "category": "World",
@@ -62,7 +71,7 @@
       "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
       "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-10-30T20:10:56Z"
+      "publishedAt": "2026-10-30T21:13:14Z"
     },
     {
       "category": "World",
@@ -85,29 +94,29 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6c2/live/46cc2780-d49b-11f1-a701-fddedf244c16.jpg",
+      "publishedAt": "2026-10-30T20:52:01Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
       "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
       "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13b1/live/6aa032d0-d44d-11f1-bfc7-afe23fc6cf5b.jpg",
-      "publishedAt": "2026-10-30T11:23:06Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b85a/live/484c0a90-d4b8-11f1-a701-fddedf244c16.jpg",
+      "publishedAt": "2026-10-30T20:41:51Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-      "summary": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d136/live/66f1d300-d45c-11f1-a701-fddedf244c16.jpg",
-      "publishedAt": "2026-10-30T15:03:39Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-      "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
-      "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8a0/live/e3a84f00-d470-11f1-9dda-1ba6fcc7d159.jpg",
-      "publishedAt": "2026-10-30T14:48:22Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "UK could see 10 days without rain after 'wettest week in two years'",
+      "summary": "With high pressure developing across the UK, the start of November is looking very settled with no significant rain in the forecast.",
+      "url": "https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8a4/live/d7b9f090-d452-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-10-31T00:06:31Z"
     },
     {
       "category": "Science & Tech",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/weather/articles/c6ly075l742ro?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec46/live/44508980-d435-11f1-b441-2b33b063138f.jpg",
       "publishedAt": "2026-10-30T06:18:35Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Largest woodland bat survey a 'nice story of AI for good'",
-      "summary": "Some of Britain's rarest and most threatened bats have been recorded in the south-west of England.",
-      "url": "https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92f8/live/fbb3c410-d39b-11f1-a012-7186932b0251.jpg",
-      "publishedAt": "2026-10-30T06:10:43Z"
     },
     {
       "category": "Science & Tech",
@@ -165,7 +165,6 @@
     }
   ],
   "feedErrors": [
-    "The Union: HTTP Error 429: Too Many Requests",
     "ESPN: no element found: line 1, column 0"
   ]
 }
