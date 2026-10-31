@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T17:54:28.689060Z",
+  "updatedAt": "2026-10-31T21:26:29.948545Z",
   "stories": [
     {
       "category": "Local",
@@ -58,11 +58,29 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/053a/live/d1a9e840-d54c-11f1-bcb7-8f812b44c2e5.jpg",
+      "publishedAt": "2026-10-31T19:22:26Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
       "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
       "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg",
       "publishedAt": "2026-10-31T17:53:35Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Clashes erupt between police and protesters in Paris",
+      "summary": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services.",
+      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9670/live/78247d30-d560-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-10-31T19:37:43Z"
     },
     {
       "category": "World",
@@ -85,29 +103,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Police deployed during stand-off over control of top Poland court",
-      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/308f/live/f44b1080-d50c-11f1-9db5-95ff6e967be3.jpg",
-      "publishedAt": "2026-10-31T01:11:43Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Ethiopian PM puts ministers through military training",
       "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
       "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edb0/live/55b5ceb0-d534-11f1-b64c-03717a6e5b71.jpg",
       "publishedAt": "2026-10-31T14:28:15Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Spain train disaster clouds Sánchez chances of re-election",
-      "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
-      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a970/live/20e78ee0-d4ed-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-10-31T05:44:21Z"
     },
     {
       "category": "Science & Tech",
