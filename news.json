@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T13:35:09.840393Z",
+  "updatedAt": "2026-10-31T17:54:28.689060Z",
   "stories": [
     {
       "category": "Local",
@@ -58,29 +58,29 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
-      "summary": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
       "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ec/live/4e7bd090-d516-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-10-31T13:12:46Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg",
+      "publishedAt": "2026-10-31T17:53:35Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg",
-      "publishedAt": "2026-10-31T12:21:25Z"
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
+      "publishedAt": "2026-10-31T16:32:08Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-      "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
-      "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-10-31T02:12:19Z"
+      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5071/live/dc9ee270-d531-11f1-866a-b522399149a0.jpg",
+      "publishedAt": "2026-10-31T15:16:20Z"
     },
     {
       "category": "World",
@@ -94,6 +94,15 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Ethiopian PM puts ministers through military training",
+      "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edb0/live/55b5ceb0-d534-11f1-b64c-03717a6e5b71.jpg",
+      "publishedAt": "2026-10-31T14:28:15Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "Spain train disaster clouds Sánchez chances of re-election",
       "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
       "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
@@ -101,13 +110,13 @@
       "publishedAt": "2026-10-31T05:44:21Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "summary": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa3e/live/bc4ea460-d487-11f1-80bc-6d398902272f.jpg",
-      "publishedAt": "2026-10-30T22:11:52Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Bute House protested by environmental campaigners",
+      "summary": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh.",
+      "url": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b14/live/e53f9f80-d52e-11f1-866a-b522399149a0.jpg",
+      "publishedAt": "2026-10-31T13:41:07Z"
     },
     {
       "category": "Science & Tech",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8a4/live/d7b9f090-d452-11f1-93e1-3b657b665bcf.jpg",
       "publishedAt": "2026-10-31T00:06:31Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Six dead after helicopter crashes in northern Indian state",
-      "summary": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
-      "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6da/live/dd357d00-d448-11f1-97f9-27ebf08d99fe.jpg",
-      "publishedAt": "2026-10-30T15:06:05Z"
     },
     {
       "category": "Science & Tech",
