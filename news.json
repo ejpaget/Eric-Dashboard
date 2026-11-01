@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T06:46:27.484010Z",
+  "updatedAt": "2026-11-01T14:13:34.809315Z",
   "stories": [
     {
       "category": "Local",
@@ -21,15 +21,6 @@
     },
     {
       "category": "Local",
-      "source": "WorldAtlas",
-      "title": "The Best Towns to Retire In California Near a State Park - WorldAtlas",
-      "summary": "The Best Towns to Retire In California Near a State Park WorldAtlas",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNTN5dzZUTkxXM3RESmFONTR5a1NYU0FXamdyaVdhT1ZTbzNxTlNtVUJxeWVuNl9tRnRYb3NxTVdKdDJqQlZyWXpRZjJueUZ3MENRSmM5WEw3enRlMEpCSkxGRlVoZmNYZkN5TjdlOENtZWdVYjVaWnI3TXNDQVFjUTlVS01sTDVHM0lCLUpyVnhyMGE2WkpSdW5B?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-10-31T21:00:00Z"
-    },
-    {
-      "category": "Local",
       "source": "Nevada County (.gov)",
       "title": "Help Shape a More Accessible Grass Valley Library - Nevada County (.gov)",
       "summary": "Help Shape a More Accessible Grass Valley Library Nevada County (.gov)",
@@ -48,6 +39,15 @@
     },
     {
       "category": "Local",
+      "source": "WorldAtlas",
+      "title": "The Best Towns to Retire In California Near a State Park - WorldAtlas",
+      "summary": "The Best Towns to Retire In California Near a State Park WorldAtlas",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNTN5dzZUTkxXM3RESmFONTR5a1NYU0FXamdyaVdhT1ZTbzNxTlNtVUJxeWVuNl9tRnRYb3NxTVdKdDJqQlZyWXpRZjJueUZ3MENRSmM5WEw3enRlMEpCSkxGRlVoZmNYZkN5TjdlOENtZWdVYjVaWnI3TXNDQVFjUTlVS01sTDVHM0lCLUpyVnhyMGE2WkpSdW5B?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-10-31T21:00:00Z"
+    },
+    {
+      "category": "Local",
       "source": "ABC10",
       "title": "Grass Valley police arrest 4 in Condon Park homicide - ABC10",
       "summary": "Grass Valley police arrest 4 in Condon Park homicide ABC10",
@@ -61,8 +61,26 @@
       "title": "Shops looted as German cost of living protests turn violent",
       "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
       "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1d6/live/e39b2030-d58f-11f1-b151-73ae9f7607e8.jpg",
-      "publishedAt": "2026-11-01T06:30:59Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg",
+      "publishedAt": "2026-11-01T11:57:48Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+      "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cde/live/f5e426a0-d586-11f1-a6a4-9b195a139571.jpg",
+      "publishedAt": "2026-11-01T00:41:24Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "summary": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab52/live/e490a850-d5d2-11f1-8629-7b9503d639be.jpg",
+      "publishedAt": "2026-11-01T07:00:55Z"
     },
     {
       "category": "World",
@@ -89,25 +107,25 @@
       "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
       "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
-      "publishedAt": "2026-10-31T22:11:45Z"
+      "publishedAt": "2026-11-01T13:11:37Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
-      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e057/live/87e1b610-d44e-11f1-8780-edcbf4859104.jpg",
-      "publishedAt": "2026-11-01T00:12:07Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Spill from vandalised home oil tank kills 13 birds",
+      "summary": "A number of birds are also injured after the spill from the oil tank earlier this week.",
+      "url": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43b9/live/727760b0-d47e-11f1-b441-2b33b063138f.jpg",
+      "publishedAt": "2026-11-01T08:57:56Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-      "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
-      "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b724/live/db1d9120-d456-11f1-906a-add2117fe3e6.jpg",
-      "publishedAt": "2026-11-01T00:55:06Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "'Fascinating' rare beetle found in Wales again after 60 years",
+      "summary": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys",
+      "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bc3/live/07a4ce50-d37d-11f1-bf63-739fb2907d03.jpg",
+      "publishedAt": "2026-11-01T07:08:04Z"
     },
     {
       "category": "Science & Tech",
@@ -117,24 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c64g14ene2epo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac4d/live/5c93d360-d450-11f1-8780-edcbf4859104.jpg",
       "publishedAt": "2026-11-01T06:42:13Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "'Rok' solid recognition for Slovenian space scientist",
-      "summary": "Two men from the Armagh Planetarium and Observatory have had asteroids named in their honour in recognition of their work.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5725/live/d37eca10-d3b1-11f1-a340-478c8f3b9e55.jpg",
-      "publishedAt": "2026-11-01T06:35:37Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "'Fascinating' rare beetle found in Wales again after 60 years",
-      "summary": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys",
-      "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7665/live/9d4c36f0-d378-11f1-bf63-739fb2907d03.png",
-      "publishedAt": "2026-10-31T22:07:56Z"
     },
     {
       "category": "Science & Tech",
