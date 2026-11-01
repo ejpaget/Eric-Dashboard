@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T21:26:29.948545Z",
+  "updatedAt": "2026-11-01T00:23:48.738544Z",
   "stories": [
     {
       "category": "Local",
@@ -76,20 +76,29 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Clashes erupt between police and protesters in Paris",
-      "summary": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services.",
+      "title": "Thousands demonstrate in Paris as protests spread across Europe",
+      "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
       "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9670/live/78247d30-d560-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-10-31T19:37:43Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d3a/live/6230e120-d570-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-10-31T21:29:01Z"
     },
     {
       "category": "World",
       "source": "BBC News",
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
+      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
       "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
-      "publishedAt": "2026-10-31T16:32:08Z"
+      "publishedAt": "2026-10-31T22:11:45Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e057/live/87e1b610-d44e-11f1-8780-edcbf4859104.jpg",
+      "publishedAt": "2026-11-01T00:12:07Z"
     },
     {
       "category": "World",
@@ -101,13 +110,13 @@
       "publishedAt": "2026-10-31T15:16:20Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Ethiopian PM puts ministers through military training",
-      "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edb0/live/55b5ceb0-d534-11f1-b64c-03717a6e5b71.jpg",
-      "publishedAt": "2026-10-31T14:28:15Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "'Fascinating' rare beetle found in Wales again after 60 years",
+      "summary": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys",
+      "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7665/live/9d4c36f0-d378-11f1-bf63-739fb2907d03.png",
+      "publishedAt": "2026-10-31T22:07:56Z"
     },
     {
       "category": "Science & Tech",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c07/live/57283d20-d4b5-11f1-a58c-6d26609b0a57.jpg",
       "publishedAt": "2026-10-31T01:27:05Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "UK could see 10 days without rain after 'wettest week in two years'",
-      "summary": "With high pressure developing across the UK, the start of November is looking very settled with no significant rain in the forecast.",
-      "url": "https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8a4/live/d7b9f090-d452-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-10-31T00:06:31Z"
     },
     {
       "category": "Science & Tech",
