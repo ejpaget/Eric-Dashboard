@@ -1,23 +1,104 @@
 {
-  "updatedAt": "2026-11-03T02:37:06.625833Z",
+  "updatedAt": "2026-11-03T10:00:54.316240Z",
   "stories": [
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png",
-      "publishedAt": "2026-11-03T01:56:27Z"
+      "category": "Local",
+      "source": "The Union",
+      "title": "Nevada County Police Blotter: Theft of copper wiring reported",
+      "summary": "Friday",
+      "url": "https://www.theunion.com/news/nevada-county-police-blotter-theft-of-copper-wiring-reported/article_bee4f1a7-d733-4f83-94ad-b9d9f725e170.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/4/a3/4a305518-8666-11ed-9178-e76d559c302f/63abc349d95d6.image.jpg?resize=300%2C198",
+      "publishedAt": "2026-11-03T10:00:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "Way to glow!: Western banded glow worms on Critter Chat, Nov. 4, 6:30 p.m. on KVMR",
+      "summary": "Several glow worms exist in California, have you seen one? Glow worms are a female larviform of some species of beetles, and in this episode, we focus on the Western Banded Glow Worm, a California native in the family Phengodidae.",
+      "url": "https://www.theunion.com/news/way-to-glow-western-banded-glow-worms-on-critter-chat-nov-4-6-30-p/article_eb847d5e-0ec8-4a53-a9f5-10d57866726b.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/a/56/a565bc4c-ea23-403f-8af0-d1535ab34656/6ae8df23b49ac.image.png?resize=300%2C243",
+      "publishedAt": "2026-11-03T10:00:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "Mule Spring Historical Landmark dedicated",
+      "summary": "An enthusiastic group — including local author Gage McKinney, a descendant of lead rescuer Aquilla Glover, who took part in the 1847 Donner Relief Parties —gathered on Friday, October 30, to dedicate the Mule Spring historic site and unveil its…",
+      "url": "https://www.theunion.com/news/mule-spring-historical-landmark-dedicated/article_a0265057-49db-41b8-a639-d6361729aa0e.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/3/1d/31d6afcd-ab98-41d1-9274-a3595ee70a46/6ae8cf5953bd7.image.jpg?resize=300%2C352",
+      "publishedAt": "2026-11-03T10:00:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "Ideas & Opinions — George Boardman: A shooting range is not the real world, and annoying customers",
+      "summary": "Construction has begun on the county’s new shooting range in Nevada City, an achievement Sheriff Shannan Moon considers the “most important project of her career.”",
+      "url": "https://www.theunion.com/news/community/ideas-opinions-george-boardman-a-shooting-range-is-not-the-real-world-and-annoying-customers/article_74e16e68-2d34-4c36-bd03-6b8287b77d9a.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/c/70/c70fed7a-8b3c-11ed-a65d-af399c903ab0/63b3e130269a4.image.jpg?resize=300%2C375",
+      "publishedAt": "2026-11-03T09:00:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "Ideas & Opinions — Andrew Klein: Competition of ideas is not politicizing school boards",
+      "summary": "George Boardman wrote on Oct. 20 that \"there was a time\" when school trustee races were nonpartisan, and that those days have been \"tossed aside in favor of a pitched political battle.\" He is right about the battle. He is…",
+      "url": "https://www.theunion.com/news/community/ideas-opinions-andrew-klein-competition-of-ideas-is-not-politicizing-school-boards/article_844759ae-2574-4e44-9050-05dbba4f84d5.html",
+      "imageUrl": "",
+      "publishedAt": "2026-11-03T08:45:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "Nevada Union High School Choir performs two Madrigal shows and a Holiday Concert",
+      "summary": "The Nevada Union High School Choir, under the direction of Conor Jamison, is excited to announce two popular holiday performances that will spread the spirit of the season and showcase the incredible talent of the students. The performances include the…",
+      "url": "https://www.theunion.com/entertainment/nevada-union-high-school-choir-performs-two-madrigal-shows-and-a-holiday-concert/article_b121580b-37ae-4768-a2a9-157bf44b2c23.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/6/13/61311b75-5ab9-482e-b16a-6f2011939503/6ae9265c98109.image.jpg?resize=300%2C173",
+      "publishedAt": "2026-11-03T00:06:00Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-      "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4086/live/4322ff00-d6f3-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-11-03T00:07:05Z"
+      "title": "Americans head to the polls for elections that could define Trump's closing chapter",
+      "summary": "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him.",
+      "url": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c2d/live/2dcbeb40-d76a-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-11-03T09:29:32Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US strikes Iranian island ahead of midterm elections",
+      "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/935d/live/479e54b0-d745-11f1-b441-2b33b063138f.jpg",
+      "publishedAt": "2026-11-03T03:39:08Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+      "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c3e/live/cffa1c00-d726-11f1-b237-93d5595d4291.jpg",
+      "publishedAt": "2026-11-03T03:32:36Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
+      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png",
+      "publishedAt": "2026-11-03T07:24:12Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Tenerife striker De Miguel dies after on-field collision",
+      "summary": "Tenerife forward Jesus de Miguel dies after suffering an on-field collision during a Spanish second-division match.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae7/live/95eedac0-d76a-11f1-a956-ff083523ef77.jpg",
+      "publishedAt": "2026-11-03T09:09:18Z"
     },
     {
       "category": "World",
@@ -25,35 +106,17 @@
       "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
       "summary": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
       "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b940/live/17a71660-d714-11f1-b19c-4d0080e30e42.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92c9/live/894f8890-d75c-11f1-93e1-3b657b665bcf.jpg",
       "publishedAt": "2026-11-03T00:08:14Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Shop freezers in seven European countries hit by cyber-attack",
-      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-11-02T17:38:11Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-      "summary": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5be/live/174cc760-d6d2-11f1-a701-fddedf244c16.jpg",
-      "publishedAt": "2026-11-02T17:33:19Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Legal challenge to Australia's social media ban to start in High Court",
-      "summary": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
-      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7af5/live/6a1bb4a0-d67e-11f1-ac3d-edfeb9f7d0aa.jpg",
-      "publishedAt": "2026-11-02T23:37:31Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
+      "summary": "A watchdog has criticised the lack of progress made by organisations in tackling climate change.",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c5e/live/72a9ebc0-d6d6-11f1-b2be-0146bf989691.jpg",
+      "publishedAt": "2026-11-03T08:57:20Z"
     },
     {
       "category": "Science & Tech",
@@ -61,26 +124,26 @@
       "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
       "summary": "The men and women who rummage through commercial bins to take clothes and other items.",
       "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fcb/live/1bb38aa0-d6d7-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-11-03T00:41:36Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb7f/live/0436c4d0-d75b-11f1-b441-2b33b063138f.jpg",
+      "publishedAt": "2026-11-03T07:50:14Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "'Fascinating' rare beetle found in Wales again after 60 years",
-      "summary": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys.",
-      "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bc3/live/07a4ce50-d37d-11f1-bf63-739fb2907d03.jpg",
-      "publishedAt": "2026-11-01T18:04:52Z"
+      "title": "Major study into 'forever chemicals' in people's bodies launched in UK",
+      "summary": "The government is launching the first study to measure PFAS in the UK population to understand the risks.",
+      "url": "https://www.bbc.co.uk/news/articles/cwly4ejrr72mo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fc4/live/e5c68700-d6d4-11f1-b2be-0146bf989691.jpg",
+      "publishedAt": "2026-11-03T07:19:27Z"
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Spill from vandalised home oil tank kills 13 birds",
-      "summary": "A number of birds are also injured after the spill from the oil tank earlier this week.",
-      "url": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43b9/live/727760b0-d47e-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-11-01T08:57:56Z"
+      "source": "BBC Technology",
+      "title": "UK also affected by cyber-attack which hit European supermarket fridges",
+      "summary": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
+      "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
+      "publishedAt": "2026-11-03T09:43:44Z"
     },
     {
       "category": "Science & Tech",
@@ -89,7 +152,7 @@
       "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
       "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg",
-      "publishedAt": "2026-11-03T01:23:03Z"
+      "publishedAt": "2026-11-03T08:33:20Z"
     },
     {
       "category": "Science & Tech",
@@ -98,21 +161,10 @@
       "summary": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
       "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b2b/live/05d33ff0-d71d-11f1-b723-458a2ded4fa2.jpg",
-      "publishedAt": "2026-11-03T00:29:00Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
-      "summary": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
-      "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db6d/live/6afb9b70-d6cd-11f1-ac20-7783925c811f.jpg",
-      "publishedAt": "2026-11-02T18:25:01Z"
+      "publishedAt": "2026-11-03T07:03:03Z"
     }
   ],
   "feedErrors": [
-    "The Union: HTTP Error 429: Too Many Requests",
-    "Google News local results: HTTP Error 503: Service Unavailable",
     "ESPN: no element found: line 1, column 0"
   ]
 }
