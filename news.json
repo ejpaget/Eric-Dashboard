@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T03:10:42.086697Z",
+  "updatedAt": "2026-11-04T11:30:13.011960Z",
   "stories": [
     {
       "category": "Local",
@@ -12,21 +12,21 @@
     },
     {
       "category": "Local",
-      "source": "YubaNet",
-      "title": "Arrests Made by Grass Valley Police in November Condon Park Homicide - YubaNet",
-      "summary": "Arrests Made by Grass Valley Police in November Condon Park Homicide YubaNet",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSi1HczhOVFhxNXEwQnNjNHlhZDhUVlpqVHVjM1RfVlREZGozQmFOamJOZy1meVktS09WeHA3YllodWxlMTg3QU5QQ1lqcXk4U2pscVRnZlRLcVF0aWVyWWlEd3FqYVpES3ZSOGFXYlJIWEZOUEYwTk9jNEQ4aWdhMll1aWJyREZTc0lqcF85NXlhWHFGZEZrb3llNzdwcW8?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-10-28T23:47:51Z"
-    },
-    {
-      "category": "Local",
       "source": "CBS News",
       "title": "4 arrested in connection to deadly 2025 altercation at Grass Valley park - CBS News",
       "summary": "4 arrested in connection to deadly 2025 altercation at Grass Valley park CBS News",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaHVRb3AxeGdXaTZ4N3lDYXlLQk1OU05NMnNKZWFCbFBzalJScjJsM2NxM1J2QVZYQkJ2QUdzNzJSRE1kSllWUjVqN1JKbkc0N2hObFJXaDAwdjY3Rnk1Um5tOGFheS1BU2hBZi1ET284V1B5Q05aY3c5OEFQcHFhdzVmM1ZtdUxHUnRia1pVSUxuS1lOeXhfVy1wS2NPRnIwemhWdk5kU0NnLVVhNnVoUWVxdG9LODhPZEdB?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-10-30T23:06:32Z"
+    },
+    {
+      "category": "Local",
+      "source": "YubaNet",
+      "title": "Arrests Made by Grass Valley Police in November Condon Park Homicide - YubaNet",
+      "summary": "Arrests Made by Grass Valley Police in November Condon Park Homicide YubaNet",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSi1HczhOVFhxNXEwQnNjNHlhZDhUVlpqVHVjM1RfVlREZGozQmFOamJOZy1meVktS09WeHA3YllodWxlMTg3QU5QQ1lqcXk4U2pscVRnZlRLcVF0aWVyWWlEd3FqYVpES3ZSOGFXYlJIWEZOUEYwTk9jNEQ4aWdhMll1aWJyREZTc0lqcF85NXlhWHFGZEZrb3llNzdwcW8?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-10-28T23:47:51Z"
     },
     {
       "category": "Local",
@@ -48,66 +48,75 @@
     },
     {
       "category": "Local",
-      "source": "Nevada County (.gov)",
-      "title": "Supervisors Approve $7 Million Grant-Funded Renovation of Grass Valley Veterans Hall - Nevada County (.gov)",
-      "summary": "Supervisors Approve $7 Million Grant-Funded Renovation of Grass Valley Veterans Hall Nevada County (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kQVkxSm9mOEdraG5lOGtaS2llS1BiaWI3cTlsdHRtME5pRDZrU3FXc0doVUJBXzlTVjYxTlltT0hrMUs2eGgwOFNaTUZxWUZBZml2SE5xU1JKMEptTXZqQUp4ZHFxakJnTkE?oc=5",
+      "source": "ABC10",
+      "title": "Grass Valley police arrest 4 in Condon Park homicide - ABC10",
+      "summary": "Grass Valley police arrest 4 in Condon Park homicide ABC10",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRVpYOG43ek0zM2xxVUZkQU9tTnZoTkxMM2txSVdwNHBBS1Jqb2tBaFlETlVqRFVVZ3FoUm1GVmFQOWpZWHUxZEhjNE1JbVZQcE9tQWNqd1R5dDBMcHM1MEJTOU1IQ0FjOWR3dldwSFdDSEZRZHRwdUNnOHA2UnVkOTFUSk90bHFJSGpDYm1LZ2I2eUxrMFFzZlNPM0czc3Z4WV9QNVBPSHdWN0FsQUZBRk85NzRBWU1DX003QWFtaHB1ZjgzWVh3SXVtYVJUbEE?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-08-27T02:44:13Z"
+      "publishedAt": "2026-10-29T02:33:00Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Spanish transport minister resigns days after deadly train crash",
-      "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61f/live/6dc1cd30-d7c6-11f1-a701-fddedf244c16.jpg",
-      "publishedAt": "2026-11-03T22:45:59Z"
+      "title": "South Carolina elects Democratic senator for first time in almost three decades",
+      "summary": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a3/live/caaae0c0-d822-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-11-04T07:32:02Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Seven flights across Europe targeted by suspected bomb threats",
-      "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db91/live/79069d70-d79d-11f1-84dd-e55f4bec0ecd.png",
-      "publishedAt": "2026-11-03T20:42:47Z"
+      "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+      "summary": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73ea/live/1e2e9940-d836-11f1-a701-fddedf244c16.jpg",
+      "publishedAt": "2026-11-04T05:39:36Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b517/live/8d68c970-d7a0-11f1-84dd-e55f4bec0ecd.jpg",
-      "publishedAt": "2026-11-03T16:19:29Z"
+      "title": "Florida Republicans fend off Democrats as state elects first black governor",
+      "summary": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
+      "url": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee47/live/138d4020-d80b-11f1-915d-779ac405bbbc.jpg",
+      "publishedAt": "2026-11-04T07:12:21Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "NTSB says crucial plane parts found three miles from Florida crash site",
-      "summary": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
-      "url": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c38/live/b5b1d720-d7cb-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-11-03T21:53:38Z"
+      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd62/live/d825bb50-d82f-11f1-a701-fddedf244c16.jpg",
+      "publishedAt": "2026-11-04T10:11:39Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Libya's top religious authority rules against wearing Nike clothes",
-      "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
-      "url": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a365/live/15a45a60-d789-11f1-9440-953b82c8f55a.jpg",
-      "publishedAt": "2026-11-03T14:56:46Z"
+      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+      "summary": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
+      "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f657/live/383e2830-d810-11f1-bc0e-b5a9e0785e4b.jpg",
+      "publishedAt": "2026-11-04T07:39:38Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-      "summary": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a890/live/d92739f0-d778-11f1-9539-05485195b558.jpg",
-      "publishedAt": "2026-11-03T13:55:47Z"
+      "title": "ANC under pressure to reverse South Africa decline",
+      "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb2c/live/fc87dad0-d7aa-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-11-04T00:03:19Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+      "summary": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
+      "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f657/live/383e2830-d810-11f1-bc0e-b5a9e0785e4b.jpg",
+      "publishedAt": "2026-11-04T07:39:38Z"
     },
     {
       "category": "Science & Tech",
@@ -116,7 +125,7 @@
       "summary": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
       "url": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c7/live/a1474180-d7da-11f1-8cb0-d304936875f3.png",
-      "publishedAt": "2026-11-03T23:00:14Z"
+      "publishedAt": "2026-11-04T06:11:43Z"
     },
     {
       "category": "Science & Tech",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c5e/live/72a9ebc0-d6d6-11f1-b2be-0146bf989691.jpg",
       "publishedAt": "2026-11-03T08:57:20Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
-      "summary": "The men and women who rummage through commercial bins to take clothes and other items.",
-      "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb7f/live/0436c4d0-d75b-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-11-03T07:50:14Z"
     },
     {
       "category": "Science & Tech",
