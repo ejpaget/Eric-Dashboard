@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-11-05T00:19:09.798423Z",
+  "updatedAt": "2026-11-05T07:19:12.800998Z",
   "stories": [
+    {
+      "category": "Local",
+      "source": "YubaNet",
+      "title": "Nevada County Election Results Nov. 3 - YubaNet",
+      "summary": "Nevada County Election Results Nov. 3 YubaNet",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05TTJrbXNyb21ZbWczb0V4bUNINXp0WVgtRVRzeHFDOVJEMWprZ1FyXzBzVFh1aEdlUFdDbHhEVlc2c2hvOGZ3c0xiT2FRWDdWX0RHNzg5amU4c1FTMnRneWdCM2x0aUJ4RzlZTlJkRGc3RTNE?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-11-04T08:09:37Z"
+    },
     {
       "category": "Local",
       "source": "Sacramento Bee",
@@ -18,15 +27,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVURzaEtWZDU5RzdOQ3pieWhrQ3RPRXpDTF9QNnk4dk8xMDB6ZTVsN1VFWkR4Ny02cXA3UnU0NXV6RDBhUTExay1YQUc0NHM2dU5BR0c1TlEzYUZKQ0hZYXJhX1lZWV9zN2RhQzF5MVJGU0h3MFA5aHE2VjlHVmM5VmdISjlIazFBX2EtWg?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-10-29T02:15:00Z"
-    },
-    {
-      "category": "Local",
-      "source": "CBS News",
-      "title": "4 arrested in connection to deadly 2025 altercation at Grass Valley park - CBS News",
-      "summary": "4 arrested in connection to deadly 2025 altercation at Grass Valley park CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaHVRb3AxeGdXaTZ4N3lDYXlLQk1OU05NMnNKZWFCbFBzalJScjJsM2NxM1J2QVZYQkJ2QUdzNzJSRE1kSllWUjVqN1JKbkc0N2hObFJXaDAwdjY3Rnk1Um5tOGFheS1BU2hBZi1ET284V1B5Q05aY3c5OEFQcHFhdzVmM1ZtdUxHUnRia1pVSUxuS1lOeXhfVy1wS2NPRnIwemhWdk5kU0NnLVVhNnVoUWVxdG9LODhPZEdB?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-10-30T23:06:32Z"
     },
     {
       "category": "Local",
@@ -48,39 +48,39 @@
     },
     {
       "category": "Local",
-      "source": "WorldAtlas",
-      "title": "The Best Towns to Retire In California Near a State Park - WorldAtlas",
-      "summary": "The Best Towns to Retire In California Near a State Park WorldAtlas",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNTN5dzZUTkxXM3RESmFONTR5a1NYU0FXamdyaVdhT1ZTbzNxTlNtVUJxeWVuNl9tRnRYb3NxTVdKdDJqQlZyWXpRZjJueUZ3MENRSmM5WEw3enRlMEpCSkxGRlVoZmNYZkN5TjdlOENtZWdVYjVaWnI3TXNDQVFjUTlVS01sTDVHM0lCLUpyVnhyMGE2WkpSdW5B?oc=5",
+      "source": "Nevada County (.gov)",
+      "title": "Supervisors Approve $7 Million Grant-Funded Renovation of Grass Valley Veterans Hall - Nevada County (.gov)",
+      "summary": "Supervisors Approve $7 Million Grant-Funded Renovation of Grass Valley Veterans Hall Nevada County (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kQVkxSm9mOEdraG5lOGtaS2llS1BiaWI3cTlsdHRtME5pRDZrU3FXc0doVUJBXzlTVjYxTlltT0hrMUs2eGgwOFNaTUZxWUZBZml2SE5xU1JKMEptTXZqQUp4ZHFxakJnTkE?oc=5",
       "imageUrl": "",
-      "publishedAt": "2026-10-31T21:00:00Z"
+      "publishedAt": "2026-08-27T02:44:13Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-      "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5315/live/41e364b0-d854-11f1-94f3-cf7d1e52bb8c.jpg",
-      "publishedAt": "2026-11-04T13:33:30Z"
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c74/live/1d4cf850-d8e5-11f1-a701-fddedf244c16.jpg",
+      "publishedAt": "2026-11-05T03:47:56Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-      "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c3/live/16cca880-d85f-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-11-04T18:01:31Z"
+      "title": "What Democrats can and can't do with their new power after taking Congress",
+      "summary": "Democrats can vote legislation through. But Trump still has veto power.",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f863/live/48cc8c40-d889-11f1-8203-5d774478c31c.jpg",
+      "publishedAt": "2026-11-04T18:01:27Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f23/live/c9877cb0-d8a1-11f1-93e1-3b657b665bcf.png",
-      "publishedAt": "2026-11-04T22:48:43Z"
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff8f/live/68eb4bf0-d8e4-11f1-a701-fddedf244c16.jpg",
+      "publishedAt": "2026-11-05T06:35:25Z"
     },
     {
       "category": "World",
@@ -94,20 +94,20 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+      "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
+      "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ea/live/eaa602a0-d75b-11f1-8f6b-d71817972456.jpg",
+      "publishedAt": "2026-11-04T23:12:47Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "'Most difficult days of my life' for keeper Owono",
       "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8bd/live/9677ecc0-d86e-11f1-85ab-b3cc3b5498c6.jpg",
       "publishedAt": "2026-11-04T16:40:38Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Israel's president begins consultations with parties after election deadlock",
-      "summary": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
-      "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc51/live/4104b7f0-d869-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-11-04T16:18:21Z"
     },
     {
       "category": "Science & Tech",
