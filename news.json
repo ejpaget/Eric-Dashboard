@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T22:20:10.878912Z",
+  "updatedAt": "2026-11-07T02:19:09.996865Z",
   "stories": [
     {
       "category": "Local",
@@ -112,6 +112,15 @@
     {
       "category": "Science & Tech",
       "source": "BBC Science",
+      "title": "One of the year's most prolific meteor showers to light up the night sky this weekend",
+      "summary": "The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November.",
+      "url": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/797d/live/89b36240-d903-11f1-9c68-d767468fa269.jpg",
+      "publishedAt": "2026-11-07T02:03:28Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
       "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
       "summary": "Rising global temperatures mean extreme weather events are becoming more common and more intense.",
       "url": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
@@ -126,15 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f74b/live/4c6e7a90-d9db-11f1-b4ca-fd31344b71b9.jpg",
       "publishedAt": "2026-11-06T16:40:51Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "What is the Paris Agreement and why does 1.5C matter?",
-      "summary": "The 2015 pact is at the heart of the international commitment to tackle rising global temperatures.",
-      "url": "https://www.bbc.co.uk/news/articles/c93d59d4zy1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17e4/live/12a747d0-d9ca-11f1-bb8e-efaa31738708.jpg",
-      "publishedAt": "2026-11-06T16:39:07Z"
     },
     {
       "category": "Science & Tech",
