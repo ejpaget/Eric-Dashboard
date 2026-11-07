@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T15:52:58.715711Z",
+  "updatedAt": "2026-11-07T20:09:31.732379Z",
   "stories": [
     {
       "category": "Local",
@@ -22,6 +22,15 @@
     {
       "category": "Local",
       "source": "The Union",
+      "title": "Ideas & Opinions — R.L. Crabb: It takes a village idiot",
+      "summary": "",
+      "url": "https://www.theunion.com/news/ideas-opinions-r-l-crabb-it-takes-a-village-idiot/article_823efc7c-acac-4d58-9c30-946789366838.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/1/99/1998d7fd-541b-4e56-8b38-9da165c8d9cf/6aed0287a8e1e.image.jpg?resize=300%2C229",
+      "publishedAt": "2026-11-07T10:45:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "The Union",
       "title": "Nevada Union Jr. Miners Cheer celebrates standout season with three teams advancing to championships",
       "summary": "The Nevada Union Jr. Miners Cheer Program has plenty to celebrate after an incredible 2026 season! For the first time in several years, multiple Jr. Miner cheer teams earned their spots in the Sacramento Youth Football (SYF) Cheer Championships, showcasing…",
       "url": "https://www.theunion.com/sports/nevada-union-jr-miners-cheer-celebrates-standout-season-with-three-teams-advancing-to-championships/article_41effb5b-e439-44ad-a90d-507169489007.html",
@@ -31,11 +40,11 @@
     {
       "category": "Local",
       "source": "The Union",
-      "title": "Ideas & Opinions — R.L. Crabb: It takes a village idiot",
-      "summary": "",
-      "url": "https://www.theunion.com/news/ideas-opinions-r-l-crabb-it-takes-a-village-idiot/article_823efc7c-acac-4d58-9c30-946789366838.html",
-      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/1/99/1998d7fd-541b-4e56-8b38-9da165c8d9cf/6aed0287a8e1e.image.jpg?resize=300%2C229",
-      "publishedAt": "2026-11-07T10:45:00Z"
+      "title": "Melinda Myers: Give the gift of a glass garden",
+      "summary": "Create a unique homemade gift that is sure to generate a smile upon opening and throughout the coming years. Terrarium popularity is trending due to the many benefits these tiny ecosystems provide. A small glass garden is not only a…",
+      "url": "https://www.theunion.com/lifestyles/melinda-myers-give-the-gift-of-a-glass-garden/article_0d3b89cd-3c45-47f0-8aa0-aaa7985e09ed.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/f/41/f41ab641-369e-4a9f-bddb-752aded18d60/6aeaa9b7e4e8c.image.jpg?resize=300%2C284",
+      "publishedAt": "2026-11-07T10:30:00Z"
     },
     {
       "category": "Local",
@@ -47,13 +56,13 @@
       "publishedAt": "2026-11-07T10:30:00Z"
     },
     {
-      "category": "Local",
-      "source": "The Union",
-      "title": "Athlete of the Week: Tyler Adamson",
-      "summary": "Bear River varsity water polo player Tyler Adamson is The Union's Athlete of the Week.",
-      "url": "https://www.theunion.com/sports/athlete-of-the-week-tyler-adamson/article_0c34a0e8-d8cc-4056-b922-93a52c422af2.html",
-      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/4/03/40366c40-b2f2-480c-b120-abfb575159cc/68cb39b86f18e.image.jpg?resize=300%2C273",
-      "publishedAt": "2026-11-07T10:30:00Z"
+      "category": "World",
+      "source": "BBC News",
+      "title": "What we know so far after Polish gunman opens fire in Krakow main square",
+      "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
+      "publishedAt": "2026-11-07T20:08:31Z"
     },
     {
       "category": "World",
@@ -62,7 +71,34 @@
       "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
       "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg",
-      "publishedAt": "2026-11-07T15:00:10Z"
+      "publishedAt": "2026-11-07T15:56:28Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-11-07T18:14:38Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
+      "publishedAt": "2026-11-07T17:09:24Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-11-07T15:19:35Z"
     },
     {
       "category": "World",
@@ -72,42 +108,6 @@
       "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg",
       "publishedAt": "2026-11-06T23:24:15Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Paraguay's president impeached and under house arrest after bank collapse",
-      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg",
-      "publishedAt": "2026-11-07T07:20:00Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-      "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0554/live/2786bc40-daa0-11f1-a523-f508a3e924cb.jpg",
-      "publishedAt": "2026-11-07T12:49:36Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Pope in 'pretty good health' as he starts Latin America tour",
-      "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
-      "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15d3/live/886b05a0-da75-11f1-85ad-fd31eff31154.jpg",
-      "publishedAt": "2026-11-07T06:59:48Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
-      "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
-      "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97ed/live/4b09f660-da7c-11f1-a975-15a4138f9d40.jpg",
-      "publishedAt": "2026-11-07T07:27:44Z"
     },
     {
       "category": "Science & Tech",
