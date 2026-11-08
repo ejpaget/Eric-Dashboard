@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T02:41:10.601757Z",
+  "updatedAt": "2026-11-08T10:10:09.078167Z",
   "stories": [
     {
       "category": "Local",
@@ -59,10 +59,28 @@
       "category": "World",
       "source": "BBC News",
       "title": "What we know so far after Krakow gun attack",
-      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
+      "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
       "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
-      "publishedAt": "2026-11-08T01:47:41Z"
+      "publishedAt": "2026-11-08T07:52:33Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
+      "publishedAt": "2026-11-08T04:03:12Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d485/live/0685e840-dab9-11f1-b441-2b33b063138f.jpg",
+      "publishedAt": "2026-11-07T21:36:16Z"
     },
     {
       "category": "World",
@@ -76,29 +94,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "No clear winner after tight New Zealand general election",
-      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg",
-      "publishedAt": "2026-11-07T15:56:28Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "US offers $20m reward for information about Iran's nuclear programme",
       "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
       "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg",
       "publishedAt": "2026-11-07T18:14:38Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Houthis say at least 25 killed in Saudi air strike",
-      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
-      "publishedAt": "2026-11-07T17:09:24Z"
     },
     {
       "category": "World",
