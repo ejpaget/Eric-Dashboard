@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-11-12T22:25:54.299328Z",
+  "updatedAt": "2026-11-13T02:52:45.765270Z",
   "stories": [
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "Here comes the rain again: Heavy showers, possible thunderstorms expected in foothills as Sierra snow raises travel concerns",
+      "summary": "Nevada County appears to be headed towards a much wetter, colder pattern to end the week after a long stretch of clear skies and above-average November temperatures.",
+      "url": "https://www.theunion.com/news/here-comes-the-rain-again-heavy-showers-possible-thunderstorms-expected-in-foothills-as-sierra-snow/article_9e8d36f1-bf7c-432d-aefe-df54a093c9f1.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/f/96/f96ef434-89da-4b1e-a340-d0203777737a/63da83445c895.image.jpg?resize=300%2C199",
+      "publishedAt": "2026-11-12T23:10:00Z"
+    },
     {
       "category": "Local",
       "source": "The Union",
@@ -47,22 +56,31 @@
       "publishedAt": "2026-11-12T10:45:00Z"
     },
     {
-      "category": "Local",
-      "source": "The Union",
-      "title": "Melissa Hannebrink: Keep the thinking with the student",
-      "summary": "Last week, the Nevada Joint Union High School District’s AI Guidance Committee met to discuss our schools’ approach to artificial intelligence. Our group of administrators, teachers, parents, and professionals came together to consider a difficult question: How do we protect…",
-      "url": "https://www.theunion.com/lifestyles/melissa-hannebrink-keep-the-thinking-with-the-student/article_d442dd0a-22cb-424a-8c2a-7a31511f1b76.html",
-      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/a/80/a80ca7bd-d684-4cbc-a064-5bb4d991350f/6af2902054e8c.image.jpg?resize=300%2C269",
-      "publishedAt": "2026-11-12T10:30:00Z"
+      "category": "World",
+      "source": "BBC News",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
+      "publishedAt": "2026-11-13T02:39:00Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg",
-      "publishedAt": "2026-11-12T21:00:42Z"
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+      "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f44f/live/57b45570-df06-11f1-9f71-7d0084202c8a.jpg",
+      "publishedAt": "2026-11-13T02:01:35Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+      "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dca/live/418b2150-de90-11f1-a701-fddedf244c16.jpg",
+      "publishedAt": "2026-11-13T00:20:24Z"
     },
     {
       "category": "World",
@@ -85,29 +103,29 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
-      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
-      "publishedAt": "2026-11-12T12:56:55Z"
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+      "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a2/live/04510720-defc-11f1-9b2e-c7d61d5838d4.jpg",
+      "publishedAt": "2026-11-13T02:33:07Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-      "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9916/live/a7c0bac0-dec7-11f1-a701-fddedf244c16.jpg",
-      "publishedAt": "2026-11-12T18:47:35Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return",
+      "summary": "Jean Powell kept asking when she could go back to her flat, which was flooded when the River Monnow burst its banks.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f238/live/34eb7340-de7d-11f1-b441-2b33b063138f.png",
+      "publishedAt": "2026-11-12T22:49:48Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-      "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
-      "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4358/live/fa767be0-de8d-11f1-9afe-1f03bfe02283.jpg",
-      "publishedAt": "2026-11-12T15:18:20Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "How many sewage spills have happened in your part of Scotland?",
+      "summary": "More than 76,000 sewage spills were recorded at overflow sites previously unmonitored by Scottish Water, BBC Scotland News analysis has found.",
+      "url": "https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf55/live/e2ec7260-dd1e-11f1-8806-aded7f09be16.png",
+      "publishedAt": "2026-11-12T22:48:55Z"
     },
     {
       "category": "Science & Tech",
@@ -120,48 +138,30 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
-      "summary": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, one expert says.",
-      "url": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5e0/live/4c115b80-de72-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-11-12T06:02:55Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Significant drop in levels of toxic 'forever' chemicals in England's rivers",
-      "summary": "The decline has been put down to severe restrictions placed on the substances' use.",
-      "url": "https://www.bbc.co.uk/news/articles/cmze75r55g3jo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e068/live/4f7ef220-ddfd-11f1-8445-15eb55286f71.jpg",
-      "publishedAt": "2026-11-12T00:12:59Z"
+      "source": "BBC Technology",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
+      "publishedAt": "2026-11-13T02:39:00Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-      "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-11-12T17:11:48Z"
+      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+      "summary": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28a7/live/2a181e50-defa-11f1-b877-3169a3b63f2c.jpg",
+      "publishedAt": "2026-11-13T02:38:02Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
-      "summary": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02e2/live/fc549cd0-deb0-11f1-8fb5-a771a656a227.jpg",
-      "publishedAt": "2026-11-12T16:43:36Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
-      "summary": "The billionaire tech executive has left the company following reports of a second extramarital affair.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-11-12T15:26:39Z"
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8436/live/9852bb70-d6a6-11f1-b441-2b33b063138f.png",
+      "publishedAt": "2026-11-13T00:13:35Z"
     }
   ],
   "feedErrors": [
