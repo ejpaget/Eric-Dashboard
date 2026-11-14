@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T13:25:24.259265Z",
+  "updatedAt": "2026-11-14T18:50:06.870763Z",
   "stories": [
     {
       "category": "Local",
@@ -18,6 +18,15 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2UXZhMjVUd0RQSGhvNlJTWjk5MUtSV1VLRG1wNE9Eb3U3bGxkM1QwRlNmMEFEakd5S2pFaWFJbVFZX3BIRjVVMW1JMUx4WW1xdVkwbDE4NU5xaUt2SVduZm5BQWJYR1k?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-11-11T03:59:13Z"
+    },
+    {
+      "category": "Local",
+      "source": "FOX40",
+      "title": "CHP officers search for suspect vehicle in fatal hit-and-run - FOX40",
+      "summary": "CHP officers search for suspect vehicle in fatal hit-and-run FOX40",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVDJFUklKS1hXdWVDX21nc01KS2lBLVNnTV9NTlBtX3Z2TjFHZloxR0xzVW5aTWJiWDBoa1MwVGljSU5rS2hTdTJKLW5UOEprUmFRdUljaXVSNThUSmZwS0haYmgybDBYdUtKNzZiaUdtMjBBSUxOcGFjaFBTNGRxTDZvT0dFWkJ3SVdrZzh0b0NyWjVTSFpYT0JFeHc1OE5mU3RYN2k1R2VrM0ZDa1HSAbMBQVVfeXFMTjdBN0VmTm1FU1lMQk5tdVFRTEJnUU1MV0s1MWlwTWJkQUxnR2x5eExzSHhfMnNkeEdJMG12Zjl6aEtjMkJJMHl6Q3QxUHN5NnRGZlBiWVFDVXh6UTRTUzZmMzM3SHJ6UEJIS1BxTlR3b0FRNGNOMG9ESUF6UnhQdE1fSGJldG0zWFg1NG9pUmZxTi1TejNOM1JhUGMyektFTVh0NU5ra2NRWEE4R0t3Z0RlbzQ?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-11-12T18:26:09Z"
     },
     {
       "category": "Local",
@@ -47,22 +56,13 @@
       "publishedAt": "2026-07-29T07:00:00Z"
     },
     {
-      "category": "Local",
-      "source": "Legacy | Obituary",
-      "title": "Bruce Rayner Obituary (1940 - 2026) - Grass Valley, CA - The Union - Legacy | Obituary",
-      "summary": "Bruce Rayner Obituary (1940 - 2026) - Grass Valley, CA - The Union Legacy | Obituary",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaWJ0blNHbldDWk4ydnNWSzRCd3JRVDI0NUhqNVdTb0FneGpLZ2k5c0QwTjc0RGVodGg0bHdqUy16WDFnZERjQkhnRmZaR0tKTklDYXYxcVg4ZXVLN2ZhQXl5QmZ3dzQyVVZjNW16ZEM3a0FQT19naGN6bEsxZkxFcTZiaWJlMk5vTGRRNQ?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-09-04T07:00:00Z"
-    },
-    {
       "category": "World",
       "source": "BBC News",
-      "title": "What we know about the ground stop and what to do if you're affected",
-      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-11-14T07:42:11Z"
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce07/live/190ced90-e04c-11f1-88e1-eb4e155225b3.jpg",
+      "publishedAt": "2026-11-14T17:16:36Z"
     },
     {
       "category": "World",
@@ -71,43 +71,52 @@
       "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
       "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-11-14T11:41:20Z"
+      "publishedAt": "2026-11-14T15:15:57Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
-      "publishedAt": "2026-11-14T05:52:31Z"
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
+      "publishedAt": "2026-11-14T18:28:06Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
-      "publishedAt": "2026-11-13T23:40:45Z"
+      "title": "Philippines wins first Eurovision Song Contest Asia",
+      "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg",
+      "publishedAt": "2026-11-14T18:17:58Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Setback for SpaceX Starship rocket's double-catch test",
-      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+      "title": "Second catch attempt for SpaceX Starship rocket",
+      "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
       "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b1a/live/3f2ee680-dfbc-11f1-9e98-11d1980367a2.jpg",
-      "publishedAt": "2026-11-14T00:01:01Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e6d/live/64bc2ef0-e03c-11f1-b441-2b33b063138f.jpg",
+      "publishedAt": "2026-11-14T14:18:41Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Microsoft says services fully restored after day-long global outage",
-      "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
-      "publishedAt": "2026-11-14T06:42:27Z"
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bff/live/0bb4d910-e046-11f1-88e1-eb4e155225b3.jpg",
+      "publishedAt": "2026-11-14T18:00:10Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Second catch attempt for SpaceX Starship rocket",
+      "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e6d/live/64bc2ef0-e03c-11f1-b441-2b33b063138f.jpg",
+      "publishedAt": "2026-11-14T14:18:41Z"
     },
     {
       "category": "Science & Tech",
@@ -129,12 +138,12 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Setback for SpaceX Starship rocket's double-catch test",
-      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
-      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b1a/live/3f2ee680-dfbc-11f1-9e98-11d1980367a2.jpg",
-      "publishedAt": "2026-11-14T00:01:01Z"
+      "source": "BBC Technology",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
+      "publishedAt": "2026-11-14T18:28:06Z"
     },
     {
       "category": "Science & Tech",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05c7/live/ef232fd0-df7e-11f1-a701-fddedf244c16.jpg",
       "publishedAt": "2026-11-14T00:37:01Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-      "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d29/live/445059b0-e02e-11f1-9ca9-b3b288fceb81.jpg",
-      "publishedAt": "2026-11-13T23:00:31Z"
     }
   ],
   "feedErrors": [
