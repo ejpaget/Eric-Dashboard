@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T23:49:39.827676Z",
+  "updatedAt": "2026-11-14T06:08:02.481576Z",
   "stories": [
     {
       "category": "Local",
@@ -39,15 +39,6 @@
     },
     {
       "category": "Local",
-      "source": "YubaNet",
-      "title": "Happening Now – November 2026 - YubaNet",
-      "summary": "Happening Now – November 2026 YubaNet",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oc2pzcm0xTzFQM2FwTlpqMFNxN0J6M1VlejljMnQxaFVJT3g1ZXRRenpodE1hYnJMOXRtTXZtNzBka0g2dWJiSg?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-11-01T07:00:00Z"
-    },
-    {
-      "category": "Local",
       "source": "capradio.org",
       "title": "Gold built the Lava Cap Mine, but arsenic won't be its only legacy - capradio.org",
       "summary": "Gold built the Lava Cap Mine, but arsenic won't be its only legacy capradio.org",
@@ -56,9 +47,45 @@
       "publishedAt": "2026-07-29T07:00:00Z"
     },
     {
+      "category": "Local",
+      "source": "Legacy | Obituary",
+      "title": "Bruce Rayner Obituary (1940 - 2026) - Grass Valley, CA - The Union - Legacy | Obituary",
+      "summary": "Bruce Rayner Obituary (1940 - 2026) - Grass Valley, CA - The Union Legacy | Obituary",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaWJ0blNHbldDWk4ydnNWSzRCd3JRVDI0NUhqNVdTb0FneGpLZ2k5c0QwTjc0RGVodGg0bHdqUy16WDFnZERjQkhnRmZaR0tKTklDYXYxcVg4ZXVLN2ZhQXl5QmZ3dzQyVVZjNW16ZEM3a0FQT19naGN6bEsxZkxFcTZiaWJlMk5vTGRRNQ?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-09-04T07:00:00Z"
+    },
+    {
       "category": "World",
       "source": "BBC News",
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "title": "What we know about the longest ground stop since 9/11",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
+      "publishedAt": "2026-11-14T03:45:21Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
+      "publishedAt": "2026-11-13T23:40:45Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
+      "publishedAt": "2026-11-14T05:52:31Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
       "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
       "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
@@ -67,29 +94,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-11-13T18:36:57Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-      "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
-      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e30a/live/54c2fe10-df57-11f1-a701-fddedf244c16.jpg",
-      "publishedAt": "2026-11-13T11:43:27Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "SpaceX to attempt double catch of huge Starship rocket",
-      "summary": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
       "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53ad/live/14a168f0-de92-11f1-9afe-1f03bfe02283.jpg",
-      "publishedAt": "2026-11-13T20:12:02Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b1a/live/3f2ee680-dfbc-11f1-9e98-11d1980367a2.jpg",
+      "publishedAt": "2026-11-14T00:01:01Z"
     },
     {
       "category": "World",
@@ -101,22 +110,76 @@
       "publishedAt": "2026-11-13T16:40:31Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
-      "publishedAt": "2026-11-13T19:53:57Z"
+      "category": "Sports",
+      "source": "ESPN",
+      "title": "FAA ground stop throws sports world into travel chaos ahead of weekend games",
+      "summary": "Travel plans for multiple sports have been disrupted by the FAA's nationwide ground stop of all flights because of communications problems.",
+      "url": "https://www.espn.com/college-football/story/_/id/50475169/faa-ground-stop-disrupting-travel-college-football-teams",
+      "imageUrl": "",
+      "publishedAt": "2026-11-14T04:14:34Z"
+    },
+    {
+      "category": "Sports",
+      "source": "ESPN",
+      "title": "First Cousins: QB to get start vs. Packers in Vikings return",
+      "summary": "Coach Kevin O'Connell called Kirk Cousins' ability to get reacquainted with the Vikings' offense \"impressive.\"",
+      "url": "https://www.espn.com/nfl/story/_/id/50474753/vikings-start-reacquired-qb-kirk-cousins-vs-packers",
+      "imageUrl": "",
+      "publishedAt": "2026-11-14T04:14:33Z"
+    },
+    {
+      "category": "Sports",
+      "source": "ESPN",
+      "title": "Sources: Tide to start QB Mack vs. Vandy; injured Russell available, if needed",
+      "summary": "Alabama is expected to start QB Austin Mack vs. Vanderbilt, sources told ESPN, with starter Keelon Russell (ankle) expected to be available, if needed.",
+      "url": "https://www.espn.com/college-football/story/_/id/50474755/sources-alabama-start-qb-austin-mack-russell-available",
+      "imageUrl": "",
+      "publishedAt": "2026-11-14T04:14:33Z"
+    },
+    {
+      "category": "Sports",
+      "source": "ESPN",
+      "title": "Murray wants trade from Pelicans; both sides working on resolution",
+      "summary": "Pelicans guard Dejounte Murray wants a trade from the franchise, and his agent, Klutch Sports CEO Rich Paul, and team officials have started working on a resolution.",
+      "url": "https://www.espn.com/nba/story/_/id/50473732/sources-dejounte-murray-wants-trade-pelicans",
+      "imageUrl": "",
+      "publishedAt": "2026-11-14T05:35:21Z"
+    },
+    {
+      "category": "Sports",
+      "source": "ESPN",
+      "title": "Sources: Bauers parlays career season into 4-year, $58M contract with Red Sox",
+      "summary": "First baseman Jake Bauers, who is coming off a career season with the Brewers, has agreed to a four-year, $58M contract with the Red Sox, sources told ESPN.",
+      "url": "https://www.espn.com/mlb/story/_/id/50473029/sources-jake-bauers-red-sox-agree-4-year-58m-deal",
+      "imageUrl": "",
+      "publishedAt": "2026-11-14T04:14:34Z"
+    },
+    {
+      "category": "Sports",
+      "source": "ESPN",
+      "title": "Blue Jays' Santander apologizes for sharing anti-Muslim posts",
+      "summary": "Blue Jays outfielder Anthony Santander apologized for sharing anti-Muslim social media posts, saying it caused hurt and fell short of his own convictions.",
+      "url": "https://www.espn.com/mlb/story/_/id/50474604/blue-jays-anthony-santander-apologizes-anti-muslim-posts",
+      "imageUrl": "",
+      "publishedAt": "2026-11-14T04:14:34Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "SpaceX to attempt double catch of huge Starship rocket",
-      "summary": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
+      "title": "Bluetongue virus confirmed on County Down farm",
+      "summary": "Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep.",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4084/live/7a74d700-d03f-11f0-a224-bf3cbaf1e70d.jpg",
+      "publishedAt": "2026-11-14T00:17:45Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
       "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53ad/live/14a168f0-de92-11f1-9afe-1f03bfe02283.jpg",
-      "publishedAt": "2026-11-13T20:12:02Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b1a/live/3f2ee680-dfbc-11f1-9e98-11d1980367a2.jpg",
+      "publishedAt": "2026-11-14T00:01:01Z"
     },
     {
       "category": "Science & Tech",
@@ -129,12 +192,12 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Summer heatwave put bin crews lives at risk, says council worker",
-      "summary": "Crews faced a \"perfect storm\" of challenges during the UK's record-breaking weather, it's claimed.",
-      "url": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a650/live/bd0ec7c0-df56-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-11-13T12:03:04Z"
+      "source": "BBC Technology",
+      "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+      "summary": "The next title in the series is expected to be the biggest video game release ever.",
+      "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05c7/live/ef232fd0-df7e-11f1-a701-fddedf244c16.jpg",
+      "publishedAt": "2026-11-14T00:37:01Z"
     },
     {
       "category": "Science & Tech",
@@ -151,21 +214,11 @@
       "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
       "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
       "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/a9179c50-df84-11f1-a8e2-5b59832bb2f1.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9359/live/2eb34280-dfc4-11f1-93e1-3b657b665bcf.jpg",
       "publishedAt": "2026-11-13T21:15:41Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
-      "publishedAt": "2026-11-13T21:14:22Z"
     }
   ],
   "feedErrors": [
-    "The Union: HTTP Error 429: Too Many Requests",
-    "ESPN: no element found: line 1, column 0"
+    "The Union: HTTP Error 429: Too Many Requests"
   ]
 }
