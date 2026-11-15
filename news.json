@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T02:33:45.842482Z",
+  "updatedAt": "2026-11-15T09:51:17.648286Z",
   "stories": [
     {
       "category": "Local",
@@ -58,15 +58,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg",
-      "publishedAt": "2026-11-14T19:12:25Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
       "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
       "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
@@ -76,44 +67,53 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Italy fines Meta €805m over accessing users' photos",
-      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
-      "publishedAt": "2026-11-14T18:28:06Z"
+      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg",
+      "publishedAt": "2026-11-15T07:10:31Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-      "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg",
-      "publishedAt": "2026-11-14T22:09:40Z"
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+      "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg",
+      "publishedAt": "2026-11-15T02:49:45Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Philippines wins first Eurovision Song Contest Asia",
-      "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg",
-      "publishedAt": "2026-11-14T18:17:58Z"
+      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "summary": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg",
+      "publishedAt": "2026-11-15T03:21:04Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-      "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bff/live/0bb4d910-e046-11f1-88e1-eb4e155225b3.jpg",
-      "publishedAt": "2026-11-14T18:00:10Z"
+      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+      "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a2/live/a4d3cf40-e0d0-11f1-9e51-e12509ba597c.jpg",
+      "publishedAt": "2026-11-15T09:26:37Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c19/live/fcdf6660-e0ce-11f1-a701-fddedf244c16.jpg",
+      "publishedAt": "2026-11-15T08:17:41Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Science",
       "title": "SpaceX successfully catches top of huge Starship rocket for first time",
-      "summary": "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”.",
+      "summary": "The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\".",
       "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7be/live/5c1b5060-e077-11f1-9ec0-713bf094c3d1.png",
       "publishedAt": "2026-11-14T22:15:52Z"
