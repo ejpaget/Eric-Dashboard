@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T21:42:00.166952Z",
+  "updatedAt": "2026-11-16T01:55:11.726624Z",
   "stories": [
     {
       "category": "Local",
@@ -59,10 +59,28 @@
       "category": "World",
       "source": "BBC News",
       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+      "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
       "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
       "publishedAt": "2026-11-15T19:32:39Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-11-16T01:47:57Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+      "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a295/live/b9635e50-e14b-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-11-15T23:52:10Z"
     },
     {
       "category": "World",
@@ -85,29 +103,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-11-15T14:56:21Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Czechs rally against plan to switch funding of public media",
-      "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
-      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f9f/live/b7b68ac0-e121-11f1-9705-e15ce514cc96.jpg",
-      "publishedAt": "2026-11-15T21:03:40Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-      "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0351/live/2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-11-15T13:42:58Z"
+      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+      "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
+      "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f55e/live/4bc0f750-e140-11f1-859a-418a418deb7d.jpg",
+      "publishedAt": "2026-11-15T22:57:27Z"
     },
     {
       "category": "Science & Tech",
@@ -143,7 +143,7 @@
       "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
       "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-11-15T14:56:21Z"
+      "publishedAt": "2026-11-16T01:47:57Z"
     },
     {
       "category": "Science & Tech",
