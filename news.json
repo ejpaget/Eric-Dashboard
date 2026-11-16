@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T09:29:47.759088Z",
+  "updatedAt": "2026-11-16T19:48:30.276964Z",
   "stories": [
     {
       "category": "Local",
@@ -30,21 +30,21 @@
     },
     {
       "category": "Local",
-      "source": "Chico Enterprise-Record",
-      "title": "An experience as smooth as glass | It’s Your Business - Chico Enterprise-Record",
-      "summary": "An experience as smooth as glass | It’s Your Business Chico Enterprise-Record",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQnVOQU1IejhZYjlIMmZ5OG5pN3h6TUJkWkJURDlzLV92eHhsX1UwcHR3ZHZwWWZhdUNmRDgzWndfRm9MVUtFM2tCRlBXY1I1eWxhWndsYTU1Y1Z5Rm9UODU0V1d2LXlSTElWZUNqa3FGUnJ1b1J2ZkFJczlpQk9JWUR3NlRER2dfU2tETFZybw?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-11-15T11:14:53Z"
-    },
-    {
-      "category": "Local",
       "source": "YubaNet",
       "title": "Happening Now – November 2026 - YubaNet",
       "summary": "Happening Now – November 2026 YubaNet",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oc2pzcm0xTzFQM2FwTlpqMFNxN0J6M1VlejljMnQxaFVJT3g1ZXRRenpodE1hYnJMOXRtTXZtNzBka0g2dWJiSg?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-11-01T07:00:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "Oroville Mercury-Register",
+      "title": "An experience as smooth as glass | It’s Your Business - Oroville Mercury-Register",
+      "summary": "An experience as smooth as glass | It’s Your Business Oroville Mercury-Register",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTHV6UWpyNFRmNDJGMWYwV2JlelYzdFlxb0tLemZsVVNmdDM4a3N6NGxwVEhGYldVY1BNQ3hFV2FfdExjZVFjdmJucDBmSjRGUUIyMlJDUUNHdU9jYldYVHpXT2ZnSnFmZU5sTVkwanpjN0hPTkVBb0U1cmt1RlNwSlF0NnhRTUw5TFUtLWM3SmxmZjg?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-11-15T22:08:46Z"
     },
     {
       "category": "Local",
@@ -58,65 +58,65 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
-      "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
+      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
+      "publishedAt": "2026-11-16T16:27:24Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Yemeni forces retreat to defend port city from Houthis",
+      "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
       "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
-      "publishedAt": "2026-11-16T07:23:23Z"
+      "publishedAt": "2026-11-16T11:09:38Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a51/live/78372760-e180-11f1-9386-1b849272ca8f.jpg",
-      "publishedAt": "2026-11-15T19:32:39Z"
+      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+      "publishedAt": "2026-11-16T19:16:52Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-11-16T01:47:57Z"
+      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+      "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
+      "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f174/live/bc6fa8f0-e1c4-11f1-a094-5fdc692f3e33.jpg",
+      "publishedAt": "2026-11-16T14:58:12Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
-      "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
-      "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/083d/live/b9880d40-e15f-11f1-a6b7-c136ad7bd6e3.jpg",
-      "publishedAt": "2026-11-16T03:09:49Z"
+      "title": "When will we see Robert Pattinson as Bond in cinemas?",
+      "summary": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
+      "url": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6849/live/22d15940-e1ed-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-16T17:18:54Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80",
-      "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
-      "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e63/live/e166e240-e19c-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-11-16T03:21:56Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-      "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
-      "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da5/live/b3273710-e0ff-11f1-bf0e-b9e6941e1cc7.jpg",
-      "publishedAt": "2026-11-16T01:05:44Z"
+      "title": "Forensic expert says his analysis raises doubts about how Epstein died",
+      "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+      "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg",
+      "publishedAt": "2026-11-16T19:19:18Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "Yellow weather warnings issued for snow and ice as temperatures plummet",
+      "title": "Yellow weather warnings issued for snow as temperatures plummet",
       "summary": "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times.",
       "url": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f1b/live/2225a470-e133-11f1-a204-d95dd4dbb76b.png",
-      "publishedAt": "2026-11-16T07:43:51Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e42/live/9f7d3670-e1cb-11f1-b8c8-67fa35f5afdb.jpg",
+      "publishedAt": "2026-11-16T10:02:04Z"
     },
     {
       "category": "Science & Tech",
@@ -139,29 +139,29 @@
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "Investors sue chip giant Intel after 29% stock plunge",
-      "summary": "A proposed class action says Intel hid the impact of slowing sales, inflating its shares.",
+      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+      "publishedAt": "2026-11-16T19:16:52Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
+      "title": "GTA 6 hacker pleads guilty after release from secure hospital",
+      "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
+      "url": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30e7/live/e63476a0-e1ee-11f1-99b6-a35a62fa4264.jpg",
+      "publishedAt": "2026-11-16T13:34:22Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
+      "title": "Intel sued by investors after PC sales slump hits share price",
+      "summary": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
       "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e63c/live/afebacc0-e14f-11f1-8fb1-c394c4317b6a.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b3/live/33bc54f0-e1a5-11f1-8433-4325183b3814.jpg",
       "publishedAt": "2026-11-16T03:04:01Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-11-16T01:47:57Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ab/live/d67148b0-e0ef-11f1-97b9-9110abfffc70.png",
-      "publishedAt": "2026-11-15T13:37:45Z"
     }
   ],
   "feedErrors": [
