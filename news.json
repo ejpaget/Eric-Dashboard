@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T02:52:54.720686Z",
+  "updatedAt": "2026-11-17T11:41:41.912070Z",
   "stories": [
     {
       "category": "Local",
@@ -30,6 +30,15 @@
     },
     {
       "category": "Local",
+      "source": "Chico Enterprise-Record",
+      "title": "An experience as smooth as glass | It’s Your Business - Chico Enterprise-Record",
+      "summary": "An experience as smooth as glass | It’s Your Business Chico Enterprise-Record",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQnVOQU1IejhZYjlIMmZ5OG5pN3h6TUJkWkJURDlzLV92eHhsX1UwcHR3ZHZwWWZhdUNmRDgzWndfRm9MVUtFM2tCRlBXY1I1eWxhWndsYTU1Y1Z5Rm9UODU0V1d2LXlSTElWZUNqa3FGUnJ1b1J2ZkFJczlpQk9JWUR3NlRER2dfU2tETFZybw?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-11-15T11:14:53Z"
+    },
+    {
+      "category": "Local",
       "source": "YubaNet",
       "title": "Happening Now – November 2026 - YubaNet",
       "summary": "Happening Now – November 2026 YubaNet",
@@ -47,36 +56,45 @@
       "publishedAt": "2026-06-23T01:40:03Z"
     },
     {
-      "category": "Local",
-      "source": "capradio.org",
-      "title": "Gold built the Lava Cap Mine, but arsenic won't be its only legacy - capradio.org",
-      "summary": "Gold built the Lava Cap Mine, but arsenic won't be its only legacy capradio.org",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQXzBJWktROWNGYTA2ZDd0VU0yUWFqb1ZGVVRpSm11TzFPTHVLMzFWVkxZb01zQjVVVUI1VkpWYTNwWXFTYW5zR1Itb09KbGVlYmNRdGJqd1lmbXZKMkw1NUN2bWpaQ1U2RmdENmlVdHpuVmNaTndSa2I4VDNsNGNpaFVfQ2ZxRWt6cmZLREt4c3dHUE44ZHczMGVYVTgyYUVJcFdqM3duRkY2SVlNS1hB?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-07-29T07:00:00Z"
+      "category": "World",
+      "source": "BBC News",
+      "title": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "summary": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
+      "publishedAt": "2026-11-17T10:45:55Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Five EU countries announce migrant deportation centre in Rwanda",
-      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
-      "publishedAt": "2026-11-16T23:20:45Z"
+      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+      "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba46/live/5efa38d0-df84-11f1-a701-fddedf244c16.png",
+      "publishedAt": "2026-11-17T05:59:01Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-      "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb50/live/f528e3c0-e1f9-11f1-a094-5fdc692f3e33.jpg",
-      "publishedAt": "2026-11-16T21:40:07Z"
+      "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+      "summary": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
+      "url": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c83/live/904d30a0-e1a4-11f1-973a-a76c1b2f887a.jpg",
+      "publishedAt": "2026-11-17T09:27:44Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+      "summary": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
+      "url": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34cb/live/06da8400-e224-11f1-91de-bf87f3de9484.jpg",
+      "publishedAt": "2026-11-17T01:26:01Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
       "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
       "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
@@ -85,29 +103,29 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-      "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
-      "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f174/live/bc6fa8f0-e1c4-11f1-a094-5fdc692f3e33.jpg",
-      "publishedAt": "2026-11-16T14:58:12Z"
+      "title": "Body of Melbourne Cup horse found dumped in Sydney skip",
+      "summary": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/632b/live/b9ed96e0-e251-11f1-876d-1dfc6cf3b709.jpg",
+      "publishedAt": "2026-11-17T07:01:00Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "When will we see Robert Pattinson as Bond in cinemas?",
-      "summary": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
-      "url": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6849/live/22d15940-e1ed-11f1-99a1-253766e7ad8b.jpg",
-      "publishedAt": "2026-11-16T17:18:54Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "More than £160m needed to clean up one of Europe's largest illegal dumps",
+      "summary": "Environment Minister Andrew Muir has described what happened at Mobuoy, near Derry, as an \"absolute scandal\" which could take a generation to fix.",
+      "url": "https://www.bbc.co.uk/news/articles/cr5y18lg31nxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5254/live/cbfabb10-e26f-11f1-99b6-a35a62fa4264.jpg",
+      "publishedAt": "2026-11-17T09:46:31Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-      "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
-      "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg",
-      "publishedAt": "2026-11-16T20:33:57Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Dazzling Leonid meteor shower to peak on Tuesday night",
+      "summary": "The Leonid meteor shower, known for its bright and fast meteors, is set to peak on Tuesday night.",
+      "url": "https://www.bbc.co.uk/weather/articles/c6742xzg3eljo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52ad/live/8061a130-e1b8-11f1-9a3f-99aca912798e.jpg",
+      "publishedAt": "2026-11-17T09:03:08Z"
     },
     {
       "category": "Science & Tech",
@@ -116,52 +134,34 @@
       "summary": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
       "url": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1014/live/a44029a0-e1b3-11f1-9a3f-99aca912798e.jpg",
-      "publishedAt": "2026-11-17T00:09:54Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Yellow weather warnings issued for snow as temperatures plummet",
-      "summary": "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times.",
-      "url": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e42/live/9f7d3670-e1cb-11f1-b8c8-67fa35f5afdb.jpg",
-      "publishedAt": "2026-11-16T10:02:04Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Gas starts flowing from Jackdaw after government green light",
-      "summary": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
-      "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/015f/live/3d2a7950-e190-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-11-16T06:24:08Z"
+      "publishedAt": "2026-11-17T08:01:38Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
-      "publishedAt": "2026-11-17T02:37:53Z"
+      "title": "US government confirms investigation into tech firm Megaspeed",
+      "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg",
+      "publishedAt": "2026-11-17T11:17:32Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
-      "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb4c/live/4a003210-e1d0-11f1-b8c8-67fa35f5afdb.jpg",
-      "publishedAt": "2026-11-17T01:04:45Z"
+      "title": "How new US chip restrictions on South East Asia will hit China",
+      "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+      "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg",
+      "publishedAt": "2026-11-17T10:22:09Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "The AI start-ups fixing India's broken roads and messy land records",
-      "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
-      "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/886f/live/a4a715f0-c892-11f1-b0a4-81e564f1cfaa.jpg",
-      "publishedAt": "2026-11-16T23:25:53Z"
+      "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
+      "summary": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
+      "url": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c57/live/770860f0-e268-11f1-900c-895604014268.jpg",
+      "publishedAt": "2026-11-17T09:41:07Z"
     }
   ],
   "feedErrors": [
