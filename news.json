@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T11:41:41.912070Z",
+  "updatedAt": "2026-11-17T20:47:28.411873Z",
   "stories": [
     {
       "category": "Local",
@@ -30,6 +30,15 @@
     },
     {
       "category": "Local",
+      "source": "Legacy | Obituary",
+      "title": "Lula Krugler Obituary (1931 - 2026) - Grass Valley, CA - The Union - Legacy | Obituary",
+      "summary": "Lula Krugler Obituary (1931 - 2026) - Grass Valley, CA - The Union Legacy | Obituary",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQjJDTmdmRjdoQUxqTEFZa2VYYnE5MGkwX0RVTzFWV2ZvOVdaWFVIbWRsUmI1dXZLSGxSZFo2WnVoZ2x6b2VFVDZtWDNuYTUtVFdRdHRZcHBjeW93cnVPeGU0TmdhYTRrMm9KbnNLRmZFYzR4cmZDVC1aUHNmdmozdWhwZGVFeXdmMGNwTA?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-11-17T11:46:21Z"
+    },
+    {
+      "category": "Local",
       "source": "Chico Enterprise-Record",
       "title": "An experience as smooth as glass | It’s Your Business - Chico Enterprise-Record",
       "summary": "An experience as smooth as glass | It’s Your Business Chico Enterprise-Record",
@@ -47,67 +56,67 @@
       "publishedAt": "2026-11-01T07:00:00Z"
     },
     {
-      "category": "Local",
-      "source": "IQAir",
-      "title": "Grass Valley Air Quality Index (AQI) and USA Air Pollution - IQAir",
-      "summary": "Grass Valley Air Quality Index (AQI) and USA Air Pollution IQAir",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uM0hpLUhNaUt6RUZzVW9hVnIxZTEzXy1OVVFmZGIwdlZRZEZCOFlKbUVUWUhSek1EamNLS3hHbThIQTluVmI1RjJnQmlRdUZSaUV2a0lqbGNzSFdlY01sQWdMR21iMENTR1JiMEV3?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-06-23T01:40:03Z"
-    },
-    {
       "category": "World",
       "source": "BBC News",
-      "title": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "summary": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
       "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
-      "publishedAt": "2026-11-17T10:45:55Z"
+      "publishedAt": "2026-11-17T16:56:38Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-      "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
-      "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba46/live/5efa38d0-df84-11f1-a701-fddedf244c16.png",
-      "publishedAt": "2026-11-17T05:59:01Z"
+      "title": "How the attack on Crimean Bridge unfolded",
+      "summary": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
+      "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82dd/live/f7995500-e29d-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-17T15:38:10Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
-      "summary": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
-      "url": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c83/live/904d30a0-e1a4-11f1-973a-a76c1b2f887a.jpg",
-      "publishedAt": "2026-11-17T09:27:44Z"
+      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+      "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+      "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-17T18:24:21Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
-      "summary": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
-      "url": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34cb/live/06da8400-e224-11f1-91de-bf87f3de9484.jpg",
-      "publishedAt": "2026-11-17T01:26:01Z"
+      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+      "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
+      "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f084/live/ab522920-e29c-11f1-8dda-8925a81c3da5.jpg",
+      "publishedAt": "2026-11-17T17:19:57Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
-      "publishedAt": "2026-11-17T02:37:53Z"
+      "title": "Russian military plane crashes killing all 19 on board",
+      "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg",
+      "publishedAt": "2026-11-17T20:25:27Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Body of Melbourne Cup horse found dumped in Sydney skip",
-      "summary": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/632b/live/b9ed96e0-e251-11f1-876d-1dfc6cf3b709.jpg",
-      "publishedAt": "2026-11-17T07:01:00Z"
+      "title": "US loses measles elimination status after 26 years amid record case numbers",
+      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b33/live/4927cca0-dfd1-11f1-8c90-4fc10fbf9142.jpg",
+      "publishedAt": "2026-11-17T17:10:03Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+      "summary": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7619/live/c9b38b90-e2ae-11f1-99b6-a35a62fa4264.jpg",
+      "publishedAt": "2026-11-17T18:20:36Z"
     },
     {
       "category": "Science & Tech",
@@ -129,39 +138,30 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
-      "summary": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
-      "url": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1014/live/a44029a0-e1b3-11f1-9a3f-99aca912798e.jpg",
-      "publishedAt": "2026-11-17T08:01:38Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "US government confirms investigation into tech firm Megaspeed",
-      "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg",
-      "publishedAt": "2026-11-17T11:17:32Z"
-    },
-    {
-      "category": "Science & Tech",
       "source": "BBC Technology",
       "title": "How new US chip restrictions on South East Asia will hit China",
       "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
       "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg",
-      "publishedAt": "2026-11-17T10:22:09Z"
+      "publishedAt": "2026-11-17T14:25:45Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
-      "summary": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
-      "url": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c57/live/770860f0-e268-11f1-900c-895604014268.jpg",
-      "publishedAt": "2026-11-17T09:41:07Z"
+      "title": "NHS data contract to stay with Palantir until 2029",
+      "summary": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87b8/live/b2aca760-54fb-11f1-b682-cf91850925ea.jpg",
+      "publishedAt": "2026-11-17T12:00:12Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
+      "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
+      "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb4c/live/4a003210-e1d0-11f1-b8c8-67fa35f5afdb.jpg",
+      "publishedAt": "2026-11-17T11:49:01Z"
     }
   ],
   "feedErrors": [
