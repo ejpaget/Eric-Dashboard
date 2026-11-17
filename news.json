@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T19:48:30.276964Z",
+  "updatedAt": "2026-11-17T02:52:54.720686Z",
   "stories": [
     {
       "category": "Local",
@@ -39,15 +39,6 @@
     },
     {
       "category": "Local",
-      "source": "Oroville Mercury-Register",
-      "title": "An experience as smooth as glass | It’s Your Business - Oroville Mercury-Register",
-      "summary": "An experience as smooth as glass | It’s Your Business Oroville Mercury-Register",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTHV6UWpyNFRmNDJGMWYwV2JlelYzdFlxb0tLemZsVVNmdDM4a3N6NGxwVEhGYldVY1BNQ3hFV2FfdExjZVFjdmJucDBmSjRGUUIyMlJDUUNHdU9jYldYVHpXT2ZnSnFmZU5sTVkwanpjN0hPTkVBb0U1cmt1RlNwSlF0NnhRTUw5TFUtLWM3SmxmZjg?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-11-15T22:08:46Z"
-    },
-    {
-      "category": "Local",
       "source": "IQAir",
       "title": "Grass Valley Air Quality Index (AQI) and USA Air Pollution - IQAir",
       "summary": "Grass Valley Air Quality Index (AQI) and USA Air Pollution IQAir",
@@ -56,31 +47,40 @@
       "publishedAt": "2026-06-23T01:40:03Z"
     },
     {
+      "category": "Local",
+      "source": "capradio.org",
+      "title": "Gold built the Lava Cap Mine, but arsenic won't be its only legacy - capradio.org",
+      "summary": "Gold built the Lava Cap Mine, but arsenic won't be its only legacy capradio.org",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQXzBJWktROWNGYTA2ZDd0VU0yUWFqb1ZGVVRpSm11TzFPTHVLMzFWVkxZb01zQjVVVUI1VkpWYTNwWXFTYW5zR1Itb09KbGVlYmNRdGJqd1lmbXZKMkw1NUN2bWpaQ1U2RmdENmlVdHpuVmNaTndSa2I4VDNsNGNpaFVfQ2ZxRWt6cmZLREt4c3dHUE44ZHczMGVYVTgyYUVJcFdqM3duRkY2SVlNS1hB?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-07-29T07:00:00Z"
+    },
+    {
       "category": "World",
       "source": "BBC News",
       "title": "Five EU countries announce migrant deportation centre in Rwanda",
       "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
       "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
-      "publishedAt": "2026-11-16T16:27:24Z"
+      "publishedAt": "2026-11-16T23:20:45Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Yemeni forces retreat to defend port city from Houthis",
-      "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
-      "publishedAt": "2026-11-16T11:09:38Z"
+      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb50/live/f528e3c0-e1f9-11f1-a094-5fdc692f3e33.jpg",
+      "publishedAt": "2026-11-16T21:40:07Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
       "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
-      "publishedAt": "2026-11-16T19:16:52Z"
+      "publishedAt": "2026-11-17T02:37:53Z"
     },
     {
       "category": "World",
@@ -103,11 +103,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Forensic expert says his analysis raises doubts about how Epstein died",
+      "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
       "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
       "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg",
-      "publishedAt": "2026-11-16T19:19:18Z"
+      "publishedAt": "2026-11-16T20:33:57Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
+      "summary": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
+      "url": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1014/live/a44029a0-e1b3-11f1-9a3f-99aca912798e.jpg",
+      "publishedAt": "2026-11-17T00:09:54Z"
     },
     {
       "category": "Science & Tech",
@@ -129,39 +138,30 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "How to spot November's planetary parade in the pre-dawn sky",
-      "summary": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November.",
-      "url": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1a4/live/8fa21860-daa5-11f1-9da2-b11e4d68c08e.jpg",
-      "publishedAt": "2026-11-15T10:49:57Z"
-    },
-    {
-      "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
       "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
-      "publishedAt": "2026-11-16T19:16:52Z"
+      "publishedAt": "2026-11-17T02:37:53Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "GTA 6 hacker pleads guilty after release from secure hospital",
-      "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
-      "url": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30e7/live/e63476a0-e1ee-11f1-99b6-a35a62fa4264.jpg",
-      "publishedAt": "2026-11-16T13:34:22Z"
+      "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+      "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb4c/live/4a003210-e1d0-11f1-b8c8-67fa35f5afdb.jpg",
+      "publishedAt": "2026-11-17T01:04:45Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "Intel sued by investors after PC sales slump hits share price",
-      "summary": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
-      "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b3/live/33bc54f0-e1a5-11f1-8433-4325183b3814.jpg",
-      "publishedAt": "2026-11-16T03:04:01Z"
+      "title": "The AI start-ups fixing India's broken roads and messy land records",
+      "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
+      "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/886f/live/a4a715f0-c892-11f1-b0a4-81e564f1cfaa.jpg",
+      "publishedAt": "2026-11-16T23:25:53Z"
     }
   ],
   "feedErrors": [
