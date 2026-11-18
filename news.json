@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T11:29:40.880466Z",
+  "updatedAt": "2026-11-18T19:32:56.566728Z",
   "stories": [
     {
       "category": "Local",
@@ -58,56 +58,74 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-      "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
-      "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-11-17T23:02:12Z"
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg",
+      "publishedAt": "2026-11-18T17:00:40Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
-      "publishedAt": "2026-11-18T01:18:18Z"
+      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+      "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0a9/live/16401180-e337-11f1-9479-d17d3e98c29d.jpg",
+      "publishedAt": "2026-11-18T17:00:04Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
-      "summary": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
-      "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a56b/live/b9e12140-e2f5-11f1-910a-c953499d69d5.jpg",
-      "publishedAt": "2026-11-18T04:57:06Z"
+      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+      "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg",
+      "publishedAt": "2026-11-18T16:10:44Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-      "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f32/live/4c690550-e33c-11f1-99b6-a35a62fa4264.jpg",
-      "publishedAt": "2026-11-18T10:23:57Z"
+      "title": "William and Kate reflect on 'enduring' UK-India ties with Modi",
+      "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize",
+      "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe9/live/814a0670-e35a-11f1-a8cd-2ff5ed84046e.jpg",
+      "publishedAt": "2026-11-18T17:51:47Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
-      "publishedAt": "2026-11-17T21:24:35Z"
+      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+      "summary": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492e/live/f37939a0-e346-11f1-99aa-0f40b013ad11.jpg",
+      "publishedAt": "2026-11-18T13:04:48Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-      "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
-      "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f084/live/ab522920-e29c-11f1-8dda-8925a81c3da5.jpg",
-      "publishedAt": "2026-11-17T17:19:57Z"
+      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg",
+      "publishedAt": "2026-11-18T17:34:25Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
+      "publishedAt": "2026-11-18T13:55:14Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Stormont department failing to protect wild birds, investigation finds",
+      "summary": "The Office for Environmental Protection said Daera had not complied with environmental law requiring it to classify and update Special Protection Areas.",
+      "url": "https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b02/live/938feeb0-e348-11f1-99aa-0f40b013ad11.jpg",
+      "publishedAt": "2026-11-18T12:13:32Z"
     },
     {
       "category": "Science & Tech",
@@ -120,48 +138,30 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "What's gone wrong at Britain's worst bathing site?",
-      "summary": "The BBC looks at why in a dry summer with few sewage spills, one bathing site failed so many water quality tests.",
-      "url": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ad3/live/f181e450-e1c3-11f1-8a52-0b287ff76f43.jpg",
-      "publishedAt": "2026-11-18T06:12:44Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
-      "summary": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns",
-      "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36bf/live/43e4a6f0-e29c-11f1-8dda-8925a81c3da5.jpg",
-      "publishedAt": "2026-11-18T00:44:48Z"
+      "source": "BBC Technology",
+      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg",
+      "publishedAt": "2026-11-18T17:34:25Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
-      "summary": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
-      "url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee74/live/b9842e30-e337-11f1-9479-d17d3e98c29d.png",
-      "publishedAt": "2026-11-18T09:28:35Z"
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
+      "publishedAt": "2026-11-18T13:55:14Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "Security flaw found in Java, world's third-largest programming language",
-      "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
-      "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2fd/live/c9c932d0-e324-11f1-99a1-253766e7ad8b.jpg",
-      "publishedAt": "2026-11-18T08:47:06Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "How important are Nvidia and Jensen Huang to the US economy?",
-      "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
-      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
-      "publishedAt": "2026-11-18T06:04:21Z"
+      "title": "Hacks, AI or just overdue updates - why have there been so many outages?",
+      "summary": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.",
+      "url": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4986/live/43b39be0-e34c-11f1-99aa-0f40b013ad11.jpg",
+      "publishedAt": "2026-11-18T13:16:53Z"
     }
   ],
   "feedErrors": [
