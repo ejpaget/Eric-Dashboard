@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T20:47:28.411873Z",
+  "updatedAt": "2026-11-18T02:50:57.349170Z",
   "stories": [
     {
       "category": "Local",
@@ -39,15 +39,6 @@
     },
     {
       "category": "Local",
-      "source": "Chico Enterprise-Record",
-      "title": "An experience as smooth as glass | It’s Your Business - Chico Enterprise-Record",
-      "summary": "An experience as smooth as glass | It’s Your Business Chico Enterprise-Record",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQnVOQU1IejhZYjlIMmZ5OG5pN3h6TUJkWkJURDlzLV92eHhsX1UwcHR3ZHZwWWZhdUNmRDgzWndfRm9MVUtFM2tCRlBXY1I1eWxhWndsYTU1Y1Z5Rm9UODU0V1d2LXlSTElWZUNqa3FGUnJ1b1J2ZkFJczlpQk9JWUR3NlRER2dfU2tETFZybw?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-11-15T11:14:53Z"
-    },
-    {
-      "category": "Local",
       "source": "YubaNet",
       "title": "Happening Now – November 2026 - YubaNet",
       "summary": "Happening Now – November 2026 YubaNet",
@@ -56,13 +47,22 @@
       "publishedAt": "2026-11-01T07:00:00Z"
     },
     {
+      "category": "Local",
+      "source": "IQAir",
+      "title": "Grass Valley Air Quality Index (AQI) and USA Air Pollution - IQAir",
+      "summary": "Grass Valley Air Quality Index (AQI) and USA Air Pollution IQAir",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uM0hpLUhNaUt6RUZzVW9hVnIxZTEzXy1OVVFmZGIwdlZRZEZCOFlKbUVUWUhSek1EamNLS3hHbThIQTluVmI1RjJnQmlRdUZSaUV2a0lqbGNzSFdlY01sQWdMR21iMENTR1JiMEV3?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-06-23T01:40:03Z"
+    },
+    {
       "category": "World",
       "source": "BBC News",
       "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
       "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
       "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
-      "publishedAt": "2026-11-17T16:56:38Z"
+      "publishedAt": "2026-11-17T21:24:35Z"
     },
     {
       "category": "World",
@@ -76,11 +76,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-      "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
-      "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg",
-      "publishedAt": "2026-11-17T18:24:21Z"
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-18T01:18:18Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Thomas Markle charged over child sex abuse material in Philippines",
+      "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-11-17T22:44:15Z"
     },
     {
       "category": "World",
@@ -94,47 +103,56 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Russian military plane crashes killing all 19 on board",
+      "title": "Russian military plane crashes, killing all 19 on board",
       "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
       "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg",
-      "publishedAt": "2026-11-17T20:25:27Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "US loses measles elimination status after 26 years amid record case numbers",
-      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b33/live/4927cca0-dfd1-11f1-8c90-4fc10fbf9142.jpg",
-      "publishedAt": "2026-11-17T17:10:03Z"
+      "publishedAt": "2026-11-17T21:06:11Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
-      "summary": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
-      "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7619/live/c9b38b90-e2ae-11f1-99b6-a35a62fa4264.jpg",
-      "publishedAt": "2026-11-17T18:20:36Z"
+      "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
+      "summary": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns",
+      "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36bf/live/43e4a6f0-e29c-11f1-8dda-8925a81c3da5.jpg",
+      "publishedAt": "2026-11-18T00:44:48Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "More than £160m needed to clean up one of Europe's largest illegal dumps",
-      "summary": "Environment Minister Andrew Muir has described what happened at Mobuoy, near Derry, as an \"absolute scandal\" which could take a generation to fix.",
-      "url": "https://www.bbc.co.uk/news/articles/cr5y18lg31nxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5254/live/cbfabb10-e26f-11f1-99b6-a35a62fa4264.jpg",
-      "publishedAt": "2026-11-17T09:46:31Z"
+      "title": "Pakistan's solar revolution has been so successful the national grid is crumbling",
+      "summary": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f9b/live/9d67ed20-e29e-11f1-8dda-8925a81c3da5.jpg",
+      "publishedAt": "2026-11-17T23:34:56Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Science",
-      "title": "Dazzling Leonid meteor shower to peak on Tuesday night",
-      "summary": "The Leonid meteor shower, known for its bright and fast meteors, is set to peak on Tuesday night.",
-      "url": "https://www.bbc.co.uk/weather/articles/c6742xzg3eljo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52ad/live/8061a130-e1b8-11f1-9a3f-99aca912798e.jpg",
-      "publishedAt": "2026-11-17T09:03:08Z"
+      "title": "Fears toxic lagoon fire led to cancer and miscarriages",
+      "summary": "The incident took place in Llwyneinion in August 1980.",
+      "url": "https://www.bbc.co.uk/news/videos/cw074g4jk87vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cb9/live/45f494d0-e294-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-17T22:39:23Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-18T01:18:18Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
+      "title": "Europe plans to catch the next computer chip wave",
+      "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+      "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c96b/live/b14b3a60-d9c8-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-11-18T00:00:24Z"
     },
     {
       "category": "Science & Tech",
@@ -144,24 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg",
       "publishedAt": "2026-11-17T14:25:45Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "NHS data contract to stay with Palantir until 2029",
-      "summary": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87b8/live/b2aca760-54fb-11f1-b682-cf91850925ea.jpg",
-      "publishedAt": "2026-11-17T12:00:12Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
-      "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb4c/live/4a003210-e1d0-11f1-b8c8-67fa35f5afdb.jpg",
-      "publishedAt": "2026-11-17T11:49:01Z"
     }
   ],
   "feedErrors": [
