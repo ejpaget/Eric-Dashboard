@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T02:50:57.349170Z",
+  "updatedAt": "2026-11-18T11:29:40.880466Z",
   "stories": [
     {
       "category": "Local",
@@ -12,30 +12,12 @@
     },
     {
       "category": "Local",
-      "source": "ABC10",
-      "title": "CHP asks for assistance locating vehicle involved in Nevada County fatal hit-and-run - ABC10",
-      "summary": "CHP asks for assistance locating vehicle involved in Nevada County fatal hit-and-run ABC10",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTUNRMUdpc2hhUDVxSU5jbDd0aUJ5TmFMdHc1MHg2aDMxVUc5ampYSzhKTnd1NzBfMl85NjdSeF9vSXB6VmIxMGFLM1Iwd2pQeUdKQnJDb3Z3Zk5ITFNZUTB1NXNrWEZLUi0zZllsa19hVzkzdjlLQTJGNVUzUzljdmJBamtxYV9IclJwU2ZHdWdEMWFGQndqVHVGUjJpSkxCWTV1UnhjRGlmcGxodkNhRW5DVm95bndOb2xvbkxSMmlodWI0Z3FvRTIyc1BWRmJTLUZMZGV1MkhOZjZqY29BUHRKbDBmUTBjUExic3FQSnFpYklFMTlHNEJ3?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-11-13T00:31:00Z"
-    },
-    {
-      "category": "Local",
       "source": "Nevada County (.gov)",
       "title": "Help Shape a More Accessible Grass Valley Library - Nevada County (.gov)",
       "summary": "Help Shape a More Accessible Grass Valley Library Nevada County (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2UXZhMjVUd0RQSGhvNlJTWjk5MUtSV1VLRG1wNE9Eb3U3bGxkM1QwRlNmMEFEakd5S2pFaWFJbVFZX3BIRjVVMW1JMUx4WW1xdVkwbDE4NU5xaUt2SVduZm5BQWJYR1k?oc=5",
       "imageUrl": "",
       "publishedAt": "2026-11-11T03:59:13Z"
-    },
-    {
-      "category": "Local",
-      "source": "Legacy | Obituary",
-      "title": "Lula Krugler Obituary (1931 - 2026) - Grass Valley, CA - The Union - Legacy | Obituary",
-      "summary": "Lula Krugler Obituary (1931 - 2026) - Grass Valley, CA - The Union Legacy | Obituary",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQjJDTmdmRjdoQUxqTEFZa2VYYnE5MGkwX0RVTzFWV2ZvOVdaWFVIbWRsUmI1dXZLSGxSZFo2WnVoZ2x6b2VFVDZtWDNuYTUtVFdRdHRZcHBjeW93cnVPeGU0TmdhYTRrMm9KbnNLRmZFYzR4cmZDVC1aUHNmdmozdWhwZGVFeXdmMGNwTA?oc=5",
-      "imageUrl": "",
-      "publishedAt": "2026-11-17T11:46:21Z"
     },
     {
       "category": "Local",
@@ -56,6 +38,60 @@
       "publishedAt": "2026-06-23T01:40:03Z"
     },
     {
+      "category": "Local",
+      "source": "Legacy | Obituary",
+      "title": "Michael Caspary Obituary (1962 - 2026) - Legacy Remembers - Legacy | Obituary",
+      "summary": "Michael Caspary Obituary (1962 - 2026) - Legacy Remembers Legacy | Obituary",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONlRmNWlxQ1VFdkZmbkNVUWhPb1MyWFRWOVlSVWpkcDBMYWFOUGhQdzgwcjZkZjd4NkxOSFItSENxdDhkbjBzT1VQWTR0Yy1GZXdURHB1dklMQ2d0TzZPRlM0UkNnTUdSUEstU0NNYUozTG82VFR2dFlpOXJndEdXYm01Nk5lNE5rZEtPTkMzRlQ2SjA?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-11-16T23:57:17Z"
+    },
+    {
+      "category": "Local",
+      "source": "capradio.org",
+      "title": "Gold built the Lava Cap Mine, but arsenic won't be its only legacy - capradio.org",
+      "summary": "Gold built the Lava Cap Mine, but arsenic won't be its only legacy capradio.org",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQXzBJWktROWNGYTA2ZDd0VU0yUWFqb1ZGVVRpSm11TzFPTHVLMzFWVkxZb01zQjVVVUI1VkpWYTNwWXFTYW5zR1Itb09KbGVlYmNRdGJqd1lmbXZKMkw1NUN2bWpaQ1U2RmdENmlVdHpuVmNaTndSa2I4VDNsNGNpaFVfQ2ZxRWt6cmZLREt4c3dHUE44ZHczMGVYVTgyYUVJcFdqM3duRkY2SVlNS1hB?oc=5",
+      "imageUrl": "",
+      "publishedAt": "2026-07-29T07:00:00Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+      "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg",
+      "publishedAt": "2026-11-17T23:02:12Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-18T01:18:18Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+      "summary": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
+      "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a56b/live/b9e12140-e2f5-11f1-910a-c953499d69d5.jpg",
+      "publishedAt": "2026-11-18T04:57:06Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+      "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f32/live/4c690550-e33c-11f1-99b6-a35a62fa4264.jpg",
+      "publishedAt": "2026-11-18T10:23:57Z"
+    },
+    {
       "category": "World",
       "source": "BBC News",
       "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
@@ -67,33 +103,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "How the attack on Crimean Bridge unfolded",
-      "summary": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
-      "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82dd/live/f7995500-e29d-11f1-99a1-253766e7ad8b.jpg",
-      "publishedAt": "2026-11-17T15:38:10Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
-      "publishedAt": "2026-11-18T01:18:18Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Thomas Markle charged over child sex abuse material in Philippines",
-      "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-11-17T22:44:15Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
       "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
       "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
@@ -101,13 +110,22 @@
       "publishedAt": "2026-11-17T17:19:57Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Russian military plane crashes, killing all 19 on board",
-      "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
-      "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg",
-      "publishedAt": "2026-11-17T21:06:11Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
+      "summary": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire.",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8aa/live/74cc1cc0-e33d-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-18T10:48:49Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "What's gone wrong at Britain's worst bathing site?",
+      "summary": "The BBC looks at why in a dry summer with few sewage spills, one bathing site failed so many water quality tests.",
+      "url": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ad3/live/f181e450-e1c3-11f1-8a52-0b287ff76f43.jpg",
+      "publishedAt": "2026-11-18T06:12:44Z"
     },
     {
       "category": "Science & Tech",
@@ -120,48 +138,30 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Pakistan's solar revolution has been so successful the national grid is crumbling",
-      "summary": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f9b/live/9d67ed20-e29e-11f1-8dda-8925a81c3da5.jpg",
-      "publishedAt": "2026-11-17T23:34:56Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Fears toxic lagoon fire led to cancer and miscarriages",
-      "summary": "The incident took place in Llwyneinion in August 1980.",
-      "url": "https://www.bbc.co.uk/news/videos/cw074g4jk87vo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cb9/live/45f494d0-e294-11f1-99a1-253766e7ad8b.jpg",
-      "publishedAt": "2026-11-17T22:39:23Z"
+      "source": "BBC Technology",
+      "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+      "summary": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
+      "url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee74/live/b9842e30-e337-11f1-9479-d17d3e98c29d.png",
+      "publishedAt": "2026-11-18T09:28:35Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
-      "publishedAt": "2026-11-18T01:18:18Z"
+      "title": "Security flaw found in Java, world's third-largest programming language",
+      "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+      "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2fd/live/c9c932d0-e324-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-18T08:47:06Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "Europe plans to catch the next computer chip wave",
-      "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
-      "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c96b/live/b14b3a60-d9c8-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-11-18T00:00:24Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "How new US chip restrictions on South East Asia will hit China",
-      "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-      "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg",
-      "publishedAt": "2026-11-17T14:25:45Z"
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
+      "publishedAt": "2026-11-18T06:04:21Z"
     }
   ],
   "feedErrors": [
