@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-11-19T01:26:42.446384Z",
+  "updatedAt": "2026-11-19T09:27:04.486173Z",
   "stories": [
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "LeGacy Presents set to showcase 'Divas of Rock and Pop' on Nov. 28",
+      "summary": "Local music lovers are in for an unforgettable evening of powerhouse vocals and nostalgic hits as LeGacy Presents welcomes the band Pop Culture to the historic Nevada Theatre. For one night only on Saturday, November 28, at 7:30 p.m., the…",
+      "url": "https://www.theunion.com/entertainment/legacy-presents-set-to-showcase-divas-of-rock-and-pop-on-nov-28/article_610b6a26-6994-42d1-988a-04b4c7e35f1c.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/9/85/985e22c7-e81f-4f81-bb2d-1636ca032cc7/6afb9b8029266.image.jpg?resize=300%2C229",
+      "publishedAt": "2026-11-19T09:15:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "Ideas & Opinions — Sue Clark: Creepy stalker alert! Balcony area — Teaching Romeo and Juliet today",
+      "summary": "I’ve taught Romeo and Juliet most of my teaching life, and I began with those starcrossed lovers in the early 70s, whose students would now be boomers these days. I’m still teaching this play to current teens from the Gen…",
+      "url": "https://www.theunion.com/news/community/ideas-opinions-sue-clark-creepy-stalker-alert-balcony-area-teaching-romeo-and-juliet-today/article_35572022-2acc-4458-9bb8-cd976f225348.html",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T09:00:00Z"
+    },
+    {
+      "category": "Local",
+      "source": "The Union",
+      "title": "Ideas & Opinions — Hits & Misses: Hit to a teenager saving a baby's life",
+      "summary": "Each week we’ll run through the sublime, the trivial and profound issues, decisions and goings on that strike us as Hits or Misses. You can join in, too, by emailing your Hits & Misses to editboard@theunion.com.",
+      "url": "https://www.theunion.com/news/community/ideas-opinions-hits-misses-hit-to-a-teenager-saving-a-babys-life/article_0fd3cccb-ddb7-4b58-aa1c-a2900337ba66.html",
+      "imageUrl": "",
+      "publishedAt": "2026-11-19T08:45:00Z"
+    },
     {
       "category": "Local",
       "source": "The Union",
@@ -29,31 +56,13 @@
       "publishedAt": "2026-11-18T11:00:00Z"
     },
     {
-      "category": "Local",
-      "source": "The Union",
-      "title": "Inaugural All for 1 Endurance Challenge pushes limits, raises awareness, and unites community",
-      "summary": "Clear skies and temperatures in the upper sixties last weekend provided an ideal backdrop for the inaugural All For 1 Endurance Challenge on November 7, as trail runners, cyclists, and motorcyclists explored the Sierra Nevada while supporting charitable causes.",
-      "url": "https://www.theunion.com/news/inaugural-all-for-1-endurance-challenge-pushes-limits-raises-awareness-and-unites-community/article_3fe2c84f-329b-4b9f-b33e-e9246244efc4.html",
-      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/a/da/ada5bdd2-223a-41d6-8e1f-b2a956c52e65/6afb4f6ccea66.image.jpg?resize=300%2C400",
-      "publishedAt": "2026-11-18T11:00:00Z"
-    },
-    {
-      "category": "Local",
-      "source": "The Union",
-      "title": "To be 'fair': Nevada County Fairgrounds board talks new fair schedule for 2027",
-      "summary": "It was announced last year that the Nevada County Fair will expand to two weekends, with a total of eight days to enjoy the fair’s many features. Whether you’re a fan of Treat Street or the agricultural aspects of the…",
-      "url": "https://www.theunion.com/news/to-be-fair-nevada-county-fairgrounds-board-talks-new-fair-schedule-for-2027/article_6c6b02c7-d300-4a5a-90bf-761591bfeba3.html",
-      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/2/eb/2eb7f397-2024-402d-8994-5ee796d55ee6/6a7a6f1fd46e9.image.jpg?resize=300%2C400",
-      "publishedAt": "2026-11-18T10:45:00Z"
-    },
-    {
-      "category": "Local",
-      "source": "The Union",
-      "title": "‘That is the cream on top’: Miners rout Mesa Verde 42-18 in bowl game to close season",
-      "summary": "Nevada Union saved one of its most complete games for its last, pulling out a 24-point win to cap off their season in winning fashion and drop a dose of Miner Magic on a rainy Fall Friday the 13th.",
-      "url": "https://www.theunion.com/sports/that-is-the-cream-on-top-miners-rout-mesa-verde-42-18-in-bowl-game/article_99eb5236-4113-41d6-8b75-b65e2ab1e2f6.html",
-      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/2/27/227fd02e-d6fd-4255-9552-c97aceabed28/6afcc6c19ab20.image.jpg?resize=300%2C256",
-      "publishedAt": "2026-11-18T10:45:00Z"
+      "category": "World",
+      "source": "BBC News",
+      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+      "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ac/live/bcaff6a0-e3cf-11f1-a266-6b47da5e73cc.jpg",
+      "publishedAt": "2026-11-19T04:42:52Z"
     },
     {
       "category": "World",
@@ -67,15 +76,6 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-      "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
-      "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0a9/live/16401180-e337-11f1-9479-d17d3e98c29d.jpg",
-      "publishedAt": "2026-11-18T17:00:04Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
       "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
       "summary": "No state has ever been found guilty by an international court of committing genocide.",
       "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
@@ -85,11 +85,11 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-      "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+      "title": "Anthropic valued at $1.5 trillion ahead of AI giant's stock market debut",
+      "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
       "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
-      "publishedAt": "2026-11-18T23:44:27Z"
+      "publishedAt": "2026-11-19T02:20:15Z"
     },
     {
       "category": "World",
@@ -103,11 +103,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-      "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
-      "publishedAt": "2026-11-18T22:34:56Z"
+      "title": "Crimean Bridge attacked again, Russia says",
+      "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg",
+      "publishedAt": "2026-11-19T07:32:06Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
+      "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods",
+      "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f49/live/977f9e30-e3f2-11f1-a1b0-810734adec41.jpg",
+      "publishedAt": "2026-11-19T09:21:54Z"
     },
     {
       "category": "Science & Tech",
@@ -129,21 +138,21 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Stormont department failing to protect wild birds, investigation finds",
-      "summary": "The Office for Environmental Protection said Daera had not complied with environmental law requiring it to classify and update Special Protection Areas.",
-      "url": "https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b02/live/938feeb0-e348-11f1-99aa-0f40b013ad11.jpg",
-      "publishedAt": "2026-11-18T12:13:32Z"
+      "source": "BBC Technology",
+      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+      "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg",
+      "publishedAt": "2026-11-19T02:59:06Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-      "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+      "title": "Anthropic valued at $1.5 trillion ahead of AI giant's stock market debut",
+      "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
       "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
-      "publishedAt": "2026-11-18T23:44:27Z"
+      "publishedAt": "2026-11-19T02:20:15Z"
     },
     {
       "category": "Science & Tech",
@@ -153,15 +162,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
       "publishedAt": "2026-11-18T23:42:07Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-      "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg",
-      "publishedAt": "2026-11-18T17:34:25Z"
     }
   ],
   "feedErrors": [
