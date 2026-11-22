@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T15:37:59.713287Z",
+  "updatedAt": "2026-11-22T21:14:36.080892Z",
   "stories": [
     {
       "category": "Local",
@@ -58,6 +58,51 @@
     {
       "category": "World",
       "source": "BBC News",
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
+      "publishedAt": "2026-11-22T18:17:59Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "What's next after no deal at COP31 climate talks?",
+      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c66/live/ad00e440-e6b2-11f1-9607-338132fd22a0.jpg",
+      "publishedAt": "2026-11-22T18:57:24Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg",
+      "publishedAt": "2026-11-22T20:28:09Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg",
+      "publishedAt": "2026-11-22T17:57:43Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f9/live/a55b16b0-e66d-11f1-9e24-791c5321ff0f.jpg",
+      "publishedAt": "2026-11-22T17:18:26Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
       "title": "South Korea education minister resigns over exam cheating scandal",
       "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
       "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
@@ -65,49 +110,22 @@
       "publishedAt": "2026-11-22T09:20:45Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
-      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f9/live/a55b16b0-e66d-11f1-9e24-791c5321ff0f.jpg",
-      "publishedAt": "2026-11-22T11:25:14Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "What's next after no deal at COP31 climate summit?",
+      "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+      "url": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0084/live/3dd7fdf0-e69f-11f1-a094-5fdc692f3e33.jpg",
+      "publishedAt": "2026-11-22T18:28:48Z"
     },
     {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
-      "publishedAt": "2026-11-22T01:25:03Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Three killed and dozens missing after fire at Indonesian factory",
-      "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg",
-      "publishedAt": "2026-11-22T14:05:20Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg",
-      "publishedAt": "2026-11-22T07:12:41Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg",
-      "publishedAt": "2026-11-21T13:17:38Z"
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
+      "publishedAt": "2026-11-22T18:17:59Z"
     },
     {
       "category": "Science & Tech",
@@ -117,24 +135,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca5/live/034a6cb0-e4c7-11f1-a094-5fdc692f3e33.png",
       "publishedAt": "2026-11-22T10:44:12Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
-      "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
-      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg",
-      "publishedAt": "2026-11-22T06:54:06Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Will COP31 end with a new global climate deal?",
-      "summary": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey.",
-      "url": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511b/live/004fea80-e5fd-11f1-a094-5fdc692f3e33.jpg",
-      "publishedAt": "2026-11-21T22:44:52Z"
     },
     {
       "category": "Science & Tech",
