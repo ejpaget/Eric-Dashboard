@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T18:13:58.619740Z",
+  "updatedAt": "2026-11-25T02:45:03.675233Z",
   "stories": [
     {
       "category": "Local",
@@ -31,19 +31,19 @@
     {
       "category": "Local",
       "source": "The Union",
-      "title": "$20,000 earmarked for scholarships: Behind the Scenes donates to Penn Valley Fire Protection District",
-      "summary": "The Rough and Ready Fire Association Behind the Scenes (BTS) auxiliary recently donated $20,000 to the Penn Valley Fire Protection District (PVFPD).",
-      "url": "https://www.theunion.com/news/20-000-earmarked-for-scholarships-behind-the-scenes-donates-to-penn-valley-fire-protection-district/article_025bf49f-45f9-4401-8558-40748faa9af1.html",
-      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/5/ea/5ea11d90-9008-439f-83bf-7cf344a14ed4/6b04d01b6fb77.image.jpg?resize=300%2C195",
+      "title": "'I'm really proud of the leadership role that I've had here': Heck thanks NID board and community at last meeting",
+      "summary": "Last week, the Board of Directors of Nevada Irrigation District (NID) gathered not only to meet with their agenda items but to acknowledge the retirement of Division I Director Ricki Heck, who is leaving the board after serving eight years.",
+      "url": "https://www.theunion.com/news/im-really-proud-of-the-leadership-role-that-ive-had-here-heck-thanks-nid-board/article_c472eaad-94d5-4871-a9fc-2d0435c4cf35.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/8/81/8818223f-3021-4545-a834-ed3acd53ebac/6a7520f80f37f.image.jpg?resize=300%2C216",
       "publishedAt": "2026-11-24T11:00:00Z"
     },
     {
       "category": "Local",
       "source": "The Union",
-      "title": "'I'm really proud of the leadership role that I've had here': Heck thanks NID board and community at last meeting",
-      "summary": "Last week, the Board of Directors of Nevada Irrigation District (NID) gathered not only to meet with their agenda items but to acknowledge the retirement of Division I Director Ricki Heck, who is leaving the board after serving eight years.",
-      "url": "https://www.theunion.com/news/im-really-proud-of-the-leadership-role-that-ive-had-here-heck-thanks-nid-board/article_c472eaad-94d5-4871-a9fc-2d0435c4cf35.html",
-      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/8/81/8818223f-3021-4545-a834-ed3acd53ebac/6a7520f80f37f.image.jpg?resize=300%2C216",
+      "title": "$20,000 earmarked for scholarships: Behind the Scenes donates to Penn Valley Fire Protection District",
+      "summary": "The Rough and Ready Fire Association Behind the Scenes (BTS) auxiliary recently donated $20,000 to the Penn Valley Fire Protection District (PVFPD).",
+      "url": "https://www.theunion.com/news/20-000-earmarked-for-scholarships-behind-the-scenes-donates-to-penn-valley-fire-protection-district/article_025bf49f-45f9-4401-8558-40748faa9af1.html",
+      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/assets/v3/editorial/5/ea/5ea11d90-9008-439f-83bf-7cf344a14ed4/6b04d01b6fb77.image.jpg?resize=300%2C195",
       "publishedAt": "2026-11-24T11:00:00Z"
     },
     {
@@ -58,38 +58,20 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
-      "summary": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
       "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/982f/live/ca95f8e0-e82b-11f1-88dc-fb4bdfcec8cb.jpg",
-      "publishedAt": "2026-11-24T17:04:20Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+      "publishedAt": "2026-11-24T21:19:42Z"
     },
     {
       "category": "World",
       "source": "BBC News",
-      "title": "What Jensen Huang's return teaches China's Xi about Trump",
-      "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
-      "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47a8/live/2d61caf0-e7d5-11f1-939f-471cde339c0e.jpg",
-      "publishedAt": "2026-11-24T07:26:27Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9e8/live/05da8d30-e7d7-11f1-a094-5fdc692f3e33.jpg",
-      "publishedAt": "2026-11-24T10:58:51Z"
-    },
-    {
-      "category": "World",
-      "source": "BBC News",
-      "title": "Land mine casualties soar in Syria, two years after war",
-      "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
-      "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf76/live/b1401ed0-e816-11f1-99b6-a35a62fa4264.jpg",
-      "publishedAt": "2026-11-24T15:17:28Z"
+      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+      "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg",
+      "publishedAt": "2026-11-24T16:49:07Z"
     },
     {
       "category": "World",
@@ -103,11 +85,47 @@
     {
       "category": "World",
       "source": "BBC News",
-      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-      "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg",
-      "publishedAt": "2026-11-24T15:35:53Z"
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+      "publishedAt": "2026-11-25T01:11:57Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Land mine casualties soar in Syria, two years after war",
+      "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+      "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf76/live/b1401ed0-e816-11f1-99b6-a35a62fa4264.jpg",
+      "publishedAt": "2026-11-24T15:17:28Z"
+    },
+    {
+      "category": "World",
+      "source": "BBC News",
+      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
+      "summary": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
+      "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/342b/live/2203fe30-e82f-11f1-917e-35f1674fb52c.jpg",
+      "publishedAt": "2026-11-24T19:10:31Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "Will there be a White Christmas this year?",
+      "summary": "It is just a month until the big day but what do the early signs say about the chances of a white Christmas in the UK?",
+      "url": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed6d/live/7d7bb080-e764-11f1-b407-33329b1ec67a.jpg",
+      "publishedAt": "2026-11-25T01:03:24Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Science",
+      "title": "The rising cost of putting food on the table in India",
+      "summary": "India's food inflation is broadening, squeezing household budgets.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e93a/live/237a32d0-e7d4-11f1-939f-471cde339c0e.jpg",
+      "publishedAt": "2026-11-25T01:02:13Z"
     },
     {
       "category": "Science & Tech",
@@ -120,48 +138,30 @@
     },
     {
       "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Record 5,200 heat-linked deaths estimated in England this year",
-      "summary": "The UK Health Security Agency says this year's number of deaths is twice that of the previous record year.",
-      "url": "https://www.bbc.co.uk/news/articles/cq2e83egrez3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7439/live/723aa2a0-e802-11f1-95bb-3f37d3e026b0.jpg",
-      "publishedAt": "2026-11-24T16:22:16Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Science",
-      "title": "Storms targeting both US coasts threaten to snarl Thanksgiving travel for millions",
-      "summary": "Two storms, including a major Nor'easter on the east coast, are expected to impact millions of people celebrating the holiday with family and friends.",
-      "url": "https://www.bbc.co.uk/weather/articles/c5742nplemnno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81f2/live/d95747e0-e811-11f1-99b6-a35a62fa4264.jpg",
-      "publishedAt": "2026-11-24T11:40:46Z"
+      "source": "BBC Technology",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+      "publishedAt": "2026-11-25T01:11:57Z"
     },
     {
       "category": "Science & Tech",
       "source": "BBC Technology",
-      "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
-      "summary": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
+      "title": "Why tiny cars are taking off across Europe",
+      "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2edb/live/5d054030-ddcf-11f1-b441-2b33b063138f.jpg",
+      "publishedAt": "2026-11-25T00:34:05Z"
+    },
+    {
+      "category": "Science & Tech",
+      "source": "BBC Technology",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
       "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/982f/live/ca95f8e0-e82b-11f1-88dc-fb4bdfcec8cb.jpg",
-      "publishedAt": "2026-11-24T17:04:20Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
-      "summary": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
-      "url": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e19/live/7721db50-e819-11f1-a094-5fdc692f3e33.jpg",
-      "publishedAt": "2026-11-24T09:33:00Z"
-    },
-    {
-      "category": "Science & Tech",
-      "source": "BBC Technology",
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
-      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg",
-      "publishedAt": "2026-11-23T23:16:08Z"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+      "publishedAt": "2026-11-24T21:19:42Z"
     }
   ],
   "feedErrors": [
